@@ -1,0 +1,2466 @@
+In an eight-page report to Cyert, the Apals Panel outlined the motivation and 
+cussion behind its decision. The panel 
+jnsidered issues such as the basis of the apal, severity of the punishment requested, 
+|d the future use of the fraternity building, 
+a decision unknown to many, it offered 
+ict terms that would allow ZBT to return 
+campus.
+The Newspaper of Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213, Volume 85, Number 1}, January 15, 1985.
+MU and DoD complete SEI negotiations
+B
+I -MU 
+Jar 
+of 
+nej 
+wa
+CHRISTOPHER JOHNSTON
+c*a I to The Tartan
+Provost Angel Jordan announced 
+lUarY ^ that CMU and the Department 
+Defense (DoD) have completed final 
+[otiations regarding the creation of a Softre Engineering Institute (SEI) in 
+Jtsburgh.
+he SEI will be housed at Shadyside 
+^ S. Aiken Avenue until a more appriate facility is built at Fifth Avenue and
+now lies.
+Pro
+ithridSe *n early 1987, where a parking
+I CC(>rding to SEI Associate Director for 
+I ms Mario Barbacci, SEIs main purpose 
+I ease universal problems related to
+ ^Pitting. SEI officials hope to make the 
+0n and maintenance of software easier, 
+I' e rate technology transfer 
+1 e abstract world of academia to the
+practical world of business. SEI will also 
+devote some time to software engineering 
+education.
+Although Provost Angel Jordan hopes that 
+the amount of classified research at CMU 
+will be minimized, some SEI research will 
+be subject to DoD classification. As a result, 
+foreign graduate students might not be able 
+to work on classified projects at the SEI.
+Jordan pointed out that those students will 
+be permitted to work toward their degrees 
+on non-classified SEI projects.
+SEI will not create or maintain DoD 
+weapons systems, but will work with defense 
+contractors which build weapons for the 
+DoD.
+Jordan said that the DoD will have the 
+right to review academic papers before 
+publication in scholarly journals, but wont 
+be able to stop publication. Jordan is confi
+dent that the prepublication review agree
+ment wont compromise the free exchange 
+of ideas among researchers at CMU. He said, 
+We have to inform the DoD not necessarily 
+for censoring, but out of courtesy.
+Jordan noted that most of the money 
+dedicated to computer science research has 
+been funded by the Defense Advanced 
+Research Projects Association (DARPA;. 
+We have accepted money from the DoD in 
+the past, and most universities in the U.S. 
+have accepted money from the DoD. Its a 
+moral issue for some people, its not a moral 
+issue for others.
+SEI will focus 60 percent of its efforts on 
+technology transition, 20 percent on 
+research and 20 percent on DoD projects.
+SEI will employ a staff of 250 technical 
+and administrative staff by 1989, but expects 
+only 80 people to be hired during 1985. Six 
+million of the $103 million will be awarded 
+this year.
+In this issue:
+News
+Jordan on SEI......................page 2
+Features
+Causes of war......................page 5
+The Bistro............................page 6
+Entertainment
+The Monkees......................page 7
+Hooters review...................page 7
+Sports
+Superbowl XIX.................page 9
+Chicos picks................. page 10
+BT loses appeal, is offered 
+terms for reorganization
+September 1983 alcohol incidents. In addi
+tion, it examined a number of reports, most
+ly from CMU Security, dealing with anti
+social incidents and vandalism involving 
+ZBT members during the 1983-84 academic 
+year. It also examined the disciplinary ac
+tions taken against ZBT over the past two 
+years and their effectiveness in changing 
+behavior.
+The panel concluded that loss of recogni
+tion was not excessive punishment, and 
+should have been expected, since the frater
+nity was on warning before the alcohol in
+cidents took place, and was on probation
+nummary of Special Appeals Panel for Student Disciplinary Cases
+photo by Mike Pilewski
+Tartan production staff member Mohan Embar applies a final coat of latex 
+to one wall of The Tartan's office. The project, which will include a repain
+ting of The Tartans news, business, and sports offices, is part of the general 
+refurbishing of the facility.
+Password-stealing program uncovered
+By AMY LIPKE
+Tartan Staffwriter
+A password-stealing scheme has been un
+covered by the University Computation 
+Center (UCC).
+A student whose identity remains 
+unknown used a BASIC program to simulate 
+the TOPS login procedure and obtain the 
+passwords of students attempting to log in 
+to TOPS accounts.
+User Consulting Manager Sherry Johnson, 
+who runs the PC clusters on campus, ex
+plained the password thiefs procedure. 
+He/she would simply load the program into 
+a PC and the familiar Port Group? would 
+appear, as if the PC were booted up. Un
+suspecting students would log in as usual, 
+not realizing that they were feeding their 
+userid, account, and password into a BASIC 
+program rather than the TOPS system. As 
+soon as a password was entered, the words 
+invalid account appeared, and the pro
+gram stored the password.
+Johnson conceded that few students 
+became suspicious, attributing their in
+valid accounts to the fact that it happenened at the end of last semester, when a lot
+of people thought their accounts were be
+ing closed anyway.
+The UCC discovered the scheme late last 
+semester as increasing numbers of students 
+reported to user consultants that their ac
+counts were suddenly invalid, yet were able 
+to log in to those accounts on other PCs.
+The password thief also began to use the 
+stolen passwords to post taunting messages 
+on TOPS Opinion Bboard. When asked if 
+she had any suspects, Johnson replied that 
+while there is no way of knowing the identi
+ty of the thief, my guess is it was a 
+freshman, or someone inexperienced, 
+because there were certain things wrong with 
+(the program), certain flaws. She declined 
+to reveal the nature of those flaws, rather 
+than enable the thief to improve his 
+program.
+Johnson urged students to protect 
+themselves in the following way: Never log 
+in on a PC that already appears to be booted 
+up. Instead, turn the PC off, then turn it 
+on again and boot it up yourself. She also 
+recommended that students change their 
+passwords fairly often.
+|By DON EGGERT
+llrton Sports Editor
+Zeta Beta Tau Fraternity was informed 
+Jby President Cyert during finals week last 
+(December that it lost its appeal to remain 
+,n campus; however, terms were offered for 
+I he reorganization of a new ZBT chapter at
+Inae
+Cyert supported the recommendation of 
+[he Special Appeals Panel appointed to hear 
+[he case, which in turn agreed with the decilion of Dean of Student Affairs Braden 
+IValter to withdraw recognition of the 
+fraternity.
+In summary, the Appeals Fane! finds that an appeal Jased on procedural due process does not merit action.finds that the Disciplinary action recommended by he Dean of Student Affairs to represent an expected ction in the contact of past Disciplinary actions against BT and their disciplinary status at the time of the most ent incident. It recognizes the appeal as a strong plea
+by members, current and past, and for whom the Fraternity-has provided an important and significant contribution, to be permitted to maintain their fraternal associations. It is the recognition of this plea that leads the Appeals Panel to recommend that the opportunity be offered for reforming a ZBT fraternity chapter at CMU,
+Appendix to the Report of the Special Appeals Board1
+4 83 ZBT placed on Disciplinary probation for reaindrr ,r academic year (letter from Dean Walter)
+21 83 University Committee on Discipline convened hear appeal of ZBT from 4/4/83 Disciplinary' actionax-.vxi by Dean Walter
+3 83 ZBT removed from Disciplinary Probation but mtinued on Official Disciplinary Warning (letter fromran Walter)
+116 83 Rush party ( shot" party) resulting in jpiiaiization of several freshman rushees for acutecohol poisoning
+3 University Committee on Discipline convened I hear ease of ZBT charged with gross misconduct.
+behavior that imposes immediate and substantial danger to life^'4' ' Ct '*
+10 3 83 ZBT recognition withdrawn for one year. Re quirements stated in letter not met, ZBT charter to be withdrawn immediately (letter from Dean Walter)
+ *7/5/84 ZBT recognition restored but to remain on Disciplinan1 Probation throughout 84-85 academic year (letter from Dean Walter)
+10 1 84 Fight between ZBT brothers and Korean students
+10/19 84 and 10/24'84 University Committee on Discipline met to hear case of ZBT and Korean students
+when the Korean students incident occur
+red. It called the withdrawal of recognition 
+the logical next step in the sequence of 
+disciplinary actions available.
+The panel further justified its position 
+with the fact that ZBT was warned after the 
+September 1983 incidents that their recogni
+tion was in jeopardy, and any further serious 
+violation would result in removal.
+While deciding to uphold Walters deci
+sion, the panel considered the difficult decicontinued on page 2
+H ,n *ts review, the panel read transcripts of 
+^i\ers'tv Disciplinary Committee hearings 
+the Korean students incident and the
+
+---------------------------------------------------
+
+Page 2The TartanJanuary 15, 1985
+ZBT result final
+continued from page 1
+sion of whether or not to hold the entire 
+fraternity responsible for the actions of its 
+individuals. The panel argued that member
+ship in a fraternity indicates a willingftess to 
+accept conformity to group norms and to 
+understand that individual behavior reflects 
+on the larger group.
+The panel also questioned the attitudes 
+of some ZBT leaders and members, especial
+ly at the time of the 1983 alcohol incidents. 
+The panels report charged that [the frater
+nity] took no effective steps to rectify in
+dividual and group attitudes that seemed to 
+prevail. The callousness of the leadership of 
+the ZBT fraternity at that time was truly 
+remarkable. However, the panel went on to 
+state that it did not want to question the 
+sincerity of various ZBT alumni who have 
+been seriously working with members since 
+the September 1983 incident, or the good
+will and competence of several current ZBT 
+members and leaders.
+In that light, the panel is offering ZBT 
+the chance to return to campus, as early as 
+next fall. It based the offer on a decision by 
+the fraternitys Executive Committee and 
+current leadership to take corrective action, 
+and on the fact that ZBT and its alumni 
+have made considerable contributions . . . 
+to the University Community.
+The return of ZBT is by no means 
+guaranteed, and will not be easy. When ask
+ed how close the fraternity is to not coming 
+back, Walter stated, They are perilously 
+close to the edge. In fact the panel is 
+demanding a thorough change in the at
+titudes and organizational philosophy . . . 
+sufficient to convince the University that 
+anti-social behavior and actions will not 
+recur.
+The panel recommends that the current 
+membership and other students who wish to
+The following is a memo from Provost Angel G. fordan, distributed January 8, 1985, on the recent signing of the Software Engineering Institute contract.I am happy to Software Engineering January 2, 1985. The signing of the contract completed the negotiation started on November 15, 1984, one day after the Department of Defense (DoD) announced the selection of CMU to implement and operate the DoDs Software Engineering Institute.A number of students, faculty members, and staff have raised some questions in a petition circulated on campus entitled. Is the SEI Really Good for CMU?. The petition was circulated after DoD announced the award of SEI to CMU, and the signatures were collected during the period the negotiations were taking place. Ravi Kannan, faculty member in Computer Science, Daniel Rosenbloom, graduate student in SUPA, and others collected the signatures on the petition.
+On December 17, 1984, Ravi Kannan and Dan Rosenblum visited me in my office and presented thesigned petition with a cover memo. (Re: A memo of December 16, 1984 to Angel Jordan, Provost; from Ravi Kannan, Daniel Rosenblum, et al.; subject, Questions about the Software Engineering Institute".) The memo raised the same types of concerns raised in the leaflet Is the SEI Really Good for CMU? I will address these concerns below. Ravi and Dan were explicit in stating that discussions on the nature of the concerns raised in the petition would strengthen the administrations hand in negotiating with DoD. They also explained that all of the people signing the petition, about five hundred, did not necessarily subscribe to all the con cerns raised, and that many of them signed in order to obtain a clarification of CMUs position. The meeting was friendly and extremely constructive. I stated, however, that university-wide discussions could not possibly be scheduled so late in the DoD negotiations. (On December 17, 1984, we had already completed the negotiations on the technical and management issues, and only issues on cost were outstanding.)Since we could not address the concerns during the negotiations, let me now reply to the issues raised in the leaflet accompanying the petition (The leaflet is attached to this memo).
+Provost Angel G. JordanWill the SEI be a center only for the improvement of software for such items as detection of hostile attack or management of the DoD budget, or will it be a center for the development of software for use in controversial weapons systems that attempt to bypass human decision-making?
+The essence of the SEI mission is to improve the software production process. The goal is to develop methods and tools to increase the productivity of programming. This will be accomplished in part by including in the process programming environments that incorporate specific expertise on software development and maintenance.The output of the SEI will be software methodology' and production tools rather than specific application programs. "Activities of the SEI will exclude development of mission software for defense systems, states Richard DeLauer, Under Secretary of Defense, in his announcement to the press on November 15, 1984. In this area, the DoD will continue to rely on the private sector to satisfy its needs. The companies in the private
+sector will be developing application programs.
+Will the contract include classified research? Classified research give absolute power to the DoD to study whatever it wants without puh];c attention or criticism.
+The Universitys proposal stated that the environment best suited for performing work required for the SEl was one that maximized a free flow of information froni both industry and government. The Universitys pro posal was accepted, and the DoD is in agreement with the Universitys belief that this work can and should be accomplished in an open government. We recognize that, at times, we might have to have access to classified information to conduct our work. However, the con tract itself does not include classified research. The SEI will minimize the number of people who are required to have access to and work with classified information 
+Is classified work appropriate for an educational institution? President Cyert has stated that CMlI will not participate in classified research. H the SEI been established as a separate institu managed by CMU to bypass this?
+The SEI is a semi-autonomous division of CMU 1 Mellon Institute, established as such to carry out its mis l sion. SEI is not an academic department or a college! It is a federally funded research and development in I stitute associated with the University like Lincoln! Laboratory is with MIT Therefore, the organization! was not chosen to bypass the issue of classified research ] but because it is appropriate for the task.Classified research in the academic units of the! University is not appropriate. President Cyert has stated! that the academic units of CMU will not participate! in classified research. This position is shared by the ma i jority of faculty members at CMU including those in the Computer Science Department. I wholeheartedlv agree.
+Is it appropriate for CMU, as an educational institution, to participate in military research?
+Universities should not be involved in mission-oriente military research not only because of the potential p
+form a new ZBT chapter be allowed to and 
+encouraged to do so. Interested individuals 
+will have to work with the new Executive 
+Board and ZBT alumni to gain club recogni
+tion from CMU and colony status from the 
+ZBT National Fraternity.
+Walter indicated to the panel that the Of
+fice of Student Affairs is willing to assist in 
+a reorganization of the fraternity, and the 
+panel noted that the current ZBT Trustee 
+Executive Board and the Interfraternity 
+Council (IFC) should be willing to help. Bob
+Fishel, president of IFC, concurred: Rigl 
+now, everything is in ZBTs hands. If th 
+want to come back, and show us they a 
+willing to take on the responsibility of be| 
+ing a fraternity, IFC is willing to help thei 
+form a club and in the fall form a colony.
+Provost Jordan answers Software
+-----High Capacity Printer Shelf-Holds 50 pounds
+Paper Shelf-Holds 2 50 sheets
+Viewing Height 
+System and Monitor Shelf-Holds 70 pounds
+Keyboard Storage Area
+FIND THE TOP OF YOUR DESK... 
+ORDER A DESKSAVER III '' TODAY]
+Tired of sacrificing every square inch of your desktop to your personal computer? If you long to have a desk again, but don't have the space or money for another one. the revolutionary DeskSaver III1' is for you. DeskSaver III " allows you to stack within easy reach, your keyboard, system, monitor, printer, and paper supply, in less than half the space these components take when spread out on your desk.
+Made of durable chrome plated steel, DeskSaver III1" snaps together in less than 5 minutes without tools or fasteners. Yet, for ail its practicality, DeskSaver III s chrome plated finish and sleek, elegant styling make it an attractive addition to home or office.
+"For the IBM PC. PC/XT. TI Professional, DEC Rainbow, and other fine personal computers."
+Abo available for Macintosh (MacRack), 16/2"W X 15"D. Just $79.00!! Now available in BLAC&1
+Earl G Graves.Black Enterprise Magazine Editor &. PublisherJohn G Breen, Chairman,Sherwin-Williams Company President & CEOALOTOF CAPTAINS OF INDUSTRY STARTED OUT AS SECOND LIEUTENANTS.
+How can you get the experience 
+vou need to succeed in business
+These top executives started out 
+as Armv officersRight out of college, 
+thev were given the kind of responsibilirv most people m civilian life work
+I A.It you b 
+jffieer, vc
+i your future as an 
+juld further your caHow do vou become an Armv 
+officer. A great way to get the training 
+vou need is in Army ROTC
+ROTC is a college program that
+will teach you leadership and manage
+ment skills, and train you to handle real 
+challenges.
+If you want to prepare for a 
+promising future in business, begin 
+your future as an Army officer, with 
+Army ROTC You too might wind up a 
+captain of industry!
+For more information, contact 
+the Professor of Military Science on your 
+campus.ARMY ROTC. BEALLYOUCANBE.
+Two or Three Year Scholarship Now Available at CMU ROTC. If GPA is 2.5 or better in the required disciplines, a full-time student, and will be less than 25 year* of age upon graduation, then contact: Captain Perry Colvin in B7, Margaret Morrison, or call 578-2205 or 578-2196.
+MAIL TO: L & R Associates
+IKS) s t iijik iiMfk i if IHM ( urp TI i i ifilimarfc t * Instrunu nii. Im Mtfc. T irjewwfli * >f tiigtui hqui(tmim ( ixpp. a leifh Warner Jr . Chairman, Mobil CorpWalter F Willums President fi. Chief Operating O#ice ftehlebem Steel Carp
+Please Send Me My DeskSaver 111" Today!
+Enclosed Ls a check for S89.00 (includes shipping and handling), payable to L & R Associates. 1 understand I may return my DeskSaver III1'1 within 30 days^if lam not completely satisfied.
+Name:_____________________
+P.O. Box 390412 Mountain Vie*, CA9*0-'
+1 HmrAMtmMif < >lr IV 11 ' 1Primer V If* H 0*21 K. thiurd ' H* I* 11 v _ I 
+Number:_______________________Street:
+City:____________________________State:_
+
+---------------------------------------------------
+
+January 15, 1985The TartanPage 3
+Engineering institute questions
+issue, which is not a moral issue and is a non-issue for others, but because they are just not well equipped to conduct this type of research. CMU is not involved in mission-oriented research; the SEI will not be involved in mission software for defense systems.
+Will the Institute improve economic conditions in Pittsburgh? SEI will employ 250 highly qualified people in the field of computer science. Since many of them will be drawn from all over the U.S., it is unlikely that SEI will alleviate unemployment -in Pittsburgh. The Institute will probably attract various computer software oriented businesses but it is questionable to what extent this will stimulate the local economy.
+If you believe the local and national press, it will. If vou believe what our congressmen and local government officials (who supported us in the quest to attract SEI to Pittsburgh) have said, it will. But will it? We can only make predictions. I was quoted in Science (30 November 1984, Vol. 226, No. 4678, p. 1059): In respect to SEI's implications for the economic fortunes of the Pittsburgh area, Jordan is sanguine but cautious. He notes that a number of software engineering companies have located in the area and he predicts the trend will accelerate. Jordan says the Institute cant be regarded as the only solution to the problems of the Pittsburgh area, but will be an important ingredient in the transition to a stronger local economy. My views on this are shared by President Cyert, the administration, many members of the CMU and Pittsburgh communities and many faculty and students in Computer Science.Will the Institute help CMU? President Cyert claims that software experts who work for SEI will be drawn into the Computer Science Department at CMU 
+because of the SEI/CMU affiliation. In this way the standing of CMU as a strong computer science school will improve. It is not equally possible that SEI could drain time and talent of leading computer sccience researchers away from the CMU campus? Where will CMUs priorities with respect to the educatipn of its students vs. the interests of SEI?. There is no question that many software experts will i be attracted to SEI and thus to CMU. As a result, the visibility and reputation of CMU in computer science will be enhanced. In addition, as Nico Habermann has
+stated: The availability of more computer science positions at CMU because of the SEI will make it easier to attract leading computer scientists to our Computer Science Department, more and more of our prospective faculty members have spouses who are also looking for meaningful positions in Pittsburgh, at CMU or outside the University.I agree with President Cyert that SEI is not likely to drain the time and talent of leading computer science researchers away from the CMU campus. It is true that we have tapped the Computer Science Department for forming the nucleus of SEI. I take responsibility for this. Without Nico Habermann, Mary Shaw, Mario Barbacci and Howard Wactlar, we would not have the SEI. These leading computer scientists were champions of the SEI from the beginning, and with tremendous effort and personal sacrifice will launch the Institute. At the same time, however, they will maintain their committment to the Department. Other members of the SEI are being recruited from outside Computer Science.CMUs commitment to the education of its students will not be compromised by the SEI as it is not compromised by Mellon Institute. On the contrary, SEI will offer opportunities for students to work on meaningful software engineering problems. Additionally, students will be able to interact with outstanding software faculty from other institutions on extended sabbaticals and researchers from industry working on extended leaves at the SEI. There is not question that SEI will need nurturing and attention, but for this CMU is reimbursed in direct, and indirect costs.Although the question of whether foreign students and foreign nationals may be allowed to work in the SEI was not raised in the leaflet, it was raised by Ravi Kannan, Dan Rosenblum and others. Foreign nationals can work in the SEI subject to restrictions on access to classified information. But this restriction is not an impediment since students will likely work in the Basic Research and Education Division of the SEI which will not be subject to restrictions on classified information. Why were neither faculty not students consulted before the contract was bid on? Are there problems involved in developing the SEI, such as those raised in the previous item, that might impinge negatively on other aspects of the University?The original initiative to bid for the SEI came from faculty in the Computer Science Department. Later a
+group of faculty members in Computer Science with the adminstration made a case for establishing SEI in Pittsburgh in association with CMU. Even before the DoD issued the RFP, many faculty members were informed that CMU was going to respond. During the preparation of the proposal, many department heads and all deans were informed. After the propasal was submitted, I and others in the administration informed representatives of the student body that CMU was bidding on the SEI. At various luncheons with faculty, I informed many members of the academic communtiy about the universitys intentions vis-a-vis the SEI. On several occasions, members of the University communtiy requested information; we were happy to discuss the proposal with them. At a meeting of the Faculty Senate on October 25, 1984, Mary Shaw, Mario Barbacci and I informed the faculty about SEI and answered ques tions and responded to concerns. Few other initiatives undertaken by CMU have been as widely discussed as SEI.We must make a distinction between military research and research funded by the DoD. Several academic departments and colleges at CMU conduct research funded by DoD. Most major universities in the country conduct research (with faculty and student involvement) funded by the DoD. Indeed, the lion's share of research in computer science and much of the research in many disciplines in engineering and science are funded by DoD. The output of this research benefits not only DoD but also industry and society.President Cyert, Nico Habermann, the other leaders of SEI, key faculty members of Computer Science and I believe that there are not going to be problems involved in developing the SEI that might inpinge negatively on other aspects of the University. The SEI will broaden the research and educational components of the University. As a research branch of the University, however, SEI will be reviewed by the University Research Council and me as Provost, as other units of the University are, with a view toward ensuring that the Institute does not distort or imbalance the rest of the university.
+Each year cancer strikes
+120,000 people in our work force, and causes our economy to lose more than $10 billion in earnings. Earnings that American workers might still be generating if they had known the simple facts on how to protect themselves from cancer.Protect your employees, your company, and yourself. .. call your local unit of the American Cancer Society and ask for their free pamphlet, Helping Your Employees to Protect Themselves Against Cancer' Start your company on a policy of good health today!
+AMERICAN VCANCER 
+ SOCIETY
+Time to... Care More, Share More
+United VNtoy
+CARNEGIE MELLON UNIVERSITY 
+BOOK STORE
+SECOND SEMESTER SALE
+GO BACK TO SCHOOL WITH 
+FREE 
+BIC OFFER
+BUY $2.00 WORTH OF ANY OF THE FOLLOWING 
+BIC PRODUCTS AND RECEIVE A BIC MENS 
+TWO PACK SHAVER FREE!
+BIC BRITE LINER BIC ULTRA FINE
+3 -a3T I '
+2/$1.00
+BIC FINE STICK
+2/60$
+in
+Freeport $299* 
+Nassau $309*212 355-4705
+Your Bahamas College Week Includes:
+ Round-trip air transportation from your home city to Bahamas  7 Nights accommodation in Freeport (Freeport Inncasual club like hotel located downtown, next to El Casino and opposite to International Bazaar) or Nassau (Dolphin or Atlantis Hotelideally located across the street from the beach within walking distance to everything). Price based on quad occupancy. Triple add$50.00 Double add $ 100.00  Roundtrip airport/hotel transfers  Hotel room tax  Gratuities for bellman, chamermaids and poolman  College Week activitiessports, parties, music, fun.
+Hotel OptionsNassaXiAdd $50.00 for deluxe Sheraton British Colonial, add $60.00 for deluxe Pilot House Hotel FreeportAdd $50.00 for first class Windward Palms Hotel.
+INTERCOLLEGIATE 
+HOLIDAYS INC.
+501 Madison Avenue New York, NY 10022
+Check One:? FREEPORT (Sat. departures)
+mmmmmmjmmmmmmmmmmmm
+212-355-4705/800-223-0694 (reservations only)
+Bahamas College Weeks
+? Jan5-Jan 12? Jan 12-Jan 19? Jan 19-Jan 26? Feb 23-Mar 02? Mar 02-Mar 09? Mar 09-Mar 16? Mar 16-Mar 23 C NASSAU(Sat. departures)
+? Mar 23-Mar 30? Mar 30-Apr 6? Apr 6-Apr 13? Apr 13-Apr 20? Apr 20-Apr 27? Apr 27-May 04 Occupancy
+? May 04-May 11? May 11-May 18? May 18-May 25? May 25-June 01? June 01-June 08? June 08-June 15? June 15-June 22
+? Quad? TripleDoubleSounds good. Ive checked the week 1 want to party and enclosed a S100 deposit.
+NAMESCHOOL
+ROOMMATES
+ADDRESSDEPARTURE CITY
+CITYSTATEZIPPH NO
+All prices plus 15% tax and services.Price based on departures fromNew York (for Washington, D.C./Baltimore& Boston add $40).Each traveler must fill out separate form. Prices will rise $25 on January 1 Book Now.
+I Campus Rep/Office
+I
+I
+I
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+II
+
+---------------------------------------------------
+
+Page 4The TartanJanuary 15, 1985
+You ve earned it ! 
+...Show it.
+available now at:
+SAVINGS
+Minutes of the Student Senate
+DATE: Jan. 16 & 17 TIME: 10 a.m. - 4 p
+PLACE: Skibo Hall 
+Deposit $15.009
+HERFF JOmDivision of Carnation
+The meeting was called to order at 7:04 p.m.
+Present-. Bach, Bett, Chu, Cohen, Denbuig, Goldstein, Frank, Jagerski, McCormick, Piscitello, Salley, Soller, Taylor, Weller, Miller, Utaslu, DeMelio, King, Simmons, Bianco, Cramer, Novae.
+Absent: Carpenter, DeBroff, Mukherjee (excused), Nichols, Dean Cox, Dean Walter, Harrison (excused), Ickes (excused), Hynes (excused), Dorsey.
+Audience Participation. Question regarding difficulties with the faculty in getting needed courses; solicitation of Senates help. Academic Affairs chairman Cindy Taylor volunteered to handle the matter.
+Ed Lily. Discussed plans for retreat transportation and activities. It will take place this coming Friday night and Saturday.
+SDC: No report.
+President: Happy New Year and welcome back. Not much to discuss yet, but the pub is taking some work. 
+Q: When is the pub expected to be finished?
+A: (Ed Lily) By the end of January. (Bill McCormick) By mid semester.
+IFC: January 27 and 28 there will be a blood drive. CMU is competing for the most blood donated against
+Pitt and Duquesne.
+Chairman-. See me about office hours if you didnt get any yet. The t-shirts are not in yet but should be by this weekend.At the Senate Executive Committee meeting, long and short term goals were decided upon.
+Vice-Chair. The Executive Committee also decided to get in touch with other schools to share methods of governing.
+Treasurer: Welcome back; Im looking forward to a good semester in Senate and with the Finance Committee especially.
+Rules: Motion to remove the amendment from the table concerning empty Senate seats: PASSED.
+An amendment to the amendment was proposed by the author: Ads placed in The Tartan will be for the college of the empty seat and other colleges at the same time; petitioners from the college of the vacancy will have priority.David Goldstein pointed out that the amendment would upset the balance of representation in Senate.Jeff Soller answered by saying that anyone wanting to fill the seat must submit a petition with 25 signatures,
+representing one eighth of the student population.The amendment to the amendment originally proposed was withdrawn. There will be an ad for the college of vacancy, then 2 weeks later an ad for other colleges.
+Proposed new amendment to the amendment (made by David Goldstein): term may be filled until the next election ... instead of term may be completed ...Motion to amend: FAILED.Motion to call the question.Motion on entire amendment: FAILED.
+Academic Affairs-. FCE results are out. We are still trying to deal with those professors who are not handing out FCEs. We are also working on keeping back results of FCEs in the Senate office, along with comments from students concerning professors.The Education Affairs Council will be meeting soon: request for ideas.
+The University Core Curriculum Committee will also be meeting soon; the core will go through the board of trustees first.
+GC&I: Pictures of Senate will be taken next week after the meeting; they will be put on the info board.
+And Everything Nice
+Our weekly Friday FLOWER 
+SALES will resume on January 
+18th. Orders for delivery can be 
+placed on Wednesdays from 5 pm 
+7 pm in Skibo Rm. 58
+FRESH ROSES, CARNATIONS, AND BUNCHES
+Ads will continue in The Tartan concerning Senate functions.
+There will be a meet the Senators party and an AB/Senate get-together in the near future.
+Finance: No report.
+Old Business: No report.
+New Business: Peter Cohen proposed an amendment to the section of the Constitution concerning commit, tee functions and another amendment to the section concerning the policy for write-in candidates for Senate 
+General Discussion: None.
+Announcements: Academic Affairs committet members see Cindy Taylor after the meeting.There will be a Finance meeting Thursday at 7 p.m . in Skibo 112.GC&I members meet with Peter Cohen after the meeting.
+Committee chairmen should see the Vice-Chair after the meeting to tell him their committee meeting times The meeting was adjourned at 7:46 p.m.
+These minutes are to be approved at tonight s meeting 
+Respectfully submitted Leslie Frank, SecretaiJ
+erty
+Beginning programmers await the opening of the Edu rooms doors for some 
+overloaded terminal time
+United Way... thanks to you it works for all of us!
+
+---------------------------------------------------
+
+Features.
+Satisfaction key to theory
+CMU professors postulate as to causes of war
+By RIC MEDROW
+Tartan Editor in Chief
+America is experiencing growing 
+awareness about war, nuclear and conven
+tional. Few people, however, have looked 
+dosely at the causes of war. But CMU 
+associate professors of social sciences Tim 
+McKeown and Paul Anderson are doing just 
+t^at __ working on a theory to explain under 
+what conditions two countries go to war.
+CMU experts on: 
+WAR
+Traditionally, social scientists have tried 
+to explain conflict in one of two ways: either 
+A. balance of power  in which all coun
+tries continually try to get as much power 
+as possible, as if the world were one big game 
+of Risk, where dictators were always trying 
+take over the world. Or B. Profit max
+imization  that all countries are constantly 
+trying for as many of the worlds resources 
+as possible.
+To say that nations seek infinite expan
+sion is no more helpful than saying that 
+firms seek infinite profits, explains 
+McKeown. The profit maximization 
+postulate has not been notably successful in
+theory. They are currently testing the next 
+two parts.
+The research is funded largely by the Na
+tional Science Foundation. McKeown and 
+Anderson hope to publish by late this spring.
+photo by Peter Rosenfeld 
+Tim McKeown (pictured above) and Paul 
+Anderson are searching for the causes of 
+war.
+photo by Bob FishelIranele as seen from the roof of Warner Hall.
+duction of agricultural goods as fast as 
+another.
+Close but conflictual relations are akin to 
+the historic relationship between the Soviet 
+Union and China. Both countries have a 
+long history of diplomatic, cultural and 
+economic exchange. At the same time, those 
+relations have been strained over history. 
+War would not, however, be likely between 
+countries with limited or nonexistent ties like 
+Brazil and Turkey, according to the 
+Anderson-McKeown theory.
+As an illustration, if Syria felt it was lag
+ging behind the average country in 
+something it felt important, like oil produc
+tion, it might take a look around for solu
+tions. Seeing that Syria has strong 
+diplomatic ties to Jordan, if Syria felt it 
+could defeat Jordan, war might ensue.
+McKeown explains, When a country is 
+dissatisfied, decision makers cast about for 
+ways of dealing with the problem. External 
+aggression is one possible solution.
+If the Anderson-McKeown theory is cor
+rect, analysts will be able to identify every 
+country in the world which might go to war. 
+Such information, McKeown feels, will go 
+a long way toward abolishing war.
+The two men have finished testing the 
+part of their postulate concerning 
+dissatisfaction using a computer model. The 
+model, using historical data on every war 
+since 1816, supports the first part of the
+photo by Olve Peersen
+A little greenery survives in spite of the cold.
+Traying is popular before the academic crush hits.
+photo by Olve Peersen
+explaining changes in the level of coopera
+tion among oligopolies, and the power max
+imization postulate has similarly enjoyed 
+limited success in explaining the behavior of 
+nations.
+According to Anderson, the approach 
+taken in their research looks in a different 
+direction than any previous work. Anderson 
+and McKeown break their theory down to 
+three simple steps: 1. if a country is 
+dissatisfied with its share of world capabili
+ty, 2. that country may remedy its situation 
+by going to war with another country with
+relations
+3 . and has a reasonable chance of defeating.
+Anderson and McKeown define a coun
+try dissatisfied with its world capability as 
+one who, for instance, is not growing in pro---------------------------------------------------
+
+Page 6The TartanJanuary 15, 1985
+{c bistro
+Le Bistro serves wine from small French chateaux
+By RIC MEDROW
+Tartan Editor-in-Chief
+Followers of Bacchus with limited finances 
+rejoice!
+Le Bistro, Parisian Cafe serves 35 wines, 
+all selected individually by the owner. Next 
+door, La Normande has a larger 
+Jr selection, but a dinner for two
+*1^^ often runs over $100. The $53.36
+V-ft l my girlfriend paid for our din
+ner for two last Friday wasnt exactly cheap, 
+but she was paying.
+Le Bistro is set in a small room, too bright 
+for the right atmosphere but quaint enough 
+nonetheless. The walls are decorated with 
+maps of the wine-making regions of France. 
+I always wonder whether Alsace is really 
+German or French.
+ed (just about perfect timing. Id hate feel
+ing rushed knowing how much Leslie was 
+paying, yet waiting for service is even 
+worse), the mussel salad in a vinaigrette 
+dressing arrived. The mussels were easily the 
+tenderest Ive ever had. Of course, that 
+doesnt help much if, like most people, you 
+dont like mussels.
+By this time, Leslie was getting full, which 
+meant I got half her duck, glazed with honey 
+and lemon. Whoever it was that said duck 
+is greasy, hasnt eaten it at Le Bistro. The 
+glaze turned the skin into a crisp and chewy 
+treat, while the meat was greaseless and a 
+little gamey, not just a turkey disguised as 
+duck.
+My frogs legs in an Italian-style, okra and 
+tomato sauce were not nearly as good. The 
+meat was certainly sweet and tender enough, 
+but the sauce wasnt spicy enough to make 
+up for the bland meat.
+For a beverage, I had a glass of Bourgogne
+Blanc, 1982 Dom J. Pascal, a dry, full and 
+fruity wine that would appeal to any novice 
+like myself. Leslie drank (yes, she found 
+room for the wine) Pouilly Fume, Les Bas 
+coins, 1982 Masson Blondelet, a sweeter, 
+slightly smoky wine. Perhaps the best part 
+of Le Bistro for me was that most of the 
+wines are from small, French chateaux lit
+tle known in Europe, let alone the U.S.
+Leslie couldnt fit dessert, but I found a 
+comer for a slice of linzer torte, made with 
+raspberries and hazelnuts. Somehow, it 
+reminded me of a candle shop (if you like 
+candles as much as I do, thats good). My j 
+mouth felt like it was going to melt.
+Sorry, but you dont get to hear about the I 
+fireplace, candles and incense afterward.
+choice, robust but without the bite some reds 
+have.
+Soon Maryanne brought the bad news 
+that we couldnt get a discount for review
+ing Le Bistro (we didnt expect one), and our 
+artichoke-mushroom creme soup. The 
+vegetables tasted like theyd been marinated 
+in a vinaigrette, providing a pleasant con
+trast with the smooth creme base.
+The pheasant pate with truffles and 
+escargots followed. Did you ever know truf
+fles are made with onions? I didnt. The pate 
+was the best Ive had, without the overpower
+ing flavor of giblets usually associated with 
+pate. The escargots were served in 
+mushroom caps and a butter-Burgundy 
+wine-garlic sauce too short on garlic for my 
+taste.
+About two minutes after we were finish
+VictualsSpirits
+Anyway, our waitress, Maryanne, was 
+friendly and very attentive (we were given 
+three loaves of fresh bread by the time the 
+main course came, served with the creamiest 
+whipped butter Ive ever had, though we 
+never finished a single loaf. I guess bread 
+gets stale quickly in France). But she wasnt 
+annoying.
+They were out of Fischer, one of the few 
+good French beers Ive tasted (not that Ive 
+tasted many), so I had a Kronenbourg, and 
+Leslie, who paid for all this, had the house 
+red wine. We both agree the wine was a goodLe Bistro is located on Centre Ave. on the 
+block to the right of Morewood Ave. Entrees 
+range from $7.50 to f11.95. Reservations are 
+recommended.PACES HAS A NEW OWNER 
+PACES HAS SANDWICHESThe Many Functions of 
+The Affordable Futon
+kybers* sloppy joes 
+turkey 
+*ham
+* roast beef
+on Italian bread
+Free Delivery on Saturdays thru Feb. 2 with 
+this ad. 20% off platform frames with pur
+chase of Futon.I Vi-off I
+I sandwiches '
+Vi-off coupon 
+1 cappuccino
+Expires 2/10/85Expires 2/10/85tice creamery... * )
+420 South Craig Street * Pittsburgh, Pennsylvania 15213 683-2780
+Brouwer
+ConvertibleFrame
+Brouwer 
+Bed Roll
+The CMU Alumni Association cordially invites you to
+Senior Banquet
+on Saturday the 2nd of February; 1985 in Skibo.
+7:06p.m. Senior Reception in tbe Badruom  ' <3 
+i 8.00p. m. Dinner in tbe KiUie DMngMpom s:'tAH Dance in tbe Ballroom Immediately Following
+ ; ' . > ,- ly^dj[PW|fleas* respond by picking up your ticket ai the Alumni .
+*,' 506 \tamer Halt, by Wednesday the 30tb ofjamuary, 190$. ou mustpreeentyour student I.D. card wbenpicking upyos tiM 
+* Dress is semi-format. ^ ^$0
+Futon
+Linen Closet
+Corner of Walnut and Maryland, Shadyside 
+M-T-Th-F-Sa 11-6, Wed 11-9 362-8045
+Parisian Cafe
+
+---------------------------------------------------
+
+Entertainment.
+Monkees Day not forgotten among Holidays
+By MARK CARR
+Tartan Staffwriter
+The holidays are over. Not just Christmas 
+and New Years, but another very important 
+occasion, one most of you probably missed. 
+Overshadowed by the celebration of western 
+societys two biggest holidays, December 30 
+marked the birthdays of Mike Nesmith and 
+Davy Jones. Along with Micky Dolenz and 
+Peter Tork, these two young men were 
+known as the Monkees, those fresh-faced 
+kids who barged into your hearts and living 
+rooms some nineteen years ago.
+David Armstrong Jones was born in Man
+chester, England in 1946. He showed an ear
+ly talent for show business, acting in amateur 
+plays throughout grade school and high 
+I school; by age fifteen, he had appeared on 
+the BBC. At one point, however, Davy 
+almost gave up this promising career to 
+{become a jockey. As fate would have it, he 
+(landed the role of the Artful Dodger in 
+Lionel Barts hit musical, Oliver, and left 
+horse racing behind. Davys show business 
+"credentials would later recommend him for 
+1 a role on NBC Televisions The Monkees. 
+Davy was the teeny-bopper idol of the 
+| group, contributing little in the way of 
+Ssongwriting and playing only the tam
+bourine. However, he sang lead vocal on the 
+hit singles Daydream Believer, Valleri, 
+and A Little Bit Me, A Little Bit You, all 
+of which reached the Top 5. Jones is probably the best-known and most recognizable 
+if the groups members; when the Monkees 
+j|broke up in 1969, he and Micky teamed up 
+ith Tommy Boyce and Bobby Hart, playJng the county fair circuit for a while. Boyce 
+and Hart were the authors of several 
+lonkees songs, most notably the numberone single Last Train to Clarksville and the 
+familiar Monkees Theme; they also record
+ed the hit song I Wonder What Shes Do
+ing Tonight. In recent years, Davy Jones has 
+been pursuing a solo career, experiencing 
+some success in the Orient.
+Mike Nesmith was bom in Houston, Texas 
+in 1942. He spent his early years in a poor 
+section of the city. It was there, among the 
+pool rooms and dimly-lit alleyways of the 
+slums, that he fisrt felt the strong rhythmand-blues/country-western influence which 
+would show up later in his career.
+Mike, an accomplished guitarist and 
+aspiring composer, was the most talented 
+member of the group. He was also leader of 
+the Monkees, battling executives of Colgems 
+Records for creative control and a chance 
+for the groups members to do their own in
+strumental work. Nesmith wrote a number 
+of songs for the group, including Sweet 
+Young Thing, Girl I Knew Somewhere, 
+(the flip side of A Little Bit Me, A Little 
+Bit You and a Top 40 hit in its own right), 
+Tapioca Tundra, and Circle Sky (from the 
+soundtrack of the ill-fated movie Head). 
+Most of Mikes compositions had a bluesy, 
+country flavor and some his later work 
+received favorable nods from critics.
+After the demise of the Monkees, Nesmith 
+and his associates formed the First National 
+Band; this was the first of a trilogy of 
+groups he planned to record with. (To date, 
+the progression ended shortly after the for
+mation of the Second National Band.) Mike 
+was the only Monkee to make the charts with 
+a solo effort, scoring a hit with the single 
+Joanne. As of late, he has been working in 
+the music video business, and will reportedly 
+return to network television as host of a new
+photo by Mike PilewskiDavy Jones (1) and Mickey Dolenz (r) in the Monkees days.
+video series. Fans would hardly recognize 
+Nesmith now; gone are the mutton-chop 
+sideburns and trademark wool hat, replac
+ed by close-cropped hair and a thin tie.
+A number of startling coincidences sur
+round the Nesmith-Jones connection, in
+cluding the common birthdate. For instance, 
+Mike Nesmith was the tallest Monkee (a 
+lanky 6 1), while Davy Jones was the
+shortest Monkee (5 3). Nesmith, at age 42, 
+is the oldest ex-Monkee; Jones, 38, is the 
+youngest ex-Monkee. (Makes you stop and 
+think, doesnt it?) There can be no denying 
+that something very special happened on 
+December 30th. Next time, be sure to cir
+cle Monkees Day on your calendar and 
+raise a glass of eggnog in honor of Davy and 
+Mike.
+S'n'S production of Hooters tasteful and enjoyable
+By CURT WOHLEBER
+| Tartan Staffwriter
+Lasr month Scotch n Soda presented 
+|Hooters, a two-act comedy by Ted Tally 
+ibout friendship, growing up, and, of 
+course, sex. The play, directed by Jon R. 
+Snyder, appeared before two small but ap
+preciative audiences at the Mellon Institute 
+iditorium on December 7 and 8.
+First produced off-Broadway in 1978, 
+j Hooters purports to say something about 
+le relaxing of sexua > mores and the chang
+ing nature of relationships in the 60s and
+70s. Seven years later, with the tide of social 
+change moving in the opoposite direction, 
+the play now seems somewhat dated. It is the 
+story of two guys and two girls who meet on 
+the beach at Cape Cod. College student 
+Clint (Hannibal Klein) and his high school 
+buddy Ricky (Pete Carlin) come to the Cod 
+as Ricky calls it, fo soak up some sun and 
+engage in the eternal quest for the hormonal 
+grail.
+As the play opens, Ricky has just spotted 
+a perfect TO. But the 10, who is named 
+Cheryl (Kate Selverstone), has come with her
+friend Ronda (Michelle Osherow) to get 
+away from guys for one weekend. Cheryl is 
+contemplating marriage to her boyfriend 
+back home, but fears that married life, 
+especially to a man who files his shirts by 
+color and pattern, might be a little dull. 
+Ronda is bitter over past relationships and 
+is reluctant to get involved again.
+When they meet on the beach, Ricky 
+comes on strong, doing an energetic inpression of a burning extra from The Tower
+ing Inferno. Cheryl is amused by the young 
+mens antics and, to Rondas chagrin, the twoelly Green exhibit opens tonight
+ly LYNNE M. SCHATZ
+to The Trtan
+Graphic design students Perry Kirk, Skip 
+tally, and Nancy Smith open an exhibition 
+ntitled Kelly Green tonight at the Forbes 
+allery. The show is subtitled Exhibit work 
+nspired by design faculty. The opening is 
+rm 7:00 to 9:00.
+The title of the show refers to a design 
+rofessor, Rob KeUy, who taught all three of 
+e exhibitors during their freshman year. 
+Sometimes you dont appreciate influences 
+Httil you can see an end to your work, or 
+F e influences as they appear in your work, 
+rld Smith in regards to the shows tide. Kelly 
+faught a coloring class.
+Perry Kirk is exhibiting mostly black and 
+V. *te Photographs. Kirk frequently frames 
+^ subjects in a slightly off-center fashion, 
+V. f Paying with the juxtaposition of lines 
+Pkt to create an internal frame, 
+m looking for little scenes to take pie
+ces of, sometimes just the extension of the 
+ej1 a snapshot, said Kirk, whose photos 
+^C|ude several of people and buildings in 
+ast ^berty/Penn Circle area. 
+am always looking for FREW e can do
+within the limits. For example, how much 
+depth I can get in the photograph given the 
+limitations of a 35mm camera, said Kirk.
+Kirk pursues photography avidly, finding 
+it to be something Im interested in in con
+junction with and outside of graphic design.
+Skip Shelly is exhibiting painting as well 
+as photography. Shellys photographs are a 
+documentary on the buildings and people 
+of the Hill District.
+Shellys photos depict the kind of people 
+who live in an area like the Hill District. Its 
+kind of a cliche for a middle class 
+photographer to go into an impoverished 
+area and bring back images, said Shelly. 
+Still, Shelly found the experience to be per
+sonally rewarding and informative.
+I found a lot of intelligence there, said 
+Shelly. There are a lot of people leading 
+happier lives in poverty than some people 
+who are financially better off."
+Shelly also has photographed buildings 
+that are being tom down. There are a lot 
+of painterly accidents when buildings come 
+down, said Shelly. I use the camera as a 
+traveling frame to capture these things that 
+just happen.
+What is learned and experienced in ex
+ecuting a piece is more important to Shelly 
+than whether or not that piece is finished. 
+I think its true of everyones work in this 
+show, said Shelly, that its about learning, 
+about being a student.
+Nancy Smith is exhibiting a series of 
+serigraph collage prints that she believes are 
+at least partially influenced by the things she 
+learned in Professor Kellys class. Smith 
+employs found images, such as stamps and 
+cigarette boxes, to complete her collages, 
+which are also unified by her use of color.
+Smith, who will also exhibit photographs, 
+finds that working outside of specific graphic 
+design projects gives her an opportunity to 
+learn and experiment.
+Im not worried so much about the 
+finished product, or whether whats there is 
+right or wrong, said Smith. The 
+serigraphs allow me to express things that 
+somehow Im not allowed to express in 
+design. Experimenting is very important. 
+Kelly Green will run through January 20 
+at the Forbes Gallery. Gallery hours are 11:00 
+to 6:00 Wednesday to Friday, and Noon to 
+5:00 Saturday and Sunday.*
+girls end up being corralled into in evening 
+out with Ricky and Clint. As a result, the 
+two friendships are strained: Ricky and Clint 
+have to fight over who gets the 10, while 
+Ronda is angry at Cheryl for abandoning 
+their original plans. That night, at their 
+beachside picnic (consisting of heavily-salted 
+food and lots of beer), the two guys vie for 
+Cheryls attention, all but ignoring the now 
+seriously-miffed Ronda.
+At the beginning of Act II it is revealed 
+that Cheryl has taken the nerdish and ner
+vous Clint back to her hotel room, leaving 
+the fallen stud Ricky and the abrasive Ron 
+da to trade insults on the beach. As the night 
+goes on, the four of them learn more about 
+themselves and each other. By morning 
+everything is fine and Ricky, Clint, Cheryl, 
+and Ronda go off to breakfast together, 
+broken friendships repaired and all of them 
+having gained some important lessons about 
+life, along with, presumably, the audience.
+Hooters, despite the title and controver
+sial logo (with a pair of you-know-whats for
+ming the two 0s) provides some good laughs 
+along with a few credible moments without 
+lapsing into bad taste. The cast performed 
+very well together, and while not the most 
+profound theatrical experience of the year, 
+Hooters was a satisfying alternative to an 
+evening of Trivial Pursuit.
+ScotchnSoda is looking for students with 
+an interest in the theater. In addition to ac
+tors and directors, S'nS needs people to get 
+involved with production, management and 
+other vital behind-the-scenes activities. In
+terested students should contact the 
+Scotch nSoda office by campus mail at Skibo 
+40D, or call extension 3522.
+
+---------------------------------------------------
+
+STUDENT SENATE VACANCIES
+Student Senate announces openings in the follow 
+ing in the following college:
+CFA  2
+Petitions are available at Skibo Information Desk, and are due at 5:00 pm 
+on Friday, January 25,1985. All Activities Fee-paying students in their respec
+tive colleges are eligible. If you have any questions, call Larry Bach at 247-7375 
+or Jeff Soller at 661-0984.
+Student Senate.
+We get things done.
+Funded by Activities Fee
+CAPRI PIZZA
+Whn You're Onto A Good Thing, Stick With it!!
+Where Today... 
+TomorrowLVr.AND EVERY DAY . .
+you Get The Best Pizza In Oakland At The Best Price!
+oooocoxooooooootxiooociooooooooooooooooooooooooooooooooooooooooo
+2 *Also For Your Night Life Pleasure* 2I EOPBES STUDIO *A VIDEO DISCO* o
+0Open Tuesday - Sunday 9 p.m. to 2 a.m. M
+otx)ooax)Ooaxxxx)ooooooo(raDOOoooooooooooooooooooooooooooooooooo
+gthi nsdo.T Sm.a rPIa rSa hiChg rIsK. NAhOCCLC
+LARGE
+ CUT PIZZA including
+^2 LITERS OF PEPSI.$2.99*EAT-IN or DELIVERED!b
+
+---------------------------------------------------
+
+Sports.
+SUPER BOWL XIX
+C.D. picks 49ers because of running game, secondary
+By CHRISTOPHER D. LEWIS
+Tartan News Editor
+How important is this game? The 
+American Broadcasting Company is charg
+ing one million dollars for one minute of 
+televison commercial time. That translates 
+to $16,666.67 for one second.
+1 The Presidential Inauguration, 
+held every four years on January 
+BP 20, was moved this year to 
+January 21 in order not to conflict with the 
+Super Bowl.
+Who is going to win this game? Ah, a 
+tougher question may never have been ask
+ed. Here is a positional breakdown of Miami 
+and San Francisco, attempting to answer 
+that question.
+First the offense:
+QuarterbackThe top rated quarter
+backs in each league. Joe Montana is the top 
+rated quarterback of all time. Dan Marino 
+has thrown more touchdown passes than 
+most quarterbacks dream of. Marino has 
+completed 64.1 percent of his passes (playoffs 
+included), Montana 63.8 percent. You can 
+debate among friends all you want. I want 
+no part of this. Advantage: none.
+Running backsWendell Tyler and 
+Roger Craig both outclass anyone Miami 
+has. This is the biggest plus for the 49ers. 
+Tony Nathan, Joe Carter and Pete Johnson 
+all have talent but are inconsistent. Craig led 
+the 49ers in catches, too. Advantage: 49ers.
+Receivers-The 49ers have Dwight Clark, 
+the best posession receiver in the game. They 
+have Freddie Solomon, a dangerous deep 
+receiver. They have two top-notch tight ends 
+in Russ Francis and Earl Cooper. For depth 
+they have Renaldo Nehemiah and Mike 
+| Wilson. The Dolphins have the Marks 
+brothers, Duper and Clayton. Clayton has 
+caught 20 touchdown passes this year. Ad
+vantage: Dolphins.
+Offensive line-The Dolphins gave up 
+just 14 sacks all year. They must stop Fred 
+Dean and Dwaine Board of the 49ers. Center
+*
+Dwight Stephenson is the best in the game. 
+The 49ers have All-Pros in guard Randy 
+Cross, tackle Keith Fahnhorst, and center 
+Fred Quillan, plus John Ayers, a great left 
+guard. Since the Dolphins dont run often, 
+the run blocking doesnt really hurt. Maybe 
+a slight edge to the 49ers, but it wont make 
+a difference. Advantage: none.
+Now the defense:
+Defensive lineThe 49ers have great 
+depth and strength, starring Dean, Board, 
+Gary Johnson and Michael Carter. The 
+Dolphins gave up a lot of rushing yards this 
+year, and this will hurt them, despite hav
+ing three excellent players in Bob 
+Baumhower, Doug Betters, and Kim 
+Bokamper. Advantage: 49ers.
+LinebackersThe Dolphins are hurt by 
+A.J. Duhes injury. He still plays, but not 
+often and not at full speed. Bob Brudzinski, a great run defender, must be at the top 
+of his game if the Dolphins stand a chance. 
+The 49ers have Keena Turner, one of the 
+best, and Jack Reynolds. These are two good 
+groups, but neither dominant. Advantage: 
+none.
+Defensive backsNo question here. If 
+there is a secondary that can stop Dan 
+Marino, it is the 49ers. Dwight Hicks, Ron
+nie Lott, Eric Wright and Carlton William
+son will be severely tested. Dolphin cornerback Dan McNeal is a great one, but he 
+could be hurt by the recent death of his 
+father. This may be the key position of the 
+game. Advantage: 49ers.
+Special teamsMiami has the best 
+punter in the game in Reggie Roby, but the 
+worst kicker in Uwe von Schamann. Fulton 
+Walker is a good returner, but not as good 
+as the 49ers Dana McLemore. Ray 
+Wersching is a good kicker, Max Runager an 
+adequate punter - for the 49ers. von 
+Schamann really hurts the Dolphins. Advan
+tage: 49ers.
+Coaches-The two best head coaches in 
+the game of football. Advantage: none.
+SUPER BOWL ROSTERS
+MIAMI DOLPHINSSAN FRANCISCO 49ERS
+No. NamePos.Ht.Wt.Yrs.No. NamePos.Ht.Wt.Yrs.4 Reggie Roby......................P6-224324Max Runager...................P6-118965Uwe von Schamann......PK6-118566Matt Cavanaugh.............QB6-22127lODon Strock.........................QB6-52201114Ray Wersching................PK5 11210121 ljim Jensen...........................WR6-4215416Joe Montana......................QB6-2195613Dan Marino......................QB6-4214221 Eric Wright........................CB6-1180422Tony Nathan....................RB6-0206622Dwight Hicks.....................S6-1192623Joe Carter...........................RB5-11198R24Derrick Harmon..............RB5 10202R28Don McNeal......................CB5-11192426Wendell Tyler.................RB5 10200731 Eddie Hill...........................RB6-2210627Carlton Williamson........S6-0204434Woody Bennett................FB6-2225728Tom Holmoe....................CB S6 2180240Mike Kowslowski.............S6-1198529Marloe Clark.....................CB6-2195941Fulton Walker.................CB5-111964RB5 10205442Lyle Blackwood.............S6-11901232Carl Monroe......................RB KR5 8166243Bud Brown........................S6-0194R33Roger Craig......................FB6-0222244Paul Lankford.................CB6-2184342 Ronnie Lott......................S-CB6 0199445 Robert Sowell...................CB5 11175243Dana McLemore.............KR CB5 10183346Pete Johnson.....................FB6-0250849Jeff Fuller...........................S6-2216R47Glenn Blackwood...........S6-01906LB6-2220249William Judson................CB6-11903G6-3265950Jackie Shipp......................LB6-2236R52Blanchard MontgomeryLB6-2236251 Mark Brown......................LB6-2225255Milt McColl......................LB6-6230452Sanders Shivers................LB6-2235956Fred Quillan.....................C6-5266753Jay Brophy.........................LB6-5233RLB6-4225655Earnie Rhone...................LB6-2224958Keena Turner...................LB6-2219556Charles Bowser................LB6-5235362Guy McIntyre...................G6-3271R57Dwight Stephenson........C6-2255564Jack Reynolds...................LB6-12351558Kim Bokamper................DE6-6255865Lawrence Pillers..............DT DE6 4250959Bob Brudzinski................LB6-S223866Allan Kennedy.................T6-7275360Jeff Toews...........................G-C6-S2556T6-82791061 Roy Foster.........................G-T6-4275368John Ayers.........................G6-5254864Ed Newman......................G6-22551271 Keith Fahnhorst..............T6-62731170Bill Barnett........................DE6-4260572Jeff Stover...........................NT6-5275371 Mike Charles....................DT6-4285274Fred Dean.........................DE6-2232107 2 Ronnie Lee.......................G6-4265676Dwaine Board...................DE6-5248573Bob Baumhower.............DT6-52658T6-62952
+74Cleveland Green..............T6-3262678Manu Tuiasosopo...........DT6-3252675Doug Betters....................DE6-72657DE6-4253576Steve Clark........................G6-4255381 Russ Francis......................TE6-6242977A.J. Duhe...........................LB6-4235883Renaldo Nehemiah........WR6-1183378Charles Benson................DE6-32672WR6-32104
+79John Geisler......................T6-52606TE6-3225R
+TE6-3230587Dwight Clark.....................WR6-42156
+81Jimmy Cefalo....................WR5 11188688Freddie Solomon.............WR5-111881083Mark Clayton...................WR5-9175289Earl Cooper......................TE6-2227584Bruce Hardy.....................TE6-5232790Todd Shell.........................LB6-4225R
+85Mark Duper......................WR5-9187394 Louie Kelcher...................NT6-531010
+87Dan Johnson......................TE6-3250395Michael Carter.................NT6-2281R
+88Vince Heflin......................WR6 0185397Gary Johnson.....................DT6-226110
+89Nat Moore.........................WR5-9188999Mike Walter......................LB6-32382
+IntangiblesIt is a very big advantage 
+that the 49ers have not had to leave the Bay 
+Area for for seven weeks, and get to play the 
+Super Bowl less than an hour from their 
+practice facility in Redwood City, Califor
+nia. No team has ever won 18 games in a
+year. The 49ers will be shooting for that.
+PredictionA high-scoring game, San 
+Francisco will win 34-27. If Miami scores 
+over 40 points, they will win, but I dont 
+think they will.
+hico predicts Niners in best ever Super Bowl
+By JEFFREY BERGMAN
+Special to The Tartan
+Super Bowl XIX. Another classic match
+I up. Boy, havent we heard that one before. 
+[A matter of fact we heard it as late as last 
+years fiasco when the Los 
+Angeles Raiders blew out the 
+JjjS" highly touted Washington Red. skins, 39-9.
+So, whos going to win this year? The 
+l-Miami Dolphins, led by the most awesome 
+passing attack in the history of football, or 
+the San Francisco 49ers, who have the most 
+innovative and brilliant coach in all of 
+football?
+Before we get to the nitty gritty reasons, 
+[ets around with some statistics first.
+Common opponents There are four 
+|eams who have played both of these squads: 
+ittsburgh, Philadelphia, Houston, and 
+ashington. In these games, Miami is 5-0, 
+ncluding the 45-28 playoff victory over the 
+feelers. the 49ers, on the other hand, are 
+' Vvith their only loss coming to the 
+i>teelers, 20-17. What does this tell us? 
+nS' so lets move on.
+i Record on grass fields  Since this 
+^e is being played on natural turf field 
+tanford Stadium in Palo Alto, lets see 
+squad has a decidable advantage. 
+e ^lphs record is 10-2 on grass while San 
+''(cord is 11-1. What does that tell us? 
+lrig. so Jets move on.
+3. AFC vs. NFC in Super Bowl  The 
+AFC up till now has a prohibitive margin 
+over the NFC, 12-6. So I guess you could give 
+Miami a nod here, but only a slight one.
+4. Favorites vs. Underdogs in Super 
+Bowls  Disregarding spreads, the favorites 
+have a 13-5 record on Super Sunday. Since 
+the 49ers are a slight favorite, this time you 
+have to give them an advantage.
+Enough with the Pete Axthelm imitation. 
+I think San Francisco is going to beat Miami. 
+Heres why:
+In the games that Miami has lost this 
+season, the Dolphins have been caught up 
+in high scoring battles. Pittsburgh tried to 
+do it last week, but they didnt have the 
+firepower. Thus, the only way to beat Miami 
+is not to stop Dan Marino but to make sure 
+that your team has the ball when the time 
+is running out. Does San Francisco have the 
+capabilities to match Marino stride for 
+stride? The Niners averaged 29.68 points per 
+game during the regular season.
+b. San Francisco always has a knack of
+MIAMI DOLPHINSSAN FRANCISCO 49ERS
+MIAMIOPP.SFOPP.
+FIRST DOWNS....................437344FIRST DOWNS....................403333
+By Rushing...........................133140By Rushing...........................152117
+By Passing............................273192By Passing............................234186
+By Penalty............................3112By Penalty............................1730
+3RD DOWN EFF...................49.640.23RD DOWN EFF.................46.435.4
+TOTAL NET YDS..............79106142TOTAL NET YARDS........7165'604
+Total Off. Plays................12111174Total Offensive Plays......11951167
+Avg. Gain..........................6.535.23Average Gain Per Play...6.04.8
+NET YARDS RUSHING...21952349NET YARDS RUSHING...27552031
+Total Rushing Plays........557508Total Rushing Plays........591489
+Avg. Gain Per Rush........3.944.62Average Gain Per Rush..4.664.15
+NET YARDS PASSING....57153793NET YARDS PASSING....44103573
+Sacked/Yards Lost...........14-12844 357Sacked/Yards Lost...........34-21466 476
+Attempts/Completions639-410622-350Attempts/Completed........570-356612-336
+Percent Completions. ..64.256.3Percent Completions......62.554.9
+Had Intercepted....................2127Had Intercepted................1528
+Avg. Gain Per Play.........8.755.70Average Gain Per Play...7.305.27
+PUNTING...............................56 44.293-41.6PUNTING...............................70 40.992 40.9
+KICKOFF RETURNS.........50-18.275-20.6 *KICKOFF RETURNS.........51-21.586-19.5
+PUNT RETURNS.................46-8.819-7.9PUNT RETURNS.................51-11.735 6.4
+PENALTIES-YARDS71-557100-882PENALTIES-YARDS........108 933100-798
+FUMBLES  LOST...............27-1126 14FUMBLES-LOST................27-1231-14
+coming up with a great game plan against 
+great team. Take, for instance, the cham
+pionship game against Chicago. Coming in, 
+the Bears had been known for their ferocious 
+defense which crushed Joe Theisman like 
+grapes in Chicagos first playoff game. In 
+order to combat this charge, Walsh chang
+ed his offensive lines whole blocking schemes 
+around. It got to the point where the Niner 
+linemen were complaining to Walsh because 
+the coach wanted them to block in a man
+ner that violated their basic fundamentals. 
+At any rate, San Fran won 23-0.
+c. The 49ers have not played a road game 
+since December 1st. Since this game is right 
+down the road from their practice field, San 
+Francisco will again be able to practice at 
+home. This has got to give them a more 
+relaxed feeling heading into Super Sunday.
+d. No doubt about it, this game is going 
+to be close, and you cant win close games 
+without a good field goal kicker. Miamis 
+Uwe Von Schamann is probably the worst 
+field goal kicker in all of football. He was
+11 of 24 on field goals this season and didnt 
+kick one through over 40 yards all year. His 
+inabilities will hurt Miami.
+Forecast  No doubt about it, this is going 
+to be the best Super Bowl of all time. I dont 
+care what happened last year. Its the con 
+frontation of two exceptional football teams 
+who are heads above the rest of the league.
+continued on p*g 11
+
+---------------------------------------------------
+
+Page 10The TartanJanuary 15, 1985
+Tartans split two PA C games as conference season begins
+CMU leading 
+Nard look on
+scorer John 
+for W&J.
+photo by Erik Horn
+Taormina handles the ball as John Achille (25) and Craig
+By CHRISTOPHER D. LEWIS
+Tartan News Editor
+CMU opened the ,PAC against W&J 
+Wednesday night with a loss to the 
+Presidents, 74-59, despite a strong second 
+half effort.
+The outcome was never really in doubt. 
+W&J led 10-2 after just four minutes of the 
+game. CMU cut the lead to eight points in 
+the second half, but that was as close as they 
+got. W&Js Tony Torchia scored 17 of his 22 
+points in the first half to lead the Presidents. 
+John Taormina led the Tartans with 26 
+points and 12 rebounds.
+The Tartans shot just 38 percent, while 
+W&J shot 56 percent. Taormina was 12 of 
+18, 67 percent. The rest of the team shot a 
+collective 14 of 50, 28 percent. This must be 
+improved upon if this team is going 
+anywhere this season. Their current 2-8 
+record says they probably wont. W&J rais
+ed their record to 7-3.
+CMU also shot only 44 percent from the 
+foul line. According to sources close to the 
+team, they do shoot a lot of foul shots in 
+practice. It isnt working.
+SUCCESS
+At ROLM, we believe there is no single way 
+to be successful. Rather, we believe success stems from 
+the creativity and ambition of the individual. 
+That's why we re committed to creating an environment 
+in which motivated people can succeed. The risk 
+in this approach is high, but the rewards are greater.
+ROLM. We create an atmosphere for success.
+The rest is up to you.
+ELECTRICAL ENGINEERING, COMPUTER ENGINEERING, 
+COMPUTER SCIENCE AND TECH WRITING MAJORS: 
+We'll be on Campus January 22, 23
+At that time, we'll ask you to share the re
+sponsibility for discovering where you best fit 
+in ROLM. Consider working on one of our 
+project teams in software areas such as voice 
+and data communications, distributed data 
+base management, integrated voice-text ap
+plications, data, voice and network architec
+ture, or Ada.
+Explore a team hardware design position in 
+areas such as digital telephones, voice and 
+data communications, local area networks 
+and packet switching, or analog, digital and 
+VLSI design.
+Or, you can talk with us about combining 
+your hardware, software, and customer-ori
+ented skills in the areas of product support, 
+production, field service or sales engineering.
+Headquartered in Santa Clara, California, 
+ROLM designs, manufactures and markets 
+computer-controlled business communica
+tions systems, and the most advanced rugged 
+environment computer systems in the world.
+Sign up with your Placement Office for an oncampus interview, or forward your resume 
+and letter of interest to Vicky Anderson, Engi
+neering Recruitment, M/S 350, 4900 Old 
+Ironsides Drive, Santa Clara, CA 95054.
+PRE-INTERVIEW PRESENTATION
+Monday, January 21 
+Skibo Hall, Rm. 112 
+7:00-9:00pm
+We are proud to be an equal opportunity/ 
+affirmative action employer.
+RObm
+There were bright spots. CMU outrebounded W&J 49-35, and took fourteen 
+more shots. Until these shots start to fall, the 
+Tartans wil continue to lose games.
+Tom Franklin had five assists in limited 
+time. Franklin continues to lead CMU in 
+assists (third in PAC with 4.1 per game) 
+despite not getting many minutes. He also 
+drew a charging foul on Alan Brodstock, a 
+man 8 inches taller and many pounds 
+heavier than Franklin. Michael Stewart, the 
+starting point guard, has just ten assists in 
+ten games.
+In basketball action over the break, CMU 
+finished fourth in the Ohio Wesleyan tour
+nament. In the opening game, the Tartans 
+lost to the host team 92-63. Hart Coleman 
+led the Tartans with 13 points and 12 re
+bounds. Taormina had 12 points.
+In the consolation game, CMU lost to 
+Rose-Hulman Institute. Stewart had 14 
+points, Taormina 12, and Dwayne Waite had 
+11 rebounds.
+Late Saturday, CMU scored their First PAC 
+win of the year, as Stewart hit two key free 
+throws late in the game to defeat the Grove 
+City Wolverines, 58-56.
+Taormina again led the Tartans with 20 
+points. George Debski had 13 and Stewart 
+finished with 10. Dwayne Waite had nine 
+points and eight rebounds.
+Speaking 
+IM sports
+By CHRISTOPHER D. LEWIS
+Tartan News Editor
+Youve had your vacation, you are now 
+supposedly well rested, now its time to get 
+back in shape after all the fun youve had 
+over break. Here is the intramural sports 
+report.
+BASKETBALL
+Every year, basketball is the most popular 
+intramural sport. There are often over 100 
+teams playing in four leagues. If you want 
+your team in the league you want to play in, 
+you have just a few hours left. Deadline is 
+today at 4:30 p.m. There will be no exten
+sions. The rules meeting is today at 4:30 also 
+in the womens gym. Each team manager 
+must attend this meeting. Games start 
+January 16th.
+HANDBALL
+Basketball not your style? Handball rosters 
+are due today at 4:30 also. If you want to 
+use your hands, get those rosters in. 
+FOOTBALL
+Rich Trombetta, quarterback of major 
+league champion Pika, has been named 
+Most Valuable Player of the intramural foot 
+ball league.
+VOLLEYBALL
+Theta Xis A-Team was the winner of the 
+major league playoffs of three-person 
+volleyball.
+UPCOMING SPORTS
+One of the most exciting days of the I M 
+year is the wrestling tournament, to be held 
+Saturday, February 16, from 9:00 a.m-10 
+5:00 p.m. Practices will be on the following 
+days: Sat., Feb. 2, 12-5 p.m., Fri., Feb. ^ 
+4:30-7 p.m. Entries are diie January 24. P^j 
+up entries in the I.M. office (room 101, gyw
+Two new sports have January 24 deadline 
+Pinochle and Floor Hockey. Also due that I 
+day are rosters for Water Basketball'|rj 
+which a team must have a certified l'e| 
+guard on duty for each game.
+IM NOTES
+A local league needs basketball offic^5 
+See E.J. Birdy, or call x2214. Mr. Dirk KaW 
+donated a gift to the I.M. dept. The ne^j
+continued on
+
+---------------------------------------------------
+
+January 15, 1985-The Tartan-Page 11
+iattura
+Basketball Box
+W&J 74 CMU 59
+W&JFGFTTPCMUFGFTTP
+Torchia10-132-322Coleman5 150-210
+Potkul. 3-55-27Waite1-61-23
+Bradstock5-85-715Neff0-20-00
+Nard1-70-22Stewart2-90-04
+Achille7-153-517Taormina12-182-526
+Sheetz1-10-02Bart1-32-24
+Connolly1-11-23Franklin0-01-21
+Conn2-42-2, 6Debski4-101-29
+Brown0-10-00
+DeVries1-40-12
+Totals30-5414-2374Totals26-687-1659
+FG%: W&J .556, CMU .382.FT%:W&j .608,CMU .438.
+Rebounds: W&J 35 (Torchia 10), CMU 49 (Taormina 12). Assists: W&J 17 (Potkul 6). CMU 14 (Franklin 5). Referees: Floyd Shuler and Frank Smizik.
+Bergman picks 49ers
+photo by Dewey Rieder
+against Penn State.
+continued from page 9
+The key to the game is Joe Montana. He 
+must have a great game for the 49ers to win. 
+If he is just average like he has been in the 
+last two weeks, Don Shulas squad will take 
+it. However, I believe Montana will come out 
+strong and San Francisco will win 38-34.
+Bettors guide  Take San Francisco and 
+give the points and bet over.
+Stock tip  The Monday after the Super 
+Bowl has been a predictable one at the stock 
+exchange. If an NFC team wins, the stocks 
+go up and if an AFC team wins, the stocks 
+go down. So, invest accordingly.
+held 
+i. to
+.15,
+pick
+sHlines,
+that
+1 lift
+Ice Tartans 
+to Pitt, 
+feat PSU
+By CHRISTOPHER D. LEWIS
+[Tartan Xews Editor
+CMU-went to the Lakeview Ice Palace to 
+Im their game in order and get back on the 
+inning track after a 1-3-1 start. They acomplished only half the task.
+Despite their "best game of the year acording to freshman Ralph Pastor, the Ice 
+lamms were defeated by an agressive Pitt 
+earn. 5-1. Momentary defensive lapses and 
+penalties hurt the Tartans, whose lone goal 
+vas scored bv freshman left wing Marty 
+jorman.
+Gorman slid a backhand past Pitt goalie 
+im Godwin early in the game to give Tech
+10 lead. Pitt came back to tie the game 
+1 on a controversial goal. It looked as if 
+itt crossed the blue line off sides, but the 
+[eferee ruled that the left wing had his skate 
+in the blue line as they crossed.
+1 he next goal may have been the turnng point. Tartan denter Don Heyse broke 
+I >ose for a breakaway, but goalie Godwin 
+I >rced Heyse to shoot wide. Pitt came right
+I ack and scored on goalie Bob Kosakowski
+II the other end.
+I Pitt entered the third period with this nar 
+>"' 2-1 lead, but wore down the Tartans 
+ith hard checking, a few cheap shots and 
+strong offense to score three goals.
+Pitt s captain, defenseman Damon Jones. 
+as an impressive skater and checker, but 
+iii(l a habit of hitting someone after every 
+ner tie up. The referees lost all control 
+l< in the game. At one point, a Pitt forlaid tried to rip the helmet off of Mike 
+I alloran with Hallorans head still in it. I he 
+lltl player had about a one foot height adIimage. 1 he referee called equal penalties.
+I "as that type of game.
+I (s Boh Koch sat out the game with 
+I I'1 oken wrist.
+I Sunday afternoon, the offense, which has 
+I ad a tough time putting the puck in the 
+let late, defeated Penn State 9-0. RobI
+aiz had four goals and one assist; Eric 
+5ray three goals and one assist; Sean 
+'cGinn and Steve Desrochers each had one 
+a* I he victory puts the Tartans at 2-4-1 
+ir the season.
+
+---------------------------------------------------
+
+Page 12The TartanJanuary 15, 1985
+Martial Art Club
+The objective of the CMU Martial Art Club is to train a well rounded individual in the field of martial art. We seek to explore variety in the oriental art of self-defense from which an individual can select the techniques that he or she can adapt to best Martial art training increases physical fitness and awareness of the mind and body and so can f be called an art of self-cultivation.CMU Martial Art Club instructs these arts:Tae Kwon Do Karate, the way of the hand and foot, the Korean style known for its spectacular and devastating kicks: and Ju-Jitsu. based on opponent manipulation, principles of motion, and throwing
+Head Instructor  Robert Opal sky Special Guest InstuctorCurtis Smith
+Meets at Thistle Hall
+I CMU Gymnasium
+Monday  8:30-10:00 PM 
+Wednesday  7:30-9:00 PM
+Beginners are welcome
+Super Stats
+RUSHING
+No.Yds.Avg.TDs.Wendell Tyler, 49ers....27013655.14Roger Craig, 49ers.........1737274.27Tony Nathan, Dolphins1556984.51W. Bennett, Dolphins..1636804.51Joe Carter, Dolphins....1014994.91Pete Johnson, Dophins..1042662.612Derrick Harmon, 49ers.432094.91Joe Montana, 49ers........472034.32Bill Ring, 49ers................401674.23A. Franklin, Dolphins..20743.70Freddie Solomon,49ers..67212.01Mark Clayton,Dolphins.33511.70Earl Cooper, 49ers.........3134.30Carl Monroe, 49ers........3134.30Nat Moore, Dolphins...133.00
+RECEIVING
+No.Yd*.Avg.TDs.
+Mark Clayton, Dolphins82155919.020Mark Du per, Dolphins..79148618.810Roger Craig, 49ers..........757069.43Tony Nathan, Dolphins737139.82Dwight Clark, 49ers......65107516.57Freddie Solomon, 49ers.5190417.712Nat Moore, Dolphins...4761813.17Earl Cooper, 49ers.........4345910.74Dan Johnson, Dolphins.3442612.53Bruce Hardy, Dolphins.333219.76Wendell Tyler, 49ers....322788.72Russ Francis, 49ers........2631412.13Mike Wilson, 49ers ......2230714.01Jimmy Cefalo, Dolphins2022811.43Ren. Nehemiah, 49ers..1936719.32Joe Rose, Dolphins.........1423616.92Jim Jensen, Dolpnins__1315910.72Carl Monroe, 49ers........1113912.61joe Carter, Dolphins....8536.60W. Bennett, Dolphins..7649.11John Frank, 49ers...........7608.61Bill Ring, 49ers................3103.30Derrick Harmon, 49ers252.50
+FIELD GOALS
+0-4040TotalWersching, 49ers.............20 258-1528 40von Schamann Dolphins. 11150-911 24
+Forward Lanes now hasALL-NIGHT BOWLING
+from midnight to 5 am 
+Fridays and Saturdays 
+$20 per lane 
+only 5 minutes from campus 
+for more information call 432-5844
+Friday and Sa.urday NigWs
+12 a.m.  J a n
+Were now open 24 hours everyday
+athPa/ik
+Murray Ave., Squirrel Hill
+IM Report
+continued from page 10
+meetkig is January 24-, at 2:00 p.m. in room
+101 gym. Please note new meeting time.
+ALL-SPORTS TROPHY
+Pika leads the standings for this new 
+award, with 68.0 points, mostly by virtue of 
+winning major league football. ATO, semi
+finalists in football and soccer, and finalist 
+in table tennis, is second with 65.5 points 
+while PiLam is next with 59.85.
+Catch Our Late Show!
+A CD. Marino, Dolphins..630 404J. Montana, 49ers..........505 322M. Cavanaugh, 49ers.. 62 34D. Strock, Dolphins__ 6 4J. Jensen, Dolphins.... 1 1T. Nathan, Dolphins.. 1 1
+64.163.854.8 66.7
+100.0
+100.0
+57674172452273514
+During the time you're an undergraduate or graduate student, 
+you may experience some of the following:
+DEPRESSION  ANXIETY  LONELINESS  ANGER  CAREER DOUBTS
+ FAMILY TROUBLES  DIFFICULTY WITH FRIENDSHIPS  
+SEXUAL QUESTIONS  MARITAL OR PARENTING PROBLEMS
+ LACK OF MOTIVATION  SLEEPING OR EATING PROBLEMS
+Up to a certain level these feelings are quite normal, but when they begin to get 
+in the way or overwhelm you, psychotherapy may be of help. Approximately 
+half of our patients are students.
+If you are interested in seeking such help through insight-oriented, confi
+dential psychotherapy on a sliding fee scale, call 661-2300 and ask for Mrs. 
+Browa Qualified therapists will be available to speak with you. We are only 2 
+miles from Oakland, an easy bus ride. Insurance coverage can often be utilized.
+%
+The Pittsburgh Psychoanalytic Center
+211 N. Whitfield St, Pittsburgh, Pa. 15206 
+A private clinic in the public service
+
+---------------------------------------------------
+
+Your college degree plus Air Force ROTC participation equals a 
+commission as an Air Force officer. Its our formula for success. 
+The Air Force needs bright young men and women who are major
+ing in many engineering and scientific fields.
+AFROTC offers 2 through 4-year scholarships which can help 
+offset the high costs of a college education, plus youll receive 
+$100 per academic month for living expenses. After graduation 
+and completion of Air Force ROTC, youll be an Air Force officer 
+with responsibilities working in a high tech environment with 
+modern equipment. The Air Force can put you and your degree to
+good use right away.
+Find out more about Air Force ROTC and what it holds for your
+future by contacting:
+
+---------------------------------------------------
+
+Editorial.
+Out with the old, in with the new
+A year ago a group of editors with 
+an excess of energy and ideas took of
+fice at The Tartan. We like to think 
+our results were good.
+The Editorial section was moved 
+from the front to the back of the 
+paper. This change, like others we 
+made, were all undertaken to 
+strengthen the newspaper. We tried 
+to print a news section of at least four 
+pages in each issue. We thought there 
+was at least that much important 
+news every week.
+We worked to open up our opinion 
+and editorial pages to the campus. 
+Through such series as The Greek 
+View, The Libertarian Alternative, 
+student government president Bill 
+McCormicks perspective and Presi
+dent Cyerts occasional column, we 
+sought out other peoples ideas. The 
+administration, Student Senate and 
+the Greek community for the first 
+time had a real voice.
+We feel the past year has been a 
+good one, but the soapbox is begin
+ning to creak beneath our load. The 
+reins of The Tartan are going to be 
+passed to a new Editor-in-Chief, who 
+has just as much energy and en
+thusiasm as those of us stepping 
+down.
+One final word for those whove 
+read this far. It hasnt been easy put
+ting The Tartan together the past 
+year. For better or worse, weve shown 
+up on Sundays weekly to produce the 
+best newspaper we know how. At 
+most schools, editors are paid either 
+in academic credit or hard cash. 
+Sometimes it seems that The Tartan 
+is paid in hard knocks, but we hope 
+we have made something worthwhile 
+here and there.
+We wish Stephen and the new staff 
+good luck. We know that there will 
+be times when theyll need it, just as 
+we know that their paper is going to 
+be worth reading. Stay tuned.Lessons of the ZBT incident
+Now that the furor of the MMA 
+incident has died down, and the 
+Special Appeals Board has made its 
+final decision (see page 1), its time 
+to analyze the series of events trig
+gered by the incident. An encounter 
+between fraternity members and 
+Korean students eventually grew to 
+embroil much of the University in 
+controversy; we must take the oppor
+tunity to examine, with the benefit 
+of hindsight, how to avoid such con
+troversy in the future.
+The administration and the 
+students. Were the decisions made by 
+the administration unfair? 
+Throughout the proceedings, 
+students questioned the validity of 
+the administrations responses, and 
+even its right to make a response. 
+But, contrary to this typical anti
+authority reaction, we think the ad
+ministrations decisions were fair and 
+responsible.
+Zeta Beta Tau was on probation, 
+and had been warned about reaction 
+to future incidents. The administra
+tions decisions were not made to pre
+vent bad press, nor were they made 
+out of a prejudicial dislike for ZBT.
+Rather, they followed a hierarchy of 
+disciplinary actions, and loss of 
+charter was the final step in this 
+hierarchy. What students have to 
+realize is that stereotypes such as Ad
+ministrators dont like students are 
+rarely, if ever, valid.
+The media. While the administra
+tion was deliberating over the fate of 
+ZBT, coverage in the local 
+newspapers only added fuel to the 
+fire. The Pittsburgh Press and PostGazette immediately assumed an 
+anti-fraternity bias. The Press, in not 
+reporting all the facts, made it seem 
+as if the fraternity was in
+discriminately attacking students. 
+The Post-Gazette went so far as to 
+liken ZBT to Animal House. Even 
+The Tartan mislabeled the incident 
+as a brawl.
+We can not easily change the way 
+the Press and Post-Gazette report. In
+deed, we can not control inaccuracies 
+on their part. However, we at The 
+Tartan are most responsible for 
+reporting the activities of this cam
+pus; therefore, the incident serves to 
+heighten our awareness of how fine 
+the line between fact and sensaLetters:
+The difficulty with the Software 
+Engineering institute
+Editor:
+I am writing to you concerning the seesaw 
+of opinions regarding the Software Engineer
+ing Institute that have appeared in the local 
+papers recently. At the onset, let me say that 
+I share Profe*or Wolfensteins concern about 
+the censorship of research results.
+This is a grave condition for any academic
+institution to accept in order to guarantee 
+funding, but not one uncharacteristic of the 
+Department of Defense. Normally, computer 
+science firms specializing in military research 
+and applications accept grants under such 
+provisions.
+However, a university is not a consulting 
+continuad on paga 17
+tionalism can be.
+Access to information. Unfor
+tunately, some of the inaccuracies in 
+our reporting, and part of the 
+widespread confusion felt by the 
+campus, were directly attributable to 
+the lack of official information releas
+ed. While confidentiality is 
+sometimes a necessity, in excess it 
+hampers The Tartans role as the 
+most important source of campus 
+news.
+Both The Tartan and Student 
+Senate were crippled in their efforts 
+to represent the best interests of the 
+campus community because the on
+ly evidence available was hearsay and 
+rumor. We urge the administration 
+and campus organizations to release 
+information more freely when an 
+event is of precedent-setting impor
+tance. Such openness will help to 
+lessen confusion and misconceptions 
+. . . and would have helped in this 
+case.
+The return of ZBT. A further in
+dication of the administrations sound 
+reasoning is their offer to let ZBT 
+reorganize. The fraternitys return
+Opinion Policy
+Editorials appear at the beginning of the opinion 
+section, and are the official opinion of The Tar
+tan Editorial Board.
+Columns are the opinions of individual authors 
+who are usually on The Tartan staff, but the 
+opinions are not necessarily those of The Tartan 
+Editorial Board.
+Ltttm to the Editor are opinions of mdnndual 
+authors who are usually members of the Univer
+sity community. A letter intended for publication 
+must be signed and include the writers address 
+and phone number for verification. Names will 
+be withheld upon request. The Tartan reserves 
+the right to condense or reject any letter.
+will be difficult, and if they form a 
+colony it will most likely be subject 
+to a hazing from other fraternities 
+similar to the one they received last 
+semester.
+ZBTs members now have two 
+choices. If they decide not to form a 
+new chapter, they will have succumb 
+ed to the ill will felt by only a minori 
+ty of the campus. If they do return 
+and successfully form a new frater 
+nity, they will have proven their right 
+to exist as a campus group, more so 
+than any other. The Tartan hope 
+that the responsible, competent 
+members of ZBT have the courage 
+accept the Universitys offer.
+TheTartaiv
+Editor-in-Chief .....................Ric Medn
+Managing Editor..................Mike Pit
+Business Manager-----Neil Greenbl
+News Editor.............Christopher Le
+Entertainment Editor .... Ric Me*
+Sports Editor..........................Don
+Photography Editor .... Mike F 
+Production Manager ... Katrin Wesnj
+Ad Manager.......................Steve Vr
+Typesetting Manager-----Jill C
+Art Director.........Michael A. Su
+Assoc. Business Mgr. ... Bonnie ^ 
+Assoc. Features Editor Neal W. Joh
+Asst. News Editor...............Karen
+Asst Sports Editor-----John Fr*
+.... Paul M
+Asst. Typesetting Mgr. .. - Joe
+Asst Art Director..............Mark
+Contributing Editor.........Pauline
+...............Scott
+Editorial Assistant.........Mohan
+Production Staff: Bob Aarhus, 
+BJanck, Tina Hatchl, Mark Lieberman 
+Masalsky.
+Copyright 1984 by The Tartan. The Editt^ 
+reaerves the right lo withhold from pubicaoon 
+it deems unfit lor publication.
+
+---------------------------------------------------
+
+January 15, 1985The TartanPage 15
+enate can handle 
+our campus needs
+By MICHAEL BETT
+If you ever wished that you could change 
+omething on campus, but you didnt know 
+here to start, then this column is for you. 
+Student Senate is here to serve the campus 
+community, and Im going to tell you how 
+ou can best abuse Student Senate for your 
+lWn benefit.
+Since this is the beginning of the semester, 
+this should be a good time to tell you how 
+/on can solve any academic problem that 
+iou may encounter. This includes; but is 
+lefmitely not limited to: being wait-listed 
+from a class, dissatisfaction with a professor 
+>r department for any reason, or needing 
+in additional course offered. The Academic 
+[fairs Committee, chaired by Cindy Taylor, 
+rill help you with these problems and others, 
+[n addition, please note that the Academic 
+iffairs Committee always welcomes comlendations for professors; these will be sent 
+the department and are weighted 
+ignificantly in the decision for tenure.
+If you would like to add something to 
+ipus life, we can do that too. The General 
+ampus & Information Committee, chaired 
+Peter Cohen, processes complaints and 
+iggestions concerning student affairs. The 
+tC&I Committee is also active in in?stigating problems that occur around 
+campus but are not of an academic nature, 
+[his committee tries to make life on campfas more pleasant by seeking policy changes 
+the auxilliary services which include UDS, 
+[ousing, and the Bookstore. Usually, sugitions for policy changes come from 
+idents and are accepted by the administra>n when presented by Student Senate.
+a/7 Tobias
+Maybe youre thinking about forming a 
+club; if so, then the Rules Committee, 
+chaired by Larry Bach, can help. They will 
+give you all the information you need for for
+ming a club, as well as decide what status 
+your club should receive: service, funded, or 
+non-funded. Clubs must be recognized by 
+Senate in order to be allowed to meet on 
+campus and have club rooms on campus. In 
+addition, the Rules Committee keeps an upto-date list of the active clubs on campus and 
+makes amendments to the Student Constitu
+tion. Both the club list and constitution are 
+available on-line in [SS2P] on TopsE.
+Finally, if you already belong to a club 
+that is funded by Senate, then your club 
+must appear once a year before the Finance 
+Committee, chaired by David Goldstein,, for 
+a budget hearing. Working closely with 
+Dean Cox, the Finance Committee plans the 
+allocation of our Student Activities Fee. If 
+your club is planning a fund-raising event 
+or needs money for an unforseen purpose, 
+the Finance Committee can help you plan 
+your clubs budget, or resolve a financial 
+crisis.
+Together, the Academic Affairs, GC&I, 
+Rule, and Finance Committees are here to 
+serve you. If you need something done, 
+Senate can get it done. Our meetings are 
+each Tuesday night in the Wherrett Room 
+at 7:00 p.m. and are always open to the cam
+pus community. Feel free to come and bring 
+us your problems, complaints, or questions; 
+or just come to observe. Working together, 
+we get things done.
+Michael Bett is a junior majoring in 
+Mathematics and is chairman of Student 
+Senate.
+I have decided to take a break from 
+litics for a while and write some columns 
+bout campus matters. My opponents 
+wouldnt breathe a sigh of relief, though; 
+still intend on writing columns on politics 
+I om time to time; however, since the new 
+phasis of The Tartan is on expanding its 
+>verage of CMU-related things, I will also 
+columns on campus topics.
+For the last couple of years, the Universihas been adopting policies aimed at 
+E M P*ac^ng mainframe computers and ter0 1 mals with personal computers. While there 
+I e many positive aspects to this, I think that 
+I ey sometimes go a little too far in their 
+I adlong dash to PC-ify the campus. I am 
+l^ticularly referring to their closing of the 
+j|d Wean Hall 5th floor terminal room, in 
+|der t0 0pen yet another p^; cluster. 
+jfl ClearlY some of the reasons I have for op
+ining this move are sentimental. That terI nal rom had.been an important fixture 
+I ^ves f students in computer-related 
+|-as ^ere fr many years, and it had a
+I atmosphere to it. The new PC rooms,
+II their antiseptic corporate-style aparance, the User Consultants supervising 
+H rybody, and the once-omnipresent Coke
+ ttes now forbidden, just dont feel the
+ ne And the rows of identical IBM PCs
+'^>vThave thes * W llOOs, FOXes
+fl|;t 2i/$
+B^owe
+KlS^ I have the same feel as the old VT52s, 
+etc. whose quirks I spent my 
+years at CMU getting used to. 
+ever, there are also some practical 
+ ns why that closing mught not have
+In ]SUC^ 3 ^OOC* ^eaThe 5th-floor tero rm had the characteristic of being 
+V terminal room on campus that was 
+n^2^enEven during vacations it was 
+l e ^ Thus, a student feeling the
+t0 hack, or just check his electronic
+Fantasy of a news editor
+fhere have all the terminals gone?
+mail, always had a place to go regardless ot 
+the date or time.
+This is no longer true. The new PC 
+clusters need constant supervision, and can
+not be left unattended like the Wean ter
+minal room was. Thus, although some of 
+them are open 24 hours during the school 
+year, their hours slacken off during holidays 
+and vacations, so on the Sunday before 
+classes started this month for instance, I ar
+rived back to the campus to find no ter
+minals available anywhere. Also, the PC 
+clusters are frequently reserved for classes 
+and workshops. It is for these reasons that 
+there ought to be an unattended terminal 
+facility left open somewhere which is always 
+available to students.
+Another thing is, despite the big PC push, 
+there are still many courses, and non-class 
+activities such as sending electronic mail or 
+bulletin boards, which use the TOPS-20 
+systems. Thus, there is still some practical 
+value in having terminals, rather than PCs, 
+in some places. Using a PC as a terminal is 
+cumbersome, requiring that a disk be check
+ed out from the user consultant and booted 
+up. Also, some other perils have turned up, 
+such as the notorious password nabber who 
+reportedly wrote a program on the PC to 
+steal peoples passwords as they logged in. 
+Additionally, it is a waste of University 
+resources to put in lots of expensive PCs 
+when they are mostly used as terminals 
+anyway. Some mixture of PCs for those who 
+need them, and terminals for those who only 
+wish to log in, would be more economical.
+Thus, while I think PCs are very useful 
+for many purposes, and I think the concept 
+of a PC cluster is a good idea, I also think 
+the University has gone too far in replacing 
+all terminals with PCs. It would be better 
+if they left some plain old terminals for those 
+students who use the mainframe computers.
+By KAREN GRAY
+Have you ever, after hours of feverish 
+work to conceptualize, produce, and im
+prove a product, thought, Why am I do
+ing this? Of course you have. All of us at 
+CMU plod continuously toward our diverse, 
+often distant goals. The important thing for 
+each of us to do is remind ourselves for our 
+reasons to continue. The following is a 
+reminder to myself about why I am the new 
+news editor of The Tartan .
+(now putting on patriotic hymnal)
+I have a dream. I have a dream that one 
+day, thirty-five motivated, personable 
+writers will march in the door single-file, 
+proclaiming, Yes, Karen, wed love to write 
+for you, and well have it in by deadline! 
+I have a dream that one day, people from 
+all walks of CMU life will loudly proclaim, 
+Yes, we understand the importance of hav
+ing a good student newspaper  and well 
+help you make the deadline!
+I have a dream that one day, faculty 
+members I need to interview will not fly to 
+Los Angeles five hours before I plan to ap
+proach them.
+I have a dream that one day, The Tar
+tan will be the kind of newspaper that serves 
+its readers well enough to enable them to be
+well-informed, about both campus and out
+side events which affect them. I have a 
+dream that, at that exact moment, students 
+will realize how much more control they 
+could have over what happens to their 
+university, if only they tried a little harder 
+to understand how the Flashcube works...
+I have a dream that one day, little drama 
+majors and litde engineers will play together 
+in harmony. More importantly, they 
+together will write the articles which will be 
+judged not on the students major, but on 
+the content of the article! This is the dream 
+I have today!
+So let the news ring out from Skibo! Let 
+the news ring out from Flashcube Warner! 
+Let the news ring out from Fraternity 
+Quadrangle! Let the news ring out from the 
+Hill Dorms to the Mudge fountain, and 
+everywhere!
+Above all, let The Tartan be the wellwritten voice of the students its readers 
+deserve.
+(now removing patriotic recording)
+Thank you for letting me share my 
+thoughts on this overworked evening. Thank 
+you, and God bless.
+Karen Gray is a sophomore in English and 
+News Editor-elect of The Tartan.
+Catogs Prs Sarvice
+
+---------------------------------------------------
+
+Our Full Service 
+Salon Offers:
+HAIR CUTTING *HAIR COLOR BODY WAVES *JERI CURLS CAREFREE CURLS RELAXERS Call TodaySalvatore Puccini can help you achieve that certain look of success for the many times of your life. Step into Puccinis where our skilled professionals qffer the finest elements of hair design.
+Salvatore
+PUCCINIPrints and Slides from the same roll
+Hair Design
+110 South Bouquet St 
+Oakland 
+621 2087PRESENT THIS VALUABLE COUPON FOR YOUR
+FANTASTIC SAVINGS
+ON THREE COMPLETE HAIRCUTS 
+! FOR ONLY '
+Kodak MP film... Eastman 
+Kodaks professional color 
+motion picture (MP) film 
+now adapted for still use in 
+35 mm cameras by Seattle 
+FilmWorks. Its micro-fine 
+grain and rich color satura
+tion meet the exacting 
+standards of the movie 
+industry. Shoot in low or 
+bright light from 200 ASA 
+up to 1200 ASA. Get prints 
+or slides, or both, from the 
+same roll. Enjoy the very 
+latest in photographic 
+technology with substantial 
+savings.
+500 Lincoln Hwy. 
+Great Valley Mart 
+North Versailles 
+823-7100
+Rt. 19 & New Freedom Rd 
+Cranberry Mall 
+776-1521
+Convenient Day 
+& Evening Hours
+Just stop by our Oakland location by Jan. 171985 with these coupons and your $30.00 for validation 
+Your next 3 haircuts can be at your convenience during the spring term.
+INTRODUCTORY 
+OFFER
+? Rush me two 20-exposure rolls of your leading KODAK MP filmKodak 5247 (200 ASA). Enclosed is $2.00. Id like to be able to get color prints or slides (or both) from the same roll and experience the remarkable versatility of this professional quality film.
+NAME
+ADDRESS
+Limit 2 rots per customer
+Kodak 5247 is a registered trademark of the Eastman Kodak Company.
+Mail to: Seattle FilmWorks P.O. Box C-34056 Seattle, WA 98124e 1984 Seattle FtfnWore
+United Way. thanks to you it works for all of us!Take advantage of this opportunity to 
+shape your future and ours.. .join a 
+company that gladly makes space for 
+the new expressionist. Tomorrow is 
+taking shape at a company called 
+TRW.
+Equal Opportunity Employer 
+U.S. Citizenship Required
+On-campus interviews 2/5, 2/6 
+See your placement office for details.
+There's Always 
+Space for the 
+New Expressionist
+At TRW's Electronics and Defense 
+Sector, we recognize the value of new 
+ideas. We provide an environment 
+with space for free thought and 
+expression. To us, you are tomorrows 
+source of talent and creative energy. 
+With us, you can reach deep into the 
+expanses of your imagination and 
+help to develop technologies that 
+literally reach beyond the stars.
+Our informal and encouraging 
+atmosphere has produced a galaxy of 
+opportunities... encompassing large 
+software computer systems, 
+communications and scientific 
+spacecraft, alternative energy sources, 
+high energy lasers, and
+microelectronics development. These
+opportunities are open to you. ElBCtTOfHCS
+& Defense Sector
+------- ---------------------------------------------------;-------:. , ,  . ---------------------------:---
+
+---------------------------------------------------
+
+January 15, 1985The TartanPage 17
+Letters:
+continued page 14
+firm nor a Department of Defense contrac
+tor, and there are good reasons to prevent 
+it from becoming one. For one, knowledge 
+is a social phenomenon. If universities and 
+the Department of Defense insist on halting 
+the free flow of information through a
+I discipline, the pluralism of ideas which 
+drives academic investigation will cease.
+In addition, ask yourself how young 
+scholars can possibly exist under such con
+ditions. Junior professor and graduate 
+students have to be able to publish articles 
+to gain peer recognition and tenure. 
+Refereed publications also serve as a qualitycontrol filter on work in progress. Current
+ly, if you cant publish your research, chances 
+are that it isnt of sufficient quality to be 
+recognized by your peers. If publications are 
+halted or inhibited, where will the next 
+generation of educators in our country come 
+from, and on what criterion will their 
+research be judged?
+As far as I can glean from the handwaving news releases describing the SEIs 
+purpose, it is to aid in the transfer of 
+technology from computer science to comImercial engineering. Why then do these ap
+plications have to be kept secret? I can only 
+uspect that national security is at stake. 
+If this is so, what moral issues are involved 
+Bin research at the Institute, and is it wise that 
+university become embroiled in immoral 
+ilitary research?
+Now for a bit of ancient history. Back in 
+[. the late sixties or early seventies, Stanford 
+niversity supported a research institute like 
+El. Fortunately, they got caught doing nasy research (immoral) like calculating 
+aturation bombing patterns for nuclear 
+arheads, among other groovy things, 
+proar by the student body caused the exommunication from the university proper, 
+nd it became a private consulting firm. Toay, this research institute is one of the 
+rimary military contractors for military aplications in computer science.
+| The question we must ask is whether or 
+ot the SEI should be associated with the 
+niversity proper, or should it become an 
+utonomous research unit unto itself? If, in 
+act. the SEI is to remain an arm of the
+Pregnant? Call AT A
+Lets talk about your options
+Canng and confidential information 
+counseling, pregnancy testing and 
+related services.
+lotline: (412)731-2420
+teburgh 731-2420
+'Washington, PA 225-6494 
+tentative* to Abortion, Inc.
+a non profit orj*nti*in
+, Stanley H. KaplanThe SmartMOVE!
+PREPARATION POR:
+GMAT  LSAT  GRE
+MCATDAT
+oSHHf
+661-2772
+I(SB EDUCATIONAL CENTERCORNER CENTRE A NEGLEY AVE. AT SAUM SCVD
+-H.K
+university, how can we prevent or restrain the 
+Institute from undertaking research of an 
+immoral character?
+One way to maintain the security of the 
+research projects would be to make all 
+research proposals pass a peer review board 
+staffed by faculty and student represen
+tatives. I believe that it is a university regula
+tion that psychological experiments on 
+humans be made to pass a peer moral 
+review, so why not institute the same for 
+computer science research at SEI? Insted of 
+judging the effect of an experiment on a in
+dividual, we might ask is this research 
+benefical to society at large, or the preser
+vation of the species?
+To conclude, I urge the student body, 
+staff, and faculty to seek out the issues in
+volved here. They are complex indeed. A 
+dangerous consequence, I fear, of the CMU 
+acceptance of the censorship condition, is 
+that it will establish a precedent with the 
+Department of Defense; such that, the DOD 
+will expect and require all academic institu
+tions to follow suit. This would be a 
+disastrous violation of our academic 
+freedom, and our right to freedom of 
+speech.
+Philip Werner 
+History and Psychology 82 
+Graduate Student 
+Department of Computer and Informa
+tion Science 
+University of Massachusetts 
+Amherst, MA 01002
+L-U 11 I I I I I I I I I I I I I I I I I 11 I I I I I I I I I I M ITTIPICKER
+Where High Science Comes To Life.
+... and it can al begin for you Monday, January 28,1985, when 
+our representatives visit your campus
+High Science . . . a term that points sharply to a crucial link at Picker: the link 
+between the challenge of applied sciences and the achievement of technological heights. Look beyond Pickers world of medical diagnostic imaging, and nowhere will you find challenges more bracing or achievements more enticing 
+to your pride. At Picker, we are leaders in magnetic resonance imaging (MR), conventional and digital radiography and fluoroscopy, ultrasound imaging, computed tomography (CT), nuclear medicine and more. Future developments in diagnostic imaging will create tremendous opportunities for Picker International 
+and its employees.
+Heres where you come in! Picker would like to talk to bright, upcoming graduates who wish to be closely associated with some of the most remarkable technologies in the entire high-tech spectrum. Were seeking top grads with the following degrees:
+ Electrical Engineering
+ Physics
+ Computer Engineering 
+or Science
+You will make vital contributions in the following areas:
+ Research  EngineeringManufacturing Service Engineering
+At Picker you can look forward to working with a progressive, people-oriented management team who will respect your professionalism and your desire to advance along a chosen career path. For these and other reasons, doesnt it 
+follow that Where High Science Comes To Life is where your career should 
+come to life, too?
+See you Monday, January 28, 1985.Details available from your placement office.
+PICKER INTERNATIONAL
+M I I I M I H I I I M II I I I I I I I 11 I I I I I ITTTTTI
+MICROSOFT WILL BE ON CAMPUS JANUARY 18,1985 TO INTERVIEW EXCEPTIONAL SYSTEMS DESIGN PROGRAMMERS
+Microsoft Corporation develops the leading edge in microcomputer systems 
+software. Our BASIC is world renowned. Our XENIX and MS-DOS operating systems 
+have computer companies and others chomping at the bit. We design state of the 
+art systems software.
+We need programmers to work on Operating Systems, Compilers (FORTRAN, 
+COBOL Pascal, BASIC, C), Data Base Management Systems, Word Processing, 
+Interactive Systems, Graphics and more.
+Our OEM customer base is a Who's Who of the hardware business (IBM, Apple, 
+Radio Shack, Intel, Tektronix). As new systems like the IBM PC and new processors, 
+like the 68000 are developed, Microsoft's programmers get their hands on the 
+machines before they go into production. So your hardware suggestions and 
+software innovations during R&D become part of the computers of the future.
+Microsoft provides the best systems programming work environment
+ all the high-level hardware (DEC-20, PDP11, VAX, SUN 68000 machines) and 
+software development tools you'll need, in a
+ small company with lots of interaction and sharing of ideas and methods where
+ you can develop your full potential.
+And to make a good thing better, Microsoft is located in the Great Pacific Northwest 
+with
+ mountains, skiing, ocean, desert, rain forest, rivers and lakes all with easy reach
+ major cultural sports, social and commercial activities fifteen minutes away in 
+Seattle.
+We are looking for exceptional software design programmers  those with 
+intelligence, drive, and a commitment to excellence.
+We want programmers who will create Microsoft High Performance Software 
+Microsoft offers an excellent compensation and benefits package. Jo Ann Rahal, 
+Technical Recruiter, Dept. WZ, MICROSOFT CORPORATION, 10700 North up Way, Box 
+97200, Bellevue, Washington 98009. We are an equal opportunity employer.
+We will be interviewing on campus Friday, January 18,1985. Please contact your 
+career placement office for schedule information.
+MICROSOFTThe High Performance Software*
+
+---------------------------------------------------
+
+er ho
+& *
+WE PUT ITsV
+z
+m m m
+/
+the lifestyle you are seeking for putting down personal roots, plus the standards of challenging technological excellence can be found a\ Honeywell. Honeywell Test Instruments puts it all together for Electronic Engineering graduates in Littleton, Colorado. ,/ //Jfie Quality of the Colorado tffestyle is unique. In the Denver metropolitan area, we are considered a recreational paradise for the year-round sports enthusiast. Housing is affordable and our growing community features many fine cultural opportunities.
+The quality of a Honeywell Test Instruments career is also unique. We are a pace setting leader in the manufacture of sophisticated industrial electronic equipment. Our engineers are involved in an exciting small-company team environment, yet holding careers with a Fortune 100 multi-national corporation. We are still growing. Creativity and commitment are rewarded with advancement opportunities. i:::i / / / / / / / / //' , / / Jf J' y1 / / /If you want your lifestyle arid workstyle to have a unique quality, come up to Honeywell in Littleton, and put it all together.
+BSEE GRADUATES 
+SIGN-UP 
+FOR
+CAMPUS INTERVIEWS 
+January 21, 1985
+AT THE CAREER SERVICES AND 
+PLACEMENT CENTER
+ J 4f /Honeywell
+Together, we can find the answers.V
+DATE
+Mon., Jan. 2ist
+SPRING
+CARNIVAL
+BOOTH
+MEETINGS
+TIME ROOM IN SKIBO
+5pm13
+Mon., Feb. 4th7pm12
+Equal Opportunity Employer
+Mon., Feb. 18th7pm39
+Mon., Mar. 4th7pm12
+Mon., Apr. 1st7pm12
+DO YOU WANT TO BE A
+RESIDENT
+ASSISTANT
+NEXT YEAR?
+Applications will be available at 
+the Selection Interest Sessions on
+Sunday, January 20 at 9:00pm
+Tuesday, January 22 at 9:00pm
+Wednesday, January 23 at 9:00pm
+in the Wherrett Room
+You must attend one of these sessions to apply 
+Applications Due: Friday, January 25
+Custom Designed Hairstylesthat only look expensive I
+m 
+|I
+nI SAVE $2.60
+IIon aPRECISION HAIRCUT
+Complete with shampoo & styling 
+Regularly
+Offer expires
+EMPCCJRTiMS
+l_ AV
+Our professional stylists know that to custom cut your hair the way you want, they 
+must listen to what you want. That's why at Great Expectations you'll leave 
+with the style you had in mind. . .at a price you can afford. 
+SATISFACTION GUARANTEED
+COLOR PERMS FOR
+ALL STYLES
+$25.00
+WASH. CUT AND 
+BLOW DRY
+$13.00
+(ANY LENGTH)
+NoAppointment
+cxpccjimens
+PRECISION HAIRCUTTERS
+237 Atwood Street 
+Across the street from 
+Oakland Post Office 
+Mon.. Tues . Wed. 10-7 607-3500
+Thurs.. Frt. 10-9 No Appointments
+Sat 9-6
+UNISEX HAIR SALON
+
+---------------------------------------------------
+
+Fmes,
+oe FreshmanBy Mark Levine
+PvH, vw/rr A wwTpsmKr 
+Off f\ MESftP./ OEVKJ& A 
+05EI:CONSULTANT IS 
+0t5t tSOi ?Vi 60T W 
+own desk, A Trminal.
+T heNewspaer o f
+( / TO WM ACC10NTALLY 
+(SET K1 IfcWiNM-ONfKfc
+By Maszle and Beyeroindexter
+TVITfON
+ightgn-Wc&t uice 
+miw&p.prrorat
+The United Campus Ministry of Pittsburgh 
+serving Carnegie-Mellon University, Carlow 
+College and the University of Pittsburgh. 
+nuites you to share in
+A SERVICE OF AFFIRMATION AND RENEWAL
+To installThe Rev. James B. Miller as UCM Campus Minister
+Sunday, January 20th, 2 p. m 
+The Wherrett Room, Skibo 
+Carnegie-Mellon Vniuersity
+rs.cdw neocesK .TTSwT eHH*TcdScesK
+FINANCIAL AID APPLICANTS 1985-86
+financial Aid Applications for the 1985-86 academic year will be available for pick-up in the Financial Aid Office, 216 Warner Hall, after February 4, 1985. Please insure that you apply before MAY 1,1985, unless otherwise specified by your particular state grant agency. Please note the following 
+specific state grant deadlines:SENDliterature to
+Dossierc/o The Tartan Skibo rm.50
+Deadline for next issue is
+January 25,1985
+New Jersey  October 1, 1985 (Only renewable students need to apply) Ohio  August 16, 1985*** Pennsylvania  May 1, 1985*** Rhode Island  March 1, 1985 Vermont  March 1, 1985 West Virginia  March 1, 1985
+MEETthe Dossier staff every Monday night 
+7:00 Skibo rm.50
+CONFUSED?call Michele Keane at x2111
+ *  _ n order to apply for this state grant, you must 
+complete a separate state grf^t application.non-renewals 
+- renewals
+
+---------------------------------------------------
+
+Announcements.
+CLASSIFIEDS
+Anxious? Lonely? Depressed? Trouble with 
+family or friends? Sexual questions? Marital or 
+parenting problems? Lack of motivation? Sleep
+ing or eating problems? Talking about your life 
+with a psychotherapist may help. A private clinic, 
+we offer confidential, insight-orientated 
+psychotherapy at moderate fees. Approxiamately half of our patients are students. Insurance ap
+proved. Pittsburgh Psychoanalytic Center 
+661-2300.
+Come share ina Service of Afffirmation and 
+Renewal to officially celebrate the beginning of 
+the campus ministry of the Rev. James B. Miller 
+as a staff for the United Campus Ministry of Pitt
+sburgh. This ecumenical service will be held at 
+2:00 p.m. on Sunday, Jan. 20th, in the Wherret 
+Room of Skibo. All university students, faculty 
+and staff are cordially invited to attend.
+THE GUEST HOME at White Oak for Business 
+Travel, Relocation, Education, Emergency, 
+Tourism. Fine quality; member of Pgh. B&B. 
+(412) 751-7i43.
+Flying Fingers Word Processing. Letter or 
+typeset quality resumes, cover letters, papers and 
+manuscripts. Floppy disks available. Van Sickels 
+731-8978.
+Female Roommate wanted to share 3-bedroom 
+house in Squirrel Hill. Good location, bus line, 
+shopping. Graduate or older student preferred. 
+$140 * V utilities. Call evenings 422-4248; ask for 
+Diane or Patti.
+Word Processing: Manuscripts, resumes and cover 
+letters, dissertations, term papers; Exact 
+copy/editing available, 24-hour service, 
+621-8544/681 5416.
+CMU Explorers Club has trips on most 
+weekends. X-C skiing, caving, rock climbing, 
+kayaking. Everyone welcome. Meetings every 
+Thursday 6:30 Skibo Rm. 12. Funded by your Ac
+tivities Fee.
+Low cost home style lunch at Lutheran center, 
+4515 Forbes, 11:30 to 1:30 weekdays.
+Attention Social Chairperson: PROTON is 
+ready to rock and roll your next party. Live music 
+from the 60s through the 80s. Call 681-3203 or 
+731-2143 evenings.
+LOST:Ignition key w/black plastic head. Lost 
+Wed. morning either in Skibo Parking Lot, or 
+between Wean Hall. Please bring to Wean 6211. 
+LANGUAGE CONSULTANTS  TUTORING:English as a second language; Spanish, 
+English. ACADEMIC EDITING: Term papers, 
+dissertations. Evenings and Weekends. 421-9239 
+Seven-room house with front and back yards and 
+garage, next to Schenley Park (Bartlett St.) $600*. 
+Call Maria at 521-4257.
+Applied nonviolence as an alternative to the 
+Arms Race  Sociology 175, Carlow College, ,2 
+or 3 credits; Tuesdays, January 22  April 23, 
+6:30-9:00 p.m. Intstructor: Dr. Liane Norman, 
+for more information, call Pittsburgh Peace In
+stitute, 687-4753.
+Creative, compassionate counseling to reduce 
+your stress, to enhance your functioning. Con
+tact Margaret Laske, M.S.W, at 421-5219.
+GREGMAT-LSATMCAT DAT
+QCORE HIGH
+. Build the confidence that comes from thorough, effective
+W preparation. Your true abilities, even your GPA may be
+meaningless if you are unfamiliar with or "freeze up" during your 
+admission exam. Unfortunately, your undergraduate training 
+alone may not be adequate to prepare you. That's where GAPS comes in. Test 
+strategy and content orientation can make the difference. Home study course 
+consists of lecture tapes and written materials that cover every topic area you'll 
+be expected to know. Practice exams indicate areas of strength and those 
+needing additional review. Graduate Admissions Preparation Service will give 
+you the knowledge and competitive edge you need to succeed on these 
+important exams 
+Prepare and you 
+can excel.
+Please send me more information
+no p a boxes please
+Send to: G.A.P.S., 500 Third Ave. W., Box C-19039,Seattle, WA 98109 Call toll-free: 1-800-426-2836
+.................J
+"AN EXTRAORDINARY MOVIE!
+-Newsweek David Arisen
+So compelling and convincing you cant 
+tear your eyes from the screen. It is not 
+to be missed.
+-Newsweek David Ansen
+The best film Ive seen this year. 
+At its best, movies just dont 
+get any better.
+-Good Morning America Joel Stegel
+FREE SCREENING
+Warner College Showcase
+TUesday, Jan. 15 
+7:30 p.m. 
+Squirrel Hill Theatre
+Please arrive early as seating is limited and on a fwst come first serve basis
+Parsons School, of Design
+Special Summer Programs
+France 
+Italy 
+Japan 
+West Africa 
+Lake Placid 
+New York City
+International programs offer courses including 
+painting, drawing, printmaking, fashion, graphic 
+design, photography, decorative arts, architec
+tural history, art history, ceramics, fibers, metals, 
+surface design and papermaking. Undergra
+duate and graduate credit is available to 
+qualified students. For more information, mail 
+the coupon below or call the Office of Special 
+Programs: (212) 741-8975.
+Parsons School of Design 
+Office of Special Programs 
+66 Fifth Avenue 
+New York, NY 10011
+Please send me a brochure on Parsons Special Summer 
+Programs.
+Name ____________________________________
+Address
+City___
+State__-Zip
+I am an ? artist ? teacher 
+? college student

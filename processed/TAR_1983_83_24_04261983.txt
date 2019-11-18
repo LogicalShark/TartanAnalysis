@@ -1,0 +1,3538 @@
+The Newspaper of Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213, Volume 83. Number 24, April 26, 1983.
+i The PIKA B buggy, Bullet, sped around the shoot in anose-to-nose with the Beta A buggy, Vixen.
+Latest model of 
+IBM computers 
+arrive at CMU
+By CARRIE CAUGHLIN
+Tartan Staffumter
+At least seventy IBM personal com
+puters recently arrived at CMU, the first of 
+the transition machines which will intro
+duce a new era in CMU computing. It is 
+expected that these computers, similar to 
+some which should be available for student 
+use next year, will reduce the load on the 
+Tops-20 system, particularly during peak 
+hours.
+Bill Sholar, personal computing support 
+coordinator, explained that the machines 
+are the latest model IBM personal compu
+ters. All have 116Kavailable memory, which 
+is expandable. Some are equipped for text 
+processing, while others are equipped for 
+work with colors and graphics.
+All the computers have a double disk 
+drive. Twenty have a hard disk with ten 
+mega-bytes (equivalent to 4000 disk pages 
+on Tops-20).
+continued on page 4
+Two year strategy for transition to P.C. 's announced
+By BOB AARHUS
+I Special for The TartanThe CMU Administration recently 
+[announced a two year strategy for the transition from the current TOPS/VAX dependent system to the Integrated Personal Computing Environment, and reaction to some of the programs proposed has been | rather varied.In a memorandum sent to college and 
+I department administrators, Vice-Provost for computing and planning Doug Van Houweling outlined a program designed to 
+lighten loads on the six DEC-20 machines while simultaneously transferring computjing power to newly purchased IBM personal computers. Because computer I demand has grown explosively, increasing 
+% per year for the past 3 years, the TOPS
+system has become more difficult to access, 
+and at the same time more expensive to own 
+and operate. A transfer to personal compu
+ters would reduce loads on DEC-20s while 
+still providing an equitable level of comput
+ing power.
+In order to encourage use of the PCs, Van 
+Houweling has introduced modest con
+trols which will improve the quality of time
+sharing services and will be moving certain 
+program applications from TOPS to PCs. 
+These control include the raising of prime
+time usage cost 30% (effective July 1), implementing EMACS-and-SCRIBE-like 
+programs on the PCs, and establishing 
+login restrictions when the system loadaverage on a particular machine reaches a 
+predetermined level.
+The load login-restrictions established
+two weeks ago and the anticipated rise in 
+user costs evoked considerable response, 
+both for and against, from the computing 
+community. One objection raised by several 
+users was that Van Houweling had consulted 
+neither students nor the Computer Policy 
+Advisory Committee (CPAC) before making 
+his decision to implement the login restric
+tions; students questioned whether it was 
+wise that he should take matters in his own 
+hands. (CPAC is composed of both faculty 
+and administrative members from depart
+ments throughout the University, and 
+advises the Computer Board, the adminis
+trative aim of computing, on computer mat
+ters. The committee has one student 
+representative.)
+CPAC Chairman, Dr. Michael Levine, an 
+advocate of controls regulating computer
+usage addressed these objections. He stated 
+that Van Houweling had submitted various 
+control proposals including login restric
+tions to CPAC before the policy statement, 
+although the committee had not discussed 
+the matter in great detail before the login 
+restrictions were implemented. Levine cau
+tioned that CPAC is only an advisory orga
+nization, and was not required to be. 
+consulted before policy decisions were 
+made.
+Dr. Steven Director, EE Department 
+Head, and former chairman of CPAC, com
+mented on the PC plan. Im in favor of it. I 
+think its terrific ... careful planning could 
+minimize the trauma [of the transition]. 
+He felt that CPAC had been listened to 
+during his chairmanship; when asked about 
+continued on paae 4UPC drive deemed a hoax
+% PAULINE KRAMER
+I tartan Features EditorI dont think its gonna stop us from 
+[helping; it might make us a little leary of 
+Icings like this in the future, says former jAlpha Phi Omega treasurer Richard Ketz of I die honest, now unnecessary, effort to help 
+|an unknown girl with an alleged kidney | disease1.
+When the service fraternity distributed 
+Receptacles for UPC (Universal Price Code) 
+lunations, no one could identify the founjdation which would collect the codes to 
+|sPonsor supposed needed hours of dialysis 
+Fitment, nor could the girls family be conpcted. It never occurred to anyone that 
+someone could contort an act of charity into |a hoax.
+The I PC collection effort started at a few 
+lurches m Ketz hometown, near Reading, 
+As Ketz said, Everyone assumed that the 
+l0ney got to die girl; unfortunately, this 
+as not the cast*. The only person which 
+could attach to the cause was Roberta reiner, just an" ordinary person who 
+vrks for a dry-cleaning establishment. She
+claims that the codes were going to a nurse, 
+who is now unreachable somewhere in 
+Philadelphia.
+A reporter from the Pottsville Republican 
+interviewed Ketz and his mother over spring 
+break, who also could not make heads nor 
+tails of the situation or why someone" would 
+want to pull off such a hoax. Previous to the 
+contact with the newspaper, Ketz called a 
+few possible foundations which may have 
+been a sponsor. The National Kidney Foun
+dation of Western Pennsylvania reported 
+that they experienced a case similar to this 
+five years ago.
+A Phi O has been receiving UPCs from 
+all over the country, from Wisconsin and 
+New York Cub Scout Troops to a woman in 
+Connecticut mailing a box full of the codes. 
+Whether theres just one or several incidents, 
+I cant tell, said Ketz, but its spreading all 
+over.
+No one knows why, or how many peo
+ple are involved, but right now I would just 
+say for people to stop saving them to stop it 
+spreading. There are so many fx>ople all 
+over the U.S. trying to help. Its such a shame.Renaissance bassist John Camp played to an enthusiastic crowd Friday nigh
+
+---------------------------------------------------
+
+Editorial
+Buggies may not have ABC Sports calibre, but no matter
+With Carnival just finishing a few days ago, 
+its remnants still splintered and chunked all 
+along Midway (nee Skibo parking lot), we 
+thought it appropriate to write about a certain 
+aspect of this hallowed CMU tradition and the 
+enigmatic compulsion driving people to . . .
+Drive buggies.
+Does anyone have a viable reason as to why 
+very little students compress themselves into 
+very little compartments, risking their lives at 
+speeds nearing 45 miles per hour?
+Sure, theres the fame and glory, but theres 
+got to be more. If youre lucky, that is if we 
+were lucky enough to convince a photo
+grapher to cover free rolls and he turned in 
+fairly clear photos, you might get your picture 
+in our honored newspaper. But thats only if 
+youre lucky; so chances are that if youre driv
+ing a buggy for Tartan notoriety, lets just say 
+that you should pick a safer business.
+Owls would probably get a kick out of get
+ting up at four in the morning to cram them
+selves into one of those flying sardine cans; we 
+dont know many owls at CMU  those who
+pay an activities fee, anyway. Unless you like 
+staying up until 3 drinking on a Saturday 
+night with a two hour interval before you get 
+to leave the warmth of your room  two hours 
+to decide whether to stay up or sleep  then we 
+figure that this strange obsession with these 
+buggies is not founded upon freezing dawn 
+excursions through Schenley Park.
+Losing weight to squeeze into a buggy is not 
+exactly something we all live for; then again, 
+students are used to starving. Not eating is 
+second nature to a student. But is it a pasttime 
+in which we would willingly engage, just for 
+kicks, just for that inexplainable adrenaline 
+rush come Friday morning of Spring 
+Carnival? Maybe . . .
+That stifled person snuggled so tightly can 
+see the spectators flailing their arms like users 
+of a sticky roll-on deoderant. The buggy is not 
+so airtight that the drivers are deafened to the 
+roar of one uproarious, thunderous cheer as 
+the two speeding vehicles streak nose to nose 
+through the chute,feverishly trying to avoid 
+each other and the hay bales.
+Could that be it? Is it the force thats with 
+buggy' drivers merely established by the thrill 
+of victory? Has ABC Sports been right all this 
+time  that competition is fueled by the thrill 
+of victory and agony of defeat?
+Maybe seering across the finish line on Frew 
+Street isnt on the same level as a depleted 
+marathoner envisioning the finish line of the 
+New York Marathon as he plods across the 
+Verrazano Bridge, or isnt as exhilarating as a 
+downhill skier negotiating tricky moguls high 
+up in the Colorodo Rockies. Maybe driving a 
+buggy past Phipps Conservatory lacks the 
+spark that would motivate a Wide World of 
+Sports athlete, but certainly, Howard Cosell 
+would think of something intelligent to say 
+about our races.
+Sweepstakes has remained an integral part 
+of CMUs spring for over half a century, and 
+hopefully will continue for many more years 
+ahead. The sense of true competitive spirit, 
+involving the entire school, is found almost 
+solely at Carnival, especially with 
+Sweepstakes.
+Forbes bridge destruction sparks visions of past
+By Phil Mason
+An era in transportation has come to an 
+end in Oakland. The Forbes Avenue bridge, 
+as most of us realize, is now becoming a part 
+of the past.
+For its unexpectedly long life
+time vehicles of every shape and 
+size have safely traversed over 
+Panther Hollow. Horses and 
+carriages, trolley cars and PAT buses, as well 
+as the everpresent automobile are among the
+Conflict in Poland
+many modes of transportaion to have 
+crossed the void in safety.
+Now it is time for the Forbes Avenue 
+bridge to yield to a new bridge of modem 
+design. It is interesting to reflect on just how 
+many bridges in the Pittsburgh area are 
+nearing their 100th anniversary. TheSmithfield, Schenley Park, and Panther Hollow 
+were all built before the turn of the century.
+It is amazing to think that the bridges 
+have existed through all of the century even
+though the designers and builders may not 
+have even considered the needs of modem 
+traffic or the possiblity of having their crea
+tions exist for so long. Pittsburgh, with its 
+many rivers, has seen many bridges. Down 
+on the hillsides and across the rivers one may 
+see the remains of old bridges  even a 
+tunnel that has been abandoned near Sta
+tion Square. Some bridges are not even in 
+service, only existing because of the expense 
+of removing them.
+It is sad that the care and work to erect 
+these elegant necessities must be thrown 
+away only to be replaced by a concrete 
+chunk of modem art and engineering. 
+Those beautiful lines of the past are on their 
+way out. Rust and neglect have taken their 
+toll. But let us remember the time and effort 
+put into these bridges of the past and try to 
+understand the thrill the designers must 
+have felt as the last bolt was tightened so 
+long ago.
+Walesa and Solidarity have government worried
+By Stuart Shapiro
+The leaders of the Polish regime are run
+ning scared.
+Of course, thats hardly anything new. 
+General Jaruzelski and his buddies have 
+been losing sleep for close to 
+three years on account of the 
+troublesome Lech Walesa and 
+his almost equally troublesome 
+compatriots. Still, they were probably rest
+ing a little easier while Walesa kept the rela
+tively low profile he has maintained since 
+the Polish authorities were kind enough to 
+release him after eleven months as a guest of 
+the State.
+Combine that with the fragmented and 
+seemingly ineffectual remnants of Solidarity 
+and the General and his equally loathsome 
+henchmen had reason to feel pleased with 
+themselves. It looked like they had put con
+siderable distance between themselves and 
+the proverbial frying pan.
+In the last two weeks, however, events 
+have suggested that images of hying pans 
+(or woks if you want to be fashionable about 
+it) still fill the little minds of Polish officials. 
+Apparently Lech and the boys are getting
+uppity again. As a result, the State is getting 
+a bit jittery. So jittery , in fact, that officials 
+deemed it necessary to detain and interro
+gate Walesa no less than three times within 
+the space of a week. And they didnt stop 
+there. The authorities also invited Walesas 
+wife and his part-time chauffeur to stop by 
+for a friendly conversation.
+It seems that Walesa has been holding 
+clandestine meetings with underground 
+Solidarity leaders. Such meetings are sup
+posedly, legal as long as they are not used to 
+plan illegal activities. In other words, as 
+long as Walesa and his friends dont plan 
+anything that might promote greater free
+dom and democracy in Poland, they can 
+hold their little get-togethers. I suppose they 
+could play chess.
+But I doubt that theyre playing chess. 
+The Polish government certainly doubts it. 
+If they didnt, they wouldnt be escalating 
+their harassment of Walesa. The authorities 
+must strongly suspect that Solidarity is gear
+ing up for some May Day protests, which it 
+probably is. (Solidarity still exists, if only in 
+the hearts and minds of the Polish jx-ople. 
+But then, thats where it originated.Kiltie lines inefficient
+Editor
+This is to complain about someaspectsof 
+Food Service. This is not another Food 
+Service Stinks letter; I think they generally 
+do a pretty good job. However, there are still 
+some things they do which I find 
+disagreeable.
+One of them is their lecent decision to 
+close one of the lines in Kjhie at so-called 
+off-peak times as an economy move. This
+seems to be designed to ensure a long line at 
+all times, not just peak hours. In fact, some 
+of the longest lines Ive seen in Kiltie have 
+been at the times they had onlv one line 
+open. Also, in the not-infrequent occasions 
+when the soda machine in one line goes on 
+the blink, or they run out of soup or ketchup 
+or something and Like forever to replace it, it 
+is good to have another line to go to. A 
+Forbersid or gtui c
+It would appear that Walesa will not be 
+quite as quiet and subservient as the govern
+ment might fervently wish. Polish officials 
+know from experience how effectively Lech 
+Walesa can ignite the smoldering discontent 
+in his fellow Poles. Having reestablished 
+totalitarian order, the last thing government 
+officials want is a new round of protests.
+So theyre leaning on the man who can 
+spark new confrontations between the Pol
+ish people and the Polish government. And 
+it would probably never occur to them that 
+the reason they have to constantly wony 
+about such possibilities is the fundamental 
+illegitimacy of that government.
+Any government with a modicum of pop
+ular support can tolerate internal protest. 
+Its when the protesters vastly outnumber 
+goverment supporters that such activities 
+become intolerable. In that case, the govern
+ment must rely upon coercion to maintain 
+its facade of legitimacy. Above all, it must 
+keep a tight rein on individuals who have 
+the capacity to consolidate and orchestrate 
+popular discontent. Is is a task with which 
+legitimate governments need not concern 
+themselves.Opinion Policy
+Editorials appear at the top of page two. and are the 
+official opinion of HuTartan Editorial Board. Columns are the opinions of individual authors who 
+are usually on Pic Taltan staff, hut the opinions are 
+not necessarily those of II' I arum EAitonal Board. Letters lo the editor are opinions of individual authors 
+u ho are usually memlters of the I nnrrsity commun
+ity. A letter intended for publication must he signed and 
+include the writer's address and plione number for 
+irrifuation. \ames will be withheld upon request. Ilw Tartan re.smrs the t ight to condense or reject any 
+letter.
+Lec h Walesa is such an individual. That 
+this one man can so frighten the Polish 
+government reveals the hollowness of its 
+claims of iegitimacy.
+Editor in Chief.............................Monica Cellio
+Managing Editor.........................Gregg Bossier
+Business Manager.......... ............ Kathy Was*
+News Editor...........................Joanne ^Savinell
+Features Editor.......................Pauline Kramer
+Entertainment Editor...................Susan Petrie
+Sports Editor..................................Jeff Bergman
+Photography Editor....................Steve Winawer
+Production Manager............Carolyn Sperana
+Ad Manager.................................Bonnie Topi
+Typesetting Manager.....................Patti Carlisle
+Art Director...........................Michael Sussman
+Contributing Editors.....................Alice Alfonsi
+Vince Guinto 
+Louise1 Crocoll
+Assoc. Ent. Editor.........................John Cantinc
+Assistant Business Mgr. . . ..........Tara Dieguff
+Assistant News Editors...............Chris Johnston
+Pauline Wen
+Asst Features Editor ...................Monica Safri11
+Asst Sports Editor...................... Ric Medr*j
+Asst Production Mgr..........................P<<er a'n
+Production Staff: Bob Aarhus, Doug Blair, 
+Kissler, Esther Filderman, Andrew Ghali, Scott 
+Safier.
+Copyright  198.1 by The Tartan. Ilw Editorial rev ives ilk' nght to withhold from publican1 ul ropy ii tktuis unfit for publication. Editorial Skibo V). (112) V78-2I11. Business Offices: Skiin' > (112) '>78-2112. 21 hotii phone. (112) .*>78-211.1. MajJ* iitUliess: Box 17. Sc lienlex Paik, Pittsburgh PA I--' Funded bv the Activities Fee.AH rights reserved.
+
+---------------------------------------------------
+
+April 26, 1983The TartanPage 3
+Letters 
+BYU dress reasonable
+Editor:
+After reading Mr. Spillanes article debas
+ing my undergraduate alma mater, I 
+I objected to his sophomoric conclusion that 
+Brigham Young Universitys high stand
+ards regarding perosnal appearance and 
+conduct creates an oppressive or stifling 
+environment. Outdoor games abound on 
+numerous lush fields and are played in 
+shorts and shirtless, albeit shoes must be 
+worn on campus lawns (how many people 
+do you see running barefoot in our chemi
+cally fertilized mud hole that passes for a 
+quad anyway?). Students do bag rays in 
+shorts or swimsuits at the multitude of local 
+pools in a sunshiny and pollution free 
+I setting.
+On BYUs open and beautiful campus, 
+I entertainment and recreation abounds in 
+nearly continual professional quality 
+theater, dance and music productions; four 
+I ram pus cinemas specialize in current, his
+torical comedy and foreign films; the physi
+cal education (and other departments) 
+facilities are unmatched in quality and var
+iety (indoor tennis, saunas, etc.) West of the
+Mississippi; a large on campus recreation 
+center provides indoor miniature golf, 
+bowling, air hockey, ping pong, etc.; 2 or 3
+dances occur weekly  and these represent 
+campus sponsored opportunities and dont 
+include the club, frat, sorority, and church 
+sponsored parties and activities.
+Saturday and Sunday mornings are 
+greeted with a minimum of DiGel and 
+aspirin and since warm weather and sun
+shine is guaranteed daily, they can be spent 
+lounging by the pool, windsurfing the local 
+fresh water lake, tubing the local river (clear 
+mountain water) or hiking the mountains 
+only a stone throw away.
+Scoring is subordinated to having good 
+old fashioned fun and sexual pressure is 
+reduced allowing for more free and casual 
+dating. I he Hunt is replaced by greater 
+equality and it is not uncommon for women 
+to ask men out.
+Believe me, the benefits of BYU are well 
+worth the self discipline and grooming 
+required.
+Kent Lowell 
+GSIA
+Graduate in Florida remembers life at CMU
+I Editor:
+May I reminisce for a moment about days I gone by at Camegie-Mellon???As some of you might remember it wasnt too terribly long ago that I was a college student. In fact I graduated a semester early I in December of 82.
+Happily I got a job working as a staffwriter for The Post of Palm Beach, Fla. HowI ever Im writing this message not to brag [about my accomplishments, but to confess that I really miss ol CMU. I never thought it possible to miss that despicable place. But every once and a while I find myself in a reverie about the green pastures I left behind | in Pittsburgh.Here is a list of things I miss and things you might miss too when CMU is only a | memory;
+certain professors with a sense of 
+humor,
+insane (only insane) parties with cam
+pus characters, 
+watching nerds,
+going to openings at The Kresge 
+Theater,
+acting foolish in Salads Plus, 
+cutting classes just to sit on the hill, 
+finding devious ways to procrastinate, 
+sleep.
+Tiiats right, sleep. I had a little habit of 
+sleeping through classes  I found out 
+quick that it doesnt go over big in a job.
+Also sometimes I handed in assignments 
+late  this also is unforgivable with news
+paper deadlines.
+You could always drop a class if you 
+didnt get along with the professor or if you 
+found the class a bore  in the real world 
+if you dont get along with an editor or 
+supervisor well thats just too bad.
+It was always nice to be able to say Hell, I 
+dont know what Im going to do when I get 
+out of this place  unfortunately I cant 
+say that any more.
+In addition, I have to deal here with peo
+ple asking me 199 questions about my past 
+life, why I came there and what Im doing
+there  in college, people only ask basically 
+three questions, you know these.
+But the thing I really miss most of all is 
+the self-contained world of CMU. There 
+was always a shoulder to cry on when I 
+needed one. I could always say: Fthis, 
+and go to a movie, or B.S. with someone or 
+sleep.
+Sometimes I feel trapped in my job  got
+to be responsible, got to get up, look like 
+something, be somebody, stay there until the 
+day is done.
+But before you start feeling too sorry for 
+me, just remember Im in sunny Florida, 
+and guess how I spend my weekends now  
+at the beach.
+Leslie Weinberg 
+(former Professional Writing major)
+Everyone has a religion
+V
+FaR, TMe aRMS BuiLpuP Ha pReVeNTep:
+f.r ' I
+a FRi6HTeNiN6
+eSca*fioN oF 
+ScWooL
+LuNcHe&. $ \ Trie OMiNOUS
+PecTeR oF 
+FboR PeoPLe 
+GeTTiN6
+a PeTaBiLiziNG BuiLPuP LeaL ai P. 
+oF TMe aRTS.
+Trie MasSive 
+PROLi FeRaTioH 
+oF cLLeee 
+GRaPuaTe.
+RockyiThePIKAB
+NEA CPS
+Editor:
+\ Scott Safier is correct in saying that reli
+gion on campus comes in your mail, is 
+painted on the fence, comes into your rooms 
+and is preached in front of Doherty. But in 
+his Opinion in the April 19 Tartan he did 
+not even begin to touch on the pervasive 
+influence of religion at CMU. His definition 
+of religion is far too limited.
+Life is religion, everyone is religious, we 
+are all living for something be it ourselves, 
+our majors, the fraternity, our terminal, or 
+God. Worship occurs on the fifth floor of 
+Science Hall as well as in the cathedral. 
+Religion is the set of values in which you 
+place your belief and trust. If you believe 
+computers are the ultimate solution to man
+kinds problems you are as religious as those
+of us who believe in salvation through Jesus 
+Christ. Andrew' Carnegie wrote a book 
+entitled The Gospel of Wealth in which he 
+talks about faith in science and technol
+ogy. And take a look at the words to the 
+Alma Mater  its a hymn praising art and 
+science.
+Yes, we all have different religious beliefs 
+and practices, but dont be blind to the gos
+pel that is preached to you every day from 
+the rowr of houses on Morewood Avenue, 
+from the classrooms and from Wramer Hall. 
+Those of us who claim Jesus Christ as Lord 
+arent the only ones who are religious.
+Meg Durkin 
+Campus Minister 
+Shadyside Presbyterian Church
+Onion soup is offensive
+continued from page 2
+students time is valuable; I wish they 
+wouldnt do this so-called economizing at 
+students expense. A slight variant erf the 
+close one line ploy is the Continental 
+Breakfast offered in Line 2 on some days; 
+this is a classy way of saying that there is 
+no hot food.
+Maybe other branches of the adrnii stration dont care about the students, and just 
+want to turn this place into a corporate 
+research facility, but as the name implies, 
+Food Service is here to provide a service to 
+the students; so their needs must be consi
+dered. Maybe I would better appreciate eco
+nomizing on the part of Food Service if that 
+allowed them to lower their food contract 
+prices.
+While Im on the subject of Food Service, 
+I could never understand why French
+Onion Soup.al ways stays out for at least two 
+days (for both lunch and dinner) while 
+Clam Chowder, which I like better, is usu
+ally there for only one meal. This is proba
+bly because hardly anybody wants French 
+Onion Soup, and they keep putting it out 
+there until it is finally used up. So why dont 
+they make less of it to begin with?
+Finally, I am not too pleased with the 
+quality of their weekend brunch. which 
+combines breakfast and lunch, and is usu
+ally worse than either. At this meal they do 
+not have any soup (which is normally part 
+of lunch) or tumed-over eggs (which are 
+normally available in Line 1 at breakfast), 
+and the quality of food in general at this 
+meal is inferior. The weekend Hash 
+Browns, in particular, are practically inedi
+ble, and seem to consist mosdy of grease.
+Dan Tobias 
+Applied Math/Comp Sd 86
+
+---------------------------------------------------
+
+Page 4The TartanApril 26, 1983
+IBM personal computers brought to university
+Forbersid npoa gtui k
+Software has been developed for the per
+sonal computers which mimics Emacs and 
+Scribe. This is expected to greatly reduce the 
+load on Tops-20, since editing work is often 
+repetitious, Sholar pointed out. He 
+remarked that people sometime run Scribe, 
+a text-formatting system, up to fifteen times 
+on a single manuscript.CPAC's value explored
+Forbersid npoa gtui k
+CPACs value in future planning, he com
+mented, Without them, it would be a 
+disaster.
+The director of H&SS Computing, Dr. 
+John Stucky, said of the current program, I 
+dont think were doing a bad job getting to 
+our goals. However, he did feel that Van 
+Houwelings earlier proposals had resulted 
+in an overexpansion of computing access 
+without sufficient ability to cover for it. 
+Although Stuckey said that CP AC had some 
+influence over policy decisions, he did not 
+feel that the administration was very recep
+tive to input from other sources.
+Both Stuckey and Director are pleased 
+that Dean John Crecine, who was recently 
+promoted to the office of Sr. V.P. for Aca
+demic Affairs, will be directing computing 
+in the years to come since both feel he 
+actively supports the expansion of student 
+access to computers.
+Although many student users have 
+opposed the institution of controls to limit 
+access to the system, it seems the general 
+concensus of those interviewed that some
+thing had to be done to reduce the overload 
+on the TOPS systems.
+With the new software, MINCE (Mince Is 
+Not Completely Emacs), and Scribble, a 
+form of Scribe, preliminary work can be 
+done on the IBMs. Furthermore, as a large 
+proportion of office computing consists of 
+text processing, and a large proportion of 
+office work is done during peak periods, 
+system demand will decrease during these 
+periods.
+MINCE and Scribble are not perfect repli
+cas of their parent programs; MINCE is a 
+smaller package made to fit on a smaller 
+machine. For clerical workers, it does about 
+90% of what they need to do, said Sholar.
+However, Sholar continued, hackers 
+may not be as satisfied with MINCE, as it 
+doesnt have some of the more intricate abili
+ties of Emacs. Yet, since the systems are comphoto by. Raj Viswanathan 
+IBM computers arrived recently as part of the transition into personal computing.
+patible, work done on the personal 
+computer can be transferred to the main 
+frame Tops-20, and there undergo final revi
+sions and adaptions.
+In the future, CMU plans to sell floppy 
+disk copies of MINCE and Scribble for 
+about $125. Although blank diskettes cost 
+about three dollars, the University must pay 
+royalties to the company which developed 
+the software.
+Currently, it has not been determined 
+how personal computers will be secure 
+against theft of their software. Either stu
+dents will have to buy or rent their own 
+diskettes, or some other method of security 
+will have to be developed.
+Sholar believes that the advantages of 
+using personal computer definitely out
+weigh the disadvantages. For example, 
+when the Tops-20 system crashes, work 
+done on personal computer s will be unaf
+fected, while work done on dummy termi
+nals will be lost.
+A student can save course work from one 
+year to the next on a floppy disk. Also, there 
+is no peak period or time constraints with 
+a personal computer. Sholar contends that 
+the limitations are more than offset by the 
+fact that you dont have to worn about 
+these problems which accompany system 
+overload.
+Police report
+Suspicious persons arrested around MMP, Morewood
+By NANCY RITCHEYTartan Staffuniter
+Within the last month, campus police 
+have arrested three persons who were found 
+in CMU buildings under suspicious cir
+cumstances, said Chief Robert Fadzen, of the 
+latest campus security activities.
+On Saturday, April 19, campus police
+OPEN
+CABER CLUB
+MARGARET
+MORRISON
+PLAZA
+CMU TOTAL FITNESS FACILITY
+CALL FOR AN APPOINTMENT 
+OR A FREE WORKOUT 
+OR JUST STOP IN 
+AND SEE THE CLUB
+FOR INFORMATION OR APPOINTMENT 
+CALL 578-8876
+HOURS 
+MON.  FRI. 
+SAT 
+SUN.
+10-10:00
+10-6:00
+12-6:00
+apprehended an individual in the Margaret 
+Morrison building. One of our officers rec
+ognized him as someone arrested on campus 
+last year for theft, Fadzen said. He added 
+that the suspect was told at that time never to 
+return to campus. According to Fadzen, this 
+suspect uses the names of prominent people 
+to identify himself in order to avoid arrest.
+Another suspicious person was appre
+hended at 2:30 p.m. in Morewood Gardens 
+dormitory. He was reported by a resident in 
+the dormitory. According to Fadzen, when 
+the suspect could not account for his pres
+ence in the dormitory, his background was 
+investigated and he was found to have a 
+criminal record.
+Fadzen said that based on the fact that he 
+was trespassing, he was arrested. We felt at 
+this time that he was in the building for 
+reasons other than were honorable, Fadzen 
+said. He has a hearing which is in the 
+judicial process. He continued; This is 
+one of the reasons why we worry so much
+about propping doors open in the dormito
+ries. People can be inviting disaster.
+Two arrests were made for theft. One 
+CMU student and one University of Pitts
+burgh student were arrested for the theft of 
+$230 from a vending machine in Wean Hall, 
+rhey were apprehended in front of Skibo, 
+according to Fadzen. This case has been 
+held for court, he added.
+Magazine solicitors are yearly problems 
+to the CMU security department. This year 
+an organization from Texas was warned by 
+security in Morewood Gardens to leave cam
+pus on April sixth. They were told not to 
+return, according to Fadzen. However, one 
+young woman was spotted the next day in 
+Doherty Apartments. She was issued a cit
+ation, Fadzen said.
+Fadzen concluded, I am glad that we are 
+apprehending them. Its important to point 
+out to students that if they see anyone who 
+doesnt belong or if they have any doubts 
+about intruders to call security immediately."
+PREGNANT? Call ATA 
+Let's talk about your options.
+HOTLINE; (412) 731-2420 
+PREGNANCY TESTING: 391-4706 
+908 Penn Avenue, Downtown 
+8-10 a.m. W; 11 a.m.-1 p.m. 
+MTTFS
+Free and confidential informa
+tion, counseling, pregnancy 
+testing and related services.
+ALTERNATIVES TO ABORTION 
+INC
+a non-profit organization
+UJomcfTs
+Health
+Services
+Now...
+Two Pregnancy 
+Testing Locations
+Oakland
+Room 212
+Parkvale Plaza Buildings 
+3520 Forbes Ave. (cor. Meyran) 
+Pittsburgh. PA 15213 
+(412) 683-3730
+Downtown
+625 Stanwix Street 
+12th FloorAllegheny Tower 
+Pittsburgh. PA 15222 
+(412) 562-1914
+Free pregnancy testing daily Call for hours jnd 
+instructions Confidential counseling available
+Squirrel Ulill Syctiquci
+$2000 OFF any purchase of prescription lens and frames
+$1000OFF nonprescription sunglasses 
+2242 ^Munrnf 
+Let'sa CWds lskb'osu 15217
+Qpluutn  i(4J 5?
+HOURS M W F S 10AM 5PM 
+T H 10AM 8 30PM
+
+---------------------------------------------------
+
+Features.
+CMU singer is "Miss Washington County
+By PAULINE KRAMER
+Tartan Features Editor
+Tammy Dieter is a junior here study
+ing vocal performance. Big deal, so you
+sayShe is from Youngstown, Ohio, 
+weighs 100 pounds, and is not a buggy
+pusher.
+So what?
+Last week, the soprano and president 
+of Sigma Alpha Iota, the professional 
+music sorority, received-a letter titling 
+her, (drum roll, please), Miss Washing
+ton County . This honor will send her to 
+Altoona on June 16th for the Miss Pen
+nsylvania pageant to compete against 21 
+other girls for the Miss America title.
+Unlike the Miss U. S. A. Pageant, Miss 
+America is judged 50% by the contestants 
+talent; in addition, the event is not a 
+beauty contest, but a scholarship page
+ant. The winner of Miss Pennsylvania 
+will win 15,000 dollars, 3 cars (for the 
+change of seasons, joked Dieter), plus a 
+scholarship. She is also required to live in 
+Altoona for a year; a four-page, one-year 
+contract prohibits Miss Pennsylvania 
+from drinking in public, endorsing any 
+products, or from conducting herself 
+inappropriately; otherwise, her crown 
+will be revoked.The remainder of the criterion is the same as other pageants; the girls will be judged in evening gowns, swimsuits, and by her presence in the dreaded interview. 
+According to the 21-year-old, 5'4", bluegreen-eyed soprano,The interview is the Worst part; you dont know what youre gonna get hit with.
+Dieter is prepared for changes in her life. Im going to be expected to do
+personal appearances in Washington 
+County. The multi-awarded high 
+school and college singer is looking for
+ward to these appearances, especially 
+riding in convertibles in parades, and 
+speaking at ladies luncheons.
+Thus far, professors have been verysupportive, but, at first her family was 
+hesitant about the whole ordeal, con
+cerned that schoolwork would play 
+second fiddle to the pageant. The other 
+girls arent jealous. . .yet. Everyone is 
+extremely supportive, but Im told that it 
+wears away, though.
+Dieter, who has sung twice at N. Y. s 
+Carnegie Music Hall, with George Gee, 
+as a back-up vocalist for Paul Anka when 
+he was in Pittsburgh this summer, and as 
+a featured vocalist with Benny Beraka 
+and the Dodge Kids, says that the whole 
+show is extremely non-political; its 
+checked out thoroughly. During the 
+pageant in June, the contestants are 
+placed under a 24-hour chaperon. They 
+are not permitted to see friends or family 
+while staying at the chaperons home; 
+they are victims of what Dieter calls a 
+pageant prison.
+I think its every little girls dream to 
+do this, she said. Even though she is 
+nervous about the prospect of standing in 
+front of judges and being stared at for 
+ten minutes, when you have to walk out 
+in front of 3,000 people, you sort of have 
+to get used to it.
+Dieter will be singing I Gotta Be Me, 
+which she chose because I have two 
+minutes and fifty seconds to tell them 
+about me. Your song represents you. 
+Only one person can be the winner. Its 
+you against you.Botanical Institute is a change of pace
+By MICHAEL HEANEYSpecial for the TartanEvery time you walk into Hunt Library, theres a sign that says Hunt Botanical Institute  Penthouse. As you pass the sign you wonder what an institute of botany, the oldest and most esoteric science, is doing at CMU, the professional choice. Youd like to see if this place is for real, but the Unit Operations exams is in two hours and if you dont study. . .
+Well if you had ever followed your curiosUY up to the fifth floor penthouse, you would have been awed by an atmosphere totally set apart from the campus below. From the beautiful teak floors and French walnut paneling to the luxurious tapestries 
+and chandeliers it is immediately apparent that this place is very different from the rest f the university. The Institute is devoted to the study and preservation of botanical hist0ry, which seems sort of strange considerlng that not a single course in botany is offered here. The Institute seems so ouf of Place that it seems a wonder that it wasnt inverted to Robotics labs long ago. But 
+cynicism turns to respect when you leam that this is a internationally known facility for research in botanical history and the nlv one of its kind in the country. Their catalogues contain the most comprehensive 
+Section of contemporary botanical artists 
+n(l illustrators anywhere. Welcome totany U.
+The Hunt Institute for Botanical Docuta tionlibiis not a supplement to the 
+irai7, but is actually the main reason why 
+built. In 1961 when Mr. and Mrs. Roy 
+Hunt were looking for a showcase for 
+eir extensive botanical collation, they tC|ded to build a library under it almost as 
+af,(rthought. There were even plans to
+start a botany department as part of the uni
+versity, but these were never carried out. 
+Today, Hunt Institute for Botanical Docu
+mentation continues to be funded by the 
+Hunt Foundation.
+Although the Institute initially has the 
+appearance of a private art gallery, it is prim
+arily a research institute. Its patrons are bot
+anists, artists, and publishers from all over 
+the world who are searching for a rare botan
+ical drawing or publication. Much of the
+Adventures abound with 
+cycle tours
+Adventure for all ages setslhe tone for the 
+1983 Highroad to Adventure travel bro
+chure now available from American Youth 
+Hostels. The Highroad lists more than 25 
+exciting, inexpensive bicycle, treking, and 
+mini-bus tours throughout the U.S., Can
+ada, Europe, and Asia.
+The small group atmosphere of an 
+A.Y.H. tour fosters a true esprit de corp. 
+Based on the idea of sharing the load, the 
+tours encourage each person to participate 
+in their own vacation. The results are last
+ing friendships unique to hostels and 
+hosteling.
+A.Y.H. tours range in length from nine 
+days to six weeks, with departures scheduled 
+throughout the spring, summer, and fall. 
+Prices are reasonable, with many prices 
+either the same or lower than last year. 
+Tours are priced between $20 to $35 per day, 
+which includes all lodging, meals, entrance 
+ui ntu w'*dntinued on page 7
+institutes work is carried out through 
+correspondence.
+In addition to the research facilities, there 
+is usually a display of botanical drawings, 
+both artistic and scientific. Two weeks ago, 
+for example, the Fifth International Exhibi
+tion of Botanical Art 8c Illustration opened. 
+This fall the Institute will launch its most 
+important exhibit ever, Flora Portrayed: 
+Classics of Botanical Art from the Hunt 
+Institute Collection. In addition, several of 
+its exhibitions are continuously out on loan
+Sadly, the Insutute gets little use from 
+within the university. Since there are no 
+botanists at CMU outside the Institute, the 
+only users are an occasional architect or 
+artist. This is unfortunate since the Institute 
+is definitely worth experiencing. Even if you 
+dont know the difference between a day-lily 
+and a daffodil and dont care, the Institute 
+offers a uniquely tranquil refuge. The 
+atmosphere is as opposite from the rest of 
+the university as is imaginable, yet only 
+moments awav.
+photo by Pauline Kramer
+English Dept. Profs Gerry Contanzo and Pete Jones after the Adamson Awards ceremony.
+
+---------------------------------------------------
+
+Page 6The TartanApril 26, 1983
+Military engineers travel
+S.A.M.E. sees political involvements in engineering
+The Society of American Military Engi
+neers (S.A.M.E.) sponsored a trip to the Gulf 
+Research Center in Harmarville, Pa., March
+6 for members and friends of the society. The 
+group was guided by Michael E. Prudich, a 
+Ph.D of Chemical Engineering who has 
+worked at Gulf for four years as a research 
+engineer.
+The engineers were first shown a compu
+terized qualitative mass spectrometer used 
+for catalysis identification, then observed a 
+small-scale reactor used in petroleum distil
+lation to analyze how the various catalysts 
+worked in actual use. This project has been 
+continuing since 1978 and is expected to 
+have results implemented in industry by 
+1986.
+Next, a completely automated laboratory 
+with three separate larger scale distillation 
+columns was shown. This lab required the 
+integration erf several different microproces
+sors to run its complex reactors. An empha
+sis on safety was also given high priority in 
+these labs.
+The tour continued with a trip through 
+the now shut down P99 coal liquification 
+plant. The group saw practical solutions to 
+real-world engineering problems, and was
+given a short lecture on the politics involved 
+with many such research projects.
+After lunch, a talk was given about under
+ground coal gasification (UCG). UCG was 
+compared to mining, and an engineering 
+analysis erf this was emphasized.
+Overall the group met approximately five 
+chemical engineering Ph.Ds and one
+Mechanical Engineer in Chemical Engi
+neering. A question and answer session 
+prior to departure dealt primarily with the 
+educational qualifications required and 
+desired for this particular type of job, the 
+aspects erf conception, design and imple
+mentation of individual research projects, 
+and the relationship; between industry andGet facts on herpes
+Genital herpes is todays most devastating 
+sexually transmitted disease. Twenty mil
+lion Americans are now infected and this 
+year there will be over 500,000 new infec
+tions among young adults and teenagers. 
+Unlike other sexually transmitted diseases 
+herpes, a lifelong physically and emotion
+ally painful disease, is a parasitic virus that is 
+a chronic condition. Reactivation can occur 
+five to six times every year. Infection now 
+will alter your entire future. There is no 
+known cure.
+Now a two part publication describing 
+herpes is available to students from Federal 
+Reprints. Obtained from the National Insti
+tute of Allergy and Infectious Disease and 
+the Centers for Disease Control, the nations
+Marcelle's Typing Service
+Sptcimlues in Word 
+Processing
+ThesesManuscriptsResearch/term 
+papersresumes/repetitive letters 
+(TurabianAPAMLA strongly observed)
+Fast Efficient Reasonable 
+Call Ms. West 371-3657 
+(24 hour service) 
+10% discount with coupon
+Alone & Pregnant? 
+Need Help?
+For a confidential friend call: 
+LIFELINE
+Downtown Pgh. 
+Beaver County 
+Mon Valley 
+Butler County
+562-0543
+843-0505
+489-9020
+282-1200
+THE NATIONAL CENTER FOR EDUCATIONAL TESTINGLSAT/ GMAT
+PREPARATION COURSES
+NCET OFFERS: Extensive 40-kr. or 32-hr. "Weekender" courses 
+Live lectures  Simulated exam conditions  Special tiome-study 
+materials * Tape library  Up-to-date course materials  Counseling
+LSAT 40-hr begins May 19 
+TheNwsw 32-hr begins June 4
+For a free brochure and an invitation to a free sample class covering 
+the LSAT/GMAT exams and the Law School Graduate Business School 
+admission process, call now:
+T0U. FREE (800) 223-2618
+The Rational Center ter Educational Testing 
+1271 y'u ef the Americas, Suite 777 
+Hew rk, R.Y. 10020
+THE LATEST IN ELECTRONIC GAMES/PINBALL MACHINES
+Domestics
+12 oz . & 16 oi. cans (& quarts)
+STROMS
+L0WN8RAU It , 0k 
+MICHIL0B 
+BUOWflSfR 
+MIUEft
+010 fNGUSH 800 
+SCHUTZ MALT 
+IRON CITY 
+RUNGR - bottles 
+GENfSSfE 
+ROLLING ROCK 
+SCHMIDTS 
+RABST 
+SCHUTZ
+Pi ARI (Tenosl  
+D0U8U DARK - 
+BIATZ 
+RIELS
+OLD MILWAUKEE 
+PINK CHAMPALE
+COLT 5 
+MILLER LITE 
+MICHEL06 LITE 
+IRON CITY LIGHT
+bottle*
+FEATURING 22 VARIETIES OF SUBSSieok  Co'ntd Beet  Tuno  turkey
+SANDWICHESHaddock  Cod  Ground Steok  Soutoge Veal  Chuck  CNtcken Parmeson
+bottles
+bottles
+SPECIALTY ITEMSSteak Subi  f re*h Cut French f net Mot Dogs with choice oM2 condiments Piuo served till 3 amWE ARE NOT ALLOWED TO ADVERTISE OUR LOW BEER PRICESServing beer Sunday 1 pm 2 am Imports Cons Quarts Draft Pitchers Mugs Your Choice of 6 Dr oft Beers HEINEKEN  MOLSON ALE  MICHELOB STROHS  MILLERS  SCHIIIZ MALT One dtHfftni !A oi 6 pk teaturd e<xH weekSTROHS  ROILING ROCK  SCHTZ OLD ENGLISH 800  SCHLIT2 MAlT  PABST
+ImportsKCKSlt 0k  Germany IASS Allf ifltond HAJtP LAGtt  Ireland M01S0N XMN-Conodo HfNtfKEN It 0k HoMand 10WMMAU-Germany 0 KKFf AU-Conodo PUS UROUfllCieih KIRIN-- Japon
+ST PAULI GIRI-Germany DOS fOOIS XX Mernco JOHN COURAGf-England KATNITS-fnalond CARLSBERG ELEPHANT - Den CARLSBERG ROY AU - Denmark CARLSBERG DARK Denmark TSINGTA0 Chmo HACKE* PSCH0RR-Germany LABATTSConodoMACK1SS0N STOUT - I. eland MURPHY - Ireland 010 VIENNA I AGED Conodo COOPEI A SON-Australia SS LAGER - Caado FOSTER S LAGER - Austrgha
+HOT DOG SHOPS, INC
+Open
+9am 3 45am Sun Thurs 
+9am 4 45om fn Sot 
+Call 621 7388 or 621 1185 
+3901 Forbes Ave Oakland) 
+Pgh PA I 52! 3
+foremost authorative research centers for 
+infectious diseases. Part I answers over 50 
+questions candidly and factually about 
+Herpes Type I and Herpes Type II; infec
+tious conditions, interchange of Oral and 
+Genital Herpes; latent virus; prevention and 
+treatment. Part II of these studies detail over 
+25 treatments, drugs and ointments that 
+many victims, desperate for help, have 
+turned to. Compounds and treatments that 
+have no proven value for the treatment of 
+Genital Herpes and which in some cases 
+may even be harmful. Also included is a 
+report from the U.S. Public Health Service 
+describing Acylovir (ACV) the most promis
+ing new drug for the treatment of Genital 
+Herpes.
+Now the vital facts of this physically and 
+emotionally crippling disease can be known 
+to every' young adult and teenager that is 
+sexually active or considering becoming 
+active, facts that will help to avoid infection 
+and a lifetime of anguish.
+Herpes Facts, $5.95 to Students. Order 
+from: Federal Reprints, P.O. Box 8931, 
+Washington, D.C. 20003. Postpaid.
+the universities in high-technology research
+The Society erf American Military Engi 
+neers, is a professional association of engi. 
+neers from all fields erf civilian and military 
+engineering practices and industry'. Tfo 
+Society, in fulfilling its purpose, forms 
+link between a civilian and military engi 
+neers for the development erf resources and 
+facilities in the national economy and for 
+the enhancement of the engineering profes
+sion through continuing education.
+The Pittsbuigh Student Post is organise 
+under the auspices of the Pittsburgh Post of 
+the Society and offers membership to all 
+regular undergraduate engineering students 
+and members erf federal military training 
+units at colleges and universities across the 
+United States.
+Membership to students is offered at 
+reduced price erf |6.00 per annum versus 
+$29.00 per annum for remaining members. 
+Current membership comprises over 17,500 
+civilian engineers, 800 engineering students 
+and 3,700 Armed Forces officers.
+Benefits derived from the Society include 
+professional conferences conducted for the 
+presentation and discussion of appropriate 
+engineering topics and for social and profes 
+sional association with engineers topics and 
+for social and professional association with 
+engineers and industry representatives, sub
+scription to the bi-monthly journal, reduced 
+price on engineer related books, low 
+group life insurance, and selected annual 
+awards of merit.
+Information concerning membership can 
+be obtained by contacting Scott Hamilton, 
+A37 Donner, x4132.
+PREPARE FORMCAT  LSAT-GMAT SAT-DAT-GRE  CPA
+Permanent Centers open days, evenings and weekends.Low hourly cost. Dedicated fulltime staff.
+Complete TEST-n-TAPciVfacilities for review of class lessons and supplementary materials.
+Small classes taught by skilled instructors.
+ Opportunity to make up missed lessons. Voluminous home-study materials constantly updated by researchers expert in their field.
+ Opportunity to transfer to-and continue study, at any of our over 85 centers.
+OTHER COURSES AVAILABLE
+GRE PSYCH & BIO  MAT  PCAT  OCAT  VAT  TOEFL 
+MSKP  NMB  VQE  ECFMG  FLEX  NDB  NLE
+Call Days Eve< ft Wprlon'H
+Essex House L12 
+IM Corners Center, N eg ley & Baur 
+Pittsburgh, Pa. 15206EDUCATIONAL CENTER
+TEST PREPARATION 
+SPECIALISTS SINCE 1938661-2772
+1
+Cancer strikes 120,000 people in our work force 
+every year. Although no dollar vale can ever 
+be placed on a human life, the fact remains that 
+our economy loses more than $10 billion in 
+earnings every year that cancer victims would have 
+generated. Earnings they might still be generating 
+if they had known the simple facts on how to 
+protect themselves from cancer.
+Now you can dc\something to protect your 
+employees, your company, and yourself.. call 
+your local unrt of the American Cancer Society 
+and ask for their free pamphlet, "Helping 
+Your Employees to Protect Themselves 
+Against Cancer" Start your company on a 
+policy of good health today!
+American Cancer Society
+
+---------------------------------------------------
+
+April 26, 1983The TartanPage 7
+DU & Chi O sit for $$
+money, at
+By PAULINE KRAMER
+Tartan Features Editor
+Tis the season to raise 
+Carnegie-Mellon, anyway.
+Following the recent fundraising efforts 
+of Theta Xi, Kappa Alpha Theta, and Delta 
+Tau Delta, fraternity Delta Upsilon and sor
+ority Chi Omega have teamed up as spon
+sors of a gigantic musical chairs benefit 
+for the Allegheny County Chapter of the 
+Easter Seals Society.
+This charitable chairs production will 
+be staged'on the Skibo cut this Saturday 
+from noon through three, with $1000 worth 
+of prizes to be given away, including $125 
+worth of luggage, records, Sonys walkman, 
+and dinner gift certificates.
+According to Douglas Den, DUs Chap
+ter Relations Secretary and this projects 
+chairman, anyone can enter with a two dol
+lar donation; the DU brother is accommo
+dating for 1500 participants. Tickets are 
+available at the Information Desk this week.
+Easter Seals is involved with the rehabili
+tation of all sorts of ailments, primarily the 
+crippled, said Derr. The idea of walking 
+and sitting  doing things that the kids 
+cant do  was partially spawned by a 
+quest to break the Guiness record of 4,500 
+plus people in a musical chairs event.
+We went through the Guiness book to 
+look for odd things. Doing musical chairs 
+on such a scale is an odd thing, smiled 
+Derr. We wanted to do something fun, some
+thing visible for everyone to get involved.
+Music will be provided by WRCT or 
+Activities Board; two guest disc jockeys, each 
+from 94 and 96 FM, will host llA hour shifts 
+beginning at 12:30. According to Derr, the 
+B-94 Bee will be there buzzing around. 
+Derr also hopes for television coverage, pos
+sibly by P.M. Magazine.Sleeping baggers receiving an orientation in Skibo last week.
+photo by John Legelis
+aSalty dog" bike trek brakes in Cape Cod
+continued from page 5
+fees to attractions, qualified group leader, 
+transfers while on the tour, tips, taxes, and 
+health insurance.
+Of special interest in 1983 are the 17 bicy
+cle tours in the United States and Europe. 
+These tours are designed for all ages and 
+every level of cycling experience. One exam
+ple is the two-week salty dog tour. For 
+only $390, the salty dog cyclist can enjoy 
+the warm sun, and blue sea of Cape Cod, 
+Marthas Vineyard and Nantucket.
+For overseas bicycling adventure, there is
+the saddlebag special tour. This trip 
+wanders through the English countryside, 
+historic French vineyards, and lovely Dutch 
+villages.
+Other cycling adventures include tours of 
+the California Coast, the Canadian Rockes, 
+the romantic roads of Germany, Austria, 
+and Switzerland, or the rugged coastline of 
+Nova Scotia and Cape Beton Island.
+For the non-cyclists there are mini-bus 
+tours throughout North America, train trips 
+across Europe, and hiking in the 
+Himalayas.
+A popular trip is the fall foliage tour 
+designed for senior citizens. This two-week 
+mini-bus trip explores the backroads of old 
+New England during the peak of fall color. 
+Priced under $540, these are ideal tours for 
+the young-at-heart traveler.
+There is an element every 1983 trip has in 
+common and that is hosteling. Hosteling is 
+sharing a travel and living experience with 
+others. This concept is promoted by the 
+5,000 hostels in operation in 50 countries 
+around the world. Hostels are unique, lowcost accomodations open to members of 
+-A.Y.H. and other national hosteling associa
+tions. Hostels range from cabins to castles, 
+ships, lodges, or lighthouses, and cost 
+between $3.50 and $10 per night.
+The 1983 Highroad to Adventure is 
+available free by writing to: Pittsburgh 
+Council A.Y.H., 6300 Fifth Avenue, Pitts
+burgh, PA 15232, (Please include two 20C 
+stamps for postage) or call (412) 362-8181.
+mchI
+If youre a senior and have the promise of a $10,000 career-oriented job, American 
+Express would like to offer you the American Express Card.
+What are we?
+Crazy?
+No, confident. Confident of your future. But even more than that. Were 
+confident of you now. And were proving it.
+A $10,000 job promise. Thats it. No strings. No gimmicks. And this offer is 
+even good for 12 months after you graduate.
+But why should you get the American Express Card now?
+Well, if youre planning a trip across country or around the world, the 
+American Express Card is a real help. Get plane tickets with it. Then use it for 
+hotels and restaurants all over the world. And, if you should need any help while 
+youre away, just go to any American Express Travel Service Office* wherever you
+are-and theyll help out.
+Of course, the Card also helps you 
+establish your credit history. And its great 
+for restaurants and shopping right at home.
+So call 800-528-8000 for a Special 
+Student Application or look for one at your 
+college bookstore or on campus bulletin boards
+The American Express Card. Dont leave 
+school without it.
+Look for an application on campus.
+A charismatic 
+prayer meetin; 
+every Friday 
+night at 8 p.m 
+at Mellon 
+Institute 
+Bellefield Ave. 
+(Across from 
+Heinz Chapel) 
+Oakland, Pa. 
+call Rege for 
+information; 
+262-3950.
+U
+(0
+J
+Ia
+tin
+bugey,s Am*TK.mifs ,u Reprf'c-nr iniAroeru.m txpres*! W*
+What Wilt You Be 
+Doing In June?
+SILVAR-LISCO
+is a leader in developing 
+state-of-the-art interactive design automation tools. We 
+develop and market a wide range of integrated software 
+capabilities in the areas of database management, logic 
+capture, simulation, logic verification, 1C layout and 
+hardware synthesis.
+Innovative design algorithms and color-graphics features for automating the design function are developed for both mainframe and workstation environments.
+Full-time and Summer Research and Development positions are available for candidates with backgroundsin:
+ELECTRICAL ENGINEERIM 
+COMPUTER SCIENCE
+Interested candidates should 
+forward a cover letter and 
+resume to:
+SILVAR-LISCO
+Dept. S15 
+1801 Page MM Road 
+Suite 220A 
+Palo Alto, CA 94303
+We arc an
+qua) opportunity employ?mm
+
+---------------------------------------------------
+
+MAKE YOUR 
+RESERVATIONS 
+NOWFOR
+THE LO VE BOATPARTY
+DANCE ON 
+To: G-FORCE
+RACER
+CONTEST
+The guy who brings the most girls
+and
+The girl who brings the most guys
+WINS 
+DINNER FOR TWO!
+
+---------------------------------------------------
+
+Entertainment
+Special for the Tartan
+This week Forbes Gallery is exhibiting 
+the paintings, drawings, and illustrations of 
+Tracy Ginther, Diane Lemonides, and 
+Sherri Wolfgang.
+' The mysterious world of 
+nightmares and unexpected fear 
+Jr is the source for Tracy Ginthers
+m drawings and paintings. The oil
+pastel drawings portray eerie scenes of one 
+or two savage-looking dogs within a 
+bluned, enigmatic ground. Sound images, 
+or jagged, line representations of humanly 
+incomprehensible information move above 
+the dogs heads in the swirling atmosphere. 
+The highly worked gray and black images 
+are surrounded and, consequently, further 
+removed from the human viewer, by trafficof anatomical structure, Wolfgang creates 
+pictures of flight within a birds wings. Most 
+of the drawings show a dark image against a 
+lighter ground.
+Symmetry and balance of verticle and 
+horizontal lines control Wolfgangs large 
+painting of two women and four birds. In 
+this work the landscape behind the women 
+functions more as a background or screen, as 
+does the light ground in the drawings, 
+lather than giving the viewer specific infor
+mation about the women.
+The painting seems to be about geometry 
+rather than women or birds. The artists 
+efforts to represent a more symbolic, enig
+matic aspect of flight result in her dark, 
+expressively painted canvas of a birds wings 
+and two rocks.
+dynamic figures within Diane Lemonides 
+paintings reflect the artists study of German 
+Expressionism. In one work a large, welldressed woman is on display within an 
+arena filled with purple and green figures. 
+Another painting shows a determined 
+woman in a large hat and garishly colored 
+clothes moving quickly away from a nude 
+male figure behind her. Lemonides more 
+recent work shows she is moving away from 
+the clean colors and clear, bold shapes of the 
+other work to portray the .contemporary 
+world.
+A painting of a woman walking her dog 
+shows a freer and humorous handling of 
+paint and image. The woman has a sensu
+ous looseness undiscovered in Lemonides 
+earlier work. Other work by Lemonides 
+shows a stiff, mannequin figure with an 
+expressively worked, monochromatic, rec
+tangular dress against a ground of direc
+tional strokes of pastel color. The artist 
+writes cryptic and mundane messages across 
+the bottom of the painting. These paintings 
+involve the invidious and ridiculous impor
+tance that American society places on a 
+womans appearance.
+Lemonides wedding picture, showing a 
+lone woman within a dark, slashed ground 
+with wedding rice, is a strong work. This 
+bride, whose identity is lost within a mass of 
+net, is facing an unpleasant future.
+The show extends through Saturday, 
+April 30.
+This semesters final show at Forbes 
+Gallery will be of the paintings, drawings, 
+fiber work, and installation work of Patty 
+Weston and Aniette Simcic. The last show 
+will run from May 3 until May 7.
+The viewer is given more information in 
+Ginthers paintings. The savage dogs exist 
+within a recognizable landscape or within a 
+less threatening area of distinct and brightly 
+colored shapes. However, the artist still con
+fines the dog to the world of the night, when 
+experiences have dream-like uncertainty after 
+the fact.
+The back room contains Ginthers sculp
+tural installations of a huge, black metal 
+vortex. The metal swirls through and 
+around the room, drawing the viewer 
+toward its suggested jagged center.
+Sherri W7olfgangs pencil drawings are a 
+celebration of freely made marks and the 
+resulting textural, dynamic images formed. 
+Working with soft and very hard pencils, an
+Artists Diane Lemonides, Sherri Wolfgang, and Tracy Ginther will open their show at Forbes Gallery tonight at 7 p.m.
+Jeff Lorber interviewed
+Keith Senior, Tartan Staffwriter, recently 
+conducted the following interview with jazz 
+artists, Jeff Lorber and Ken Gorelick. 
+Ent. Ed.
+doing a record and of course I was very 
+much into it and Jeff Lorber was also into it. 
+So we decided to make some demo tapes and 
+submit them to the same record company, 
+Arista Records. They seemed pretty well 
+pleased with what we were doing. Through 
+Jeff Lorber and our manager, Jeff Ross, we 
+managed to convince them to let us do a 
+record.
+Tartan: Have you been pretty pleased
+with the acceptance youve been getting? 
+Has the album been pretty much of a hit 
+for you?
+Tartan: How did you two guys meet?
+Lorber: Well, I guess I started the band 
+about 1976 and the original sax player was 
+Terry Lane who used to play with Stan 
+Kenten. After awhile, he decided that he 
+wanted to go on and do some other things 
+and I always liked the sound of the sax and 
+wanted to have a sax player in the band. But 
+I had a real tough time finding someone in 
+continued on page 20
+Gorelick: Oh yeah, Ive been very happy 
+with it. It has done very well. Its kind of 
+filtering off the charts at the present time, 
+but in its prime it was doing real well. 
+Through Jeff Lorber touring and stuff its 
+gotten a lot of acceptance by a lot of people.
+Tartan: First off, Jeff, would you tell us 
+about your current band?
+Lorber: The current band is very similar to other bands that Ive had in that Kennys playing woodwinds, Marlin McClain is doing vocals and guitars, and myself. We have a drummer named Bruce Car ter whos playing with us right now who used to be in an R&B band with Marlin quite a few years back called Pleasure. Hes an excellent 
+drummer who I used to work with before I 
+actually got the band going. Hes from Portland. And on bass we have a guy named Bobby Vego whos played with Sly Stone and Ronnie Laws among many others, and hes from San Francisco. A very fine bass player.
+Tartan: What happened to Danny Wil
+son and Dennis Braddock ?
+Lorber: They decided to form their own hand and theyre playing around Portland and trying to get their own record deal.
+Tartan: Hows this new group of yours 
+been working out on your current tour? 
+Have you been pretty happy with it? Also, 
+have you been on the road a long time?
+Lorber: Ive been very happy with it, espe
+cially the drummer, Bruce. Ive loved the 
+way he plays for many years and Ive always 
+Wanted to have him in the group. Finally, 
+^ is the first ume hes been available, 
+although Ive asked him probably a dozen 
+times to go out with us in the past.
+Tartan: Kermy, would you like to tell us 
+obout your soul album and how that whole 
+u^a came about?
+Gorelick: Sure. About a year and a half 
+a8o Jeffs manager, Jeffrey Ross, 
+aPproached me with the idea of possibly
+Lady photogs at Blatent Image
+By CAROLYN TERNER sense of humor and an interesting choice of reading a newspaper.
+Tartan Staffwriter subject; there was also a lovely photograph The show was well organized and demonA show of women photographers opened of two women on a beach called Looking strated a wide variety of subjects and
+at the Blatent Image Gallery on Forbes on for Shells by Laura Freund. Job Hunting by approaches. The show will remain open
+April 9. The show was organized by Connie Elaine Stone captured a woman in punk undl May 5. Gallery hours are Friday 12-6,
+Hanna, Katyna Manis, Laura Miller and clothing lying on a bench next to a man Saturday 11-7, and Sunday 1-6.
+Ijorraine Vullo and the Oakfr land Womens Center. Ths
+Bordsky, Genevieve Harm and ;
+First prize went to Andrea London for a  ~____ v-------..... 11 '
+study of nude women called Untitled 2.  1 "f ___ f
+Second prize went to Adrienne Radkoff for < / __ ^
+an untitled jx)lar oid piece in which she pho\ I** f <4
+tographed two gloved hands many different )|** ...
+times. Third prize went to Clara Matolcsy x T** ^
+for a photograph of a woman with a green j
+face and a cellophane-wrapped head standr
+ing near a stove called Cookin Supper. | ~ ' ~ ~ ......
+Other interesung pieces in the show ^
+included a piece by Mary Carroll called * ? m *
+Youve Got to Break Some Eggs, also a colj ^ M * '
+lage of polaroids; a photograph by Marla . m 4 /
+Kittler called Demitre, a black and white f ,
+night exposure; two photographs of childJ/
+ren by Laura Miller; and two still-life studies * *- - J
+of a table and chair by Eve Waldron.
+Two pictures by Laura Schoch of an Katrin Brauns mixed media drawings and paintings will be on display at the Blatant Image 
+obese, eldery woman in a slum showed a Gallery on May 7. Gallery hours arc 1-6 p.m. Wednesday through Sunday; 11-7, Saturday.
+Paintings, drawings, illustrations at Forbes
+By SARAH RATCHYE light-intensity colored borders. eraser, spattered graphite, and a strong sense The bold color, dark outline, and
+
+---------------------------------------------------
+
+Report die Progress of Personal Computing at CMU
+Theiollowirig is an upcfcteon th progress of persona! computing at CMU. It is written by th members of th 
+Student Senate/SDC Computing Commiuee and contains current information on th persona! computing issue.
+The University Computing Center:
+The building being constructed next to Warner Hall is now properly called the University Computing Center (or 
+UGC). It is scheduled to be completed by Oct. 1, 1983. When completed, it will house the Computer Center, a 
+terminal room (including a number of personal computers), a computer store, and die ITC (Information Technol
+ogy Center).
+The Computation Centers computers are scheduled to be moved to the UCC beginning July 1. It is estimated that 
+each computer will be out of service for about 2 to 3 weeks and that it will take approximately two months to move 
+all of the computers. Each user should therefore plan on being off the system for about 2 or 3 weeks this summer. If it 
+is not possible to move the computers on July 1, the transfer will not take place at all this summer, but they will be 
+moved the following summer. This is to insure that the systems will be in operation for the first few weeks of school 
+next fall
+The ITC is currently being housed in OSIA under the direction of Jim Morris
+The Transition:
+CMU is now in the transition stage of its agreement with IBM. Starting this fall, CMU will be integrating into the 
+environment 150 personal computers per year. They will be purchased from IBM and will be able to connect to the 
+TOPS and act as terminals. In addition, CMU is offering to subsidize the purchase of about 150 personal computers. 
+Colleges or departments can apply to buy one for $1500, ($4200 list price) or a stronger one for $3500. These will 
+hopefully ease the load on the TOPS at the end of the current semester. Individual students can also apply to buy 
+similar machines at a 20% discount off the list price. These machines will have MINTZ and SCRIBBLE which are 
+software packages similar to EMACS and SCRIBE. In addition, the Computation Center will be offering a 
+mini-course for use of these systems.
+Computing Environment:
+CMU has applied to the Carnegie Corporation in New York for a grant of $1 million to support a consortium of 
+schools which will develop educational applications for compuung. They have already received $45,000 and are 
+optimistic about getting the rest. If the grant does go through it will be dispersed among several other colleges and 
+universities in the consortium, although the support staff will be based at CMU. The purpose of the consortium is to 
+disperse information on computing applications and to receive feedback and additional information. CMU expects 
+to receive less than half of the $1 million grant.
+In addition to this, CMU has allocated $50,000 worth of seed money for faculty here to design instructional 
+software.
+If you have any questions or would like more information contact:
+Janette Molloy Steve Paff Scott Safier
+x4608 621-7252 x41!l
+Flunk'd b\ Suidrni Sniaic ;tnd SIX :
+
+---------------------------------------------------
+
+Apr 26, 1983-The TartanPage 11
+MU's "Mikado" proves redeeming for Shapiro
+VINCENT GUINTO
+A Southern Mikado? Nanki-Poo with a 
+accent? Hard to believe, maybe, but 
+what the CMU Drama and Music 
+in their production of the 
+famous Gilbert 8c Sullivan 
+opera. And surprisingly 
+the effect is wonderful, 
+tells the classic 
+Nanki-Poo for 
+tale unfolds 
+of a small city kt 
+ruled by Pooh-Bah, holder of dozens 
+miscellaneous offices, and Ko-Ko, the 
+foy s wimpy Chief Executioner. Arranged 
+iages, impending beheadings, and 
+ted slapstick intrigue and mayhem 
+across the stage in a wonderful array erf
+f Dispelling doubts arising after last years 
+<-so-memorable Merton of the Moines, 
+[(el Shapiro has proven that, yes indeed, he 
+direct musical theater. The show was 
+itful in every aspect, with nary a flaw 
+isible anywhere.
+All of the cast had excellent voices, and all 
+them to good effect. John Scherer and 
+slie Ellis as the leads were wonderful, 
+aymg the parts of broken-hearted lovers 
+[ith just enough exaggeration to make 
+enjoyable.
+Paul Schoeffler played Pooh-Bah, the 
+wllmgly bribeable holder of practically 
+ery office in town, including Dean of the 
+3l of Robotics and Computer Science. 
+part was by far the most humorous, 
+office to office (with accomvoice, expression, and mannerism 
+while getting a laugh with each
+Davidson Thomsons (Ko-Ko) singing
+was beyond reproach, and he added just the 
+right degree of camp to the lyrics to make his 
+performance good, despite a small problem 
+with overacting. In the first act, he played 
+the fop to the point of almost making his 
+character annoying to watch; fortunately, 
+this passed in -the second act, and his part fell 
+into proper perspective.
+Knstina Smith (Katisha) played ber part 
+as the ugly woman betrothed to Nanki-Poo 
+vary weH. Her rendition of a bad country 
+blues tune (aka Melissa Manchester or any
+other typical female country singer) got one 
+of the biggest laughs of the show. The only 
+difficulty with her performance was her 
+weak projection. Several times the orchestra 
+drowned oi<tt her lyrics. Still, she too made 
+her part a pleasure to watch.
+The rest of the supporting cast was also 
+good, especially Michael QSteen (PishTfcish) and Portia Kamons (Pitti-Sing). 
+OSteens dancing was particularly notable, 
+standing out from the rest of the casts. Hie 
+male chorus performed especially well also,
+one of the best male choruses Ive seen.
+G&S purists may balk at Shapiro and 
+company's interpretation oI The Mikado, 
+but if you can forget any preconceptions 
+about the opera that you may have, then the 
+show becomes a delightful comedy. You 
+aught have some difficulty getting tickets if 
+you dont already have diem; however, if 
+you can get them, do so, and if you already 
+have your tickets, by all means use them. 
+The Mikado is, of course, showing in the 
+JCresge Theatre in CFA, and closes April 3.
+U2 for new opening
+BY C RADCLffERHOADES
+Tartan Stmffumter
+Sickened by die mere thought of AB 
+concerts  an organization that brought, 
+Tom Verlaine, Gang of Four, and King 
+Crimson ,to Pittsburgh  presenting a 
+Rennaissance/Pousette-Dart excuse to 
+CMU? Take heart, progressive purists, an 
+antidote is on the way.
+One week from today on May 3, U2 will 
+kick off a new series of concerts at the 
+refurnished Fulton theatre, located 
+downtown at 101 Sixth Street.
+This Irish quartet is touring in support of 
+War, their third and most commercially 
+popular album, (A review of War is 
+forthcoming  Ed.) and a single New 
+Years Day seemingly destined for a long 
+and unfortunately hackneyed climb to 
+number 1 (overplayed song in America). U2 
+deserves more than its MTV/-DVE overkill 
+because they tread that fine line between 
+schlocky accesability and honest emotion. 
+Yet despite their nearly universal media 
+praise, the young band remains dedicated to 
+their musical expression withoug being 
+pretentious or self-righteous.
+As a testimony to their reluctance to easy 
+pigeon-holing, three-fourths of U2 are 
+dedicated to Christian ideas in a way that 
+subtly seeps into their music yet doesnt 
+offend an audience that historically delights 
+in offending religious thought.
+While Boy, their first album, sprung from 
+the discontent of eighteen-year-old lead 
+vocalist Bono Box, October solidified into 
+The Testament According to Bono. War 
+places U2s spiritual commitment in the 
+context of terror-filled Ireland. U2 ably 
+combines this unique spiritual freshness 
+with an equally forthright approach to their 
+music.
+We started out as non-musicians, Vox 
+explained to Musician magazines Fred 
+Schmers. We learned to play after the 
+group was formed. I mean, we started to 
+write our own material because we couldnt 
+play other peoples. Adam (Clayton-bass) 
+couldnt slap in time when he joined, Edge 
+(guitar) could play sort of bad acoustic. 
+Larry (Mullen-drums) had his military 
+drumming, and I started singing cause I 
+couldnt play guitar.
+Bono relates this garage band
+background to the groups latest release: 
+War is meant to be a slap in the face, a slap 
+in the glossy, made-upn to-be-pretty face 
+which is the music of most of our 
+contemporaries.
+This hank attitude hopefully will set die 
+tone for the Fulton theatres entrance into a 
+live music scene only recently showing signs 
+erf progressing from a fetid stagnation. The 
+54 year-old Fulton has established a 
+tradition of offering Pittsburgh 
+contemporary entertainment. First 
+presenting vaudeville acts and other 
+performing troupes, the Fulton switched to 
+motion pictures wkh the advent of the 
+talkies, and now (appaiendy) will 
+continue this heritage by premiering U2.
+Lets hope the Fulton continues in this 
+direction. Optimistically, I would hope the 
+Fulton could rise above trendy MTV 
+conceptions like Adam Ant and Bow Wow 
+Wow. The rebuilt stage area the added 
+electrical power, and the other impovements 
+are fine, but what Pittsburgh really needs is: 
+one, an acousticaly acceptable venue that; 
+two, doesnt employ police state bouncer 
+continued on page 20
+A LUCKY PENNY 
+CHANGE WINS YQ
+CMU ARTST 
+emu bookstore*
+SAT. APRIL
+30
+SKIBO BALLROOM C-MUDANCE b
+9 45 DOORS OPEN
+THE FIVE
+10 00 MUSIC BEGINS
+SWEET OLIVE
+$2.00 WITH C-MU ID.
+ACTUAL SIZE
+$2.50 All OTHERSSPONSORED 8Y
+ADV. TICKETS ATWRCT
+88.3FM ft ACTIVITIES BOARD
+SKIBO INFO DESK
+FREE FOOD & DRINK
+FOR FURTHER INFORMATION CALL 
+578-2883 OR 621-WRCT
+IN Kl* HALL
+
+---------------------------------------------------
+
+LOOK FOR ADS AND POSTERS ANNOUNCING 
+PICK-UP DATES OR IF YOU HAVENT ALREADY 
+BOUGHT YOUR YEARBOOK (TSK, TSK!) NOW'S 
+THE TIME!
+FUNDED BY STUDENT ACTIVITIES FEE
+Thistles 
+have 
+sprung
+
+---------------------------------------------------
+
+aseball Club's rustiness shows in losses
+JEFFREY BERGMAN
+,n Sports Editor
+looks like the bad weather has done 
+L damage to the baseball club than 
+ny people thought. The lack of practice 
+1 game experience showed as the Tartans 
+e trounced last week by Duquesne 12-2 
+ICCAC South 16-6.
+game against Duquesne started 
+|oothly last Monday as senior center 
+Ler Mike Seel led off with a line drive 
+ne run over the left center field fence, 
+ter that, things went all downhill. Errors 
+men on base, getting caught stealing 
+vvn eight runs, and wild throws were 
+ne of the many missed cues CMU suffered
+Jough.
+oop classic \omes to CMU
+amegie-Mellon University, in cooperawith the Western Pennsylvania Heart 
+riation, has announced plans for the 
+it annual Camgie-Mellon Big Heart 
+Iketball Gassic. All proceeds of the basIball tournament, slated for December 2-3, 
+3, will benefit the Western Pennsylvania 
+art Association.11m very excited about the tournament, 
+CMU Athletic Director James E. nner. I feel this is the beginning of a lig-lasting relationship thats mutually jiefirial to Camegie-Mellon and the Heart ciation. It is an honor to have an organluon such as the Western Pennsylvania art Association co-sponsor our first liual basketball classic.
+[Jim Flannery, executive vice president of 
+Western Pennsylvania Heart Associa|n, is also optimistic.[Were delighted to be a part of Camegiefllons holiday basketball tournament,
+1 Flannery. I think it will be a great way 
+[local fans to support CMU and the Heart 
+ition. We commend CMUs athletic 
+ent and administration for their 
+sity in thinking of us to co-sponsor 
+tournament.
+: 1983 field includes Buffalo State Uniaty, Oberlin College, Westminster Col-and Camegie-Mellon. Westminster will 
+; Buffalo State at 7 p.m. Friday evening 
+Camegie-Mellon hosts Oberlin at 9. 
+ays consolation match will begin at 1 
+the championship game tippingSenior southpaw Eld Novak started and 
+pitched three good innings striking out four 
+and letting up three runs of which two were 
+unearned, He was relieved by Erik Muennichow in the fourth. Muennichows curve 
+ball was working effectively but he had trou
+ble locating the fastball which led to many 
+untimely walks. He let up nine runs in his 
+three innings but errors by second baseman 
+Jeff Bergman, left fielder Bill Yankovich, 
+and shortstop Mike Homer didnt help 
+either.
+The Tartans also had to fight the weather 
+which wreaked havoc with the team. Many 
+players thought there wasnt a game which 
+left CMU with a depleted squad. Also, the 
+many Alberta Clippers left visibility to a
+minimum and eventually caused the cancel
+lation of the scheduled second game.
+In the nine inning batde against CCAC 
+South, CMU pitching looked quite rusty. 
+The combination of Bob Flaherty, Nick Lis
+ton, Dan Burgundy, and Dan Woodside got 
+roughed up pretty badly against a tough 
+squad. Flaherty gave up three runs in three 
+innings mainly on a home run, triple, dou
+ble, and well executed steal of home. Liston 
+looked good one inning but sufferedcpntrol 
+problems later. Burgundy and Woodside 
+were just victims of lack of work.
+The CMU bats were alive for five innings 
+but quieted afterwards. Tim Nagy knocked 
+in two runs one in the second on a force out 
+and another in the fourth with a double
+following Andy Rossis double. Right 
+fielder Bill Yankovich tripled twice and 
+walked once scoring two runs. Ron 
+Faulkner also had an RBI single.
+1 2 3 4 5 6 7 R 
+CMU 1 0 0 1 0 0 0 1 
+Duq. 0 0 3 2 6 1 x 12
+Novak, Muennichow (4) and Nagy 
+Hr-Mike Seel (1), Bob Kiebler (1)
+123456789R 
+CCAC 0 2 1 04 5 1^4J6_
+CMU 0302100006
+Flaherty, Liston (4), Burgundy (6), Wood
+side (9) and Litde, Theg (9)
+photo by John Sulwell
+The CMU mens tennis squad had the luxury of having their match with Allegheny last Saturday being filmed for Pittsburghs new cable 
+network HSE.
+All-School b-ball announced
+The All-School team for IM majors bas
+ketball was announced last week. Making 
+the squad were Ed pinhead Novak from 
+N.T. Express, Dave Miklasevich of Run
+ning Rebels, Ivan Juzang of die Sixers, 
+Roger Robel from the Hoyas, and Eric 
+Thompson from Supa Stars. The MVP of 
+the league was Brad Huwar of the cham
+pion Beta-A squad.
+The breath-taking fencing tournament 
+took place recently with the team of Mike 
+Cramer, Luke Tiemer, and Rob Woodb iry 
+taking the trophy. In individual competi
+tion, Ethan Rvman, Chris Boal, and Alan 
+Whitfield were first, second, and third 
+respectively in the mens individual class
+while Melanye Finister took first in the 
+womens foil. Anne Altieri and Terri 
+Glueck finished behind her.
+The entire softball schedule will be 
+revised and a new play off schedule will be 
+developed. So, pay close attention to the 
+Tartan and stop by the IM office for further 
+information.
+Also there will be one final playoff for the 
+co-rec badmitton title. The teams involved 
+should check the IM bulletin board for date 
+and time.
+Dont forget the track meet will be held 
+Thursday, April 28 at 4:30 on the CMU 
+track. Get your teams organized now!
+photo by Sirvr Winawi
+.on mw. second from the left was named MVP of the major, IM .division.
+4/26 vs. San Francisco 
+4/27 vs. San Francisco 4/29 vs. San Diego 
+4/30 vs. San Diego
+5/1 . vs.
+
+---------------------------------------------------
+
+Page 14The TartanApril 26, 1983
+Current stock market rally is analyzed
+By LEE SHEPARDTartan Staffwriter
+Is the current stock market rally the begin
+ning of a major bull market or the prelude 
+to a major downturn? The answer, says Dr. 
+Henry Galliot, Senior Vice President of Fed
+erated Research, depends on whether or not 
+the inflation rate will remain low in the 
+long run. If inflation stays low, he expects to 
+see the stock market rise to unprecedented 
+levels such as 4000-5000 on the Dow Jones 
+Industrial Average, in the next decade or so.
+Dr. Galliot feels that long term trends are 
+most important in forecasting movements 
+in the stock market; and the best indicator, 
+he belives is the long term inflation rate 
+which has a direct effect on interest rates. In 
+periods of high inflation, such as what we 
+have experienced in the past 3-4 years, real 
+assets such as gold, silver, and real estate are 
+all extremely attractive investments while 
+financial assets such as stocks and bonds are 
+very poor investments. Likewise, in periods 
+of low inflation, such as the period between 
+the late 1940s and the early 1960s, stocks 
+and bonds appreciate greatly in value while 
+real assets increase only slightly. Dr. Galliot 
+showed graphs which indicated that the 
+long term trend in inflation is downward.
+Galliot believes that the current stock 
+market rally which began in August, 1982, is 
+either the beginning of a major bull market 
+or the last upward leg of the bull market 
+which began in 1974. He feels that if the 
+current infltion rate, which is down to 
+around 5%, does not rise in the future, then 
+we are indeed at the beginning of a long 
+term stock market rise; if inflation rises 
+again, we could experience a large drop in 
+stock prices.
+Dr. Galliot is not particularly worried 
+about the huge governmental deficits. The 
+budget deficit, Galliot said, has no correla
+tion with inflation: it is how the deficit is 
+financed. If the the deficit is monetarized, 
+i.e., the government turns on the printing 
+presses, high inflation will result.
+The country with the highest deficit as a
+percentage of GNP is Holland, where the 
+deficit comprises 6.6% of the GNP and the 
+Government sector is 60% of the entire econ
+omy. Yet, Holland, which simply borrows 
+from the public, has very low inflation but 
+high real interest rates (nominal interest 
+rates minus the inflation rate).
+In comparison, the U.S. deficit is only
+about 3% of the total GNP; however, the 
+U.S. has had a history of financing the 
+deficit by creating money out of thin air, 
+especially during the Vietnam War. What 
+actually happens is that the Federal Reserve, 
+this countrys central bank, buys bonds from 
+the U.S. Treasury, putting new' money into 
+the economy that would not have gotten 
+there otherwise. Galliot is looking at how
+the Reagan administration will finance the 
+huge deficits that are now occurring.
+Dr. Galliot, a graduate of the CMU Math 
+department, GSIA (where he also received 
+his Ph.D. in Economics), made his remarks 
+at a meeting of the Investment Club. His 
+company manages the trust funds of 70% of 
+all banks in the U.S. that have trust depart
+ments, as well as 30 different mutual funds.
+Talk explores abused rights
+Avraham Shifrin, Executive Director of 
+the Israel-based Research Center for Pri
+sons, Psychoprisons and Forced-Labor Con
+centration Camps of the U.S.S.R. will 
+lecture in Pittsburgh on the brutal viola
+tions of human rights being committed to 
+this very day in the Soviet Union. His speech 
+will be delivered at the Soldiers and Sailors 
+Memorial Hall, 5th and Bigelow, Oakland, 
+on Tuesday, May 24 at 8 p.m. (doors open at 
+7 p.m.)
+Shifrins lecture is being sponsored by the
+Western Pennsylvania Committee for 
+Human Rights in the Soviet Union. Tickets 
+are available for $3.00 in advance or at the 
+door on the night of the speech.
+Bom in Minsk in 1923, Shifrin was 
+inducted into the Red Army in 1941 and 
+served heroically throughout the war. 
+Wounded twice, he received a battlefield 
+commission and was released from service as 
+a major. After the war, he earned his law 
+degree and became the Chief Legal Advisor 
+in the Contract Division of the Ministry of
+SPRING CARNIVAL GRINS: A face anyone could love.
+photo by Steve Winawer
+COMING SOON.
+ft " 
+ACE
+Look for
+iMOVIE
+\l A I. X / I  I
+in an
+upcoming 
+GOING issue
+of your
+collegenews
+paper.
+DONT MISS m
+Defense in Moscow.
+At the height of the anti-Jewish terror 
+(The Doctors Plot) in 1953, Shifrin was 
+arrested, accused of being a spy for America 
+and Israel and sentenced to death. This sent
+ence was later commuted to 25 years camp 
+imprisonment. Released after ten years 
+camp internment and four years internal 
+exile, he became an advocate of Soviet Jews 
+wishing to emigrate to Israel. In 1970 he 
+emigrated himself and lives in Israel now.
+Determined to alert the Free World to the 
+continuing terror in which the Russian peo
+ple live under their Communist rulers, Shi
+frin, and other former prisoners of the 
+Gulag who now live in Israel, formed the 
+Research Center. Through underground 
+channels, they gather, compile and publish 
+current information on the Soviet prisoncamp system which has existed since 1917.
+Mr. Shifrin lectures widely and has 
+authored several books. In 1973 he gave tes
+timony on U.S.S.R Labor Camps before a 
+subcommittee of the Committee On The
+Judiciary of the United States Senate. His 
+latest work, The First Guidebook to Pri
+sons and Concentration Camps of The 
+Soviet Union is a shocking expose of over 
+2,000 penal institutions in Russia. It has 
+recently been given the Book of The Year 
+award in Europe.
+The lecture will feature Shifrins 30- 
+minute film in color entitled Prisonland. 
+This is the worlds only existing film docu
+mentary on Soviet slave-labor. All sequences 
+were taken by hidden cameras at great risk to 
+courageous Russians.
+Allegheny Womens Center
+an out patient medical clinic ottering
+* abortion counseling * free pregnancy tests
+* personal c ounseling * birth control services
+* gynecological care
+362-2920 
+Pregnancy Testing Center201 S. Craig Street (Oakland) 
+Pittsburgh, PA 15213
+(412) 687-TEST
+E ill be open daily lor pregnancy tests and (ounseling.
+Womens 
+Center
+rlltftll f Medical Center East Building i.V' Penthouse Right (8th floor)Morth Whilliplri Qtrppi211 North Whittield Street Pittsburgh. PA 15206
+BIG DISCOUNTS ON
+Whol HEWITT wLHM PACKARD
+Handheld computer (HP-75C) 795.00
+93 95
+CALCULATORS
+Financial (HP-12C) 93.95 Scientific (HP-11C) 69.95 Scientific (HP-10C) 54 95 Scientific (HP-ISC) 93 95 Financial/business (HP-16C)Programmable print (HP-97) 595.00Programmable (HP-41C) 14.99Pro9**rofnai>Mi (HP-41CV) 213.95
+CaN About Free Serie 40 Modules!
+OPTIONS
+Optical Wand 94.95Printer for 41CV 2*3 95Card reader for 41CV/C 140.95. thermal pr/plot 349.95Video interface 179.95IL interface mod 94.95Digital cassette drive 349.95Ex (une mem mod 59.95Ex mem module 59-95Time module 59.95
+for 41C/CV 19.95Quad mem module lor 41C 59.95
+PUCES ARE FOR PRE PAID MAIL AMO PHONE ORDERS ONLY SUBJECT TO CHANGE WITHOUT NOTICE MONEY ORDERS CHECKS (ALLOW 2 WEEKS TO CLEAR) ACCEPTED VISA MASTERCARD ACCEPTED ONLY ON SOME ITEMS NO COO'S IN PA ADO SALES tax U 5 MINIMUM SHIP PtNG CALL FOR EXACT CHARGES ALL MERCHANDISE SUBJECT TO AVAILABILITY WARRANTIES HANpdIp av arontr-TnwIw
+WE'LL MEET ON BEAT ANY ADVERTISED PMCE ON THESE ON OTHER HP CALCULATORS
+0
+P.O. SOX 127M PITTSBURGH, PA 15241
+CALL TOLL FREE 
+PA: <00-222-8836 Interstate; 800-223-2896
+
+---------------------------------------------------
+
+\
+r
+X
+V 
+ *'I > p>
+%4I.
+ThelartMi.
+1/l/e pttf /f all together.
+^Tartan:- Skibo rooms 50,51,52. Editorial board meetings are on Mondays at 6:30 PM in Skibo room 11. All interested persons are invited to attend
+
+---------------------------------------------------
+
+Forbes Gallery
+Sign-up for 1983-84 
+Forbes Gallery shows on 
+Thursday, April 28 at the 
+gallery, 5:30-6:30 p.m.
+! Minimum three peo
+ple per show 
+I Preferred reserva
+tions for seniors 
+I Upperclass students 
+from all departments 
+are eligible for shows
+Funded by Student Senate
+Starless and 
+Bible Black
+In the Wake 
+of Poseidon
+CMUs literary magazine, featuring original student poetry, fiction, 
+md artwork. Available at the Bookstore and Skibo Info Desk. Price 
+$.1.00.
+Funded by Student Senate
+AHHHH. . .
+It's the cream of the Crimson!
+All the original albums. . .
+All with the original artwork. . .
+ALL RE MASTERED HALF-SPEED 
+AND ON SALE NOW THROUGH MAY
+ucMft  un UPEJUtmh
+Lark's Tonge 
+In Aspic
+SENIORS
+Packets containing 
+information on 
+commencement 
+including 5 announce
+ments will be available in 
+your department offices after APRIL 27.
+Public Relations Office 
+Baker Hall 160
+Additional announcements are available for sale now in the 
+Bookstore for $2.00 for a package of 5.
+
+---------------------------------------------------
+
+Funnies.
+oe Freshmanby Mark Levine
+ttrsicAUifuwr
+by Diane Thodos
+Loot, & sov/cef
+cNVNO-vVec
+oindexter
+NAHx UPCdCrridP rtPV/
+IBSIU6MTMY IM PENCIL !WDY ftftlMt PHVi(CS
+BcAWt_________
+NO-1 WMf EEAuy BbV IT... THAT'S WHV x BBOMSht My EAfilTS 
+u P*X_______________
+OOMT TEIL
+Wi youEuwfc
+TWat pencil 
+B0K6S Vo 
+op luck:
+rossword
+ACROSS 1 In music, highI Part erf a door frame 8 Malay carwx-12 Expire IS Sandarac treeII Hindu queen15 lair16 Weather instrument 18 Obstac les20 Prrxmls21 C/>m|Kss |)t.22 Obscure23 Doctrines
+27 Skill29 Took ;i wold medal ,10 Simpleton SI SAs neighbor 12 Rover. lot one
+DOWN1 Says further2 Hold on property3 Occupant4 Pokes5 Macaw6 Border7 Besom8 Hold chair of authority9 Rodent
+10 Number11 Ventilate 17 Pronoun19 Earth goddess 22 Sjjeck21 Yes, in Madrid25 Majority26 Portico27 One of>|XHed
+35 Exist54  what!55 Name57 Part of a circle: Abbr. 38 (reek letter 59 Arrow |x>ison10 Gave Icxxl to11 Artie k-12 Bordet on 44 Omens17 Declaration 51 Be indi|XMed 32 1/ngth of a step53 I an color54 African antclofx-55 Matured 'jfi Pierce57 Organ of hearing
+28 Shower29 Tinv30 A Gershwin32 Having folds33 Succor36 Tellurium symbol37 Emulate Dick Tracy38 Ocrupv40 Smokes
+41 Three-toed sloth43 Exist44 Blunt end45 Columbus caravel46 Calumniate47 Resort of son48 Label49 High card>0 New Deal agcv.
+
+---------------------------------------------------
+
+Carnegie-Mellon University 
+Presidents Distinguished
+Lecture Series
+JEROME LOWENTHAL PIANIST
+Composers in homage to one another
+Evening Lecture/Recital
+every possible nitch in the piano repertory.
+His program will include works by Brahms, Chopin, Debussy, Ro( 
+berg, Beethoven, Ravel, and Strauss.
+Mr. Lowenthal visited the CMU campus last summer as part of 
+music program and his delightful commentary and impressive piani 
+won him an enthusiastic following.
+Weve invited Mr. Lowenthal to return for a second visit to entertain i 
+whole campus community.
+Skibo Ballroom 
+8:00 P.M. 
+Sunday, May 1, 1983
+Jerome Lowenthal has been described by critics as being at home
+(Open to the public.)
+
+---------------------------------------------------
+
+Announcements.
+55OO or more each school year. Flexible 
+Monthly payment for placing posters on 
+pus. Bonus based on results. Prizes awarded 
+(U. 800-526-0883.
+jobs. Temporary labor jobs available, /long term. All areas. Students/teachers 
+ne. Car/phone necessary. Must be at least 
+all for appointment. Manpower Temporary 
+[ices. 471-8912.
+er Survival or will I see you in September? 
+ay, May 1, 6:30 - 8:30 p.m. Meg durkin will 
+L Shadyside College Fellowship, Shadyside 
+byterian Church. Comer of Amberson and 
+Itininster.
+Tutor/translator experienced graduate 
+blytechnical Institute of Leningrad. Lessons 
+L apartment or on campus. Call 881-6843.
+dvside Summer Sublet Between Walnut and 
+Great location. 2/3 BR furnished. 
+J/month negotiable. Call 687-8323.
+er jobs. Temporary typing, secretarial and 
+I processing available. Short/long term. All 
+L Students/teachers welcome. Must be at 
+j 18. Call for appointment. Manpower TemSen ices. 391-7034.
+ale roommates needed immediately to share 
+[ltiful modem two bedroom apartment with 
+I female. New carpet and paint; nice security 
+ling; near bus; storage, laundry in basement; 
+cks to grocery; Highland Ave  Shadyside; 
+|iinutes to CMU; clean kitchen and bath; $123 
+i utilities. 681-0598 Liz or Sarah.
+tier Employment Royal Presdge has 
+Imer work available in many areas of the 
+[.Twelve weeks, guaranteed. $240 a week and 
+For more information, come to Skibo Room 
+fc'eds. April 27,1983,10 a.m., 12 noon, 2 p.m.,
+jm apt. for rent, kitchen and bath w/w 
+eting, A-C, available June, July, Aug., 
+|.00/mo. utilities included. 683-3587, 622- 
+^(day and eve.) Ivy, Shadyside.
+type term papers, dissertations, letters, 
+nes, manuscripts, and so forth. Reasonable 
+. Call Shirley before 9 p.m. 521-0534.
+es Secretarial Service. Resumes, academic, 
+ness, and personal typing. 464-1618.
+! apartments for September now. Studios 
+I bedroom. Walking distance to university. 
+|5792 and 621-2655.
+ale Roommate Needed preferably profes, to share large 3-bedroom house in S. Oak| neighborhood. Nice old house, backyard.
+} mo.+ Call 621-7789
+Used Textbooks. Get immediate cash 
+lour used textbooks. Call 687-5371 or come to 
+[Ellsworth Ave. #201
+ner Sublet. Bayard St. efficiency; furnished, 
+pute walk from CMU. $250 mo. includes 
+Mtilities. Available Mav 1 thru August 31. (961.
+,^Jien  eam extra money in your spare time.
+|me an AVON representative. Call NOW.
+1556.
+Army Caps with Red Star. Green or 
+Sizes 6V, 7, 7'4, 8c IS. 100% cotton. $7.50 to 
+'Caps, 1050 Boyce Road. Pgh, PA 15241.
+|mer rental furnished fitted home. Edgewood 
+[nt 'Square. Easy campus commute $550.
+Pregnant?
+And you didn't 
+mean to be?
+a free pregnancy test and 
+confidential help, call 
+Birthright at 621-1988
+Flying Fingers. Word processing and typing. Stu
+dent/academic rates. 241-1338.
+Typing at home by very qualified typist. Reaso
+nable prices. Call Sandy, 521-3139.
+The Summer Sublet in Shadyside. 2 bedroom, 
+living room, dining room, kitchen, etc. Call 681- 
+9853 for more information.
+events
+Stone receives ASP A award
+The Student Senate meets every Tuesday night at 
+7 p.m. in the Wherrett Room. Students are 
+invited to come and address the senate during 
+audience participation.
+President Richard M. Cyert will have open office 
+hours for students between 3 and 5 p.m., in his 
+office, 602 Warner Hall on Monday, May 2. Stu
+dents who wish to meet with the president should 
+telephone his office, 578-2200, to set up an 
+appointment.
+Academic Bag Ladies meet over lunch, Thurs
+days, noon until 1 p.m. at the Lutheran Univer
+sity Center, 4515 Forbes Avenue, Oakland. Info: 
+682-6886.
+John P. Crecine, Lean of the College of Humani
+ties and Social Sciences, will hold open office 
+hours for students each Tuesday, 1:30 to 3:30 
+p.m., BH 260.
+general
+Volunteers are needed to help nine-year-old Jodi 
+Garda with her fight to walk again. Jodi was. h 1 
+with brain damage as a result of a kidney dise^ 
+two years ago. Her program runs six days/wet :, 
+twice/day from 1 to 3 p.m. or 6:30 to8:30 p.m. No 
+experience is nee sar >. If you have love to give 
+and time to share, please call 271-2191
+clubs
+CMU Bicycling Club meets every Wednesday at 8 
+p.m., Skibo 13.
+CMU Ballroom Dance Club Leam to dance, free 
+lessons, every Friday 3 to 4:30 p.m., Thisde Hall 
+(Gym). Beginners Welcome!
+Informal Bible Discussion Group meets every 
+Monday evening at 9 p.m., in Room 39 Skibo. It 
+is non-denominational in nature, and deals with 
+campus-related and practical issues directly from 
+the Bible. Stop by, and feel free to bring a fiiend 
+with you. If you want additional information, 
+call 441-0819 and ask for John.
+The Tartan production staff meets every Sunday 
+afternoon in Room 52 Skibo. Come on down and 
+join the fun!
+Ready for finals?
+Free personal tutoring 
+available.
+For more information contact 
+Amy Ciric.
+Monday-Thursday 7-10 p.m. in 
+PH 126 A.
+Last Week's Puzzle Answer
+f p o c IjHHi Y  ^
+* ' * 6 * e/ t e s me s  "
+^71 ! 7v r
+A A/ 6 e ft # A M
+BY U d &
+j T (t A c. r
+ > / A T K 7/
+j> o c 
+Donald C. Stone, adjunct professor of 
+public management in Camegie-Mellon 
+Universitys School of Urban and Public 
+Affairs, has received the American Society 
+for Public Administrations (ASPA) annual 
+award for professional writings and scho
+larly research over a lifetime career.
+The presentation took place at the associ
+ations national conference in New York 
+City on April 19. ASPA has a membership 
+of 18,000 federal, state and local officials and 
+university professors. Stone is the founding
+dean of the University of Pittsburghs Grad
+uate School of Public and International 
+Affairs and currendy is dean-emeritus.
+Most of his career has been spent in local, 
+state and federal government. He served suc
+cessively under Presidents Roosevelt, Tru
+man and Eisenhower as assistant director of 
+the U.S. Bureau of the Budget in chafge of 
+administrative management of the govern
+ment, and director of administration of the 
+Economic Cooperation Administration 
+(Marshall Plan) and Mutual Security 
+Agency.
+Minimum grade requirements 
+for federal aid considered
+(CPS) The government will soon force 
+colleges to strip students with bad grades of 
+their federal financial aid, if a congressional 
+advisory committee gets its way. The 
+National Commission on Student Finan
+cial Assistance, created three years ago to 
+draw up student aid bills for Congress, last 
+week recommended a series of new academic 
+rules that colleges would have to impose on 
+aid recipients.
+Colleges, the commission said, often 
+dont take aid away from students who dont 
+make satisfactory academic progress 
+toward their degrees because of bad grades. 
+Our records seem to point out that the 
+standards are not monitored very closely, 
+says commission spokeswoman Susan 
+Turner.
+The proposed new rules are an attempt 
+to get [schools] to make it clear to students 
+what the standards are, adds Tom 
+Wolanin, an aide to commission member 
+Rep. William Ford (D-Mi).
+In January, 1982, the Government 
+Accounting Office (GAO) estimated that as
+many as 45% of the nation's college aid offi
+ces may not monitor aid recipients grades at 
+all. Among the 5800 transcripts the GAO 
+surveyed in 1982, it found some students 
+with grade point averages as low as . 11 still 
+getting aid.
+To assure that grade standards are 
+observed, the commission wants Congress 
+to require schools to publish minimum 
+course, attendance and grade requirements 
+for federal financial aid.
+Colleges would also have to identity stu
+dents as partor full-time, set up provisions 
+to account for dropped courses in comput
+ing eligibility and to allow for grade 
+appeals, and bar aid to students who dont 
+get their degrees within a certain period of 
+time, Wolanin explains. The schools would 
+then have to submit a report to the U.S. 
+Department of Education on each aid recip
+ients academic progress, Turner says.
+WTolanin expects Congress will put 
+more flesh on those bones of the new grade 
+rules over the next few years.
+JimStuckert9s
+Exxon
+3500 Forbes Ave. 
+Oakland 682-9805
+Summer Specials
+State Insp. $11.95 
+Car Wash and Wax $2.36 
+Tires as low as $35.95 
+Size P165/80D13
+Battaries as low as $44.95 
+Size MFIII 74
+
+---------------------------------------------------
+
+Page 20The TartanApril 26, 1983
+vopfip trd KopileFP de,Fs,, gt,b iwirb, trd nsbspi gltr,
+continued from page 9
+the Portland area who fit in. At the time we 
+were sort of a local group. I heard from 
+another friend of ours, once again this 
+group called Pleasure, a guy named Michael 
+Hepburn who was living in Seattle at the 
+time, about Kenny. It just so happened that 
+right when I called him Kenny was about to 
+come into town to play a show. At the time 
+Kenny was doing a lot of contract work for 
+Barry White, the Spinners, Diane Carole 
+and these types of groups. So he was coming 
+to Portland so I auditioned him and really 
+was very' pleased with the way he played. 
+Weve been working togetherever since then
+ four years ago.
+Gorelick: Four big ones!
+Tartan: Jeff, would you tell us something 
+about your background and some of the 
+people youve worked with in the past?
+Lorber: I grew up in Philadelphia and 
+went to music school at Berkley College of 
+Music then moved out to the Portland area 
+in about 1974.
+Tartan: How long did you stay at 
+Berkley?
+Lorber: Just about a year and one half, 
+although I lived in Boston for about three 
+years and I played in a rock band there while 
+studying privately with alot of different 
+teachers. After I moved to Portland I started 
+working with various people and became 
+acquainted with Marlin and Bruce Carter 
+and some of the guys in this group Pleasure. 
+Shordy after that I put my group together 
+and went from there.
+Tartan: Looking at your discography, 
+some of the people whom youve worked 
+with are just some real jazz heavyweights. 
+Chick Corea and Joe Farrell on SoftSpace, 
+also with Joe Farrell and Freddie Hubbard 
+on your Watersign album. Chick Corea on 
+Wizard Island, and Stanley Clarke on Galaxian. How is it to play with these real 
+tremendous jazz artists? How have you 
+enjoyed the experience?
+Lorber: You find that a lot of the people 
+who are successful in the music business are 
+also really nice people to deal with. Thats 
+what I found working with these guys. It 
+was just really a pleasure. On the latest 
+record I have a couple pretty notable people 
+that played on that. I just finished an album 
+that will be out in about a month.
+Tartan: Kenny, do you want to tell us some
+thing about your influences as a musician, 
+the type of music that you listen to when 
+you were growing up?
+Gorelick: I used to listen to Grover 
+Washington, Ronny Laws, and Stanley 
+Torrentine, those were really my first loves 
+as far as saxophone players. I really didnt 
+listen a lot to the bee-bop until I got to 
+college and then I started listening to John 
+Coultrain and Charley Parker and those 
+type of players. I guess the first time I heard 
+Grover play really inspired me to keep play
+ing because I never heard a sax sound as 
+good as that.
+Tartan: Would you say that he is your idol 
+player, or was then?
+Gorelick: He was in high school. I really
+dont have an idol now because Im just 
+trying to establish myself and try to get my 
+own sound. I admire the other the other sax 
+players around these days, like Michael 
+Breker and Ronnie Laws, I think theyre 
+great. So I listen a lot to those guys too.
+Lor ber: Well, I certainly know Where youre 
+coming from. Our Pittsburgh audience had 
+a opportunity to see Grover Washington 
+here in December at the University of Pitts
+burgh. They sponsor a national jazz 
+seminar each year and Grover Washington 
+was the headliner this year. He just put out a 
+blistering performance  a real pleasure to 
+listen to.
+Tartan: Jeff, do you want to tell us what 
+were your influences as a pianist and as a 
+composer because you do an awful lot of 
+composing, most of the tunes are written by 
+yourself?
+Lorber : Its hard to really say specifically, to 
+narrow it down. I can definitely say that 
+pianistically and jazz wise, Herbie was prob
+ably my main influence. Also, Chick Corea 
+and going back people like Redd Garland, 
+who I like very much, Honis Silver, McCoy 
+Tyler, Bill Evans  the usual people than 
+any modem jazz pianist would classify as 
+being important influences  Bud Pile. Ive 
+studied a lot classically and formally and I 
+think thats kind of helped give me some 
+ideas structure-wise when it comes to writ
+ing. Basically though, I think the main 
+thing that has helped me with writing, is the 
+fact that Ive really been writing for a very 
+long time. Even when I was in high school I
+was doing a lot of writing and I ha\en 
+stopped. Just like playing, its something^ 
+you have to just practice and develop
+Tartan: How do you put one of your tutT 
+together?
+Lorber: I keep sketch books and I Vvrj 
+down a lot of ideas and when I come up^ 
+something that is really appealing, i 
+pursue it and develop it into a song.Thg 
+Ill do a demo and work at it from a prod^ 
+tion standpoint and see what it needs 
+Whether things need to be revised, it needs 
+new melody, or a new section or whatever 
+it has enough special ingredients it 
+recorded, if not it gets put back into thepil
+Tartan: You would say that you have ah. 
+of songs in a can, so to speak?
+Lorber: I have piles of them, but thats not 
+say that any of them are really worth lister 
+ing to.
+Gorelick: Thats about as honest as you a 
+get.
+U2 at Fulton ^ 
+reopening
+continued from page 11 
+tactics to prevent dancing and; three, brin 
+adventurous acts like New Order, PiL, 
+Certain Ratio, and Snakefinger to 
+lethargic local audience whose reactioi 
+toward the new music aesthetic ranges fri 
+stubborn reluctance to outrigt 
+antagonism. The Fulton could fit the bil
+Hertz Comes to Oakland
+Jim S tucker f s Exxon 
+3500 Forbes Ave,
+UgiFetl 2rbpodsFbop Onnip 
+Fop bhe, Morbh on Mt 
+Ubtpberu Thsp,dt, tb roor 
+Erderu Mordt tb roor
+tll ,ezi Ftp, 
+Usf-FoagtFb bhposuh nsll ,ezi 
+$k9.99 t dt 
+srleaebid aelitui 
+as,b pibspr bo pirberu ,btbeor
+For advance reservations call
+687-0635
+Hours of operation 
+M-F 8-5,Sat 8-3, Sun 8-Noon
+For rberFsoer idg
+Natural, Distinctive and Totally YOU! 
+Ill
+PRECISION 
+HAIRCUT 
+(ANY LENGTH)
+$12.00
+(WASH-CUT-BLOW STYLE) 
+NO
+APPOINTMENT
+COLOR
+PERMS FOR
+ALL STYLES 
+$25.00
+_ fijewr
+OHDiMH.
+Mon , Tu.. Wed. 10-7 
+Thurs., Fn. 10-9
+Sat 9-6 687-5500
+NO APPOINTMENTS 
+UNISEX HAIR SALON
+CalHOTL H*#*xrrrae
+237 Atwood Strcrt 
+Across the sireet from 
+Oakland Pott Office
+CAU S7S-2921CMU TRAVEL OFFICE
+CAMPUS CONVENIENCE
+UK2BO 40A
+
+---------------------------------------------------
+
+
+
+---------------------------------------------------
+
+Page 2Carnival SupplementApril 26, 1983
+Carnival tunes: Shunts, Actual Size
+By CHRISTOPHER ZURAWSKY
+Tartan Staff uni ter
+Spring Carnival enjoyed a wonderful Fri
+day full of music consisting of The Shunts 
+Actual Size, The Pousette-Dart Band and 
+Renaissance. Four bands indeed.
+A free and fun afternoon in 
+the tent was initiated by those
+Shunts. Basic, danceable, hard 
+new wave filled with genuine vocal harmo
+nies to boot. Video recordings were filmed 
+during the show and more local dates are 
+planned.
+Actual Size followed and, I confess, my 
+absence was present. However, I heard 
+from a person who should know (a 
+drummer namely) that Actual Size has a 
+better than average rhythm section. They 
+can be seen in their entirety this Saturday 
+night, April 30, in the Skibo Ballroom.
+That evening I attended the official 
+Spring Carnival concert with a near zero 
+degree of familiarity with the material of 
+either the Pousette-Dart Band or that of 
+Renaissance, the headlining performers. I 
+was armed only with the scant knowledge 
+that this show was our English Beat alterna
+tive (depressing), and that both groups 
+played old or, even worse, didnt play 
+new music. Unfortunately, the latter was 
+as true as the former.
+The Pousette-Dart band seemed to work 
+under the delusion that two haircuts, striped 
+shirts, and tight, black leather pants make 
+them a now-happening music ensemble. 
+What they really are is a soft to medium rock 
+band, a la Pure Prairie League, making an 
+apparent, and rather embarassing, final 
+effort for mass appeal.
+From their verse, chorus, verse, chorus, 
+lead, verse, chorus" song structures to their 
+bass solo/drum solo crowd-rousing 
+attempts, Pousette-Dart personified the typi
+cal trite and trivial rock band. At the end of 
+the first song, the lead singer jerked his gui
+tar backwards, macho style, to emphasize 
+the final beat. That was fine once, but he did 
+it after the second, after the third song, and 
+again and again until I laughed out loud. 
+Late in the set, he exhibited his wonderful 
+audience rapport with a heartfelt commiser
+ation of how tough it is to find a job, even 
+after college. His solution to this problem, 
+which he related to us in a strangled growl, 
+was  ... I dont wanna work. Im a bum! 
+This declaration segued nicely into a whole 
+song with the same winning, cliched rock n
+roll message.
+To be fair, Pousette-Dart would have fit 
+nicely into the music world of six or seven 
+years ago, but nowadays they just set listen
+ers to shaking their heads.
+I think the main reason Renaissance has 
+Pousette-Dart preceed them in concert (they 
+appeared on the same bill the last time 
+Renaissance was in Pittsburgh) is the dis
+similarity of the groups. Such a vast contrast 
+in musical styles and abiliues made the 
+audience extremely receptive and relieved 
+when Renaissance finally took the stage.
+Early in their performance, Renaissance 
+bass player extrodinaire Jon Camp des
+cribed the CMU gym as being quaint. 
+Although the compliment was accom
+panied by a note of sarcasm, the term aptly 
+applied to a large portion of the groups 
+repertoire.
+Accentuated by a piano and synthesizers, 
+a well and often-used acousdc guitar, and 
+the bands most distinguishing character, 
+Annie Haslam, who exhibited clear, ethe
+real, and wide ranging vocals which were 
+strong enough to combat the gymnasiums 
+notoriously awful acoustics.
+The presence of keyboards and the gener
+ally superior ability of all of the members of 
+the band allowed Renaissance to make an 
+adequate transition from their early artrock/march beat endeavers to an exciting 
+and faster paced type of musical output 
+today. This transformation was easily dis
+cerned when songs such as Flight, with its 
+ascending and soaring instrumental breaks, 
+and Missing Persons were performed. 
+Both songs are from their latest album.
+Mother Russia, one of the groups bet
+ter known songs, elicited a sincere cheer 
+from the audience. Consequendy, this rous
+ing response relaxed Renaissance and set the 
+concert on a more personal and less rigid 
+plane. Earlier in the show, bassist Camp 
+invited the fans to leave their seats and 
+occupy the area in front of the stage and to 
+my surprise a mass of bodies surged to the 
+foreground. With this audience support 
+Renaissance  and especially Annie Haslamexcelled.
+Some wonderful lighting effects, most 
+notably a green-from-nowhere glow during 
+Northern Lights and various shimmers 
+and shines reflecting from Annies silver 
+gown, added to the pleasant sensual and 
+aural atmosphere of the performance.
+photo by John Stilweil 
+Jamie Panzer, a junior designer, on 
+guitar for Actual Size.
+photo by John Stilwa
+I Shawn reacts uniauelv to one of the booths.
+Competition injuries
+ream events disorganized
+phoio h\ John Stmwll
+Carnival delights kiddies of all ages.
+y PAULINE KRAMER
+irtan Features Editor
+There are times when competition is 
+jandoned by its original spirited intent 
+id replaced by a disorganized, wild fervor. 
+These times usually occur when die 
+! guidelines of an event are too
+supple to properly contain the 
+competitors, allowing nervous 
+anxiety to taint simple 
+excitement.
+Poor planning and choice of events in 
+amivals team competition instigated an 
+mosphere akin to an unsettled stupor, and 
+suited in otherwise avoidable injuries, two 
+which warranted a trip to Shadyside Hosital. One patient is presently negotiating 
+le campus via crutches; the other visited a 
+?urosurgeon yesterday for tests.
+Spilled tears, bltxxl, and an abrupt finish 
+- all because of a relay on the I.M. field, in 
+self an innocuous proposition, until comnined with running, actually flying, down a 
+stiff) hill, while trying very hard not to spill
+a tiny trophy filled with water.
+It could have been a fun day if the comp 
+tition was limited to relatively hafflf1 
+games like three-legged races and pyram# 
+If one team hadnt mysteriously disaj 
+ix*ared, necessitating a hurried replacemet 
+call ... If the day had been better organic 
+without 15 minute stalls between events 
+people may'not have gotten hurt and u 
+winner would have proven itself the m 
+talented team in a more orthodox fashio 
+than being the only group to show up 
+the next day of the competition.
+Excuses will surface: it wasnt ourM 
+they ran so fast down the hill; Carnival is 
+hectic and hard to organize everybody 
+wasn't my fault.
+Okay, maybe a single person
+blamed, but with an enormous annual I 
+duct ion like Spring Carnival, sotn^ 
+should have taken the helm to prevent* 
+a series of slip-ups, literally anti figurati'e 
+Ixi's avoid an encore fXTformance 0 
+inexcusable flop.
+
+---------------------------------------------------
+
+photo by John Stilwell
+April 26, 1983Carnival SupplementPage 3
+Ri,slb, er 
+foobh, bii,
+About 300 people, mostly Greeks, stood 
+in the rain Saturday night in the stadium to 
+see the awards ceremony.
+In the booth competition, Spirit was first 
+in the independent category, and SDC came 
+in second. Delta Delta Delta placed first in 
+the sorority booth competition, followed by 
+Kappa Kappa Gamma. Delta Upsilon took 
+first place in the fraternity booth competi
+tions, with ZBT second and Sigma Alpha 
+Epsilon third.
+Kappa Sigma placed first in the T-shirt 
+competition with Black Hole, designed 
+by Mike Kird. ZBTs Mike Sussman was 
+second with Prophecy.
+The award for the team competition went 
+to Uncle Hymies Deli by default. None of 
+the other teams attended the second day of 
+events due to numerous injuries from the 
+relay.
+A group of electrical engineers calling 
+themselves, The Greeks won first place in 
+the Tug-of-War. Dave Mramor was the 
+winner erf the Scavenger Hunt, and Scott 
+Bronner took first place in Spies, the off
+shoot of last years Assassins game.
+Regina Verteramo and Jay Yucht, repre
+sentatives from Delta Upsilon, were winners 
+of the Most Adventurous Costume 
+contest.
+Few eggs are tossed
+It was a chilly dog day afternoon.
+By MONICA SAFRIN
+] Tartan Assistant Features Editor
+Fridays Faculty Egg Toss became the 
+Whoever Stops By Can Play Egg Toss as 
+I the campus communitys lack of enthusi
+asm for the event became apparent. The 1:00 
+[p.m. starting time saw the defending chamIpoins, Professor Rodney Stephenson and 
+graduate student Tony Rosato, both of 
+|Mech Eng., joking about winning by
+default.
+Soon, however, the Carnival Committee 
+representatives were able to round up other 
+participants. The first place prize, a gift cer
+tificate to the Panther Hollow Inn went to 
+Jim Carifo and Paul Engler, Mechanical 
+Engineering graduate students. Second 
+place, a gift certificate to C.J. Barneys was 
+awarded to Harry Orestein, junior, Math, 
+and P. Bash, graduate student, Mech Eng.
+This
+I tradition. George Gees Make Believe Ballroom Orchestra swung to Ws swing.
+photo by Steve Winawer
+I PIKA claimed a first with its collapsible push handle.
+photo by Clarke Simmons
+Sigma Nu pusher educates her following as to her loyalty.
+photo by John Stilwell
+
+---------------------------------------------------
+
+Spring Cai 
+1983
+
+---------------------------------------------------
+
+PHOTO CREDITS
+(clockwise from upper left) 
+DDD Booth: Mike Sussman 
+Merry-Go-Round: Scott Safier 
+SAE Booth: John Stilwell 
+Mr. Phil: John Stilwell 
+Hoagie: John Stilwell 
+DTD Booth: Mike Sussman 
+Ride setting up: John Stilwell 
+DU Booth: Raj Viswanathan 
+PIKA celebrating: John Stilwell 
+Supplement cover work: John Stilwell
+
+---------------------------------------------------
+
+Page 6Carnival SupplementApril 26, 1983
+tucn epa kun vor sofKsav lp P,wU 2oopvrekov
+By JEFFREY BERGMAN
+Tartan Sports Editor
+Confusion reigned supreme during 
+the mens Sweepstakes final Saturday. Fact 
+1: In the second heat of the finals, Pikas B 
+buggy Bullit was surprisingly neck and 
+neck with Betas A buggy Vixen even 
+though Beta-A had a much better push team 
+and had been rolling the best of all buggys 
+during free rolls. Fact 2: Pikas A buggy 
+Godzilla during the next heat finished a full 
+6 seconds slower than Fridays leading dme 
+with no real explanation given. Fact 3: 
+When asking a Pika member what hap
+pened to the A buggy he answered, Youll 
+see in the next heat.
+And see we did. Pikas B buggy Bullit, 
+which crashed two years ago and didnt even 
+run last year, broke the course record and 
+finished in a record time of 2:09.0. The secret 
+was that the Pika buggy chairman wasnt 
+sure, going into Fridays qualification races, 
+which buggy was faster, Bullit or Godzilla. 
+After those races, Bill Sonny Shank, 
+decided to switch his A push team to his B 
+buggy. This answered the questions of why 
+Pika-A was slow in the finals and why PikaB was so close to Beta-A; in fact too close.
+The womens title went to the ladies of 
+CIA who continued their domination over 
+the rest of the field. Black Magic, which is 
+the A buggy for both CIAs mens and 
+womens teams, broke the record set by last 
+years push team by a full two seconds, fin
+ishing at 2:46.5. SDC, also pushing their 
+number one buggy, finished second at 
+2:50.0, and CIA-B finished third at 2:55.3.
+Fridays qualification round turned out to 
+be a veryr predictable one. In fact, the Compubookie was right on picking five out of 
+the top six and even nailing the winning 
+time to within 2 tenths erf a second.
+The first heat matched perennial doormants SAE-C Limo, Pi Lam-C Blue Dol
+phin, and Theta Xi-C Slow Death. It turned
+out that Theta Xi-C was not slow enough 
+thrashing its counter parts with a time of 
+2:43.4. The other two came in at a speedy 
+3:14.3 and 3:14.2 respectively.
+Heat 2 showed first resemblence of any 
+quality at Betas C buggy Echo faced CIA-C 
+with Synergy. Using a better push team, the 
+four wheeled, light green Beta-C thrashed 
+QA-C in a fast 2:24.6. CIA finished behind 
+in a time of 2:36.4 and KS-D 3495 which also 
+happened to be in the race pulled up the rear 
+in 2:50.5.Disqualifications was the theme in heat 3 
+as both Scorpion, Sigma Nus C buggy and 
+Streak, Phi Kap-B, both failed to meet 
+requirements set down by Sweepstake rules.
+The hill 5 pusher for SN-C, John 
+Shepard, failed to grab the handle bar of the 
+buggy as it crossed the finish line  this is 
+illegal. With Phi-Kap B, Streak seemed to 
+have the race won but failed its brake test, 
+which every buggy is required to pass after 
+the race is over. So, the winner of heat 3 
+turned out to be Beta-D 8 to 5 with a time of 
+2:45.3.
+Heat 4 turned out to be the closest of the 
+day with all three buggys finishing within 5 
+seconds of each other. The race matched the 
+champion buggy of three years ago White 
+Lightning now Pika-D with an impoving 
+TX-A squad and SAEs A buggy Intrepid. 
+The favorite, Pika-D, showed it still had a 
+little electricity left finishing strong at 2:30.5. 
+Suprisingly, Theta Xi, using their B buggy 
+Relayer edged SAE-A 2:33.0 to 2:32.1.
+The first of the six qualifiers ran in heat 6 
+as Presence. Betas B buggy ran away from a 
+slow field and finished at a slow (for Beta) 
+2:21.2. Some members attributed the time to 
+lack of preparation due to the elimination of 
+heat 4. Other members said the buggy had 
+been raced too early in the day  the course 
+wasnt fast enough. Anyway, Beta-B 
+finished 25 seconds ahead of DTD-B Delta 
+Queen and Phi Kap-C Shadow.
+The next heat was dominated by CIA-B 
+Dark Star. Using the great push team, 
+CIA-B took a temporary third place 
+finishing at a strong 2:25.5. Prophecy 
+ZBT-B and Triskelian SDC-C barely made 
+it to the finish line before the next heat
+started.
+Heat 8 was supposed to be the heat of the 
+day according to the Compubookie as two 
+buggies who made the top 6 last year Bandit 
+Pika-C, last years A buggy, and ESP SN-B 
+were matched together. It turned out to be a 
+bam burner as both teams came down the 
+stretch with less than two buggy lengths 
+separating the two. SN-Bs great free roll 
+held off Pika-Cs better back-hill pushers to 
+win, but they won it in a very slow time of 
+2:22.3. Bandit finished in a time of 2:24.0 
+and Flying Butress, Fringes A
+finished way back at 2:36.1.
+Many people from Kappa Sig hoped he
+9 would be the race that would give t 
+fraternity its first top six qualifier in a whi 
+This was because their A buggy ATF was( 
+the starting line. Unfortunately, KS-Aaga 
+disappointed and finished at 2:24.1 whi 
+put them at the time fourth. Second pla 
+was a battle between DTD-A Cyclone ad 
+Lam-B Falcon. The three wheeled B bug 
+came from behind in the stretch to sha 
+Cyclone to win by five tenths of a secon
+Heat 10 was similar to heat 9 because F 
+Kaps A buggy Stiletto was in the sal 
+position as KS-A. It faired better but n 
+good enough coming in at 2:23.7 whichp 
+them temporarily in third.' SDC 
+Excalibur and DU-B Diffusion.
+continued on pafl*
+photo by John
+CIAs women squad also broke a record in this years Sweepstakes finishing at 2:463. 
+push team led by Debbie Kovacs above was the key factor in setting the record.
+photo by John Stilw
+Hill 5 pusher Bill Gens sprints the last leg of Pikas record breaking run during Saturdays finals. The three wheeled B buggy Bullet finished its individual heat in 2:09.0, eclipsing thee 
+record set by CIAs Black Magic by a second and a half.
+
+---------------------------------------------------
+
+April 26, 1983Carnival SupplementPage 7
+photo by John Stilwell
+The brothers of Pi Kappa Alpha celebrate their second buggy victory in four years.
+Collapsing handle bar 
+migh/ights buggy races
+Ltinued from page t>
+Heat 11 was won hands down by Pika-B 
+UJit but with their B push team. Their 
+L was an awfully quick 2:13.3 with driver 
+Lncie Elikan hitting five windows. SAE-B 
+Lprised many with a 2:28.4 second place 
+Le with their buggy Hustler.
+The next heat was highlighted by the 
+Lpearance of a buggy that many looked at 
+L top favorite due to its great times in free 
+|ll. Betas new A buggy Vixen 
+appointed none by reaching 40 MPH in 
+e chute and continuing that pace with the 
+L of great pushers like Dave Richards on 
+115 to finish at 2:12.0, seven seconds faster 
+Ln their A buggy finished the year before, 
+hnges B buggy Bumpzoid, came in second 
+2:32.1 while KS-B was disqualified. 
+fMany fans were excited about Heat 12 
+kause the defending champion Sigma 
+us Lemur and their premier driver Amy 
+lorton were going to roll. Sure the 
+[fending champs were fast and finished at 
+13.2, second place at the time, but the 
+Irprise of the day was the time turned in by 
+K-B Vapor. Using their A buggy and A 
+Jish team, the perennial second division 
+embers finished at an unbelievable 2:21.6. 
+lat put them in fifth and a shot at the top 
+L Credit for Vapors dme has to be given to 
+stronger push team containig track 
+lembers. SDC-As Blue Haze was 
+bqualified as hill 5 pusher Rich Neff failed 
+I get his hand on the buggys handle bar as 
+Icrosssed the finish line.
+Only one team was of any importance in 
+[at 13. That squad was CLA-A and their 
+per champion buggy Black Magic. The 
+bed-wondered push team was the key for 
+le three year old buggy as they carried 
+IA-A to a dme of 2:18.0. 
+iHeat 14 was one that all buggy fans were 
+king forward to. This was because Pikas 
+|w buggy Godzilla was making its first 
+lpearance. It also was the first appearance 
+Ihe collapsable handle bar. After Godzilla 
+its its free roll, the driver presses a button
+I the buggy which causes the push bar to 
+pp creating an aero-dynamic innovation, 
+pis spectacle fascinated many but gave 
+ia the number one dme going into 
+iurdays finals. They nailed 6 windows 
+Ida time of 2:11.9. Pi Lam-A Legend spun 
+|in the chute and was awarded a re-roll 
+lore the finals the next day. 
+finalists decided by Fridays qualifiers
+Pika-A Godzilla.............................2:11.9
+Beta-A Vixen.......................... ..2:12 0
+pgma Nu-A Lemur.....................2:13.2
+[ika-B Bullit.................................2:13.3
+NA-A Black Magic.......................2:18.0
+6) Beta-B Presence...........................2:21.2
+Saturday brought us a variable cloudy day 
+which some thought might not encourage 
+record breaking times. They were quite 
+wrong.
+The first set of races that day were the 
+alumni races. The favorites? Who else the 
+gung-ho men from Pika. This year they had 
+an even bigger advantage using the quick 
+White Lighting. The main challenge would 
+probably come from Beta due to the fact that 
+they were running Echo.
+It turned out to be just that as the first Pika 
+alumni team pushed their buggy to a win
+ning time of 2:23.3 in the first heat. Beta 
+raced in the third heat but fell short finish
+ing at 2:25.0. Third place went to the other 
+power house Sigma Nu in Scorpion at 
+2:26.2.
+The women were next, and the big quesion was whether a first heat placement 
+would hurt the defending champions CLAA. That was answered right away as Black 
+Magic was pushed to an all-dme record dme 
+of 2:46.5. They combined an outstanding 
+driver in Andrea Bertoli with an incredible 
+push squad led by Debbie Kovacs, Gina 
+Illig, and Lori Zud to eclipse the old mark of 
+2:49.29. Another advantage CIA has over the 
+rest of the field is that they are the only 
+womens organizadon that uses a top notch 
+buggy.
+The rest of field now had a time to shoot 
+at, and the question of whether anyone was 
+in the same class as the defending champs 
+would now be answered. In heat 2, SN-A 
+with Scorpion and Pi Lams Legend gave it 
+a shot, but their push teams were weak and 
+neither one came close.
+Heat 3  and 2 more challengers, the 
+Tri-Delts pushing Betas Echo and CIA-B 
+with Dark Star. In a close battle, CIA-B had 
+the horses and pulled away from the TriDelts on the back hills to finish at 2:55.3 
+while Echo closed in at 2:59.4.
+CIAs last worry was in the fourth heat in 
+the name of SDC. The. champs from two 
+years ago, sufferred from a buggy that is old 
+and faild to equal CIAs free roll time. Their 
+push teams are comparable but Blue Haze is 
+not in the same class as Black Magic and 
+thusly SDC finished second with a dme of 
+2:50.0.
+The stage was now set for the mens final. 
+Would CIA take advantage of the cooler 
+weather to upset the rest? Could Lemur 
+improve on last years dme with the help of 
+the hockey team? Will Betas push team 
+prove superior and give them their first dde 
+since 1979? Will Pika succumb to the pres
+sure of its alumni or will they rise above it 
+and win as favorites?
+photo by Scott Saner
+Last years champs Sigma Nu could do no better than third, finishing at 2:11.0, two tenths of 
+a second slower than last year.
+Before any of this was to be decided, two 
+buggys Pi Lams Legend and Pikas Bandit 
+were to be given re-rolls. Pi Lam because of 
+their crash in the chute and Pika because 
+they protested that ESP pusher from Sigma 
+Nu in heat 8, cut in front of Bullit after a 
+push off and hindered Pikas performance. 
+Pika-C took better advantage of the second 
+chance by finishing at a fast 2:18.5. Pi Lam, 
+however, did the opposite because they spun 
+out again and in the same spot. Pikas 
+enthusiastic performance not only increased 
+their dme but also seemed to affect the rest of 
+the teams. Everyone realized a fast time was 
+going to win this years Sweepstakes.
+Next up were the defending champs 
+Sigma Nu against Betas B buggy Presence. 
+The only way Beta was to come close to the 
+defending champs was by means of a super
+ior push team. However, once the gun went 
+off and Lemur beat Presence by hill 2, you 
+knew it was all over. Lemurs free roll wras 
+one of the fastest of the day. It cleared six 
+windows on hill three and was booking 
+towards the finish. It crossed at 2:11.0, 21 
+tenths of a second slower than last years 
+winning dme. Beta crossd later at 2:20.4.
+Next came probably the most controver
+sial finals race in many years. The particicontinued on page 8
+photo by John Stilwell
+1 Ixmgh Betas A buggy finished second, ihey still broke the course record with a 2:10.0 
+le Dave Richards anchored Vixens push team.
+
+---------------------------------------------------
+
+Page 8Carnival SupplementApril 26, 1 983
+This four-picture sequence shows the controversial crash of Beta-A and Pika-B durifls 
+second heat of the mens finals. Beta argued that Pika cut them off in the chute. Acco 
+these photos, the judges seemed to have been correct in deciding that neither buggy" 
+fault and awarding each a re-roll in individual heats. Betas Vixen is on the right an 
+Bullet is on the left.
+BETA'U Fpt,h webh P2KA 
+Fpitbi, atjop Forbpowip,
+photo by John Stilwell
+C JA blew away Pikas GodxUla in heat 3 of the finals but could only muster a fourth place 
+finish.
+continued from page 7
+pants were Beta-A with Vixen vs Pika-B and 
+Bullit. Most expected Beta to be ahead going 
+in to the free roll mainly on the legs of Joe 
+Orlowski and Paul Scarmazzi. But the 
+crowd was shocked as Pika was ahead after 
+hill 2. They held their lead till the monu
+ments when driver Patd Carlisle pulled 
+Vixen to the outside to move ahead by a half 
+a buggy. Then as the two were moving 
+through the chute, the sides of the two bug
+gies collided leaving both buggies stopped 
+dead in their tracks.
+Beta blamed Pika and felt they should be 
+disqualified for causing the accident. Pika 
+recipricated the accusation. Either way, it 
+seemed that Beta would suffer more because 
+their top buggy would have to roll twice in 
+th same day while Pikas top buggy' was 
+upcoming, or at least we thought.
+Chairman Sandy Ruscin now had a 
+dilemma on her hands. She called the judges 
+for their opinions. They then discovered 
+that a Beta, Lee Ferkedc, had filmed the 
+accident and decided to use his film as 
+evidence.
+After a long wait the decision was made. 
+Neither team was at fault and both buggies 
+were to be given a re-roll after the next heat 
+but alone.
+This set the stage for the most bizarre 
+events in recent buggy history. The next 
+heat had CIAs Black Magic vs. the no. 1 seed 
+Pika and Godzilla, the batde of the push 
+teams. The favorite seemed a certain victor 
+and a shot at Lemurs time seemed a shoe-in. 
+Then something went wrong. CIA des
+troyed Pika up hills one and two and had a 
+buggy and half lead. As the push bar went 
+down, Godzilla was catching up. By the 
+chute, Pika was right behind. But then CIA 
+started to pull away through back hills. 
+They finsihed three and a half seconds 
+ahead of Pika with a time of 2:14.8. Pika 
+rolled in at 2:18.2, 6.3 seconds less than Fri
+days ume. Why the difference?
+Unrealized to many, the push teams for 
+Pikas two top buggies had been changed. 
+The A push team had pushed Godzilla on 
+Friday but was switched to Bullit on Satur
+day and had pushed Pika-B against Beta-A
+in the accident heat. The drivers though 
+remained with their respective buggies. 
+Mary Schumacher with Pika-A and Francie 
+Elikan with Pika-B.
+Next came the individual heats. Pika was 
+first but most thought the dramatics would 
+come when Beta rolled. Those 
+changed rapidly when WRCT announcer 
+Paul Doyle informed the crowd that Pika 
+had gotten seven windows. As they 
+approached the finish line, the tension 
+mounted. When they crossed unofficially at 
+2:09.4, the Pikas went beserk. Then the final 
+time was announced 2:09.0 flat, a new 
+course record.
+It was now all up to Beta.
+(Pikas arch rival) lined up from 
+truck to the start line and cheered 
+ously when Vixen was brought out to 
+start line. The moment was as dramatic as 
+the bottom of the ninth in the final game 
+the World Series.
+When the gun went off, the screaming 
+started. Go Joe! Go Paul! After 
+Scarmazzi push off, it was all-up to 
+Patti Carlisle. It was no holding back now 
+and the new Beta buggy zipped into 
+chute. Coming up to hill 3, Vixen nailed 
+only five windows. It was now up to the 
+pushers. As Dave Richards, brought Beta-A 
+to the finish line, the count down started. 
+2:03, 2:04, 2:05. They crossed the finish line 
+and quickly the official time was announced
+2:10.0 and Pikas were now the champs for 
+Sweepstakes 1983.
+Pika-B Bullit...............................
+Beta-A Vixen....................
+Sigma Nu-A Lemur............
+Cl A-A Black Magic....................
+Pika-A Godzilla................................
+Pika-C Bandit ..................................
+The moods after the races were unexpect
+edly not bitter. Ron Fowler, Sigma Nu 
+buggy chairman commented on the 
+team switch, Weve known for the last three 
+weeks that their B buggy was faster. Betas 
+chairman Don Savage just said, We tried 
+our best, and theres nothing we can 
+about it. Shank seemed to sum up the feel
+ing of the Pikas winning the title with the 
+statement, I love it.
+
+---------------------------------------------------
+
+%
+Greek Sing: An Entertainment Special
+Gladys Knight.
+Two groups broke out of this mold to a 
+small extent, Delta Delta Delta and Chi 
+Omega. The Tri-Delts won first place with 
+their selections from Starting Here, Starting 
+Now, an obscure musical that provided 
+some hot tunes which were matched by the 
+high-kicking choreography.
+Second place in the sororities category 
+was won, not by Chi Omega, but by the 
+group that did the best job at the dense 
+pack choreography. Kappa Alpha Theta 
+made a fortunate choice of music, combin
+ing upbeat tunes from Pippin with colorful 
+costumes and some lively dancing.
+There were only three entries in the mixed 
+category. The brothers and little sisters of 
+Theta Xi performed selections from Joseph 
+and the Amazing Technicolor Dreamcoat. 
+Delta Tau Delta did a rather slow-paced 
+version of The Time Warp from The 
+Rocky Horror Picture Show, but recovered 
+with the solo number.
+First place in the mixed category went, 
+not surprisingly, to Pi Lambda Phi, which 
+performed Impossible CMU Songs, a set 
+of songs about CMU problems sung to pop
+ular tunes. First place overall went to the 
+Tri-Delts, with ZBT second.
+Another group deserving mention was 
+Kappa Sigma, whose Jumpin Jive really 
+did jump, and, coming early in the evening, 
+did a lot to wake the crowd up. And scoring 
+high in the originality column had to be the 
+brothers of Beta Theta Pi, who performed 
+well-known songs from television land. The 
+crowd enjoyed this enough to call them 
+back for an encore, whereupon they gave a 
+dramatic presentation of the Airco Techni
+cal Institute commercial.
+Perhaps the most unfortunate part of the 
+evening was the fact that the admittedlycavemous Syria Mosque was only half-full. 
+Greek Sing is a great way to raise money, 
+and the Easter Seals Society is no doubt very 
+grateful, but it is too bad that the campus 
+could not get behind the effort more.
+By JOHN CANTINE
+Tartan Associate Entertainment Editor
+If Greek Sing is here, can spring be far 
+behind? Friday night at the Syria Mosque, 
+the fraternities and sororities of CMU strut
+ted their stuff, performing selections from 
+musicals, well-known tunes, and original 
+songs, with the $2.50-a-head admission 
+going to benefit Easter Seals.
+The groups were judged on such items as 
+group tone, the difficulty of music, original
+ity, and entertainment value. The judges 
+were all local music instructors and 
+choreographers.
+When the smoke had cleared after Greek 
+Swing on Saturday night, the brothers of 
+Zeta Beta Tau came out on top in the frater
+nity category. ZBT peiformed pieces from 
+Gilbert and Sullivans Pirates of Penzance, 
+and did a very good job with the tonguetwisting lyrics. They matched the fast-paced 
+tune with lively choreography, filling the 
+stage with brightly-colored pirates, bobbies, 
+and the very model of a modem major 
+general.
+The decision must have been a tough one 
+for the judges, for in second place were the 
+brothers of Delta Upsilon. DUs perfor
+mance of songs from 1776 was every bit as 
+well choreographed as ZBTs Pirates, the 
+costumes were perhaps better, and the pro
+duction as a whole was probably the most 
+Polished of the evening.
+Another Broadway musical, Guys and 
+Dolls, provided the music for the third place 
+fraternity, Sigma Alpha Epsilon. Luck 
+Wasnt quite enough of a lady to give them 
+frst place, but SAE kept their production 
+Moving, and featured one or two fine solos.
+The sorority pieces showed less diversity 
+toan the fraternities. Unlike the frats, who 
+used electric guitars, trumpets, and drums, 
+sororities used simple pianoaccompanirnent. rhe choreography was less imaginatlve, and relied on large groups of people 
+taking the same movements at the same 
+^rrie. like a multitude of Pips with no
+Above: ZBT won first place in the fraternity competition with a colorful performance of 
+The Pirates of Penzance. Photo by Rhoda Funk.
+Below: The Tri-Delts took first place in sorority competition with Starting Here, Starting
+
+---------------------------------------------------
+
+Delta Upsilon brought colonialism lo stage with 1776.
+PAY YOUR BILL ON TIME
+(TCh LEARN YOUR LESSONS WELL)
+By Heather Newton
+I can see the board of trustees sitting yonder 
+and theyre leaving students terror-struck 
+Inflations down, but they havent noticed 
+and they want twelve-hundred extra bucks.
+Youd better pay tuition 
+or forget about admission.
+Going broke is a CMU tradition.
+Sell your firstborn for that last dime
+and if youre smart youll pay your bill on time.
+Any good philanthropist worth his salt 
+would be appalled at what weve gotta do.
+Tuitions going up, sky high, all right, 
+but wheres the money going to???
+Not to pay professors.
+Not to heat nor feed ya.
+Andrew Carnegie where are you when we need ya?
+Sell your firstborn for that last dime
+and if youre smart youll pay your bill on time.
+Chi Os Kathy Viaropulos pointed to Best Little
+Guys and Dolls was SAE'
+ROBOT-TOWN
+(.ALLENTOWN BY BILLY JO
+By Steve Lammert
+Well were living here at CMU,
+And we share a building with Sigma Nu 
+Jt can really be a problem; still 
+Wed rather be here 
+Than up on the Hill.
+Well the freshmen think that were all the same,
+But theres a dozen different places and names.
+Theres eleven now, cause ATO 
+Cut down a tree;
+They had to go.
+And were living here at CMU,
+But Oscar says our rents overdue,
+And its getting very hard to pay ...
+Well were waiting here in Robot-town 
+For the education we never found 
+For the promises that Cyert made 
+Quality teaching 
+Financial Aid
+
+---------------------------------------------------
+
+CYERTS QUEST
+nus the Dolls
+(THE IBMPOSSIBLE DREAM)
+By Arthur Benjamin and Heather Newton
+To dream the impossible dream, 
+to fight for what students condemn 
+prepare for the school of tomorrow, 
+to run CMU-IBM.
+To write the unwritable plan, 
+the best of my brilliant career, 
+to drive M.l.T. out of business, 
+to make NEWSWEEK two times a year!
+This is my quest, 
+to stay in the black, 
+and charge every freshman 
+to learn how to hack.
+They'll pay for the right 
+without question or pause, 
+and be willing to go into debt 
+for a dubious cause.
+And I know if Ill only be true,
+and the game never stops,
+that my plan and my system wont crash,
+and my school will be TOPS.
+And the world will be better for this, 
+that one man with one measly Rolls-Royce, 
+still strove with each goofballs tuition 
+to make THE PROFESSIONAL CHOICE.
+So well graduate in four or five years 
+When IBM is all you will hear 
+Cause they never taught us what was real 
+Selling out students 
+Making a deal
+And were waiting here in Robot-town 
+But tuition isnt going to go down 
+And its getting very hard to pay ...
+Evry student had a pretty good chance 
+To study architecture, music or dance.
+But something happened to the humanities 
+They forced a personal computer on me.
+And were living here at CMU 
+But all of my assignments are due 
+And there isnt even time to pray ...
+And we wont be getting out in May ...
+And were living here at CMU.
+A.k.a. Jim Morris, DTDs Dr. Frankenfurter of Rocky Horror strutted his stuff.
+photos by Rhoda Funk and John Stilwell 
+Lyrics courtesy of Pi Lambda Phi
+Thetas Mary DeLeon laid down the law dunng nppm seiecuons.
+
+---------------------------------------------------
+
+do sKro 
+rbo bKKk Kp 
+fsoo aollvosy...
+...and its been a best 
+seller for over 20 years. 
+The story? It begins with 
+your phone call and ends 
+at your door with a hot, 
+delicious pizza delivered 
+in 30 minutes cr less
+Dominos Pizza is critically 
+acclaimed as the #1 
+source for fast, free 
+delivery Check us out.
+Open for lunch
+11 am - 2am Sun. - Thurs.
+11 am -3 am Fri. & Sat.
+Ft,b.. Fpii 
+Dilewip 
+681-1700
+310 N. Craig St.
+Our drivers carry less 
+than $10.00.
+Limited delivery area.
+$.50 off any 
+pizza
+One coupon per pizza 
+Expires: 3/31/83
+Fast, Free Delivery
+310 N. Craig St. 
+Phone: 681-1700
+$1.00 off any 16 
+large pizza 
+One coupon per pizza 
+Expires: 3/31/83
+Fast, Free Delivery
+310 N. Craig St. 
+Phone: 681-1700

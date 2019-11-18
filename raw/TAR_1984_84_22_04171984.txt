@@ -1,0 +1,2038 @@
+The Newspaper of Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213, Volume 84, Number 2 April 17, 1984.
+JCC welcomes public with open house
+Jndergraduate catalog now available on-line
+y DANIEL DURKIN
+flrtan Staffwriter
+The 1984-85 undergraduate catalog has 
+een transferred onto a computer file, and it 
+now available on all TOPS systems. The 
+rogram can be run by typing “take [srOl]
+atalog.”
+Identical to the printed version, the com- 
+uter catalog will be the “first totally com- 
+uterized text” on the CMU campus, 
+lording to William Elliott, Vice-President 
+>r Enrollment.
+Karen Marron was responsible for creat­
+ing the file, which was started in September, 
+and she explained that “the catalog was usa­
+ble by students in December. Student reac­
+tion to the catalog has not been established 
+because few students know that it is 
+available.”
+The program provides an address to 
+which comments should be forwarded, and 
+Elliott expressed his hope that students will 
+use the program and make comments. 
+Since the program is organized into five
+separate parts, each formatted into specific 
+nodes, it is not difficult to learn how' to use 
+it. On-line help is available, and Marron 
+believes that learning to use the system is a 
+“matter of looking at the commands.” 
+Elliott offered several reasons why the 
+undergraduate catalog w as transferred to the 
+computer. First, he feels that having infor­
+mation on line will make things easier for 
+students looking up important facts. 
+Second, CMU in general is moving away 
+from written material and more towards on­
+line information. Finally, since the catalog 
+no longer has to be printed for each student, 
+“the computer catalog will save money,” 
+stated Elliott.
+Hunt goes 
+to 24 hours
+By DANIEL DURKIN
+Tartan Staffwriter
+Hunt Library will be open 24 hours for 
+the final two weeks of the semester.
+Between April 29 and May 11, all four 
+floors will be open 8:00 a.m. till 2:00 a.m., as 
+previously. The first and second floors will 
+be available 2:00 a.m.—8:00 a.m., but books 
+cannot be checked out until 8:00. Students 
+will be required to show CMU ID upon 
+entering.
+John Pane, Student Senate Chairman, 
+pushed for the extended hours several weeks 
+ago via an approved Senate resolution. He 
+said the primary reason he wanted a change 
+was requests from students who wanted a 
+quiet place to study during finals.
+y yDA NIINEL
+1TW Staffwriter
+Amid the flurry of Spring Carnival 
+tivities Friday afternoon, the University 
+omputing Center (UCC) conducted an 
+^en house for students to celebrate the 
+jilding’s long-awaited grand opening. 
+Tom Bajzek, interim director of the Com­
+utation Center, stated, “That the building 
+actually open to the people on campus is a 
+gnificant thing. . .we’re accessible again, 
+id I think we have a nice facility.”The UCC is the new home for several apartments. It houses the Computation enter, Administrative Systems, the Infor- ladon Technology Center (ITC), and the enter for Design of Educational Comput- ig (CDEC).In addition, a public personal computing 
+>Q room and a spacious, comfortable atrium re located on the first floor.The high-security ITC, which uses most [ the second floor, showcased its work iward developing the personal computer orkstation of the future. Included in its >ace are offices, a machine room, and even s own library of software and documenta- on. The ITC shares the second floor with
+CDEC, found in the southeast wing.
+The first floor is occupied mainly by offi­
+ces of the Computation Center and Admi­
+nistrative Systems. Administrative Systems 
+is responsible for computing activities of 
+administration, including student systems, 
+financial systems, office systems, and data 
+entry. Its services are used by the Registrar, 
+Financial Aid, the Cashier, ánd Planning.
+The basement has been open for some 
+time, and recently the output pickup was 
+moved there from Wean Hall. The machine 
+room has operated in its central basement 
+location since last August, and was joined 
+some time ago by the computer store and PC 
+support group.
+At this point, the multi-million dollar 
+building is virtually complete with the 
+exception of the sub-basement and outside 
+landscaping. Some of the existing space 
+problems in Wean Hall have been cleared 
+up, and everyone seems to be more relaxed.
+Bajzek said, “I hope that the students and 
+the faculty who come here to use the facility 
+understand that it is a good facility, and help 
+us to keep it that way. It’s quite different 
+than Wean Hall was, and I hope we can go 
+on keeping it looking this nice.”
+J- v#ivv..u«ui«i
+*sh from their breakdancing performance in the tent, the Kingsley Robonic Tic-Toccers officially opened Spring Carnival with 
+^bon-cuujjjg ceremony.
+In this issue
+News
+H&SS computing slashed.................page 2
+Student Senate minutes......................page 3
+Features
+Graduation approaches......................page 5
+Entertainment
+Guys and Dolls faultless...................pag£ 7
+Sports
+Rugby undefeated - almost...............page 9
+Track takes dual meet........................page 9
+Editorial
+Computing cuts unnecessary-----page 12
+photo by Peter Rosenfeld 
+Students visit the UCC’s new public PC room during Friday’s open house.
+
+---------------------------------------------------
+
+Page 2—The Tartan—April 17, 1984
+—
+Less EMACS and ScribeH&SS students caught by "deleted" accounts
+By KAREN CERRONI
+Tartan Staffnrritrr
+Many H&SS students have been caught by 
+surprise this spring, after their computer 
+accounts were revoked.
+Due to the rising costs of using the main­
+frame, each department was ordered to cut 
+back on expenditures. In an attempt to 
+speed up student use of personal computers, 
+existing course accounts were reduced or 
+eliminated. The English Department pro­
+vides a typical example of the resulting 
+problems.
+A modification of the English Depart­
+ment’s computer accounts began at the 
+beginning of March. Several problems 
+stemmed from this modification. Initially, 
+panic and confusion occurred. Many stu­
+dents returned from Spring. Break to find 
+that they could not access their files.
+Nichole Vecchi, a junior in Technical 
+Writing, commented, “It’s not that I’m 
+opposed to the cutback, and I realize that 
+computer time is costly. What upsets me is 
+the way in which the situation was man­
+aged.” In Vecchi’s case, the decision made it
+difficult for her to complete a portfolio 
+(using Emacs and Scribe) that had been 
+assigned at the beginning of the semester.
+Another problem arises due to the limited 
+number of personal computers available to 
+English students. Not only are some stu­
+dents faced with dealing with closed course 
+accounts, but even if they want to use the 
+PCs they cannot find an open one. How­
+ever, Dr. Gary Waller, head of English, 
+assured that as soon as they receive the addi­
+tional units, another cluster of personal 
+computers will be made available—even if it 
+means the staff doubling up in offices to 
+create space for a new terminal room.
+Yet many students can not help but feel 
+the department is placing more value on the 
+cost of computing time than on their educa­
+tion: Bill Garrison, a junior Technical Wri­
+ter, remarked, “I think it stinks. I don t feel 
+that a few people should find the English 
+Department’s accounts expendable, and 
+decide this is where the sacrifice can be 
+made. No wonder H&SS students have been 
+alienated from computers. Decisions are
+made without the concern of the student; 
+and no help is offered.”
+Waller insisted “the educational goals o{| 
+the university remained paramount! 
+throughout the decision.”
+“We agreed it was for the education 
+benefit of the students to make the switch to 
+the personal computers. Sooner or later 
+they will have to make the transition. As; 
+result of the modification, more student 
+than ever are utilizing PCs.”
+Waller suggested that any student having 
+a legitimate educational need and finding 
+himself in a bind should go to the English 
+Department. Emergency accounts hay. 
+been established for exceptional situations.
+Waller felt he received positive responsi 
+and cooperation from the students. Garril 
+son remarked, “It’s not that I disagree wit) 
+the need of the PC—I’ve already star 
+using them, but I disagree with how 
+problem was handled.”
+Vecchi noted, “It’s just not a worry] 
+should have to deal with at this point in t 
+semester.”
+WRCT 100 watts for Carnival
+photo by Dave Loren
+WRCT Chief Engineer Bdale Garbee works on WRCT’s new 100 watt transmitter.
+By NEIL J. GREENBLUM
+Tartan News Editor
+WRCT, Camegie-Mellon’s student-run 
+radio station, is now enjoying a power 
+increase from 10 to 100 watts.
+The increase was cause for a ceremony 
+involving Associate Dean of Student Affairs 
+Lois Cox which was held in conjunction 
+with the opening of the Midway on Thurs­
+day afternoon.
+“There were lots and lots of delays,” said 
+Bdale Garbee, WRCT Chief Engineer and 
+General Manager-elect, including some
+technical delays held up the ceremony ovi 
+30 minutes.
+The entire increase process took ova 
+eight months, much longer than Garb 
+expected. WRCT was originally supp 
+to become a 100 watt station last Septeml:
+According to Mark Iskowitz, Music Din 
+tor, WRCT can now be heard clearly as f 
+west as Pittsburgh International 
+and as far east as Westmoreland County. |
+For more on this landmark event, see tk 
+followup in next week’s issue.
+J-v #iv.u«vmnt. eu.numsou.-v« fvhnoiv dviuv.
+presents
+Clement Greeiiberg,
+Art Critic
+Conti
+“Issues in 
+emporary Art”
+J-oi.«a$3 Apiul 183 1984 
+4:30 pm 
+W-viivnn Room3 dkubo
+
+---------------------------------------------------
+
+April 17, 1984—The Tartan—Page 3
+Election outcomes and other Student Senate happenings
+minutes of the student senate
+3 A#RIf 1984 /
+J-v mvvnums wa. hallv« no oi«vi an 7:00 p.m. 
+#REdENJ: Bvnn3 Biomo3 Co-vm3 Coilv..3 evBioff3 
+eovi3 eoibum3 Eiuhk.om3 Fvh-nvi3 Funzsvial«3 Gol«.nvum3 
+Ibia-um3 #amv3 #anola3 Roh-vi3 dh-munn3 dvaiums3 
+d-ums3 Ja$loi3 Volam3 Wvavvi3 Wvllvi3 evam Walnvi3 
+evam Cox3 MhCoimuhk3 GdO.
+ABdENJ: fuvamo.3 Moiia$3 dollai (vx)3 Oisaum (vx)3 
+UFO, SDC.
+AUeIENCE #ARJICI#AJION: fvx Kavoolaku. (vx- 
+h-aui of n-v dno«vmn dvmanv): Em«oi.vmvmn. foi C-aui­
+mam of n-v hommunnvv.3 C-aui of dvmanv: Jo-m #amv3 
+Fumamhv: Fiam Funzsvial«3 Aha«vmuh Affaui.: Cm«$ Ja$­
+loi3 Rolv.: Eiuh Roh-vi3 GC8hI: fu.a Biomo3 Al.o eu.-
+The following is a statement from Senior 
+Vice President for Academic Affairs J. Pat 
+Crecine concerning H&SS computing allo- 
+catons for 1983-1984.
+A number of individuals have questioned 
+Resources Allocation Board (RAB) actions 
+related to H&SS computing allocations for 
+this fiscal year.
+At the second quarterly review (January) 
+of the 1983-84 budget and expenditure expe­
+rience, it was projected that H&SS would 
+overspend their computing allocation by 
+roughly $167,000 under current usage 
+patterns.
+The RAB took actions which — without 
+disturbing usage patterns in H&SS — 
+reduced the projected year-end deficit for 
+which H&SS was responsible to about
+$45,000.
+The College had and has several options 
+for dealing with the $45,000 deficit problem. 
+The options the College Chooses to exercise 
+in dealing with their compuung usage 
+problem is not an issue either the RAB or I 
+think we need to be involved in. We view it 
+as an issue for the Dean and Department 
+Heads of H&SS to deal with — we feel the 
+central administration has, already, done 
+what it could do to alleviate an undesirable 
+situation.
+ho..v« n-v on-vi po..ubulunuv. foi n-v po.unuom.. faoia 
+daba«vll (vx-C-aui of Fumamhv): Em«oi.vmvmn.3 C-aui: 
+Jo-m #amv3 Fumamhv: Fiam Funzsvial«3 Vuhv-C-aui: Jovl 
+Fvh-nvi. Bvhk$ dukoia (vx-vuhv-h-aui of dno«vmn dvmanv): 
+Em«oi.vmvmn.3 C-aui: Jo-m #amv3 Rolv.: Eiuh Roh-vi3 
+Aha«vmuh Affaui.: Cum«$ Ja$loi3 GC&I: fu.a Biomo. 
+C-iu. eommv (vx-dvmanoi): Em«oi.vmvmn.3 fu.a Biomo 
+foi GC&I C-aui.
+EfECJIONd:
+1. CHAIR OF dENAJE
+A. Nomumanuom.
+1. Jo-m #amv - Ahhvpn
+B. Monuom no ahhvpn b$ ahhlamanuom: vote: 
+passed.
+C. Nvw C-aui of dvmanv: Jo-m #amv
+2. VICE-CHAIR OF dENAJE
+A. Nomumaoom.
+1. Jovl Fvh-nvi - Ahhvpn
+2. Hulai$ evBioff - Ahhvpn
+B. Monuom no hlo.v momumaoom. — passed
+C. Cam«u«anv. .pokv
+e. Vote: Nvw Vuhv-C-aui of dvmanv: Hulai$ 
+evbioff
+3. FINANCE CHAIR
+A. Nomumanuom.
+1. Fiam Funzsvial« - Ahhvpn
+B. Monuom no ahhvpn b$ ahhlamanuom: Vote: 
+passed.
+C. Nvw C-aui of Fumamhv Communnvv: Fiam 
+Funzsvial«
+4. ACAeEMIC AFFAIRd
+A. Nomumanuom.
+1. Cum«$ Ja$loi
+B. Mo«om no ahhvpn b$ ahhlamaoom: Vote: 
+passed.
+C. Nvw C-aui of Aha«vmuh Affaui.: Cum«$ 
+Ja$loi
+5. RUfEd
+A. Nomumanuom.
+1. Eiuh Roh-vi - Ahhvpn
+B. Monuom no ahhvpn b$ ahhlamaoom: Vote: 
+passed.
+C. Nvw C-aui of Rolv.: Eiuv Roh-vi
+6. GC&I
+A. Nomumanuom.
+1. fu.a Biomo - Ahhvpn
+2. Muh-avl Bvnn - Ahhvpn
+B. Cam«u«anv. dpokv
+C. Vote: Nvw GC&I h-aui: fu.a Biomo 
+Ofe BUdINEdd: Homoi Awai«.: fvx Kavoolaku. foi 
+nvim. a. C-aui of dvmanv3 faoia daba«vll foi nvim. a. 
+C-aui of Fumamhv Communnvv.
+eEAN WAfJER: No Rvpoin.
+eEAN COX: No Rvpoin.
+#REdIeENJ: Gvmvial Commvmn.: Wull mon ni$ no bua. 
+dvmanv foi Givvk.. Wull ni$ no iv«ohv .vmanv apan-$3 wull 
+-avv hommvmn. wvvkl$ am« bv ham«u« wun- dvmanv.
+Panhel discusses recent changes
+ceremony for all pledges and a junior Pan­
+hel executive board. Teahan hopes an 
+induction ceremony will reinforce Panhel 
+unity.
+Social chairperson Julie Taylor dis­
+cussed plans for Panhel formal, and menti­
+oned that an IFC formal is also being 
+worked on. Panhel happy hours were also 
+mentioned.
+Monica Smith, Secretary, plans to update 
+the bylaws.
+Treasurer Chris Hayes wants to eliminate 
+the liason that presently exists between the 
+Panhel treasurer and the university.
+President Julie Grant talked about the 
+National Panhel-In terfratemity Council 
+(IFC), recently held in Philadelphia, and the
+By LESLIE HOTHERSALL
+Special to The Tartan
+Panhel, CMU’s council of women’s fra­
+ternities and sororities, met in the Wherrett 
+Room April 2 to introduce officers and to 
+discuss goals.
+Helen Testa, rush chairperson revealed 
+prospective changes in next fall’s Panhel 
+rush. Incoming freshmen girls will be 
+allowed to register for rush during the 
+summer. Rush will begin on September 2 
+with a social event in the Margaret Morrison 
+courtyard. Bid day will be September 15. 
+Testa stressed “rush will be an all-Greek 
+even this fall.”
+Cindy Teahan, pledge chairperson, 
+talked about plans for a Panhel induction
+NEW BUdINEdd: Rv.olonuom: no suvv n-v C-aui n-v
+• powvi no ivhosmuzv n-v ao«uvmhv «oiums n-v hooi.v of 
+n-v mvvnums foi a««unuomal hommvmn.3 vote: passed. eu.-3 
+ho..uom om n-v soal. of dvmanv3 monuom no nablv omnul 
+mvxn wvvk: #AddEe.
+GENERAf eIdCUddION: Nvw dvmanoi. .pokv aboon 
+n-v #vnnumv.. am« «u.asivvmvmn. of a fvw dvmanoi.. eu.­
+ho..v« n-v po..ubulun$ of mvvnums. wun- dvmanoi. am« 
+n-vui hom.nunovmhuv.. Commvmn: n-viv .-ool« bv a .usm 
+om n-v «ooi of n-v dvmanv offuhv no lvn .no«vmn. kmow n-an 
+un u. n-v offuhv3 GC&I wull look umno un. 
+ANNOUNCEMENJd: C-aui wamn. no mvvn wun- hom­
+munnvv h-aui foi h-oo.ums hommunnvv..
+J-v mvvnums wa. a«jooimv« an 8:10 p.m.
+GdO: No ivpoin.
+CHAIR: J-amk. wa. suvvm foi vlvhnums -um h-aui of 
+dvmanv. A foim foi $ooi h-ouhv. of offuhv -ooi. am« 
+hommunnvv. aiv bvums pa..v« aioom«3 plva.v noim n-vm 
+um no n-v C-aui bvfoiv n-v vm« of n-v mvvnums. Appoumn­
+mvmn: fvx Kavoolaku. a. pailuamvmnaiuam. fubiai$: In 
+wull bv opvm 24 -ooi. .nainums Apiul 303 1984 omnul n-v 
+vm« of fumal.3 n-u. wull bv poblu.-v« um n-v Jainam. 
+VICE-CHAIR: A.kv« foi n-v dvmanoi. no svn aloms wun- 
+vah- on-vi.
+ACAeEMIC AFFAIRd: Jvah-vi lvnnvi.: iv.pom.v. no 
+n-v dvmanv a. a fomhnuomums bo«$. Faholn$ Cooi.v Eva­
+loanuom.: bvums hollanv«
+FINANCE: Emvisvmh$ allohanuom.: 1) WRCJ: $800 foi 
+hablv. am« hommvhnoi. foi haimuval3 n-v$ moimall$ o.v 
+ABt. vqoupmvmn bon AM wull bv o.ums un n-u. $vai3 vote: 
+allocated. 2) Fiumsv: $1797 foi Boss$' am« Boon- .opp­
+luv.3 iu«vi.: hammon boul« a mvw boss$ omnul 3 $vai. lanvi3 
+n-v nool. -avv a 5 $vai iu«vi am« hammon bv boos-n asaum 
+omnul n-v iu«vi -a. vxpuiv«3 vote: allocated. 3) AB Jvh-: 
+$1400 foi .alaiuv.3 w-vm pivpaiv« bo«svn vxpvhnv« n-v 
+woikvi. no bv om woik-.no«$ bon n-v vxpviuvmhv« pvoplv 
+wvivmtn am« n-v$ -avv vxhvv«v« n-v hoiivmn allohanuom3 
+vote: allocated. Fiam n-amkv« dvmanv foi iv-vlvhnums -um 
+no Fumamhv h-aui.
+future of Panhel. She stressed that all five 
+sororities should support each other, espe­
+cially during rush.
+Panhel and IFC are in the process of rede­
+signing the annual Greek mailing, formerly 
+called “Meet the Greeks,” that is sent to all 
+incoming freshmen. A new slogan is 
+needed, as well as designs and ideas for struc­
+ture and layout. These can be submitted to 
+Julie Grant (x5959).
+Off Campo. Hoo.ums
+Advisory/Referral Service Now being provided out of the Housing Office in Morewood Gardens. Lisa Protas, Off Campus Housing Coordinator
+Students interested in discussing their housing 
+needs or their desire to move off campus are 
+invited to speak with Lisa Protas at their 
+convenience. Up-to-date and accurate infor­
+mation and listings are available upon 
+request. Other advice and support service is 
+offered to students having apartments who 
+need roommates and to students who wish to 
+share space in other apartments.
+INVEdJMENJAWARENEdd
+CONEERENCE.• •
+A#RIf 19 
+^ 7:00 pm
+WHERRETTROOM
+ic/nuaonQ:
+Caiol Mahp-aul betoite Haskins and SellsJax A«vamnasv.
+• also included;J-oma. eo««$ CquitaU* Onsunanct
+Im.oiamhvKan-$ Kolb 7homp&o.n tTlcKinnon S*cunititiFum«ums A Biokvi 
+Jom Ma««vm 3«d«*at«d Dnwsto1is Fbinuoluo Mamasvmvmn
+¦um«
+eavu« Go.num CITIU Qnv&tm*nt ^QnoupImvv.nmvmn Mvmnalun$
+refttsfyneqtS ! admission fiée
+funded by student Activities
+
+---------------------------------------------------
+
+G50presents
+Cruise
+aboard the
+<Jfa
+'Friday3 April20 ? 930jm -1 am/
+Jmturina
+‘3ilhj‘Frice 6)
+Custom ‘TZjujtlitn ‘'Band
+r tickets $ 5 eack 
+Jromjrad. student rep. or skibo injv desks
+price indudcs twojree drinks * cash bar onboard 
+504extrajvr trcuisjportxitijorijroyn CMU to StntioyiScjmre 
+jrndd bj araduate student activities fee
+jvr more injorynativyv - calLjomni at 576-3201
+
+---------------------------------------------------
+
+Features.
+Moore wants graduating seniors aware of events
+By NEAL W. JOHNSTON
+Tartan Features Editor
+With only several weeks left of school before finals, the general populace here at 
+CMU seems to be saying “I can’t wait to get 
+0Ut — I need more time — I need a job.” Graduating seniors especially view the last 
+thought with urgency since commencement ¡s only around the comer.
+Monday, May 14 at 10:00 a.m. will be the 
+time for caps, gowns, and diplomas in the 
+tent. And Mary Ann Moore, manager of 
+Special Projects for Public Relations, wants 
+those seniors involved to be aware of all 
+that’s happening. “I realize that some 
+seniors are asking “What’s going on? What 
+should I do?” We’ve already received several 
+phone calls about it,” states Moore.
+This year she says that the tent is larger than ever before. “That way we can fit in it as much as possible; we can encorporateour activities for the weekend for students and their families.”Kicking off the weekend of activities will by a zero year reunion on Friday, May 11. This will be the Alumni Office’s gift to those graduating as an introduction to becoming an alumnist. Later that evening, AB will hold a dance for the graduating class.
+On Saturday, an informal dinner buffet 
+will be held in the tent from 5 p.m. to 8 p.m. 
+Each graduate will receive their tickets for 
+this event in his/her graduate packet. They 
+will be free of charge according to Moore. 
+“President Cyert didn’t want parents to be 
+charged for this meal so he asked if those 
+tickets could be included.” Additional 
+tickets may be purchased at the information 
+desk for $8.00 before 1 p.m. that afternoon.
+Sunday’s activities will begin with open 
+house and tours of the new University Com­
+puting Center from 12 p.m. to 3 p.m. From 1 
+p.m. to 4 p.m., President Cyert will hold a 
+reception in honor of the graduates and 
+their parents. The location is on the lawn in 
+front of the Fine Arts building. “Because of 
+the space constraints,” Moore says, “we’re ask­
+ing seniors and their families to attend the 
+reception according to our schedule, if possi­
+ble. That’s 1 p.m. to 2:30 p.m. for CFA and 
+MCS and 2:30 p.m. to 4 p.m. for H&SS andvii.”
+Following at 4:15 p.m. in the tent will be 
+Steve Jobs, Chairman of the Board of Apple 
+Computer, Inc. and VP and General Man­
+ager of the Macintosh Division. He will 
+deliver a talk to the graduates and their par­
+ents. No tickets are required.
+Commencement procession will begin at
+10 a.m. Monday morning followed by the 
+individual diploma ceremonies at noon. 
+Caps and gowns should be picked up in the 
+bookstore the previous Wednesday through 
+Friday. -
+“This year we thought we’d do some­
+thing special for the honor students — iden­
+tify them with some type of braid for their 
+gown. They worked hard for four years and 
+should be recognized,” Moore concluded.
+This year’s honorary degree recipients 
+will be Joseph F. Engelberger, Janet Nor­
+wood, and Claude E. Shannon. Engelberger 
+is the current consultant to the Energy and 
+Advanced Technology Group of Westing- 
+house and was the first President of Unima- 
+tiori (a part of that Westinghouse group). 
+He will receive a doctorate of engineering.
+photo by Bob Fishel
+Mary Ann Moore, Special Projects Director for PR, is in charge of commencement
+Norwood is the Commisioner for the 
+bureau of Labor Statistics, U.S. Department 
+of Labor, and will be awarded a doctorate of
+laws. Receiving the doctorate of science will 
+be Shannon, a retired professor of electrical 
+engineering from MIT.
+Annuai fashion show held at Convention Center by Spirit
+One of the volunteer models for Spirit’s fasion show struts her stuff.
+photo by Mike Kelly
+By VICTOR JAMES
+Tartan Staffwriter
+This past Saturday marked the fourth 
+consecutive CMU fashion show. An esti­
+mated 150 people arrived at the David Law­
+rence Convention Center to watch 
+Camegie-Mellon students model fashions 
+by Charels Spiegel, Brookes, Casual Comer 
+and the Jeanery.
+CMU fashion shows have been produced 
+by Spirit from the start. In the past, shows 
+have been put on sporadically. However, 
+during the last four years, Spirit has man­
+aged to stage shows annually. This has been 
+due to Spirit’s Student Administrative team 
+specifically created to coordinate fashion 
+exhibitions.
+A crew of eight students are in charge of 
+organizing model try-outs, rehearsals, fit­
+ting dates, clothes to be modeled and the 
+show’s program.
+This year’s crew came up with a new idea; 
+they incorporated student-performed enter­
+tainment into the show’s scheme. They 
+selected two comedians, five soloists and one 
+dramatist to help move the show into var­
+ious scenes. All volunteered their time.
+The models for the show were selected last 
+January'. Their work was also volunteer. 
+Though the show is sponsored by Spirit, 
+anyone is welcome to try-out for a modeling 
+position. This year, there were 11 female and 
+5 male models.
+photo by Mike Kelly
+A new trend for Spirit: annual fashion shows.Imvv.nmvmn homfvivmhv no 'piomonv om«vi.nam«ums"
+bv yURKy undeKA
+I to the Tartan
+So you’ve landed a job. Congratulations. 
+rut have you given much thought to man- 
+I a^ng your future income? What type of 
+I lnv('stment objectives do you have? What 
+L^°ut insurance? Should you open an IRA? 
+I first annual Investment Awareness 
+nference will address these issues. 
+Investment products have been changing 
+Ll a rapid pace. It has been a confusing time 
+0r consumer. The objec tives of the Con-
+rence will be to promote an understanding 
+the present state of the financial industry. 
+1V( speakers from the Pittsburgh commun­
+ity will address topics of concern to students. 
+Subjects include:
+• Investment planning
+• Finding a broker
+• Tax advantages
+• Portfolio management
+• Insurance
+It is so important to be financially aware 
+in today’s society. The conference provides 
+an excellent opportunity for students to 
+learn about money management. It will be 
+held on Thursday, April 19 at 7:00 p.m. It is 
+opened to the campus community at no 
+charge. The conference is co-sponsored by 
+the CMU-Investment Group and SARC.
+Commencement around comer for seniors
+
+---------------------------------------------------
+
+Page 6—The Tartan—April 17, 1984
+"Supercomputer"
+16 microprocessors linked together to do basic physics calculations quickly
+Physics researchers at Camegie-Mellon 
+University have linked 16 microprocessors 
+into a computing machine that does basic 
+physics calculations in far less time and at a 
+greater speed than conventional computers 
+of comparable cost.
+The researchers are using their “home­
+made supercomputer” to “verify predictions' 
+of the quantum field theory and to deter­
+mine one of the basic constants of nature: 
+the fine-structure constant,” according to 
+Dr. Michael J. Levine, professor of physics.
+Levine noted that physicists have long 
+been constrained in doing these large-scale 
+calculations by the computing time needed 
+and the cost of computing.
+“Both cost and time have been prohibi­
+tive,” he said. “It’s almost impossible to get a 
+long-range commitment at reasonable pri­
+ces of a large-scale computer for the blocks 
+of computing time needed to do these 
+calculations.”
+Levine’s 16 microprocessors work 
+together as a “supercomputer” by concen­
+trating their combined power solely on 
+large-scale calculations. They operate by 
+breaking down the large-scale problems 
+into smaller ones, sharing the load of analy­
+sis and calculation.
+Levine explained that the computing 
+machine nins at twice the speed of a VAX (a 
+main-frame computer). The cost of the 
+machine, which has been operational for 
+about seven months, has been $8,000, about 
+1/100th of the cost of a main-frame compu­
+ter, such as those in CMU’s central comput­
+ing facility.
+“This is a highly economical way to do 
+this kind of work,” Levine said. “One of our 
+microprocessor boards pays for itself in three 
+weeks. We’re trying to build a machine that 
+will be the equivalent of 50 VAXes.”
+Working with Levine on the project is Dr 
+Tadashi Kikuchi, research engineer in com­
+puter science. Their work is supported by 
+the Intel Corporation of Santa Clara, Cali­
+fornia and by the U.S. Department of Ener­
+gy’s Division of High-Energy Physics.
+Viewing your work through base editor - colored glasses
+By W. J. HANSEN
+Special to the Tartan
+One of life’s special frustrations is losing 
+your house key. You usually don’t find out 
+until it is time for supper and you are 
+already too hungry to cope rationally. Using 
+a new computer system can have a similar 
+frustration: you know the system has almost
+boundless power, if only you had the keys to 
+open it.
+The frustration is compounded on “old- 
+style” systems when each program you run 
+opens to a different key. The design of the 
+user interface for the ITC’s workstation soft­
+ware is intended to solve this problem; many 
+applications will interface to you through
+• UOUJARD __JowmonS
+FOR MEEJINGd3 
+CONFERENCEd & 
+dEMINARd
+Howard Johnson’s Motor Lodge 
+in Oakland 
+"We’ve Changed" 
+SEEING IS BELIEVING!
+STOP IN AND VISIT OR CALL 
+WE’D LOVE TO SHOW YOU AROUND
+683-6100
+Write for a free brochure, attention sales office 
+3401 Blvd. of Allies, Pittsburgh, PA 15213
+eu« $oo vvvi hom.u«vi .vivums a. a
+piuv.n?
+...a life style of 
+commitment and 
+self fulfillment?
+Call:
+Father Rudolph Silvers
+Vocations Office
+412/456-3070 
+or write:
+Catholic Diocese of Pittsburgh
+111 Boulevard of the Allies. Pittsburgh. PA 15222
+tfioMna^ioaphic*
+417 S Crag St »682-6697 «Mory-Fn 830-6 Sot10-2»3517 forties Ave »683 1188» Mon-fr 90G-53S Sa* 'j-2Quality offset printing in a Flash
+the agency of be, a base editor, whose keys 
+are designed for ease of learning and use.
+Before describing the interaction of be and 
+application, let me describe how I used old- 
+style, pre-be systems for three tasks: system 
+commands, HELP, and file reorganization:
+• In old-style systems, the only way to make 
+corrections as you enter system commands is 
+to use backspace. If you have hit RETURN, 
+you probably have to retype the enure line. 
+Moreover, you can only see previous work as 
+far back as the top of the screen.
+• The HELP command often just displays
+the contents of a file on the screen. If the file 
+is bigger than the screen, you have to start 
+over to go back to any previous portion of 
+the file.
+• If you’re like me, you reorganize your files 
+occasionally — go through them, delete 
+some, and move others. To do this with 
+old-style systems, I had to list the names of 
+files and give them some Delete or Remove 
+commands. After a few such, however, the 
+file names moved off the top of the screen 
+and I had to start over again.
+Nowadays, I am using a prototype of the 
+continued on page 13
+Quadriplegic Kim Cochran with son, Craig. 
+"Each day as I watch Craig 
+grow, I grow myself, in 
+strength and confidence."
+Thanks for Giving
+Unibed Wây
+HOfY JHURdeAY
+A#RIf 19
+6:30 #M Hvumz C-apvl
+The Mass of the Lord’s Supper — 
+Private Adoration until 10:00 pm.
+4117 SCr7ag 
+A#RIf 20
+2:30 #M Hvumz C-apvl
+Chapel open at 12:00 Noon followed by
+the Liturgy of the Passion and Death of the foi«.
+12:00 Noom CMU (dkubo 39)
+Stations of the Cross
+HOfY dAJUReAY
+A#RIf 21
+9:30 #M Hvumz C-apvl
+The Easter Vigil followed by 
+the Mass of the Resurrection
+Romam Can-oluh 
+C-aplaumh$
+J-v Oratory
+4040 Bigelow Blvd. 
+Pgh., PA 15213 
+PHONE: 681-3181
+EAdJER dUNeAY
+A#RIf 22 
+12:00 Noom Hvumz C-apvl 
+10:30 AM Givss Hall
+Mass of the Resurrection
+Father Bryan Summers, C.O.3 Pastor 
+Father Robert English. C.O.
+
+---------------------------------------------------
+
+Entertainment.
+Guys and Dolls faultless in every detail
+B$ MARK fEVINE
+7flina« Entertainment Editor
+you just gotta see this one. The Drama 
+department’s last mainstage production, 
+Guys and Dolls, is absolutely incredible. 
+The Swerling/Burrows/Loesser musical 
+lived up to it’s subtitle “A Musi­
+cal Fable of Broadway.” Not 
+only was the show about Broad­
+way but it’ll probably be the 
+losest thing to a Broadway musical anyone 
+ere will ever see — unless they go to Broad- ay. The main credit for this must of course 
+to Billy Wilson, the director and choreo- 
+pher. Wilson has an impressive list of 
+ts to his name, including major Broad- ay shows like Eubie and Bubbling Brown 
+ugar, experience that showed in the 
+taging.
+There is never one uninteresting oment, never one unbalanced stage. Even 
+vith the “chaos” going on in scenes like the avana brawl or the crapshooters dance,
+you always know exactly where to look. And 
+if you let your eyes browse a little, you’ll be 
+amazed at just how organized the crowds 
+really are.
+Even before the show opens you know 
+you’re in for two hours of pure enjoyment. 
+David Crank’s set captures the grimy, glitzy, 
+cartoon Broadway world that Guys and 
+Dolls has to be set in to work. And large 
+structures containing offices, streets and 
+sewer systems glide on and off smoothly, 
+seemingly effortlessly.
+The opening choreography continues the 
+mood with a great combination of Broad­
+way Jazz and Keystone Kop, letting us know 
+we’re in for an evening of the fast-paced 
+large-chorus dance numbers that comprise 
+the best parts of the show.
+The singing was professional, and with­
+out the help of the voice majors that are 
+sometimes brought in. These are (almost all 
+of them, I believe) drama majors, carefully 
+making sure that the songs are as fun to
+watch as they are to listen to.
+The acting, a facet in some musicals given 
+up for good singers or good dancers, was 
+paid its due here and the cast performs with 
+fine comic precision. James Nardini’s 
+Nathan Detroit and Sandra Bargeman’s 
+Miss Adelaide were true Runyonland 
+natives. Nardini deftly and hilariously tread 
+the thin line between lovable cad and loving 
+fiancee (in a 14 year engagement). And San­
+dra Bargeman squeaked up her voice to play 
+Adelaides’s comedy to the hilt. But when 
+you were asked to feel sorry for the character, 
+you did feel sorry.
+The other romantic pair, Burke Moses as 
+Sky Masterson and Ann Kittredge as Sarah 
+Brown were performed equally well, but on 
+a much different level. They were almost 
+real people up there, so real they seemed 
+almost unreal against the backdrop of the 
+craziness that comprised the other elements 
+of the show. But they had to carry the more 
+serious dialogue, the slow love ballads. And
+eason's final opera captivates audience
+y SUSAN PETRIE
+artan Managing Editor
+The beaudful Rosina wasn’t the only one 
+nned by the impassioned serenades and 
+rsistent attendons of her suitor, Count 
+(dmaziza, played by Rockwell Blake in last 
+weekend’s Pittsburgh Opera 
+production of Rossini’s The 
+Barber of Seville.
+Also captivated by the light- 
+earted opera buff a, Heinz Hall’s full house 
+ill in love with the stage magic of the 
+leading characters and the high- 
+iirited, delightful Rossini melodies.
+The opera, first performed in Rome in 
+J16, remains a truly entertaining universal 
+assic, and the Pittsburgh Opera cast 
+iideniably kept up the traditional appeal. 
+MU graduate Mimi Lemer as the wealthy, 
+imarried Spanish lady, Rosina, carried 
+it her role with vivacity, professionalism, 
+id a unique blend of gracefulness and 
+>mic playfulness. Her mezzo-soprano was 
+companied by the romantic smoothness 
+Rockwell Blake’s tenor, a voice well- 
+ited for the roles of lovesick young nobles, 
+logether, their performance was energetic 
+bd convincing.
+jNew to the Pittsburgh stage, baritone 
+filliam Workman obviously enjoyed his 
+prtrayal of the barber/matchmaker, 
+aro. The devious antics of the infamous 
+acter were successfully combined with 
+orkman’s controlled developed style. 
+Providing comic appeal in addition to 
+jusical talent were Spiro Malas as the old 
+}d selfish Dr. Bartolo and Claude Corbeil 
+Rosina’s starchy, foolish music 
+ptructor, Don Basilio. Their theatrics and 
+*1 dynamics amused the crowd and won 
+stant approval for the bass and bass- 
+jritone, respectively.
+I The rest of the cast, as well as the 
+hestra, aided in making the Pittsburgh
+Camegie-Mellon alumna Mimi Lemer played Rosini in
+photo by Gretchen Brush 
+‘The Barber of Seville.”
+Opera’s last production of the season a 
+memorable one. Well-chosen and well- 
+directed, the presentation of The Barber of 
+Seville has proven General Director Tito 
+Capobianco’s competence and welcomed
+they did carry them. An especially hard job 
+when you consider that at some point in the 
+musical each has to make the 180°switch 
+from “fun person” to “Salvation Army 
+Worker” or vice versa. They did it and still 
+kept that tinge of extra reality that gives their 
+romance the “oomph” it needs.
+All the performers deserve careful atten­
+tion. Watch Marcus Lovett and James 
+Shanta romp loose-leggedly through the 
+title song, and with Robert Woronoff, 
+deliver “Fugue for Tinhorns (I got the horse 
+right here)” joyously. Lovett, as Nicely- 
+Nicely Johnson, also gave a rousing rendi­
+tion of “Sit Down, You’re Rocking the 
+Boat”. Even though at times he was 
+drowned out, so to speak, by the chorus, the 
+song drew so much applause that it went 
+into an encore.
+Watch Tom Ryan (Arvide), even when 
+he’s just banging the bass drum, perform 
+silently the perfect combination of age, sim­
+plicity and duty. In fact some of the best 
+acting jobs go on silently. The way Paul 
+Schoeffler’s Big Julie stands. Or the way 
+Phil Baker slouches through his part as the 
+waiter and wheels through the part of the 
+drunk. Smaller technical perfections come 
+through in the stomp of Natalie Carter, or 
+the way Stanley “Chipper” Albers carries on 
+his chair during the Havana scene. Tiny 
+moments, almost unnoticeble as they flit by 
+in the constantly shifting crowd scenes, 
+make this musical a joy to watch.
+There was not one facet, lights, orchestra 
+or costuming that didn’t contribute mas­
+sively to the tightness of the production. 
+You really have to see it to understand. I’d 
+have to reprint the entire program to give 
+credit to everyone who contributed to the 
+success. So I can only reiterate — you gotta 
+see this one.
+AB Dance says 
+Come to bed
+MS'MM
+place in Pittsburgh.
+The forty-sixth Pittsburgh Opera season 
+will open with Verdi’s La Battaglia di 
+Legnano this coming fall, September 20 and 22.
+By MARK LEVINE
+Tartan Entertainment Editor
+AB Dance’s next dance is an encore. The 
+“Come to Bed Party” was so successful the 
+last two times it’s been held, they’re doing it 
+again this Saturday, April 21,9 p.m. - 2 a.m.
+The band for the dance will be “The Insti­
+gators” and there will also be a DJ.
+Participants are invited to dress in bed­
+room attire. Other various bedtime things 
+will be going on, such as:
+—“Kinky” cartoons in the Wherrett 
+Room
+—Breakfast served all night in the 
+Highlander
+—Pictures taken in AB Dance’s enticing 
+bedroom
+And of course, you can “bring a friend to 
+bed”, too.
+ied Piper to appear at CMU and announce peace concert
+|fhe beloved musical figure, The Pied 
+will appear in various Pittsburgh 
+toons in April to musically announce IN 
+NCERT FOR PEACE. This benefit
+concert takes place Tuesday, May 1 at 8:00 
+p.m. in Heinz Hall and features Andre 
+Previn, pianist Andre Watts, and members 
+of the orchestra.
+The Pied Piper for Peace, a student of the 
+renowned musician Bernard Goldberg, will 
+stroll through various public places pla> mg 
+his flute to announce the concert and its
+rama's New Play Festival dates corrected
+rUga tcRKAc
+Entertainment Editor
+- Whoops. The article on the Drama 
+| Partment’s Fourth Annual New Play Fes- 
+'Was written to appear in this issue, but 
+Printed last issue, making all the “yes- 
+s and “next Tuesday” ’s incorrect. 
+t0 avoid confustion, here are the dates
+and times: “Comedy in Exile” opens today 
+at 4:30 and “Wriggle” starts tonight at 8 
+p.m.
+On Friday, April 20 “Ireland’s Shakes­
+peare” shows at 4:30, and “Wriggle” at 8 
+p.m. On Saturday, April 21, “Pops” plays at
+2 p.m. and “Comedy in Exile” at 4 p.m.
+AH. shows are in the Studio theater, and
+the admission is free. Each show is com­
+pletely student run; written by playwriting 
+majors, directed by directing majors, acted 
+by acting majors, etc. They’re always inter­
+esting fare, and this year should be no excep­
+tion.
+My apologies to all inconvenienced by the 
+error.
+message of Peace. The Pied Piper is sche­
+duled to make appearances on the following 
+dates and places:
+Tuesday, April 17 - 11:00 a.m. - Point Park 
+College
+Friday, April 20 - noon - Court Yard, 
+Allegheny County Courthouse 
+Saturday, April 21 - 2:00 p.m. - Parkway 
+Center Mall
+Tuesday, April 24 - noon - Camegie-Mellon 
+University, Skibo
+Thursday, April 26 - noon - PPG Place
+For ticket information, call Heinz Hall 
+Box Office, 392-4900.
+
+---------------------------------------------------
+
+Finies.
+by Mark LevineJOE FRESHMAN
+WOW.1 TH«î is fi Mil V NEAT. 
+You cAw see THt WKW.e .— 
+ctftfv!.... Tue COT... J C
+f(N* ARTS ... Tue /__
+RAIW'CIOUIÛS...
+Jo€,VWrw,lJk THi»*«. 
+&eT us ouT of Htte I 
+RffflM JHId JHIW& $ 
+» lUS of With /' 
+w»red? >-<V
+• RMN 
+CLOUDS
+by John MalleyCAPT. KROIM KITE AND REX
+THE ASSAULTSSStafw ßAe FOR A COfJ <?7 uAdER 
+^— I p/.JOf3 Ein3 Rvx7 mvvvi
+Give A REPUCÄWr AFI&HT7NG- 
+CHANCE , x SAY... •
+TERMIH/AL HEAD AND 
+KitGoR AveGA i AREAPEX SVSrtCTED.
+0EE#— AJivNJlOW —#EE#— 
+KRON Kite 15 ON THE LOOSE 
+EfIMINAJE OM SI&HT....
+— RE#EAJ—loEhs aKecmmmmmmm Ulp
+I® C'-*'r!'^y > \ \
+CAPTAIN KRoN /CITE 
+WHE RTO RWMT
+TO STOP THE GfiAND 
+TAMPERJN6- THAT 
+EM/A/ATES FROM 
+WARNER HALL...
+r ACCORDING TD “ 
+MY MINICOMP, 
+THEY’RE REPi-IC/wrS, L CAPTAIN.......
+KITE AW> REX RACE 
+UPSTAIRS AS FAST AS 
+T«ET CAN, TO A ¿ONE 
+L/T ROOM WfTH A 
+LOCKED POOR. - Bor 
+THE CAPTAIN CAN 
+HANDLE ANY.L0CK EVER 
+MADE . ...OH, THAT ‘5 ÔOOD. TOST G/ve ME A MOMENT. . .
+A SW&LE SHOT STRAYS OUT THE WIWOW 
+TO STRIKE THE l/CC. TRANSMITTER.,,"TERMINAL HEAP 
+. QUICKLY PRE»« 
+A SMALL RED 
+‘ BUTTON ON HIS 
+DESK SERKE KWN
+UCAR ÄPW vRPÄArr
+Fool’ Featu the rrFsrau.E nrrimTHAa 
+SULSolU’ 77* EÇHATWNS OF YWfc N0NT UNIVERSE ! 
+IN Less THAN 2*/ MlWTES EVW ROOM, NOOK AWD 
+CMOCR MU A OoMTVTEfi /N /rf HA HA Uh!
+UH, TEAM, M«irf
+rYOU HEARTLESS FIENDSJ TWET WERE > SCXEPOlEP 70 SWC«SFULLY AVTbMATf.AilP SOCIALLY AMV»r OVER TWENTY fcUgd i,Dv New ? gur ecA 
+I MINUTES TJ WlTWWT PRBfER plANA*#, 
+OR<AN)ZA7*W, 6RAPMAL t*nA*pven*t, , 
+V. 7WERE k'Ot/LX» 55 —- y
+flEVER. M/NC, REX 
+\A)E'Vt &0T TB DEACTIVATE 
+THff MEfrA-NfiTRiX 
+M/f»lWtA70R BEFORE IT S 
+TOO LATE if?
+ÄPAAPCWF US A 
+SMOKE SCREEN r 
+Ii&HT&7N- -xTSY.•MHdddWuu««*'- (frOOD? NOW, AFT« 
+TH»E TWO ! THEY 
+WON’T RE SY/-D ro PHA^e ow«# 
+A while LCADx! JRANdIENJd Ml1* 
+/eÄP/ KS&to&X«
+n our! epcebV HM RUM <g<* \ FOOT !? )
+CMTAiH ¦ THAT DIP IT. 
+ACCORWN& TO MY MWICOMP,
+1 THE TAMPERING- CEAS6P1 ^
+V. V. {the CONTROLS MUtTBtlH 
+VShöE SOMfWHEAE T OPHE at 
+~VJ' I EVERT TM/Nfr f
+PSYCHOLOGY EXPERIMENT
+t»68 $8.75GRAND OPENINC
+Make your memories alive with
+***** SUPER PHOTO*****
+1824 Murray Ave.
+Pgh., Pa. 15217
+iS -6 421-1444
+_W* ^The One hour processing
+C° through April 29, 1984
+from April 23
+We need subjects for an experiment on 
+MEMORY RETRIEVAL of well-learned 
+information. 
+The tasks involve making spelling decisions about 
+common words.
+The experiment consists of I SESSION, Vh 
+HOURS LONG
+for more information and scheduling 
+call x28l5 or come to BH 331 A.
+
+---------------------------------------------------
+
+________________________Sports.
+Lackadaisical" performance takes dual meet
+By DUANE GALBI the 880 and the mile. In the mile Shaffer
+Tartan Staffumter coasted home to win in 4:27 with a comfor-
+Coach Gary Meckley was disturbed by table five second lead; however in the 880 he
+what he say as a “lackadaisical” effort by the had to outfight some spirited challenges by
+CMU track team, but the performance fellow teammates Mark Sulecki and Frankproved to be more than sufficient as the 
+Tartan track team demolished Bethany and 
+Washington and Jefferson in last Wednes- 
+(jay’s double dual meet.
+Although the distance men usually 
+receive most of the accolades for the Tartans’ 
+success, this meet was won in the often over­
+looked field events. Under Coach Rich 
+Lackner, the Tartan’s put on a fine show­
+ing. Jeff Crain, Mike Boyle, Lloyd Troy,
+Jim Rogers, and Joe Honse all cashed in 
+first place finishes. Crain captured first in 
+the shot with a heave of 44 feet 7 inches 
+while freshman Boyle had to settle for 
+.vhom« in that event. In the discus, though,
+Boyle made his presence felt as he outdist­anced second place teammate Crain by 
+nearly eight feet to capture the event for the 
+Tartans.
+The track men under sprint coach Ter- pack and distance coach Dario Donatelli, although purposely weakened by the absence of some of the top seniors, once again continue their domineering ways.
+Sprinters Todd Perri and freshman hurdler 
+Gary Marchionna got a chance to show 
+their first place style in the 110 and 4401.H.I respectively as reigning PAC Champoin Bob Krouse sat out the meet.In the distance events senior Chris Shaffer become the only two event winner of the meet as he turned in two fine early season
+I performances to capture first place in both Joe Honse vaults for first place.
+Matousek who finished a close second and improving his time nearly fifteen seconds
+third with identical 2:05 clockings behind from his performance at Slippery Rock at
+Shaffer’s 2:02. 15:24. After commanding the race for the
+In the 3 mile, distance man John McGo- first two-and-three-quarter miles, he was out
+wan suffered a discouraging loss, although kicked on the final lap.
+puuiu U V X LILI IVU3CI11C1U
+Almost undefeatedRugby fights until end in tough game loss to Steel City
+By PAULINE WEN
+Tartan Contributing Editor 
+It was almost like a dream come true — the 
+I CMU men’s rugby team, in its fifth season, 
+I was undefeated and coming off strong victo- 
+I ties against American University and Beaver 
+I Valley. Then they ran into Steel City.
+However, CMU didn’t give up until the 
+end, and a strong and close last minute drive 
+almost tied the score and saved the day But 
+the CMU “Eggmen” didn’t have a chance 
+against the clock, which ran out of time 
+when CMU was within one yard of the goal.
+The final score was Steel City 12, CMU 8.
+Fans braved the cold, wet weather to 
+watch CMU and rival Steel City lock heads 
+in a heated match on the CMU IM field last 
+Sunday. When the mud had dried and the 
+players had stumbled home tired and hoarse 
+from the infamous rugby cheers, Steel City 
+emerged victourious, beating the Eggmen
+three tries to two. Scott Nesbitt and Denny 
+Myers scored for CMU.
+Nesbitt’s try came after a long drive by the 
+CMU scrum and a penalty on Steel City on 
+the three-yard line.
+CMU’s second try came after the scrum 
+pushed the ball near the goal line. Myers 
+then scored.
+It was a back and forth battle throughout 
+the game as Steel City and CMU scored 
+alternately. CMU captain Scott Patterson 
+and “Hooker” Rob Sanderson made espe­
+cially strong showings, managing to get the 
+ball out of tough spots.
+In past week’s action, CMU shut out 
+Beaver Valley 28-0 and defeated American 
+University 7-3.
+Chris Dunne, “Timbo” Kirsch and Myers 
+put in eight points apiece, and Chris Tscha- 
+pat added four points to the pile, as the 
+Eggmen ran all over Beaver Valley.
+Last week, CMU journeyed to Washing­
+ton D. C. to play against American Univer­
+sity. Rob Pipik scored one try, and Dunne 
+booted a penalty kick for CMU.
+The tally now stands at 3-1-1 for the CMU 
+Eggmen.
+Last week, the CMU Women’s rugby 
+team made their debut against Dickinson 
+College in Carlisle, PA. After much mis- 
+communication and delay, the game was 
+started and Dickinson, in its fourth year, 
+emerged victorious, 28-4. CMU’s one try was 
+made on a long run by fullback Pam Mott. 
+Members of the CMU men’s team showed 
+strong support as they drove from D. C. to 
+cheer the newborn women’s team on.
+The men’s team will travel to Morgan­
+town, CM on Saturday, April 28 to play 
+U-rAO RADIN GITr “R U-r IrII“D IGIADYU CMHE 
+’-r PGGTrD -Iir /rU U“ wrRIU U-r CMH 
+NrIODS ,-“ -rIU *-rT IU U-r ZNNrG-rD/
+
+---------------------------------------------------
+
+Page 10—The Tartan—April 17, 1984
+CMU tennis squeaks by 
+West Liberty State, 5-4
+The CMU men’s tennis team travelled to 
+West Liberty State for their season opener, 
+prevailing 5-4 in a close contest.
+Greg Valley, Bhaskar Thapa, and Ed 
+Martin won singles matches, while the team 
+of seniors Valley and Tom McDevitt con­
+vincingly won in doubles. Martin and Mike 
+Oort clinched the match for the Tartans 
+with a 7-5, 6-3 doubles victory.
+The team then packed their bags and 
+headed North for a match against West­
+minster college. With stormy skies looming 
+above, the indoor match ended in disap­
+pointment for the team as they suffered a 6-3 
+loss.
+Saturday, April 7th saw the team facing 
+their first conference opponents, Thiel col­
+lege, in what turned out to be a 9-0 shutout 
+for the upstart Tartans. Captain Steve May- 
+beck, returning for his third year, showed off 
+the expertise gained from lots of experience, 
+as he defeated his rival 6-2, 6-1.
+Super freshman Jim Denburg, last year’s 
+New Jersey state high school double’s
+champ, used his talent to overcome his 
+opponent 6-1, 6-2. Undefeated, Valley skill­
+fully served and volleyed his way to a 6-1,6-3 
+victory. McDevitt, who won the PAC confer­
+ence championship for sixth position sin­
+gles two years ago, combined his powerful 
+serve with precise volleys to trounce his 
+opponent 6-0, 6-0.
+Thapa, an outstanding Junior year Roo­
+kie to the team, proved too tough for his 
+challenge and a 6-0,6-2 victory gets added to 
+his record.
+was
+vic-
+Martin, returning for his second year of 
+play, looks a little rusty this year but 
+able to drown his opponent’s hopes for 
+tory, winning 6-3, 6-4.
+The teams of Maybeck-Denburg, Valley- 
+McDevitt, and Martin-Oort scored easy vic­
+tories in the doubles. The outstanding 
+doubles play of freshman Oort deserves spe­
+cial mention since it helped provide the Tar­
+tans with the second 6-0, 6-0 victory of the 
+match.
+photo by Mike Pilewski
+See supplement pages 7 and 8 for buggy results.
+•/OHN’S.PIZZA
+4523 Cvmniv an Ciaus
+621-6755
+Hours: Mon. — Thurs. 5:00 p.m. — 1:00 a.m.
+Fri. & Sat. 5:00 p.m. — 2:00 a.m.Sunday 5:00 p.m. — 12 midnight
+FREE Delivery
+Round Thin CrustRound Thick CrustAll Hoagies Toasted HotCALZONES
+EXTRASLarge 
+12 Cuts
+Med. 
+8 Cuts
+Small 
+4 Cuts
+Med. Pan 
+8 Cuts
+Small Pan 
+4 CutsHOAGIESWHOLE1/2IEXTRASMed.Small
+PLAIN4.713.632.214.532.91HOT SAUSAGE3.961.98REjG.4.713.63
+1 Topping5.914.532.915.433.61ITALIAN3.961.9815.914.53
+2 Toppings7.115.433.616.334.31VEGETARIAN3.961.9827.115.43
+3 Toppings8.316.334.317.235.01PIZZA SUB3.581.7938.316.33
+4 Tappings9.517.235.018.135.71STEAK3.961.9849.517.23
+Everything10.718.135.719.036.41MEAT BALL3.961.98PLUS TAX
+IM report
+By Sean Quinn 
+Tartan Staffivriter
+It certainly has been a long time; so we’ve 
+got a lot of catching up to do. Most impor 
+tantly, this Saturday, the 21st is the I.M, 
+TRACK MEET. Be there! You can enter the 
+meet right there, on the track Saturday 
+morning at 11:30, when the first gun goes 
+off.
+As for other major I.M. news, the final 
+1983-84 board meeting is this Thursday, the 
+19th, at noon. It is in the NEW intramural 
+office, room 102, Gym. That’s it for this 
+week, fans.
+EXTRAS: Pepperoni, Sausage, Mushrooms, Onions, Green peppers, Hot peppers, Anchovies, X cheese
+DELIVERY RESTRICTED 
+IN CERTAIN AREAS 
+DOUGH MADE FRESH 
+DAILY ON THE 
+PREMISES.
+NO PREBAKE SHELLS 
+USED WE CUSTOM 
+MAKE EVERY PIZZA & 
+HOAG IE TO YOUR 
+LIKING
+NO MINIMUM 
+OReER 
+REQUIREe
+FOR FREE DELIVERY
+CALZONES 
+REGULAR (4 - extras) 
+COMES WITH 
+HAM, SALAMI, 
+PEPPERONI,CHEESE 
+& SAUCE 
+OR
+YOU CAN CREATE 
+YOUR OWN
+LARGE
+PIZZA 
+$2”.PRICE IS FOR PLAIN PIZZA. ALL TOPPINGS ARE EX- I TRA. ONE COUPON PER ORDER. NOT VALID WITH
+r “ “ “ "ANY$ C2”.P 2”ZanP
+$325
+| ^0 PLUS TAX I
+^oooo
+ANY OTHER OFFER.
+ON DELIVERY ONLY. MUST ACKNOWLEDGE WHIN KAC ¦ 
+I NO ORDER (OFFER EXPIRES
+I ONE COUPON PER ORDER. NOT VALID WITH ANY | OTHER OFFER.
+| POOP ON DELIVERY. MUST ACKNOWLEDGE WHEN PLACING ' 
+ORDER (OFFER EXPIRES )£-//
+Ve Jv.nums
+Affordable 8c Confidential 
+EVENING Hour Services 
+(formerly the Pgh. Free Clinic) 
+call 661-5424
+ZN“Dr o pOrGDIDUf 
+trrw 2rNgf
+f/M Pregnancy Testing 
+For a conMantial friend caä
+UFEUNE
+Downtown Pgh 562-0543
+Beaver County 843-0606
+Mon Vaftey 489-9020
+Buffer County 282-1200
+center
+abortion 
+menstrual extraction
+free pregnancy testing 
+vd and contraceptive care
+all services confidential
+121 s. highland ave. 
+Pittsburgh 
+363-1107
+
+---------------------------------------------------
+
+uy your
+
+---------------------------------------------------
+
+E«unoiual.________________________
+H&SS cuts should not have been necessai
+Several weeks ago, CMU proved that explained that H&SS had racked up a huge in the first place, Dean Kiesler of H&SS nevd
+humanities students are second-class citizens deficit. After trying to ease the burden by cut- would have had to cut. Some students in (j
+on this campus. ting a $167,000 problem down to $45,000, Aca- and MCS wind up every semester with a surf
+Things were beginning to look up. H&SS demic Affairs told H&SS to take care of the rest plus of $200 or $300 in computer account
+received the largest budgetary increase of any any way-they chose. H&SS decided that Eng- Most H&SS students don’t start the semes&j
+college this year, and President Cyert was lish and history didn’t need to use computer with $200. And it’s no wonder, consider^
+beginning to mention CMU’s writing pro- time; except some courses in those depart- how much less H&SS and CFA are allocau
+grams along with computing and engineer- ments require that all work be done on the than CIT and MCS.
+ing. Then, out Of the blue all computer computer. Warner Hall made a good start in impr0
+accounts in both English and history classes So who is to blame? Both Warner Hall and ing that situadon this year, increasing
+were sharply cut and in some cases endrely H&SS. Obviously, if H&SS had cut some H&SS budget almost 60%. But 60% of pitiful]
+deleted. money from every department, cuts would not still pidful. Hopefully, Warner Hall wi
+In a memo to the campus community, Vice have been nearly as drasuc. remember that when it comes dme to reevalj
+President of Academic Affairs Pat Crecine However, if H&SS had an adequate budget ate this year’s budget.
+Government base metal coinage a ripoffj
+By Dan Tobias of gold and silver, but it was necessary to Thus, in 1934, President Roosevelt the increasing rate of inflation caused by i
+Take a quarter out of your pocket. Look weigh these at each transaction to determine ordered all U.S. citizens to turn in their gold government’s deficit spending finally foro 
+carefully at its edge. If it is like the vast their value. Thus somebody in ancient times to the government in exchange for non- them to replace these coins by the base mei 
+majority of quarters in circulation at pres- hit upon the idea to stamp out coins of a redeemable paper money. This tyrannical they presently are. But to keep the pub 
+ent, it should have a reddish stripe through regular size and weight, which could circu- act marked the end of the concept of money from complaining too loudly, they
+the middle. This is a sign of one late interchangeably. These coins some- as being something of value by itself; from sure to keep the designs of the coins exao 
+of the biggest ripoffs the govern- times had a picture of a king or emperor to then on it was simply “fiat money” issued by the same as when they were still silver; 
+ment has perpetrated on the show that the government guaranteed their the government. The government, however, of the general public never even noticedtl 
+American people. From the value, but their value was still derived from still continued to play some lip service to a change. So, after over a century of sne 
+1700’s all the way up until 1964, dimes, their metallic content, rather than govern- “gold standard” until the 1970’s, when Pres- gradual change, our monetary system]
+quarters, half-dollars, and silver dollars were mental fiat. ident Nixon finally completely abolished shifted from a secure bimetallic standardl
+all composed of 90 percent pure silver. And But carrying a large amount of metal the last traces of a dependence on gold. At complete fiat money. The persistent in 
+up until 1934 there were also U.S. gold coins around was still inconvenient, so somebody this point, the government finally consi- tion of the last few decades is a direct resii
+in circulation at face values ranging from $1 else got the idea of issuing paper money, dered it safe to allow citizens to own gold; it I’ll discuss some alternatives to thepri
+to $50. In fact, the dollar was explicitly This originally consisted of warehouse was finally legalized in 1975. system in my next column,
+defined as particular weights of gold and receipts, certifying that a specified amount Meanwhile, silver stuck around in coins Dan Tobias is a sophomore in applied)
+silver. However, the coins in circulation at of precious metal was stored someplace, and for a few decades longer. But finally, in 1965, and is a columnist for The Tartan,
+present are made up entirely of virtually could be retrieved by presenting the receipt ¦ Ha | ¦ | ^
+worthless base metals. The extent of the to the warehouse keeper. Thus, as long as I 1^1 Irjjtfjjl I
+debasement done by the government can be the proper amount of gold or silver actually 
+seen by the fact that a pre-1965 silver quarter existed in the warehouse, these bills could By Felicia Pratto willing to support this aggression withtj
+is now worth approximately $1.80, while circulate as if they were equivalent to coins. What began as a depressing week for funds that make it possible, recent devel
+the metal in a present-day quarter is worth The original issues of paper money were international relations is ending with a ray ments may have begun to change 
+less than 10 cents. In order to explain how done by private companies. Thus, if they of hope for U.S. foreign policy. Last week, minds.
+this situation came about, it is necessary to were dishonest and issued more bills than in an unprecedented action, the U.S. Days after the World Court annou
+do some exploration into the nature of there was gold to back them up, they were ^ announced it would not defend ment, it was revealed that the CIA su
+money. likely to go out of business when people .¿fr itself in the World Court against vised the mining from a U.S. vessel.
+Contrary to popular belief, the concept of came and demanded their gold in exchange ^ charges by the Nicaraguan Reagan supporters, such as Sen. Barry(
+money was not invented by the government, for the bills. But soon the government saw government that U.S. military water, were outraged that the Admimst
+It came about quite naturally as a result of what a good racket this was, and started actions against Nicaragua are illegal. The tion failed to inform them of the extei
+the actions of a free market. Initially people issuing paper money of its own. At first this U.S. also announced it would ignore Court U.S. involvement. Given long ]
+had to trade goods directly for other goods was limited by the amount of gold and silver judgments of U.S. action in Central Amer- knowledge of the mining (a Soviet
+they wanted; this was rather cumbersome, in the treasury, but as the pressure for ica for the next two year's. The ire this raised hit one in March) and their vote for fu
+and a need arose for some intermediate com- increased deficit spending grew, they started in Congress is about two years -late. funding, Congress cannot pretend to be^
+modity that could be held until you wanted issuing more paper money than they could In 1982, Reagan received $19 million for prised by the type of U.S. military viola
+to trade it for what you really wanted. Many possibly redeem. Like usual, the govern- the “contra-revolutionaries” who are attack- in Nicaragua. Over a year ago, some(
+things were tried, including tobacco, catde, ment saw the use of force as the logical ing Nicaragua from bases across the border gressmen raised the issue that such op!
+and beads, but gold and silver proved the solution. If there was not enough gold to in Honduras. Last year, he got $50 million tions are acts of war and thus illegal fori
+most popular due to their durability, pay the people who were demanding jt in despite initial disapproval in the House. President unless Congress declares waf|
+beauty, and scarcity. Thus, people started exchange for their paper money, the thing Just last week, the Senate approved an addi- ^______________________continued on 1
+using these metals as units of exchange. to do was to forbid the public from owning tional $21 million to begin in May'when
+At first, they simply used lumps and bars gold. current funding will run out. I
+_ ^ - The money has been spent on military „The Greek view equipment, U.S. strategists, and wages for Editor in Chief................................................................
+a _ J i> I n-v homnia.. U.d. wunmv..v. ivpoin n-an n-v Mamasums E«unoi.............................do.am J
+m M — E KM* Jf talicontras have attacked villages and blocked Bo.umv.. Mamasvi.............................K3101
+roads in Nicaragua. In its World Court suit, Nvw. E«unoi...........................Neil J Gn
+By Bob Fishel do: Nicaragua contends the contras have killed Features Editor   ...................Neal
+I thank The Tartan, We are constructing a suggestion box, 1300 Nicaraguans, caused millions in dam- Entertainment Editor..............• her D1
+they saved my skin. But until it’s real age and have disrupted trade by mine dam- ^OIts ^^Mike I*1
+I wrote a lcng article The IFC mailbox in Skibo age to at least 6 merchant ships. #io«ohnkm Mamasvi..................... \lai121
+They couldn’t fit in, Is the place to write us how you feel. The U.S. proudly reports it has mined T Managt>r Patti0
+with a sixteen page paper I also have office hours three Nicaraguan harbors and roads leading Comniubonums E«unoi.......................Piiuli^
+' And pictures on eight. Three nights a week, to Honduras. Though Congress has been r Paulis»
+Since I’m no professional 12-2 on Sundays, Tuesdays and Thursdays, * Tl I * A..n. #io.............................................^iVliL
+writer, You’ll find me at my peak. 'JjyVYVlO'Kl MTA..n Ent E«unoi............................
+My story will have to wait. But if you can’t walk to Theta Xi Editorials appear at the beginning of the opinion AssL SP0«8  ............................
+But in the meantime, 683-2505 is the number to try. section, and are the official opinion of The Tar- Bo.umv.. Mamasvi.............   .
+Don’t just sit inside. One more message tan Editorial Board. #io«ohnuom dnaff: Bob Aarhus, <«•
+eo .omv .viuoo. n-umkums Bvfoiv I so. Colomm. are the opinions of individual authors Fu.-vl3 fv.luv Fiamk3 Am«ivw o ' ^
+Because the Imerftatemity Council Come see our new calendar «« ““«V The Taron sta«’ hut >ht Cialamas. Leslie Hothersall. T«*f
+Wants to know what’s on your mind. Looted inside Skibo. ap.mom a,e not neceami, thos, of The Tarun Maura Savm. Carolyn Sperang.
+We are getting together, It’s simple, it’s clear, it’s easy to read, E«unoi are opinions 0/ individual Copyright © 1984 by The Tartan TV ^.
+We are moving forward. You’ll find it directly across from the infor- authors who are usually members of the Univer- reserves fK‘ nght 10 wlthh(” I,,,n LoriaK... copy it deems unlit for publication, w«1 ,¦We want your input mauon desk. sity community. A letter intended for publication Skjbo ^ 4J2 57g_2111 Business Off»«**
+From Si obeli to Morewood. (Shoot, that last line didn’t rhyme.) must be signed and include the writer’s address (412, 578.2112. 24 hour phone, (412)578-21*^
+Student or teacher. Bob Fishel is lnterfratemity Council Presi- and phone number for verification. Names will ftmv 17 Srh**^y Park, Pittsburgh
+Administrator, too, dent and is one of several contributors to the be withheld upon request. Fhe I artan reserves Funded by the Activities Fee.
+It you have any comments Here’s what to weekly Greek View. ^ n&ht to condense or reject any letter. -------------------------All right» reseT]^l—
+
+---------------------------------------------------
+
+April 17, 1984—The Tartan-Page 13etters:d not offensive to Jews
+lUl.
+found Mr. Rosenblum’s letter of April 
+moie offensive to Jews than your 
+jnietown” cartoon.
+r Rosenblum must be the epitome of 
+,ete and/or stupidity if he thinks Jack- 
+only “did a bad thing by using such 
+-ge.” Unfortunately when Jackson 
+jews “Hymies” and New York 
+etown,” it was simply a continuance 
+s contempt for the Jews and his anti- 
+tism. The Natrat merely restated in a 
+orous fashion what Jackson had pre- 
+sly said.
+rhaps you should look at the people 
+rung Jackson, such as Louis Farrak- 
+the leader of the Black Nation of Islam, 
+t Milton Coleman, the Washington
+Post reporter who reported on Jackson’s 
+“Hymie” statements, Farrakhan said, “One 
+day soon we will punish you with death! 
+This is a fitting punishment for such dogs.” 
+He also threatened Jackson’s critics and 
+especially Jews by saying “If you [Jews] 
+harm this brother, I warn you in the name of 
+Allah this will be the last one you will 
+harm.” The frightening thing is that Jack­
+son refused to condemn these statements his 
+Moslem chum made. I will not even delve 
+into Jackson’s political contribudons from 
+Arab countries.
+Perhaps before you cast your ballot for 
+Mr. Jackson, you should take a good look at 
+the people behind the man.
+#vnvi Ro.vmfvl« 
+#-$.uh. ‘87
+TO show not anti-Semitic
+s letter is in response to the comments 
+e in the Greek Sing article about the 
+Tau Omega fraternity. In the article 
+ters stated that the performance by 
+rothers was “pretty tasteless and at one 
+t anti-Semitic. Well, the fact of the mat- 
+that the second act which portrayed a 
+p of hasidic Jewish men abusing a 
+man for his earnings was conceived, 
+and choreographed by one of the 
+sh members of the house. Also, many of 
+ther Jewish members of the brother- 
+, including myself, participated in the 
+Ives. Being of the Jewish faith, if we 
+d have thought that performance was 
+Semitic, we would obviously not partic- 
+in it or let the rest of the brothers 
+rm it. The fact that we dresed up the 
+s line in such an obvious manner was 
+to provide a more realistic effect, the 
+way the Catholic brothers in the first 
+ere dressed as monks.
+either case, the ATO philosophy when 
+es to Greek Sing is to go up on stage 
+"ve a good time while getting some
+laughs along the way. Anybody who was at 
+the show that Friday obviously saw that we 
+had a good time performing our show and 
+also heard from the laughter that the crowd 
+had a good time watching it. Thus, our 
+mission was accomplished.
+Jvffiv$ Bvismam
+Pratto: Nicaraguan actions condemned
+continued from page 12
+Nicaragua. The legality issue was skirted by 
+calling these activities a “covert wai.”
+However, the question of whether the 
+U.S. is at war in Central America has been 
+raised again. Mining harbors is such direct 
+involvement and so close to a blockade, that 
+many Democrats and Republicans feel the 
+mining is either an act of war or very close to 
+it.
+Some of this concern is expressed in the 
+Senate’s first real opposition to Reagan and 
+the CIA’s war in Nicaragua: an 84-12 non­
+binding resolution requesting that “no U.S. 
+funds be spent to lay mines in Nicaraguan 
+waters and that the U.S. submit its Central 
+American policies to World Court jurisdic-ckson posters torn down
+March 30, 1984, duly authorized 
+uncements of the Student’s for Jesse 
+|0n meeting were posted in SUPA and
+¦ By April 1, each of the announce- 
+i had been maliciously defaced, muti- 
+|and destroyed. It is indeed a sad day- 
+1984, no less — when the basic 
+cental freedoms of American citizens 
+and restricted. While a call for a
+full investigation of this horrendous episode 
+would be a needless diversion from the cen­
+tral issues confronting the voters of Pennsyl­
+vania, these despicable event are called to the 
+attention of the general student body and 
+University Community in hopes of curtail­
+ing any further growth of overt and racist 
+actions on this campus.
+d-vula Ai«.
+tion” (Bob Woodward and Fred Hiatt, The 
+Washington Post).
+Unfortunately, the resolution is not likely 
+to have any effect on the war since, as Rea­
+gan put it, “If it’s not binding, I can live 
+with it.” And though Reagan has denied it, 
+several top Adminstration officials earlier 
+acknowledged that U.S. aggression there 
+would escalate if Reagan wins re-election.
+However, at least some members of Con­
+gress may take more action to limit CIA 
+aggression in Nicaragua. The House may 
+defeat the $21 million in aid. This would 
+force the CIA to use its “slush funds” to 
+continue activities.
+The Congress may also pass a binding 
+resolution against mining and other activi­
+ties. Peter Rodina of the House Judiciary 
+Committee, and Jesse Jackson have separ­
+ately asked the U.S. Attorney General to 
+appoint a special prosecutor to discover if
+Reagan has committed “an impeachable 
+act” or crimes by masterminding this covert 
+war. However, since Congress is in recess 
+until after Easter, the White House hopes we 
+will all forget about it so that Congress has 
+no pressure from the public to end the covert 
+war.
+So remember, be good citizens. Forget 
+that your president has been running an 
+illegal war for two years. Believe Reagan’s 
+denials that he has no plans to send U.S. 
+troops to a Central American war. Forget 
+that the income tax you just paid has blown 
+up several sailors. If you run into our Con­
+gressman on Easter break, talk about the 
+lovely weather. Do not, under any circum­
+stances, mention your daymare that Nicara­
+guan children hunting for Easter eggs may 
+find U.S. land mines instead.
+Felcia Pratto is a graduate of CMU in 
+psychology and is a columnist for The 
+Tartan.Virtue manages many projects
+continued from page 6
+ITC Virtue system. I manage each of these 
+three tasks through the agency of be. I give 
+system commands in one window, view 
+help in another, and reorganize files in a 
+third. Yet all three windows are controlled 
+by a single editor the provides commands 
+for moving around the image, inserting 
+and deleting pieces, and other editing 
+operations.
+By pointing at entries in the file list, I can 
+delete or rename files and still have the list. I 
+can also point-at an entry and ask to see its 
+contents; I never have to give a command to 
+ask to edit a file.
+When I ask for help or give a system 
+commands the base editor lets me move 
+through the help file or commands as easi’v 
+as I can move through any document. 
+Indeed, I use exactly the same commands. 
+When I see an example in a help document, 
+I can cut it out and give it as a command to 
+the system. When I want to give a command 
+again, I can copy it from the recorded history 
+of system commands and even make 
+changes before doing it again.
+Even if the base editor were not providing 
+tremendous advantages to users of applica­
+tions that go through it, it still is a great 
+advance over earlier editors. Essentially it 
+provides the most common Scribe(TM) for­
+matting features dynamically. I can look at 
+my text and see it italics, bold face, indented, 
+centered, enlarged . . . When displaying a 
+paragraph, the lines are automatically 
+adjusted so each is flush at both left and 
+right.
+Let us turn to another application of the 
+base editor: mail. When I van! to send a 
+message to, say, ‘Loche Sm h @ CMU,’ I 
+call Send, which displays a window with a 
+blank header and space for the me ssage text. 
+I either type the address or copy it over from 
+somewhere in another window. I can either 
+type the text or copy parts of it from another 
+window. To emphasize sections, I can even 
+make them bold: “Please hurry over with 
+keys.”
+When I want to read my mail or bulletin 
+boards, I call on Scan. It displays one win­
+dow with the headers of messages and 
+another with the text of one of those mes­
+sages. By pointing with the mouse I can 
+select any header and that message will be 
+displayed.
+As the system evolves, numerous other 
+applications will utilize the be interface. 
+This will make it easier to write these appli­
+cations because they need not write their 
+own interaction routines. More important, 
+each user will know immediately the keys to 
+open that application.
+
+---------------------------------------------------
+
+Computer Scientists and Electrical Engineers
+(Ma.nvit. oi #-.e. lvvvl)
+J-v Moisam dnamlv$ Componvi dhuvmhv. #iosiam u. .vaih-ums 
+foi assiv..uvv3 vmnivpivmvoiual ham«u«anv. wun- .opviuoi 
+aha«vmuh ivhoi«. no joum ooi MId evpainmvmn.
+J-v evpainmvmn
+J-v Componvi dhuvmhv. #iosiam wa. «v.usmv« no anniahn nop homponvi .huvmhv am« vlvhniuhal 
+vmsumvviums sia«oanv. umno ooi nvh-molos$ sioop. wun-um MId3 am«3 b$ .o «oums3 vxpo.v ooi.vlvv. no 
+mvw nvh-molosuhal u«va.. J-v MId evpainmvmn u. hoiivmnl$ umplvmvmnums oi umvv.nusanums mvw 
+nvh-molosuv. um:
+• eu.niubonv« Nvnwoikums Aih-unvhnoiv.
+• A«vamhv« eanaba.v Jvh-molosuv.
+• Fooin- Gvmvianuom famsoasv.
+• Faoln Jolviamn d$.nvm.
+• Ainufuhual Imnvllusvmhv am« Expvin d$.nvm.
+• Vouhv Rvhosmunuom
+• dumolanuom Mo«vlums
+#iojvhn mvmbvi. pla$ a kv$ iolv um «vvu.ums .nianvsuv. no vxploun n-v.v am« on-vi nvh-molosuv. an Moisam 
+dnamlv$3 am« no a..u.n ooi vvmnoiv hapunal am« umvv.nmvmn iv.vaih- sioop. um vvaloanums -us- 
+nvh-molos$ hompamuv..
+J-v Jvh-muhal Emvuiommvmn
+Ooi homponvi mvnwoik hom.u.n. of fooi 3081-hla.. mah-umv.3 2 dJRAJUd homnumooo. piohv..ums .$.nvm.3 
+100+ muhio-homponvi. am« 1000+ nvimumal.3 piovu«ums .vivuhv no o.vi. woil«wu«v.
+J-v Fuim
+Moisam dnamlv$3 a piuvanvl$ -vl« hoipoianuom3 u. omv of Wall dnivvnt. lva«ums umvv.nmvmn bamk.. Ooi 
+piumhupal bo.umv..v. umhlo«v mamasums om«viwiiunums. of mvw .vhoiunuv.3 offviums fumamhual am« 
+umvv.nmvmn a«vuhv3 am« nia«ums .vhoiunuv. foi hluvmn am« fuim ahhoomn.. Fuim mamasvmvmn -a. 
+«v.usmanv« vxhvllvmhv um umfoimanuom nvh-molos$ a. a majoi .nianvsuh umunuanuvv mvhv..ai$ no maumnaum ooi 
+lva«vi.-up um n-v fumamhual hommomun$.
+dvlvhnv« ham«u«anv. wull bv umvunv« a. ooi sov.n. no Nvw Yoik Cun$ um Apiul foi a 
+piv.vmnanuom am« a .viuv. of umnvivuvw. b$ n-v MId evpainmvmn. Wv ivqouiv a iv.omv 
+am« a hovvi lvnnvi w-uh- piovu«v am oisamuzv« piv.vmnanuom of $ooi qoalufuhanuom.3 
+ah-uvvvmvmn.3 am« haivvi umnviv.n.. Omv of ooi .vlvhnuom hiunviua u. n-v qoalun$ of n-v 
+piv.vmnanuom ma«v um n-v hovvi lvnnvi. dvm« hoiiv.pom«vmhv no:
+dCOJJ G. ABBEY3 #-.e.
+Vuhv #iv.u«vmnMORGAN STANLEY & CO.
+Incorporated
+1633 Bioa«wa$3 Box 100 
+Nvw Yoik3 Nvw Yoik 10019
+Morgan Stanley is an Equal Opportunity Employer.
+
+---------------------------------------------------
+
+Announcements.
+assifîeds
+mvi doblvn - dq. Hull «oplvx3 fom.3 soo« 
+”$138/mo. + onul. 422-2191 oi WvH 7213.
+•j Api. 1» d-a«$.u«v omfom. apn. 2« fui.3 1 bi. 
+erences, lva.v3 $325 + onulunuv.. damv3 avaul. 
+1.n fui. 621-0812 «a$; 767-9942 vvv.
+nuf$ Yooi oisamuzanuom wun- a ho.nom piumnv« 
+in oi jvi.v$. Wv .ulk-.hivvm piumn .-uin. foi 
+hampo. hommomun$. Call n-v J-d-uin Com- 
+v an 578-3535 am« .pvak no Jo-m foi «vnaul..
+Fumsvi. Woi« #iohv..ums. Bo.umv../aha- 
+c papvi.3 iv.omv.3 hovvi lvnnvi.3 vnh. E«unums 
+luded. Eiuka Vam duhkvl 731-8978.
+lomnvvi. mvv«v« no painuhupanv um .ohual 
+jh-. $4.00/-ooi. Call 578-3702 Wv«.. 4/18 
+10:00-Noom foi appoumnmvmn. EOE.
+s/woi« piohv..ums. J-v.v.3 nvim papvi.3 
+uscripts, iv.omv.3 lvnnvi.3 vnh. (A#A3 MfA3 
+Joiabuam mamoal. .niomsl$ followv«). dpv- 
+uzv um la.n-mumonv woik. Call ooi 24--ooi .vi-
+371-3657.
+onufol Hoo.v! dommvi .oblvn wun- po..ubulu- 
+foi fall. J-ivv bv«ioom.3 poih-3 bahk$ai«3 
+et & hool um .ommvinumv. Foimu.-v«. Jvm 
+ute walk no hampo.. $475/momn- oi 
+‘/ioom (mvsonuablv) Call 521-5338 oi Evv an 
+1 oi Namh$ dmun- an x2938. 
+lv ioommanv mvv«v« - foimu.-v« apainmvmn3 
+In-um book.-vlvv.3 AC3 wall-no-wall - doon- 
+klam«3 ivmn mvsonuablv3 all onulunuv. umhlo«v« - 
+-2-9«.
+om.vloi.3 ovvi 19 w-o lukv no -avv fom am« 'e fun at omuqov ovvimus-n bo$.t .ommvi p in #vmma. Ablv no um.niohn vun-vi omv of owing: wanvi.afvn$3 wanvi.kuums3 boanums3 r, ba.kvnball3 ain. am« hiafn.3 iohkhlumbums3 ry, ham ia«uo3 iohkvni$3 .huvmhv3 aih-vi$3 k, tennis, solf3 p-onosiap-$3 puomvviums3 oi eral athletics. Wiunv Camp euivhnoi3 138 Rv« bier Drive, fafa$vnnv Hull3 #A 19444.
+1 Hom«a Cuvuh 4-«ooi3 .ulvvi3 aui3 AM-FM 
+m3 vxhvllvmn hom«unuom3 183000 mulv.3 $4900. 
+-«M9o.
+Ca.-? Eaim $500+ vah- .h-ool $vai3 2-4 ble) -ooi. pvi wvvk plahums am« fullums po.- 
+om hampo.. dviuoo. woikvi. oml$; wv suvv 
+~mvm«anuom.. Call mow foi .ommvi am« [fall. 1-800-243-6679.
+• Room. foi ivmn; hool3qouvn3 hlvam3 hlo.v3 
+nv«; fall opnuom. $120-165. 682-13783 plva.v 
+mv..asv3 -opv $oo lukv Homp-iv$ Bosain.
+Excellent student summer job. Night auditor 
+wanted for summer resort hotel at Lake Chautau­
+qua near Buffalo, NY. Bookkeeping background 
+necessary, good salary, from June 20 to August 
+30. Write P. O. Box 9043, Pgh.. PA 15224. 
+Rooms for rent for summer period beginning 
+June I and ending August 15. Maid and linen 
+service provided. Only $55.00 per week, phone
+682-7010.
+Summer sublet!!! June-August, Male preferred. 
+Single room (10' x 12') in 4-bedroom apartment. 
+$95/month + approximately $30 utilities- 
+/month. Call Dave @ 683-1687, 7:00-9:00 p.m. 
+Rent-a-spot - Don’t drag it home to Mom — stow 
+it for reasonable rates, month to month lease, 15 
+min. from downtown. Open daily to 6:00 p.m. 
+Weekends to 4:00 p.m.—comer Rt. 885 and 
+Lebanon Church Road next to County Airport 
+back of Century III Mall. 655-3610.
+We have the lowest airfares to Europe and across 
+America! For free color brochure write to: Cam­
+pus Travel, Box 11387, St. Louis, MO 63105.
+Special Spring Cleaning Let us help you with 
+your housekeeping needs. Quick. Efficient ser­
+vice. Minute Maid Services. 682-3860.
+Adoption: Loving, well-educated, financially 
+secure couple desires white newborn. All 
+expenses paid. Legal. Confidential. Call us col­
+lect. (617) 358-6354.
+Stereo speakers—3-way system, powerful bass, 
+must sell $100. Phone 422-7233 eves. A real 
+bargain!
+Summer sublet, fall option: One bedroom apart­
+ment: kitchen, laundry, free parking, security 
+building. Ten minutes to CMU. 285 + electric. 
+681-0111.
+The Battle of the Air Bands Friday, April 27 10 
+p.m. Chatham College, $150 Cash Prize. Call 
+441-8200, x239 for more info.
+Luxury, sunny 2-bedroom apartment for rent. 
+Ultimate location, carpetted, dishwasher, dispo­
+sal, laundry, storage, free parking. Available May 
+15. Call 687-1190.
+Is it true you can buy jeeps for $44 through the U.
+S. Government? Get the facts today! Call (312) 
+742-1142 Ext. 3401A
+$175/Mo Roomie needed, 2BR, Lots of Space. 
+No Pets, No Smokers, No Nerds. Utilities 
+included. Call Loomis, 361-1350 (H) 624-5515 
+(O).
+#vnunuomvi. mvv«v«. Gather signatures to put 
+Libertarian candidates on the ballot. Earn $6 and 
+up. Call Henry Haller 241-5828.
+groups/events
+Exploivi. Clob. Kayaking, cross-country skiing, 
+and hiking trips. Meetings on Thursdays, 6:30 
+Skibo Room 12.
+B$zamnumv Can-oluh Ma... Divine Liturgy is cele­
+brated at 7 p.m. on Saturday in Skibo 39. All 
+Byzantine Catholics and anyone interested in the 
+Eastern rite church is invited to join us.
+Hunt fubiai$ Extended Hours - Aril 29-May 11,, 
+1984. In response to student requests for addi­
+tional study hall facilities on campus, Hunt 
+Library hours have been extended as follows: 8:00 
+a.m. - 2:00 a.m. — All floors of Hunt Library 
+open. 2:00 a.m. - 8:00 a.m. — First and second 
+floors of Hunt Library open. Books will not be 
+checked out Students will be required to show 
+their CMU ID cards in order to enter Hunt 
+Library after 2:00 a.m.
+Ma$ 18319320. The public is invited to register for 
+The Annual Conference of the Fellowship of 
+Religious Humanists. “A Potpourri of Huma­
+nist Concerns”. Register at The First Uniarian 
+Church of Pittsburgh, Ellsworth and Morewood 
+Avenues, Pittsburgh. Phone: 621-8008 (Call 9 
+a.m. - 3 p.m., M-F) for more information. A 
+registration fee of $25, to be mailed direcdy or to 
+be paid at the Conference. A special rate of $15 for 
+students and senior citizens on fixed incomes.
+J-v bo«svn for The Tartan will be discussed 
+Tue. April 24 at the regular Student Senate meet­
+ing. Anyone having input is welcome at the 
+meeting.
+Uibam Yoon- Action Alumni Association is 
+pleased to announce its reorganization. The 
+Association is offering special programs for all 
+past UYA participants. To find out what the 
+Associaiton has for you, contact Iris Williams or 
+Richard Gillcrese at 391-7807, Monday through 
+Friday, 10 a.m. - 6 p.m.
+Holy Wvvk Ma..v.: (Roman Catholic) for the 
+CMU Community. Holy Thursday, April 19: 
+Mass of Our Lord’s Supper, 6:30 p.m. at Heinz 
+Chapel at Pitt. Good Friday, Apr. 20: Stations of 
+the Cross: 12:00 non in Rm. 39, Skibo. Stations of 
+the Cross: 1:30 p.m. at Heinz Chapel. Liturgy of 
+the Passion & Death of Our Lord- 2:30 p.m. at 
+Heinz Chapel. Holy Saturday Easter Vigil Mass: 
+9:30 p.m. at Heinz Chapel. Easter Sunday Mass of 
+the Resurrection: 10:30 a.m. in Porter Hall 100 
+(Gregg Hall), 12:00 in Heinz Chapel. “Holy 
+Week is a good time to turn to Our Lord.”
+dno«vmn vmnivpivmvoi. interested in establishing 
+or running a business on campus are invited to 
+contact Student Corporation at x3535.
+J-v Nanuomal Em«owmvmn foi n-v Homamunuv.
+has announced a unique grants program for 
+individuals under 21 to spend a summer carrying 
+out their own non-credit humanities research 
+projects. The Younger Scholars Program will 
+award up to 100 grants nationally for outstand­
+ing research and writing projects in such fields as 
+history, philosophy and the study erf literature. 
+These projects will be carried out during the 
+summer of 1985. The application deadline is Sep­
+tember 15, 1984.
+Award recipients will be expected to work full­
+time for nine weeks during the summer, research­
+ing and writing a humanities paper under the 
+close supervision of a humanities scholar. Please 
+note that this is not a financial aid program, that 
+no academic credit should be sought for the pro­
+jects, and that oompeution for these grants is 
+rigorous.
+For guidelines, write to: Younger Scholars 
+Guidelines CN, Rm. 426, The National Endow­
+ment for the Humanities, Washington, D. 
+G 20506.
+Through Apr. 21 “Fairfield Porter (1907-1975): 
+Realist Painter in an Age of Abstraction.” Galler­
+ies 12 8c B, Carnegie Museum of Art, 4400 Forbes 
+Ave., Oakland. Tue.-Sat. i0a.m.-5 p.m.; Sun. 1-5 
+p.m. 622-3200.
+Through Apr. 21 “Japanese Prints by Utagawa 
+Kunisada I (Toyokuni III) 1830-1860.” Gallery 
+10, Carnegie Museum of Art, 4400 Forbes Ave., 
+Oakland. Tue.-Sat 10 a.m.-5 p.m.; Sun. 1-5 p.m.
+622-3200.
+Through Apr. 29 “Arctic Plant Life Adaptations 
+for Survival.” Changing Exhibits Gallery, Carne­
+gie Museum of Natural History, 4400 Forbes 
+Ave., Oakland. Tue.-Sat. 10 a.m.-5 p.m.; Sun. 1-5 
+p.m. 622-3283.
+Through Api. 29 “Natural World Photographic 
+Exhibition.” CMNH Gallery, Carnegie Museum 
+of Natural History, 4400 Forbes Ave., Oakland. 
+Tue.-Sat. 10 a.m.-5 p.m.; Sun. 1-5 p.m. 622-3283. 
+Through Api. 29 “Joan Witek: Drawings, 1976- 
+1984.” Gallery 1, Carnegie Museum of Art, 4400 
+Forbes Ave., Oakland. Tue.-Sat 10 a.m.-5 p.m.; 
+Sun. 1-5 p.m. 622-3200.
+Through Apr. 29 “Joan Witek: Paintings, 1980- 
+1983.” Carnegie Museum of Art, 4400 Forbes 
+Ave., Oakland. Tue.-Sat 10a.m.-5 p.m.; Sun. 1-5 
+p.m. 622-3200.
+Excitement!
+The challenge you’ve been waiting for, hoping for, training for, is just around 
+the comer. Soon you could be working on the leading edge of one of AMD’s 
+high-performance technologies.
+Multiproduct solutions for 
+Local Area Networks
+Developing new CAD 
+Resources
+• Advanced Bipolar 
+process to double circuit 
+density
+• Advanced telecommuni­
+cations products
+With your BS, MS or PhD in Electrical Engineering, Solid State Physics, 
+Materials Science or Computer Science, you’ll find all the technological 
+excitement your career can handle at AMD. And all the rewards. We will 
+pass $550 million in sales for fiscal 1984 and our sights are set on break­
+ing new records.
+If you crave the excitement of the world’s fastest growing semiconductor 
+company...
+Send your resume to Toni Florian, Manager, College Recruiting, 
+Advanced Micro Devices, Dept. CMT, 901 Thompson Place, P.O. Box 3453, Sunnyvale, CA 94088. Or call TOLL FREE (800) 538-8450, ext. 4138 from outside California, or (408) 749-4138 inside California. An
+equal opportunity employer.
+PREGNANT?
+And you dfdh't moon to bo? 
+«“O I ROrr gOrGDIDe/ UrYU IDw
+n n nli -*------¦------------------• -_____itoontwmnam imp, cbm
+Birthright at621-1988
+Pregnant? Call ATALet’s talk about your options
+Caiums am« homfu«vmnuau umfoimanuom 
+hoom.vlums3 pivsmamh$ nv.nums am« 
+ivlanv« .vivuhv..
+Honlumv: (412)731-2420Pittsburgh 731-2420Washington, PA 225-6494 
+Alternatives to Abortion, Inc.
+a non profit organtatwr
+Advanced
+MicroDevices
+Allegheny Women's Center
+in oof pjtieni 
+medial clinir oHering
+* jboflion
+* It« pregnancy* personal (Oun»ilin|i
+* birth control vorvurN* mviKHokm«4l («<•
+* Morning Mlpr lirjtinont
+362-2920
+/4 Uegheny ltm ¦>,*«««Womens Center
+abortititi
+txmnsehnq M*nnr 
+tt*ffh uxtrnuh and 
+dtqnttu tnmi ptvtpk- 
+ii^t* «tin*
+C*ll Î78-2921CMU Travel Office
+Campus Convenience
+Skibo 40A
+
+---------------------------------------------------
+
+. .... ...
+- ¦ ................................' -
+y
+,
+ZS
+FOURSttR
+Fast FREE Delivery
+83-0400
+4740 Baom Blv«. Oaklam«—#s-3 #A.
+13 JAdJY IJEMd JO CHOOdE FROM
+PEPPERONI GROUND CHUCK THICK CRUST HOT PEPPERS OLIVES
+SAUSAGE HAM ONIONS ANCHOVIES EXTRA CHEESE
+‘ BACON GREEN PEPPERS MUSHROOMS
+12"16"Cheese...........___$4.29 ........................$6.081 Item...........----- 4.98 ...................... 6.982 Items.........----- 5.75 ...................... 7.953 Items.........----- 6.52 ...................... 8.924 Items.........___ 7.29 . _____........... 9.895 Items.........___ 8.06 ......................10.86
+FOUR STAR PIZZA 5 ITEMS FOR THE PRICE OF 4
+f\[*| I IV P PEPPERONI, SAUSAGE, MUSHROOMS ONIONS. GREEN PEPPERSL/tLUAC SORRY NO SUBSTITUTIONS_______________
+FREE eEfIVERY* 
+WIJHIN 30 MIN. 
+10 MIN. #ICK-U# 
+STORE HOURS:
+dUN-JHURd ll AM-2 AM 
+FRI & dAJ 11 AM-3 AM
+* WE RESERVE THE RIGHT TO 
+LIMIT OUR DELIVERY AREA
+SORRY, WE DO NOT ACCEPT 
+PERSONAL CHECKS.
+VALUABLE COUPONS
+I 
+I
+I 
+I
+COWONCOUPON
+OFF
+— —| — — COUPON — pi — COUPON — -| |- —
+$ 3off ¦ I üm$ 2OFF‘1 2ofn1 ! 1
+ANY 16” eEfUXE \ l>N ANY 16" #IZZA ! ¡ON ANY 16" #IZZA - -ANY #IZZA ¦PtPf«t«ON», SAUSAGf MUSHROOMS. ¦ ¦ ¦ ¦ M mr *““¦ * "*• ¦OMONS. ANO GWEN PfPPCK ¦ ¦ ¦ ¦ ¦AND FOUR FREE 16 oz hoiv AND TWO FRFE I* OZ C.VPSM
+OFCOkF ¦ ¦ OF (X)K.t__________ ¦•TTw “ ¡33*Tss I I *00«« ¦
+AND FOt'* FRF.F 16 OZ. CI!*S 
+OF COKF
+XAMi *DD*fSS
+out COUPON TKTTKllU *fcoupon t*p-«s &/I/84Oo»eU
+II
+AND TOUR FHCE 1« OZ CUPS OF COkt
+— o"tiwFv"r,"r,‘*'’ —< —„,,.,»0*. »»* °r -Q* >t - (uuiwfiUKi a/irie ""jt" ’v»«."—• __
+coupontxpipis d/,/H4 g '°J'ONt,Pns 6/1/84 0.ax J| j * &,M os* J | o^ocuvttvAHA
+OP SS ohrs oh.“hs kk ohrrhs kk [][ COMMON
+A * if Si ¦ • i 
+JG“"C. •* 0.8 3t.
+*1 »«S»».« '-f »0~' '0* •* a Ml
+hA” oh.“hs “-p “wbx
+T,GY,WO¿DfE fi/|/g4W( HSilvl »Mi *K><1 toilMlI Ou* DIIIVIPVI

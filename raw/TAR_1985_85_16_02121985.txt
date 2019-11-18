@@ -1,0 +1,4234 @@
+*
+mm
+The Newspaper of Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213, Volume 85, Number 16, February 12, 1985,
+Organ donor 
+¡drive planned
+By KAREN GRAY
+I Tartan News Editor
+A city-wide organ donor drive could be 
+“the largest student-run campaign in the 
+¦country,” said CMU Mortar Board chapter ¡president Luis Arraez.The drive is being sponsored by the Mor- 
+Itar Board, the CMU senior honor society, in conjunction with Lambda Sigma, the CMU sophomore honor society.
+‘Although anyone can be a donor, the best 
+ones are the young,” said Lambda Sigma 
+Community Services chair Patti Lassinger. 
+[‘We want people to understand what’s go- 
+|ng on.”
+“The Presbyterian University Hospital and 
+Children’s Hospital may have the most pro- 
+sive transplant program in the U.S.,” said 
+Arraez. “Transplantation has become suc­
+cessful, but there’s a shortage of available 
+Drgans.”
+The drive, which started as a joint effort 
+continued on page 2
+photo by Mike Pilewski
+A large monolith of proportions 1:4:9 appeared on the Cut Thursday night as promotion for a fraternity party.imaged water fountain floods wing
+Morewood resident points out the remains of the damaged water fountain.
+By KAREN GRAY
+Tartan News Editor
+Residents of Morewood’s B Tower were 
+awakened by the sound, sight and smell of 
+gushing water early Saturday morning when 
+a fourth floor water fountain was discovered 
+disconnected from its water pipes.
+Morewood resident Lori Brassaw said she 
+was awakened at about three a.m. by the 
+sound of rushing water. She called Security 
+when she saw the nearby fountain hanging 
+halfway off the wall. “It looked like a Three 
+Stooges skit with the water gushing out.” 
+Security arrived at the scene shortly after­
+wards and summoned Physical Plant 
+workers, who shut off the water and sealed 
+the leaky pipe.
+When asked if she knew of any persons 
+directly involved in damaging the fountain, 
+Sue Kim, another Morewood resident, said 
+she did not hear anyone in the hall prior to 
+the discovery of the water. “You’d think you’d 
+hear a lot of people.”
+The water, which started shooting up at
+io lab uses student program
+y ERIC SOLOMON
+¡H« Stoffwriter
+a Sophomore Biology major Eric Rocher 
+|as recently writte a useful computer pro 
+am designed to search a list of physical 
+nstants for 400 organic acids, 
+h will be used for the Experimental 
+Uniques I laboratory course.
+The program is called “Lavoisier” after the 
+ench chemist Antione Lavoisier 
+J* 3 1794), who is responsible for disprov­
+es the old phlogiston theory and setting 
+^nistry on its proper course. 
+n lhe lab experiment, students prepare 
+unknown organic acid and determine 
+e of its physical properties. Prior to hav- 
+§ ' ^ Program, students had to search 
+ugh two or three handbooks and usual- 
+Pent an hour or more laboriously trying 
+rr'au-h their experimental data with data
+¦WitPOSSll>le comP°un<*-
+the Lavoisier program, which
+resembles a 15-111 mastery exam, it takes less 
+than a minute to complete a matchup.
+In executing the program, students 
+transfer the fde with the program to their 
+TOPS directory from the instructor’s direc­
+tory, use it, then delete their own copy. A 
+Macintosh computer in the lab can also be 
+used to run the program during class,
+The search and match program finds the 
+correct acid nine out of ten times. In the 
+tenth case, the student has made a mistake 
+in the assay.
+Lab instructor Dr. Charles Vandyke thinks 
+that Eric's program has been very helpful in 
+the experiment. He noted that what is par­
+ticularly clever about the program is that it 
+assigns a weighting factor to each of the 
+physical constants during the matchup.
+For example, melting points are determin­
+ed quite accurately in the lab, but ex­
+perimental pKa values may differ a lot from 
+literature values because of solvent and
+temperature factors. Eric’s program adjusts 
+for the reliability of the measurement.
+Vandyke pointed out that he does not 
+want the program to completely replace the 
+students use of reference handbooks. He 
+strongly recommends that students who use 
+the program consult a handbook to confirm 
+their choice by checking the color and 
+solubility characteristics of the compound.
+He said that the program makes this par­
+ticular experiment run more efficiently, and 
+partially because of it, there will be now be 
+time to extend the experiment to include the 
+analysis of commercial Niacin vitamin 
+tablets.
+Vandyke says that he is now using PC’s in 
+his other classes as well. In his 09-106 Bon­
+ding and Structure course, he is developing 
+exercises that have students analyze ex­
+perimental and theoretical data that are 
+related to the subject under discussion
+continued on page 3
+the ceiling of the fourth floor corridor, 
+quickly flooded the area, causing severe 
+damage to third and second floor rooms.
+According to a Housing Office source, the 
+water caused the ceiling of one third floor 
+room to collapse. The residents of that room 
+spent the remainder of the night elsewhere, 
+according to Morewood resident assistant 
+Susan Jordan. They could not be reached 
+for comment.
+In a second floor room, Morewood resi­
+dent Susan Conaty awoke when her ceiling 
+“started to drip, then rain.”
+“I had pails underneath it, but it wasn’t 
+helping,” said Conaty, who returned the 
+following day to find her room cleaned, but 
+her ceiling light inoperable.
+The incident left water stains on ceilings 
+all the way down to the first floor and a 
+damp, mildewy smell in the affected 
+corridors.
+Both Brassaw and Kim expressed concern 
+about the costs of repairing the extensive 
+damage. “It’s scary to think how much this 
+will cost,” Kim said. “I don’t know who will 
+be charged for it.”
+In This Issue:
+News
+Railroad merger........................page 2
+Features
+Plain English............................page 5
+Investment...............................page 7
+Entertainment
+Deep Purple...............................page 9
+Sports
+Men look into future. 
+The Numbers Sheet..
+.....page 21 
+.....page 23
+Valentines.......... ..........page 13
+Acme.  ..................page 16
+
+---------------------------------------------------
+
+Page 2—The Tartan—February 12, 1985
+Railroad merger may cause job losses
+By JOHN FRIEDMANN
+Tartan Business Manager
+Pittsburgh’s blue-collar workers received 
+yet another dose of bad news last Friday 
+when Transportation Secretary Elizabeth 
+Dole announced her intention to sell Con- 
+rail, the government-owned rail giant, to the 
+Norfolk Southern Railroad.
+The merger will result in the abandon­
+ment or downgrading of hundreds of miles 
+of rail lines, many of which lie in western 
+Pennsylvania, and the consolidation of many 
+formerly competitive facilities, with the 
+resulting job loss.
+Norfolk Southern is itself the product of 
+a merger, the 1982 amalgamation of the 
+Southern Railway and the Norfolk and 
+Western Railroad. The Southern traditional­
+ly dominated rail service in the the deep 
+South, with a hub at Atlanta, while the Nor­
+folk and Western was known primarily as an 
+Appalachian coal hauler, but also tied the 
+Midwest together with the Virginia ports.
+Conrail has already dispensed with the 
+services of over half the workforce it initial­
+ly employed in 1976, when the corporation 
+was formed to take over the lines of the Penn 
+Central and several other bankrupt nor­
+theastern railroads.
+This labor streamlining, along with the 
+elimination of duplicate routes, are the 
+primary reasons for the profitability of the 
+rail giant, which expects to show a $500 
+million net income in 1985.
+The biggest facility Conrail operates in the 
+region is Conway Yard in Beaver County. 
+The yard is currently one of the railroad’s 
+nerve centers, but that role could be jeopar­
+dized as Norfolk Southern diverts traffic 
+away from Conrail’s New' York-Chicago line 
+via Pittsburgh to its own more southerly line.
+Employees at Conway are concerned that 
+Norfolk Southern will divert traffic away 
+from the Pittsburgh area, and that Norfolk 
+Southern employees will be given preference 
+for what jobs remain.
+Employees at Conrail’s system repair shop 
+at Altoona are also concerned about their 
+future. Many suspect that the work done at 
+Altoona will be diverted to Norfolk
+Expected to be the 
+hardest hit is local­
+ly based Pittsburgh 
+and Lake Erie, 
+already ailing from 
+numerous area mill 
+closings.
+Southern’s own facilities in Roanoke, Va., 
+Decatur, 111., or Atlanta, Ga.
+Norfolk Southern has moved to soothe 
+these fears, admitting that while several 
+thousand jobs may be lost, the people of Al­
+toona and Conway have nothing to fear. 
+In fact, NS will raise Conrail salaries 15 per­
+cent, up to the prevailing national wage, and 
+provide substantial severance benefits to any 
+displaced employees.
+A potentially larger source of job loss than 
+that on Conrail are the detrimental effects 
+of the merger on those railroads 
+competing with the new system. Expected 
+to be hardest hit is the locally-based Pitt­
+sburgh and Lake Erie, already ailing from 
+numerous area mill closings.
+mfiekLY &NGUWMS5624 BAUM BLVD.
+ByKAR ENGYNc itN-w
+deRoKrg a
+n vuula
+BARTEh/bE'R.S
+Bus /D.SHWASHER.
+buasNaa
+Th cUétMctùj^j^ up&cûuêgj eai&v^.
+t/fe/ ÛJvQOu
+SaJtLtnoUxy^
+Z-OO 6--ooJ^.
+The P&LE would be deprived of the Nor­
+folk Southern as a “friendly” connection on 
+both ends, and might petition to be includ­
+ed in the merger. Otherwise, it may be ab­
+sorbed by the Chessie System, a competitor 
+to both Conrail and NS which already sup­
+plies the P&LE with much of its traffic.
+In either case, the P&LE repair shops at 
+McKees Rocks would most likely be closed, 
+and a substantial number of P&LE men 
+would join many already unemployed col­
+leagues in looking for work.
+A third alternative is extension via 
+trackage rights over Conrail to reach new 
+shippers, but many industry analysts doubt 
+this would be a viable solution.
+Also expected to be affected is the Chessie 
+system, which also has a substantial presence 
+in western Pennsylvania. The railroad’s 
+shops in suburban Glenwood were closed 
+several years ago, and company spokesmen 
+were predicting dire effects in terms of job 
+loss if the merger is consummmated. The 
+railroad stated that it plans to do all in its 
+power to block the consolidation of NS and 
+Conrail.
+Joining Chessie in the fight are many 
+groups, including both Pennsylvania’s 
+senators, labor unions and Conrail’s own 
+management. Conrail management, head­
+ed by CEO L. Stanley Crane (a former NS 
+executive), had proposed selling the railroad 
+to the public via a stock offering, and cited 
+congressional testimony by investment 
+bankers stating that the government could 
+realize up to $400 million more that way 
+than the $1.2 billion purchase price paid by 
+NS.
+Senators Heinz and Specter also supported 
+a similar stock sale, while the labor unions
+advocated the selection of rival bidder 
+Alleghany Corporation, a substantial 
+stockholder in Conrail predecessor New \’0n' 
+Central. Both alternatives would haveke 
+the present management in place and 
+Conrail operate as an independe-i 
+railroad.
+The Justice department has also thrown 
+roadblocks in the way of the merger, citing 
+12 potential areas of reduced competition 
+A combination of this opposition, along witt 
+congressional and private-sector objections 
+could serve to delay, or even prevent the 
+merger’s consummation.Socie ties plan drive
+continued from page 1
+with Mortar Board chapters at other Pitt, 
+sburgh colleges, will include a February ljj 
+seminar at Pitt.
+The seminar, to which high schi 
+students from 167 Western Pennsylva: 
+schools have been invited, will explain orj 
+donorship and will encourage students 
+start similar programs at their high school;
+Arraez said that many young people art 
+not donors; “When you’re young, 
+like to think about dying.”
+He added, “But when a young persoi 
+dies, up to six people can benefit from that 
+Families of young donors who have dii 
+report that they feel better that the deal 
+had some benefit, according to Arraez." 
+something good to think about.” 
+Lassmger said that information tables 
+interested CMU students will be set up 
+Thursday and Friday in Baker Hall 
+Skibo.
+AB-COFFEEHOUSE PRESENTS
+CRAl^ 
+KAR' ^
+re'CO
+Feb. 15. 8:00 Wherrett Room
+Craig Karges
+A mystifying and entertaining presentation of ESPaf1^ 
+magic that will leave you astonished.
+
+---------------------------------------------------
+
+February 12, 1985—The Tartan—Page 3
+A Phi O lists pledges
+Special to The Tartan
+Kappa Chapter of Alpha Phi Omega Na­
+tional Service Fraternity is proud to an­
+nounce its Spring 1985 pledge class. Twenty- 
+five men and women pledged on Friday, 
+February 8, 1985. The pledges are:
+Karen Adelson, Toby Ayre, Todd Ber­
+nhard, Eric Borm, Scott Byer, Jim Carfagna, 
+Mike Connolly, Hilary Fitch, Daniel Freed, 
+Sarah Gaffen, Stephen Giamporc&ro, Loret­
+ta Graziani, Susan Hayden, Paul Jakabcsin, 
+Stephanie Janczak, Teresa Keller, Ed 
+Kenschaft, Adam Leong, Mark Levine, Brett 
+Molotsky, Cathy Rang, Paula Sawyer, Amy 
+Shaw, Liz Strohm, and Laura Wernikoff. 
+This list includes potential pledges that were 
+not present at the actual ceremony.
+The pledge class has been named in honor 
+of Kappa Chapter’s founder, Carl J. Long. 
+The Pledgemaster for this class is David 
+O'Leary. The brothers of A Phi O wish the 
+^pledges the best of luck.
+photo by Scot Allen
+Students Wayne Mesard and Felicia Thibeault listen to Cecile Heckler, executive 
+director of the Pennsylvanians for Human Life. Heckler spoke at “The Basics of the 
+Abortion Issue/’ a forum held in Skibo* s Wherrett Room last Thursday evening.
+Student's program will cut lab time
+continued from page 1I
+For example, students will shortly be us- ng the PC to calculate electronegativity data 
+or cerain elements and then extend the alculation to predict the electronegativity 
+)f the element xenon. The electronegativi- y of xenon is not yet given in textbooks.
+Until new software is developed, he is hav- ig students use available software such as >hart, Multiplan, TK solver, Lotus 1-2-3, Ind Minitab.
+The Macintosh can do some of the exer- 
+lises, but the IBM PC is needed for Minitab 
+Ind the exercises involving plotting the
+shapes of orbitals using Lotus.
+Vandyke admits that he is still learning a 
+lot about using the PC, particularly the IBM 
+system and that it’s not unusual to see him 
+getting information about a program from 
+students after class or at one of the public 
+clusters.
+Chemistry department head Dr. Robert 
+Birge also announced a new computer 
+science track option to the BS in Chemistry. 
+This program is pending review by the Col­
+lege Council.
+The goal of the program, the first of its 
+type in the nation, will be to prepare
+students for computational chemistry, a field 
+in which there are currently 5 openings for 
+every job applicant.
+The new option will entail fewer electives 
+and possible loss of American Chemical 
+Society Certification, Birge said. Current 
+Sophomores will be the first to take the 
+track.
+Birge is encouraging all undergraduates 
+to get involved in research. He said 
+“undergraduate research is a wonderful op­
+portunity which should be taken advantage 
+of, especially by students interested in com­
+puting."
+CMU profs 
+promoted
+PITTSBURGH—Morris H. Degroot, 
+William W. Mullins and D. Raj Reddy have 
+been appointed university professors by 
+Carnegie-Mellon University. University pro­
+fessorship is the highest honor the universi­
+ty can give a faculty member.
+University professorship transcends the 
+colleges and departments of the university 
+and is awarded upon the recommendation 
+of the other university professors at 
+Carnegie-Mellon, CMU President Richard 
+M. Cyert noted in announcing the 
+appointments.
+DeGroot, a member of the CMU faculty 
+since 1957, is university professor of statistics 
+and industrial administration. An interna­
+tionally prominent statistician, he has 
+authored two books and has published wide­
+ly in his field.
+Mullins, a member of the faculty since 1960, is university professor of applied 
+science. He has been head of CMU’s Depart­
+ment of Metallurgical Engineering and 
+Materials Science and dean of its engineer­
+ing college. Since 1982 he has been director 
+of the Center for the Study of Materials.
+Reddy, who has been on the faculty since 1969, is university professor of computer 
+science. Since 1980 he has been director of 
+the university’s Robotics Institute. Reddy is 
+internationally recognized for his work in 
+robotics and artificial intelligence. Last 
+spring he received the Cross of the Legion 
+of Honor of France from President Francois 
+Mitterrrand in ceremonies at CMU.
+Want to be a 
+•Pre-College summer
+Counselor?..............
+June 20-August 4
+...................................................
+Applications available at 
+Admissions Office in Warner 
+Hall & Skibo Information Desk. 
+Deadline for applications:
+FEB. ............................................
+• *To learn more, attend an in­
+formation session on WED., 
+FEB. 13 in the Wherrett Room 
+from 4:00 - 5:30 p.m.
+The Greatest Gift
+No matter how rich or poor; young 
+or old you may be, you can give the 
+greatest gift that one human being can 
+give to another: the gift is the gift of 
+life and health. . .
+Organ Donor 
+Awareness Drive
+February 14th and 15th 
+10:00 a.m. — 6:00 p.m.
+Skibo Baker Hall
+Sponsored by' Mortar Board avid Lambda Sigma.
+
+---------------------------------------------------
+
+The meeting was called to order at 7:00 
+Present:
+Bach, Bett, Bianco, Cohen, Cramer, 
+DeMetio, Den burg, Goldstein. Hamsun, Hynes, 
+lekes, Jagerski, Kink, McCormick! Miller,
+tan that will include exam} 
+Student Senate has solved.
+is so that 
+: to occupy
+difference last weekend.
+its original date.
+Affairs for use as student space.
+student productions, just a copy of them.
+Any interest in having a Faculty Senate 
+member at Student Senated meetings as an ex 
+officio member?
+will start in two or three weeks.
+The Rules committee should see Larry after 
+the meeting.
+All members of the executive committee 
+should see Michael after the meeting.
+Page 4—The Tartan—February 12, 1985
+DRINKING AND DRIVING CAN KILL A FRIENDSHIP
+Trivia contestants 
+move toward finals
+Four “Really Official Trivia Contest” 
+teams of an original twenty-three will con­
+tend for their choice of $200 cash or an RCA 
+Videocassette recorder. The competition, 
+beginning on February 17 in the Wherrett 
+Room in Skibo at 7 pm, is open to everyone.
+The quarterfinal round was played on 
+February 5 and 6. In the Red Bracket final, 
+Sigma Nu-B dumped Pi Lamda Phi-A, 
+58-29, in the highest scoring match so far. 
+The Green Bracket final had Bubba and the 
+Banshees holding on to squeak by The 
+Schrefflers, 27-25. Delta Tau Delta, winners 
+of a tiebreaker rematch the night before, us­
+ed a strong second round to oust The Budz, 
+53-23, in the Black Bracket final. Finally, 
+on the last question, the History Depart­
+ment, the lone faculty entry, edged Pi 
+Lambda Phi-B in the Blue Bracket final, 
+24-23.
+The matchups, determined by points-per- 
+game averages, will be top-seeded Sigma 
+Nu-B (50.5 ppg) vs. fourth-seeded Bubba 
+and the Banshees (25.0 ppg) at 7:00 pm, 
+followed at 8:00 pm by second-seeded Delta 
+Tau Delta (39.0 ppg) against the History 
+Department (36.5 ppg), the third-seed. The 
+winners will play at 9:15 pm.
+The game is a cross between a college 
+bowl and bingo. The gameboard consists of 
+25 squares, each corresponding to a ques­
+tion. These are broken down into five ' 
+categories (columns) of five questions each. 
+The categories are Current Events, Campus
+Trivia, Science and Engineering, Sports and 
+Entertainment, and Miscellaneous.
+Depending on the result of the previous 
+question, one team is given the right to pick 
+the question to be asked. The team that cor­
+rectly answers the question scores one point 
+and gains control of that square.
+Any sequence of four squares either 
+horizontally, vertically, or diagonally scores 
+four bonus 'points. Any sequence of five 
+scores nine bonus points. Before the round, 
+two squares are declared as free spaces (just 
+like the center square in bingo) and either 
+team may use it to make sequences. There 
+are two rounds in a match.
+The questions consist of two types, 
+multiple-choice and toss-up. The teams 
+have cards labelled A through D which they 
+use to give their answers to multiple-choice 
+questions, and both teams answer 
+simultaneously. If both teams are correct, 
+then the square becomes a free space. In a 
+toss-up, the first individual to raise his hand 
+gets first crack at the answer.
+As the preliminary round indicated, a 
+score of 25 points or higher was rarely 
+beaten, and in only three of the twenty-one 
+matches played did a team answer more 
+questions correctly and lose. Teams who got 
+one or more five-sequences also rarely lost.
+The Really Official Trivia Contest is 
+sponsored, developed, and officiated by 
+Cadets in the Carnegie-Mellon University 
+ROTC unit.
+FREE WALK-IN TUTORING SERVICE
+EXPANDED
+Now Every Sunday through Thursday 
+7:00 - 10:00 PM
+CALCULUS 
+PRE, I, II, III 
+PHYSICS 
+CHEMISTRY 
+ENGLISH WRITING 
+INTRO TO COMPUTING 
+Sponsored by Student
+PH 225B
+PH 226B 
+PH 226C 
+PH 125B 
+WeH 5415
+Affairs and
+Counseling and Student Development
+Center.
+The Oakland Review is now accep­
+ting submissions of poetry, short fic­
+tion, one-act plays, essays, and black- 
+and-white artwork and photographs 
+for its 1985 edition. Submissions may 
+be placed in care of the Editor, 
+Oakland Review, at the Skibo Infor­
+mation Desk. For any questions or 
+special accommodations call 
+Cathleen Barnhart at 362-3787. 
+Deadline for submissions is March 1*
+funded by activities fee
+WRCT 88.3 FM
+proudly presents
+CARSICKNESS and 
+THE BATS
+Two very popular 
+bands in a FREE 
+performance of their music
+Sunday, Feb. 17 at 1 p.m. 
+Wherrett Room, Skibo
+
+---------------------------------------------------
+
+Features.
+To survey plain language legislation and develop programs in plain English
+Victuals
+Spirits
+sive th 
+appetizers
+Winberie’s specialty is cheese, and prac
+Plain English
+Professor continues struggle for communication
+By JEFF HENDRIX
+Tartan Staffuiriter
+•‘How about saying that again in plain
+English?”
+If you can read that sentence, chances are 
+you remember having said it yourself at one 
+time. Life in the English speaking world is 
+full of ambiguities. For instance, have you 
+ever had trouble understanding an instruc­
+tion manual? You know, those handy little 
+things that are supposed to tell you all about 
+how to do something, such as how to operate 
+a computer, for example. Then again, the 
+mere mention of such things as income tax 
+forms or insurance policies strike fear in the 
+hearts of the bravest.
+“So, why doesn’t somebody do something 
+I about it?”
+The Plain English Forum
+Well, somebody is and that somebody is 
+I Professor Erwin Steinberg of, what else, the 
+¡English Department. In fact, his involve- 
+Iment in the promotion of plain English has 
+¦taken several tracks, one of them being his 
+¡active participation in The Plain English 
+I Forum, which held the first of a series of 
+jconferences at Carnegie-Mellon on March 
+|23rd of last year.
+The membership of The Plain English 
+IForum, which ranges from government of- 
+Ificials and business people to academic 
+leaders and legal experts, all share a com­
+mon goal: “the promotion of clear com- 
+Inunication.” Among their numerous goals 
+ind ambitions are:
+To stimulate business and government in­
+terest in clear communication.
+To track plain English programs and keep 
+the business, government, and educational 
+communities informed about them.
+confer with lawmakers on plain language 
+issues.
+To encourage schools and colleges to
+Dr. Erwin Steinberg introduced the program in Technical Writing and Editing, the 
+first of its kind, in 1958.
+communication.
+In field since 1958
+This last goal is where Steinberg has taken 
+the lead. “I’ve been interested in this field 
+for a long time,” said Steinberg. “In 1958 I 
+was the one that introduced the Bachelor of 
+Science in Technical Writing and Editing.” 
+However, his accomplishments in promoting 
+clear communication do not stop here.
+Steinberg has also co-authored a book 
+with William M. Schutte of Lawrence 
+University, which is titled Communication 
+in Business and Industry. According to 
+Steinberg, the first edition was published in 
+1960, and Steinberg and Schutte worked on 
+the latest editon, which was published in 
+1983, “for 3 or 4 years.” The book covers a 
+wide range of topics including writing let­
+ter, memos and business reports; economy, 
+clarity, and unity of language; reading, 
+listening and speaking; and a subject of 
+primary importance to any profession, ap­
+plying for a job. When asked as to how 
+research was conducted for the book, 
+Steinberg replied, “ . . . essentially it comes 
+out of my consulting experience.”
+Application to real problems
+Virtually all of Steinberg’s practical ap­
+plication, including the technical writing 
+program, stems from his extensive consulta­
+tion experience with companines like 
+Westinghouse and Alcoa. “I’ve been con­
+sulting since about 1950, so I have a lot of 
+experience in that field, and that’s why I 
+started the (program).” In fact, problems 
+continued on page 8
+Winberie's.This cellar in Shadyside a sure bet for romance, cappuccino or fondue
+j$y LESLIE HOTHERSALL
+to The Tartan 
+If you’re looking for a romantic, 
+uropean-style restaurant which is medium- 
+in price, J.B. Winberie (formerly The 
+pheese Cellar) in Shadyside is my favorite.
+It’s more expensive than C.J. 
+Barney’s but if you can't get your 
+date to pay, it’s still less expen- 
+than Le Bistro.
+and desserts can jack up 
+bill (or your date’s bill), but don’t 
+to go unless you’re willing to make 
+his financial sacrifice. The pre-meal and 
+'ost-meal delicacies distinguish Winberie’s 
+fom other restaurants.
+Another feature unique to Winberie’s is 
+the cheese board. For $6.75 you get to 
+choose four kinds of cheeses from an array 
+of eight. The dearly departed Cheese Cellar 
+used to have a wider selection from many 
+countries. The current selection features 
+common cheeses from only four countries, 
+including America. It is still an enjoyable 
+appetizer, and it comes with crusty french 
+bread and fresh fruit.
+Winberie’s selection of desserts is typical, 
+except for my favorite: their chocolate fon­
+due. The menu describes it perfectly as 
+“warm, rich chocolate laced with liqueur 
+served with chunks of fresh fruit, mar­
+shmallows and cubes of pound cake.”
+It is worth every cent of the $5.95 that I 
+try to get my boyfriend to pay. The chocolate 
+is seme-sweet but not bitter, and the fruit 
+is always fresh. When I go with my 
+boyfriend, I have to eat the strawberries 
+quickly, or he will get them all.
+The Cheese Cellar used to offer a second 
+kind of fondue made with strawberries, wine
+and cheese. It was as good as the chocolate, 
+and I don’t know why it was discontinued.
+The second part of dessert, cappuccino, 
+should never be left out. The mocha taste 
+it leaves in your mouth stays with you for the 
+rest of the evening. Winberie’s cappuccino’s 
+are laced with several liqueurs. The strangely 
+unique blend of espresso, chocolate, cream, 
+brandy, rum, gin, galliano and cream de 
+cacao imparts a liqueur-like warmth without 
+an alcoholic bite. At $2.75 a cup, my 
+boyfriend can usually only afford to get me 
+one, but when I’m paying, we sometimes 
+splurge. If cappuccino is too rich or expen­
+sive, the coffee is always fresh.
+An appetizer and dessert are usually 
+enough for me (especially if I’m paying), but 
+I will touch briefly on the entrees.
+Cheese fondue is the only entree that is 
+unusual. It is the same as the appetizer, but 
+in larger portions and prices ($8.50 and 
+$9.95). Entrees range from $5.75 for pasta 
+primavera to $13.95 for peppered strip steak. 
+There are several different pasta dishes, a
+few seafood dishes, and some chicken and 
+veal selections. Sandwiches range from $3.95 
+to $4.95 and burgers can be had from $4.50 
+to $5.25.
+The wine list is fairly average. Around 
+half the selections can be ordered by the 
+glass. The most expensive white wine 
+($23.00) is the Pouilly Fuisse, Louis Jadot, 
+Macon (France). The other whites range 
+from $9.00 to $16.00. The reds range from 
+$12.00 to $22.00. A limited selection of roses, 
+sparkling wines, ports and sherries is also 
+available.
+As you can probably tell, Winberie’s is one 
+of my favorite restaurants. Wine-bottle-lined 
+walls, dark tapestries, dim lighting and 
+hardwood tables make for a romantic Euro­
+pean atmosphere, and the waiters and 
+waitresses are friendly but not bothersome. 
+Stop in for dessert and cappuccino, even if 
+you (or your date) can’t afford a full dinner.
+J.B. Winberie is located at 738 Bellefonte, 
+just off of Walnut Street in Shadyside.
+every appetizer comes with cheese, 
+you can get common appetizers like 
+fried cheese or onion soup, my choicefondue.
+There are two types — cheddar and beer 
+and emmenthal and gruyere 
+Each comes with chunks of crusty 
+bread and fresh apple slices. This ap- 
+suits two people, and according to
+, . If a lady loses her bread cubes in
+fond
+her ri
+ue> she pays with a kiss to the man 
+nght. If a man loses, he buys the next 
+j °f drinks.”
+Can never get my boyfriend to buy a 
+of anything, but he always manages 
+Clai1» his kiss.
+
+---------------------------------------------------
+
+Page 6—The Tartan—February 12, 1985
+College Republicans advisor tells of futureSteady economic growth to set expansion for rest of century
+By DAVID MOSKOWITZ
+Tartan Staffwriter
+The November election was more than a 
+personal victory for Ronald Reagan. It was 
+a mandate for the future, a signal to “stay 
+the course.”
+Perhaps singlehandedly, 
+Reagan has unleashed in 
+country a spirit of self- 
+and natural pride, 
+perhaps unseen here for thirty years. He has 
+given us a basis for our pride: an America 
+stronger, freer, and more prosperous than 
+before.
+“We were constantly told 
+that America is a terrible 
+place. Finally, someone has 
+said, we’ve got problems, 
+but here’s what's right about 
+us.”
+David Patti, Advisor to the CMU College 
+Republicans, agrees that the second Reagan 
+term will be characterized by economic 
+growth. Says Patti, “During the next four 
+years, you won’t necessarily see short term 
+gains. Growth won’t be spectacular. Instead, 
+you will see a lot of positive, moderate signs 
+that the economy is going strong.” Patti feels 
+this “steady” economic growth will set the 
+tone for the rest of the century.
+Patti is an M.S. candidate in Public
+Management and Public-Policy Analysis at 
+SUPA. His experience includes research and 
+policy analysis for the Pennsylvania state 
+Senate, as well as working for Congressman 
+Christopher Smith, for whom he has writ­
+ten floor speeches.
+Look at education and crime
+Patti describes President Reagan as con­
+servative in rhetoric, yet pragmatic in prac­
+tice. He feels the President will take a 
+politically safer route, enacting programs to 
+spur the economy rather than outright cut­
+ting people from the roles of support. “With 
+the economy strong, we can now look at 
+other matters such as education and crime,” 
+he remarks.
+When President Reagan visits college 
+campuses nowadays, he hears chants of 
+“USA.” When he was governor of California, 
+visiting a campus would cause a riot. This 
+new patriotism by younger Americans is seen 
+by Patti as a reaction to the past. He says, 
+“We were constantly told that America is a 
+terrible place. Finally, someone has said, 
+we’ve got problems, but here’s what’s right 
+about us.”
+‘Second American Revolution*
+He goes on to say, “ The youth are excited 
+about feeling good about America again 
+and of a President they can be proud of.” 
+He feels the ‘Second American Revolution’ 
+will be an exciting time to be alive.”
+Patti feels the student body at CMU is 
+fairly conservative, while the professors are 
+the liberals. While putting up Reagan-Bush
+posters for the election, he recalls that most 
+of the harrassment received came from the 
+faculty.
+In his State of the Union address last 
+Wednesday, President Reagan has set a 
+course for the future of this country. Quoting 
+the President, “the word ‘freedom’ — is the 
+key to the Second American Revolution we 
+mean to bring about.”
+The direction of the President and of the 
+Republican Party, as outlined in the State 
+of the Union address, comes as no shock. It 
+is the same message we have been hearing
+for the last four years. Just as the first Reagan 
+term was characterized by economic growth, j 
+the economy appears the first of priorities | 
+for a second Reagan term.
+Most Republicans, as well as many I 
+Democrats, are calling for tax simplification, I 
+a plan to lower personal and corporate in 
+come tax and reduce the many incremental I 
+tax brackets to three. This approach has pro I 
+ved effective in 1981, increasing incentive I 
+and rewarding productivity. The program I 
+will almost certainly be enacted, since there j 
+continued on pa
+FRESHMAN ORIENTATION 1985
+CAMP/CAMPUS COUNSELORS
+APPLICATIONS AVAILABLE AT 
+SKI BO INFORMATION DESK 
+RETURN APPLICATIONS TO DESK 
+BY MARCH 1, 1985
+
+---------------------------------------------------
+
+-T1
+Exalted Playing that glows
+with expressive warmth and vitality. ” —LONDON TIMES
+The Pittsburgh Symphony Society
+presents
+ir^Ci0f1^^rope
+Alexander Schneider, Conductor 
+Cecile Licad, Pianist
+Dvorak's Serenade for Strings 
+Beethoven's Piano Concerto No. 3 
+Mozart's Symphony No. 38 (“Prague”)
+Tickets: $15,12; Student and Senior Citizen Half Price:
+$7.50, 6 at Heinz Halt box Office and Pitt/CMU/Duquesne 
+Student Unions. Or Call TicketCharge: 392-4900.
+Thursday, Feb. 14, 8:00 PM 
+ICamegie Music Hall Oakland
+February 12, 1985—The Tartan—Page 7
+Strong market produces propelling demand
+Reagan to receive bipartisan support
+White Witch: My ¡oue 
+today and always.
+By CHRIS GRONDWALSKI
+Tartan Staffwriter
+If you haven’t become rich in the past 
+month, you’re either a typical college stu- 
+with no money or you haven’t been wat- 
+ig the stock market.
+The Dow-Jones Industrial 
+average, an index that includes 
+thirty of the nation’s largest in­
+dustrial stocks, has reached new 
+Since the beginning of January, 
+the Dow-Jones has climbed over 100 points 
+from 1180 to almost 1300. Not wanting to 
+be left out, the rest of the market followed 
+suit, with advancing issues surpassing declin- 
+issues for a record 9 successive davs.
+This question is more easily answered if the 
+reasons behind this recent advance are ex­
+amined. Market strength is affected by 
+numerous factors, including interest rates, 
+money supply figures, corporate earnings 
+reports, and government policies. In the past 
+month interest rates have dropped consider­
+ably, causing a shift from low yielding 
+bonds into the higher yielding equity 
+market. In addition, the Federal Reserve 
+Board’s monetary policy has been one of 
+maintaining economic growth. Finally, the 
+corporate profit outlook has been quite 
+good. In light of this, most analysts feel that 
+the market will continue its upward climb.
+Finance will appear weekly in The Tar­
+tan and is written in coordination with the 
+Investment Club.
+be enacted without bipartisan support. 
+Judgin from recent statements from 
+Democratic leaders, it appears bipartisan 
+support will be forthcoming. At a news con­
+ference, Jerry Michael, spokesman for the 
+Democratic National Committee, stated “We 
+needed to tell the American people we were 
+wrong.”
+The Democrat’s reply to the State of the 
+Union address was not a concerted attack 
+on the President but a statement that “the 
+(Democratic) party must move beyond its 
+New Deal origins and prove its capacity for 
+fiscal responsibility.” The only time Walter 
+Mondale’s name was mentioned was in a 
+statement from a voter, criticizing him for 
+advocating tax increases.
+Maybe it was ABC’s decision to air 
+“Dynasty” over the Democrat’s reply that 
+prompted Governor Clinton of Arkansas to 
+state, “This is a party that knows it has to 
+change.” Such statements by Democrats 
+point towards many Republican proposals 
+becoming economic reality.
+neans, an advancing issue is a stock that 
+noves up in price while a declining issue is 
+pne that moves down in price. Stock market 
+has been especially high also, and 
+[s those of us who have studied economics 
+when prices rise on high volume, there 
+excessive demand.
+Where will the market go in the future?
+continued from page 6
+appears to be strong support for it 
+throughout Congress. Many Democrats have 
+stopped describing tax cuts as “gifts to the 
+Rich,” noting that after the 1981 cuts, the 
+rich were paying a greater percentage of 
+total taxes than before.
+The President asked for enterprise zones, 
+providing tax incentives and abatements to
+employers that hire workers from depressed 
+areas.
+The President restated his belief that the 
+best way to reduce government spending is 
+to reduce the need for spending by increas­
+ing prosperity, claiming that each added 
+percentage point per year of G.N.P. growth 
+will reduce the deficit by nearly $200 billion 
+over five years. The president said govern­
+ment’s claim to our economy must be 
+lightened. Reminiscent of Earnest Holling’s 
+presidential campaign, President Reagan 
+called for a freeze on government spending 
+in the 1986 budget. Two exceptions to this 
+proposal are spending for the elderly, disabl­
+ed, and unemployed and the military. The 
+President promoted elimination of costly 
+government regulation and subsidies, citing 
+airline deregulation as a positive example 
+and calling for the transition to a market- 
+oriented farm economy.
+No matter how hard these or other 
+economic proposals are promoted by the 
+President and other Republicans, they can’t
+(( AIM HIGH ^
+
+---------------------------------------------------
+
+Page 8—The Tartan—February 12, 1985
+Steinberg testifies in plagiarism case
+continued from page 5
+that Steinberg confronts while consulting are 
+directly incorporated into the graduate 
+courses for professional and technical 
+writing.
+Steinberg views it as “an attempt to give 
+the students an opportunity to take the 
+theory that they learn in other courses in 
+both rhetoric and linguistics, and apply 
+those principles to real problems.”
+Although Steinberg’s work is also closely 
+related to the graduate program in rhetoric, 
+he still focuses on application. “I’ve done 
+with (Professor) Kaufer, for example, some 
+original work in linguistics, but not 
+theoretical work again. It arises out of real- 
+life writing problems,” Steinberg said. “We’ve 
+worked on nominal compounds and what we 
+call the ‘anaphoric this.’ This shows that. 
+This what? How can you tell what this ap­
+plies to and what sort of tests can you set up 
+in order to know whether you can let that 
+this stand alone, or whether you have to 
+throw in this idea, this concept, this pro­
+blem, or this something?” However, his ap­
+plication of theory goes far beyond the 
+“anaphoric this.”
+An example of one of the many uses of 
+writing theory can be found in Steinberg’s 
+current involvement “with a law firm and a 
+copyright violation case on a manual.” He 
+is being used as an expert witness and while
+rPfiTHHrc
+tle'TP BywwH
+/VVixaiAJi rtwneßcKMH 
+\/M HI tfK) TIAK WH
+Apliciaat oyr e’p
+HHKOAA TAKC 4>OPM. 
+BO/lAH M KHOi/H 
+/ß CtAbEPWa! ,DECISIONS, DECISIONS, DECISIONS. . .
+Almost time for H&SS sophomores to make final deci­
+sions about declaring their major, and time for 
+freshmen to begin thinking seriously about the choices 
+and options available. H&SS departments have plann­
+ed presentations and information sessions for pro­
+spective majors according to the following schedule:
+Psychology Tuesday, Feb. 12 BH 336B
+Cognitive Psychology 4:30 p.m.
+Social Psychology 
+Developmental Psychology
+Modern Languages Tuesday, Feb. 12 BH 246A
+French 4:00 p.m.
+German
+Spanish
+Industrial Management Wednesday, Feb. 13 GSIA Main
+4:30 p.m. Auditorium
+History Thursday, Feb. 14 BH 254C
+History 4:30 p.m.
+Applied History
+Statistics Monday, Feb. 18 BH 132
+5:00 p.m.
+English Tuesday, Feb. 19 BH 245
+Technical Writing 5:00 p.m.
+Professional Writing
+Creative Writing
+Literary and Cultural Studies
+Economics Wednesday, Feb. 20GS1A Masters
+Lounge
+Economics 5:30 p.m.
+Managerial Economics
+AND
+EVERYTHING
+NICE
+will be selling fresh-cut flowers during 
+Valentine’s Day in Skibo Grey Matter 
+9:30 — 5:30. Orders for delivery can be 
+placed Wed. 5 — 7 in Skibo 58.
+\’o sale Friday 2/15
+FRESH ROSES, 
+CARNATIONS, 
+AND BUNCHES
+PhilosophyThursday, Feb. 21 
+3:00 p.m.
+DEBRA ABELL m.d. dermatologist
+• student discount available 
+•easily accessible by bus from CMU
+MasterCard, Visa 
+Call appointment239 Fourth Ave., Suite 217, Downtown 
+281-4770
+'Anaphoric this' examined
+
+---------------------------------------------------
+
+Entertainment.
+Deep Purple return as rock's Perfect Strangers
+my
+Photo by Ross Marino/Creem 
+Ritchie Blackmore and his Stratocaster
+By LESLEY BRUNKER
+Tartan Staffwriter
+It was inevitable. With the Who, Vanilla 
+I Fudge, the Animals, and Yes, all popular 
+' late-sixties, early-seventies bands, reforming 
+and performing a farewell or reunion tour, 
+you had to wonder who was next. In the 
+summer of ’84, the rumours started. Pro­
+moters were trying to get members of the 
+greatest transitional heavy metal band of all 
+time, Deep Purple, to leave their respective 
+solo projects and reunite.
+- In the late sixties, musical trends stemm- 
+led from a fusion of the fifties blues style and
+the early sixties rock ’n’ protest style. Early 
+heavy bands Led Zepplin, Black Sabbath, 
+the Doors, and Cream all featured a blues 
+sound, particularly in their first albums.
+Deep Purple was formed from the rem­
+nants of the experimental/classical band, 
+Episode Six (Jon Lord, Ian Paice, Ritchie 
+Blackmore), in 1968. Adding Nick Simper 
+on bass and Rod Evans on guitar, they put 
+out their first album, Shades of Deep Pur­
+ple. The material was not exceptional, nor 
+did it do much to distinguish Purple from 
+any of their contemporaries, and album sales 
+were not surprisingly poor.
+Their first 1969 release, The Book of 
+Taliesyn, received a similar response, but 
+their second, Deep Purple, featuring their 
+first hit single, “Hush”, was a success. In 1970, 
+Evans and Simpler left the band to be 
+replaced by Ian Gillan and Roger Glover, 
+respectively, in time to perform in one of the 
+most unusual modern music experiments, 
+Concerto for Group and Orchestra, by Jon 
+Lord. This is quite as it sounds; The Lon­
+don Symphony Orchestra and Deep Purple 
+trading sounds in one coherent piece. 
+Televised form the Royal Albert Hall, the 
+show was a smashing success.
+Gillan and Glover stuck with the band 
+through their most prolific years, 1970-1974. 
+Purple put out six albums, four studio (In 
+Rock, 1970; Fireball, 1971; Machine Head, 
+1972; and Who do we think we are?, 1973), 
+one live (Made in Japan, 1972), and a 
+greatest hits (Best of Deep Purple, 1972). 
+Machine Head stands today as one of the few 
+perfect heavy metal albums ever produced.
+From 1974-1978, the band’s lineup swit­
+ched every few months form David Cover- 
+dale on vocals and John Hughes on bass to 
+Gillan and Glover, the former pair featured
+on Burn and Stormbringer (1974), Come 
+Taste the Band (1975), Made in Europe 
+(1976), and Last Concert in Japan (1977); the 
+latter on 24 Carat Purple (1975, a greatest 
+hits album), Purple Passages (1975), 
+Powerhouse (1977), and When We Rock, We 
+Rock (1978). Ritchie Blackmore was replac­
+ed by Tommy Bolin on Come Taste the Band 
+and Last Concert In Japan.
+Including one other compilation, The 
+Singles (1978), Purple put out a total of 
+twenty albums in half as many years —quite 
+prolific by any standards. The root of their 
+success was their ability to take the
+Purple broke up in 1978 in the wake of 
+egoist battles between the members, par- 
+ticulary Lord and Blackmore. In 1976, 
+Blackmore formed Ritchie Blackmore’s 
+Rainbow, a fine heavy rock band, featuring 
+Ronnie James Dio on vocals. Glover and 
+Gillan later moved on to form name bands, 
+while Lord and Paice continued to work 
+together.
+1984 found Blackmore and Glover in 
+Rainbow, a band on the decline, Gillan in 
+Black Sabbath trying to follow in the oh-so- 
+large footsteps of Ozzy Osbourne and Dio, 
+and Lord and Paice with Coverdale in
+* Photo by Bob Leafe/Creem
+Ian Paice, Ian Gillan, Jon Lord, a fan, and Roger Glover celebrate the reign of Purple
+blues/rock amalgam and mould it into a 
+faster, heavier form. They are one of the few 
+heavy bands to successfully use the organ 
+without detracting from the overall pace and 
+crunch of their sound.
+Talking Heads stop making sense
+I
+By KRISTOPHER KOHUTH
+Tartan Staffwriter 
+Yet another concert movie comes to town. 
+^Thankfully, however, it’s the Talking Heads 
+conceptual Stop Making Sense , and they 
+oreathe new life and meaning into this much 
+abused class of film. Stop Making Sense is 
+concert film, but where everyone from 
+)avid Bowie to the Rolling Stones have fail- 
+pd (the latter horribly), the Talking Heads 
+Snanage to succeed at catching on film the 
+quality, intensity, and intelligence of their 
+Jive performances.
+rncert Movie___________
+The majority of the film’s success is due 
+If0 the band’s lead singer-songwriter and 
+jeeper of the Big Suit: David Byrne. His 
+¦typnotic presence provides the nucleus 
+around which the rest of the band is form­
+ed, both figuratively and literally. The film 
+¦®pens with Byrne alone on a bare stage per­
+forming an acoustic “Psycho Killer.” The rest 
+St>f the band, Tina Weymouth on bass guitar, 
+TrrY Harrison on keyboards, and Chris 
+jpantz on drums, are introduced one by one 
+rth each successive song; and the stage is 
+'radually fitted with everything from rear- 
+Projection screens to an assortment of bongo 
+FUms; thus symbolically tracing the 
+rvelopment of the band itself. Such sym- 
+Nism saturates the film, giving it a‘look of 
+r^nt-garde while carefully avoiding the 
+hbolic pretense of Pink Floyd’s The Wall.
+Pretense is exactly what one expects to
+Jnd in 
+»ears
+a concert film; a medium which ap- 
+promising in theory but often 
+Serializes as little more than an outlet for 
+^•gratification and publicity — the stuff 
+'hich Spinal Tap was made to parody. Stop 
+faking Sense avoids concert movie cliches 
+backstage footage. Director Jonathan 
+mme is well aware of both the bands
+quality and the intensity of Byrnes ap­
+pearance; he never feels the need to inter­
+rupt the film’s pace by dragging the viewer 
+offstage. The editing is appropriate for each 
+song, either slowing to a crawl or building 
+in an explosive crescendo. Similarly, the 
+minimal lighting is used to visualize the 
+band’s music, and not, as is often the case, 
+to distract the viewer from subpar in­
+strumentation. “Swamp” is played against 
+blood red screens; and on “What a Day That 
+Was,” the band is illuminated from below, 
+transforming Byrnes hollow face into a liv­
+ing skull and enhancing the song’s already 
+haunting sound. An expanded version of the 
+band is used, including the aforemention­
+ed bongos and two back up singers that lend 
+the film an air of African mysticism.
+The entire performance is no less 
+brilliant. Brian Eno, responsible for the pro­
+duction overkill on the later, more idiosyn­
+cratic Talking Heads albums, had no part 
+in the making of this film. As a result, the 
+Talking Heads’ music finally gets the 
+stronger rhythm and blues treatment it has 
+always deserved. They play less art and more 
+music, and the film contains some of the 
+most accesible Heads music to date.
+Byrne briefly disappears from the stage 
+while bass player Tina Weymouth and 
+drummer Chris Frantz perform as The Tom 
+Tom Club, singing a tribute to, appropriate­
+ly enough, the “king of soul” James Brown. 
+It is hard not to compare the Heads inspired 
+performance here to Brown’s own legendary 
+Appolo concert. David Byrne returns wear­
+ing his Big Suit to continue his vocals and 
+frenetic dancing.
+David Byrne is both an excellent musician 
+and a true artist (the first does not guarantee 
+the second) and is credited for conception 
+of this stage production. He uses almost 
+every element of stage and screen to aid the 
+band’s communication to the audience.
+With Stop Making Sense he revitalizes and 
+extends the possibilities of a concert film. 
+Stop Making Sense puts many other concert 
+movies to shame; or, to use the inevitable 
+pun, is the first recent concert film that 
+makes sense.
+Whitesnake, one of Britain’s most popular 
+metal acts. What, exactly, led them to “put 
+on hold” these other projects to bury their 
+egos and reform? Perhaps a search for old 
+glory. Perhaps money. And perhaps it just 
+sounded like a good idea at the time...
+Whatever the reason, Perfect Stranger hit 
+the airwaves in December and Lord, Paice, 
+Blackmore, Glover and Gillan hit town on 
+24 February. Concert-goers can expect a 
+catalogue of older hits (“Highway Star”, “My 
+Woman from Tokyo”, “Space Truckin’”, and 
+of course, “Smoke on the Water”) plus some 
+current offerings, and hopefully, a good jam 
+session. See you there!
+FG: What's the Skinny?
+By LYNNE M. SCHATZ
+Special to The Tartan
+What’s the Skinny?, this week’s exhibition 
+at the Forbes Gallery, features art work by 
+senior sculptors Marty Moldovan and Chug- 
+ger Von Voetsch and senior industrial 
+designer Eve Waldron. The exhibition opens 
+this evening at 7:00. The opening has the 
+added attractrion of live music by Yonny and 
+the Hamster Man, a bass and bassoon 
+combo.
+Moldovan’s exhibited work includes a 
+number of large scale, figurative sculptures 
+in mixed media as well as working drawings 
+for his sculptures.
+“I look for something that has some form 
+of humanism that leads to the human figure 
+in my work,” said Moldovan.
+Both Moldpvan and fellow scuptor Von 
+Voetsch believe that there is currently a 
+movement in art back to figurative forms of 
+expression.
+“We’re all human beings, and the figure 
+offers a form of universal expression,” said 
+Moldovan. “All of my influences are figural, 
+though some of my pieces are sort of ar­
+chitectural.”
+“All of my construction processes are basic 
+reactions to materials, be it clay, steel, or 
+whatever,” said Moldovan.
+Von Voetsch also exhibits large scale, 
+figurative sculptures, mostly of concrete and 
+clay. Von Voetsch believes his work to be in­
+dicative of the resurgence of figurative 
+sculpture.
+“Figurative sculpture is one form of look­
+ing into an inner self. It’s a form of 
+humanism,” said Von Voetsch. “Ninety per­
+cent of what you see in the Doherty Hall 
+studios right now is figurative work."
+“In the ’80’s everything has that crisp, 
+clean, ‘I want it by Monday’ aspect to it,” 
+said Von Voetsch. “It’s a lack of humanism. 
+The figure becomes the vehicle to draw an 
+artist back into himself.”
+Waldron’s pieces are on a smaller scale 
+than those of her fellow exhibitors. Her work 
+includes a set of bud vases that have as their 
+influence dime store style religious and 
+decorative ceramics.
+Waldron believes her background in in­
+dustrial design to be important in terms of 
+her current work. ‘These pieces represent 
+my attempt to make works that are both 
+functional and truly beautiful," said 
+Waldron.
+An element of humor is also evident in 
+Waldron’s work. “I like to create the kind of 
+pieces you can use as well as place on your 
+t.v. and just look at,” said Waldron.
+What’s the Skinny? runs through February 
+17 at the gallery, 5200 Forbes Avenue. 
+Gallery hours are 11:00 to 6:00, Wednesday 
+through Friday, and noon to 6:00, Saturday 
+and Sunday. The artists especially encourage 
+the campus community to attend the exhibi­
+tion because of “the added festivities of open­
+ing night being Lincoln's Birthday and 
+Valentine’s day being later in the week," said 
+Moldovan.
+
+---------------------------------------------------
+
+Page 10—The Tartan—February 12, 1985
+The Spectator considers The Three Sisters
+By JONATHAN STEELE
+Special to The Tartan
+In the last nine years of his life, Chekhov 
+turned seriously to drama and wrote the six 
+plays for which he is considered a titan of 
+the modem theater. In 1901 he married Olga 
+Knipper, an actress with the Moscow Art 
+Theater; and this company produced his last 
+four plays. During the MAT production of 
+The Cherry Orchard, Chekhov argued with 
+Stanislavsky, the director, over interpreta­
+tion. Chekhov insisted that the characters 
+should be treated as more comic than self- 
+pitying and tragic. The subtle delineation 
+of character is one of the factors that makes 
+Chekhovs work difficult, and many a pro­
+duction has gone down the tubes because it 
+did not balance the elements of comedy and 
+tragedy.
+Chekhov was a great innovator. His plays 
+create an atmosphere of fin de siecle Rus­
+sian gentry in decay and portray subtle com­
+plex moods in varied groups of people. His 
+assortment of characters are like colors on 
+a pallate, and he uses an almost pointilliste, 
+impressionistic technique. Chekhov was a 
+sensitive observer of human behavior. His 
+writing captures the underlying meaning of
+communication, beneath the explicit. 
+Therefore, the focus in his plays shifts to the 
+subtext of lines and to the silence between 
+lines.
+The Spectator
+The Three Sisters takes place in a garrison 
+town in Provincial Russia, late in the 19th 
+century. The action spans 3V6 years and 
+follows the attempts of the three Prozorov 
+sisters to achieve their dreams and desires. 
+Moscow symbolized their nostalgic memories 
+of the past and also hope for the future. 
+However, they are doomed to finish their 
+lives on their rural estate, under the thumb 
+of their vulgar, crass sister-in-law, Natasha.
+All three sisters fail to accomplish their 
+aims. Masha loses the great, secret passion 
+of her life and is left with her boorish 
+schoolmaster husband. Irina’s finance dies 
+in a duel, and she loses her hope to move 
+to Moscow. Olga had hoped to find mean­
+ing in life by throwing herself into her work 
+as a schoolmistress, but the futility of it puts 
+her into despair. Although the present lives 
+of the characters seem hopeless, and the play
+ends with their world broken up, the sisters 
+look to the future with optimism.
+The parts of the three sisters were played 
+with competence and intelligence by Val 
+Olney as Olga, Kathleen Morales as Masha, 
+and Ann Altieri as Irina. They could have 
+had more intensity of pain and despair, but 
+they all had strong moments in the final act, 
+especially Morales. Kim Connolly as 
+Natasha also was competent but never seem­
+ed as vulgar and crass as she should have. 
+Craig Waletzko was the brother, Andrei, 
+who almost gambles away the family estate. 
+The family was played in a realistic style with 
+the rest of the cast correctly drawn more as 
+character types. These included Jim Nardini 
+as an old doctor, Marcus Lovett as the 
+cuckolded school teacher, James Shanta as 
+the teutonic Baron, and Yussef el Guindi as 
+an old peasant. Other roles were played by 
+John Gribben, Steven de Lauter, Judi Hoff­
+man, Michael Hartson, Dan Munnely, Ted 
+Manier, and Michael Schaeffer.
+Hafiz Karmali’s direction successfully 
+combined the elements of pathos and 
+humor. He revealed subtextual meanings
+and illuminated the circuitousness 0f 
+Chekhovian communication. Karmali also 
+contructed a varied spectrum of comic and 
+pathetic characters. However, the soldiers 
+were only marginally military; and the 
+women as a whole were not portrayed as 
+boldly as the men. The movement and ar­
+rangement of the actors was handled well 
+but some entrances and exits could have 
+been cleaner. The production was good 
+visually, but the candle light in the second 
+act went on too long.
+The set design by Natalie Wilvers work­
+ed satisfactorily. The bleakness of the garden 
+in the fourth act was very good, but the 
+perimeter of the space in the first three was 
+not clear. Janet Loewenstein’s lighting was 
+uneven, with the second act being simply too 
+dark. Sound design was by Matthew Lesher. 
+Bonnie Bauter’s costumes acceptably sug 
+gested the period but seemed more effective 
+for the men than the women.
+The Three Sisters is an MFA Project 
+presented in the Studio Theater February 8, 
+9, 11, 12.
+RCBB presents Bach & Handel
+DiCesare-Engler Present
+The Outrageously Funny
+RODKEY DANGERFIELD
+U«* classic
+-1 t>lus Hl\ 
+Tlft -UneT0^e'
+2 SHOWS 
+SAT Feb. 16 
+7:30 — 10:00 pm
+Reserved tickets at all National 
+Record Marts, Oasis and Horne’s 
+Dept. Stores. To charge by phone 
+Call 363-0500 Visa/Mastercard acc..SYRIA MOSQUE
+5th Avenue & Bigelow Blvd. 621-3333
+The River City Brass Band opens its 
+winter series of concerts with “By George! By 
+Jack!,” a celebration of the 300th birthdays 
+of George Frederic Handel and Johann 
+Sebastian Bach. Countrary to the usual wor­
+shipful view of these two musical giants, 
+RCBB treats them in a way more in keep­
+ing with their real human natures — 
+vigorous, quarrelsome, virile men of the 
+world. Featured are Handel’s Water Music 
+Suite, Bach’s Toccata and Fugue in D Minor, 
+and the American premiere of Grodon 
+Langford’s Harmonious Variations On A 
+Theme By Handel.
+In keeping with RCBB tradition, several 
+principal players will be featured as soloists. 
+Karen Sloneker, solo cometist, will perform 
+the lyrical Air by Johann Mattheson, a con­
+temporary of Handel’s, and David Piecka, 
+solo horn, will perform Handel’s Siciliana 
+And Giga. David will later join his fellow 
+members of the Fine Arts Brass Quintet, 
+Bernard Black, Denis Colwell, Glenn
+Wayland, and David Knapp, in presenting 
+“What’s a Fugue Like You Doing In a Place 
+Like This?” Music Director Robert Bernat 
+will describe the aristry of the fugue as the 
+Quintet performs Bach’s Fugue in G Minor 
+(The Little). Rounding out the program are 
+Handel’s Largo from Xerxes, Bach’s Air from 
+Suite in D Major, and the audience sing- 
+along, A Mightly Fortress Is Our God.
+Performances are February 16, 8 pm at 
+Carnegie Music Hall in Oakland, and 
+February 17, 7:30 pm at South Hills Theater 
+in Dormont. Information on ticket reserva 
+tions and winter series subscription discounts 
+is available by phoning 322-RCBB, Monday 
+through Friday, 9:30 am to 5:00 pm (VISA 
+and Master Card accepted). Tickets are also 
+available at TIX, Oliver Plaza.
+ENGINEERING STUDENTS
+Completing Second Year Undergraduate Studies
+SCHOLARSHIP & SUMMER EMPLOYMENT OPPORTUNITY
+Cleveland Pneumatic Company is seeking two persons for its newly established 
+Manufacturing Engineering Technology Scholarship Program.
+To qualify, you must:
+• be completing second year studies;
+• be an Engineering (Mechanical or Industrial) major;
+• have top academic credentials including strong mathematics studies;
+• be a permanent resident of the Greater Cleveland area (family residence within 30 
+miles of Cleveland);
+• have an interest in the Manufacturing Engineering field.
+Additional desirable credentials include:
+• demonstrated skills or experience in Manufacturing Engineering;
+• manufacturing work experience;
+• knowledge of the aerospace industry.
+We are offering a scholarship for up to $6000 plus summer employment for students 
+who. qualify for third and fourth year studies in the Manufacturing Engineering 
+Programs at Boston University (Boston, MA) or Weber State (Ogden, UT).
+To apply, send a letter of interest to:
+Linda Urmetz, Cleveland Pneumatic Company, 3781 East 77th Street, Cleveland, 
+Ohio 44105. An Equal Opportunity Employer, M/F/H.
+Pneumo
+ClevelandPneumatic
+Landing Gear
+On this day in 
+Rock and Roll.
+In 1967, 15 policemen raid the 
+Sussex home of Rolling Stone guitarist, 
+Keith Richards. They find “various 
+substances of a suspicious nature,” but 
+no arrests are made.
+This week in Rock and Roll also 
+marks the deaths of Nat “King” Cole, 
+February 15, 1966, Mike Bloomfield of 
+the Paul Butterfield Blues Band on 
+February 15, 1981, and Thelonius 
+Sphere Monk on February 17, 1982.
+Compiled by Adam Hanin from the 
+Rolling Stone Rock Almanac, Collief 
+Books.
+RESEARCH
+Send $2 for catalog 
+of over 16,000 topics to 
+assist vour research « ' 
+forts. For info., call to[ 
+free 1-800621-5745 On»- 
+_ linois call 312-922-0300)
+Author» «••••rch, Rm 
+407 S Owtoofn. CMOQQ. H-.ggSJ
+MURRAY A. FELDER
+ATTORNEY AT LAW
+Civil and Criminal
+3447 Forbes Ave.
+Oakland 683^^
+——v;1 .".'v.1-;1;1.-.-v'.
+
+---------------------------------------------------
+
+February 12, 1985—The Tartan—Page 11
+Scotch'rTSoda's new musical Zelda begins production
+By CURT WOHLEBER
+Tartan Staffwriter
+Scotch’n’Soda, CMU’s Drama club, is cur­
+rently preparing for the April production of 
+Collette Silvestri’s original musical Zelda, 
+which depicts the life of Zelda Sayre Fit­
+zgerald, the wife of novelist F. Scott Fit­
+zgerald. The cast includes Susan Ingerman 
+in the title role, Mark Simmons as Fit­
+zgerald, Chris Quigley as Cole Porter, and 
+Bruce Moore as Ernest Hemingway. Zelda
+Isko reviews
+By MARK ISKOWITZ
+Special to The Tartan
+1. Chris Isaak—Silvertone (Warner
+Brothers)
+Powerful, heartfelt American music is em­
+bodied in this tuneful debut by an intrigu­
+ing San Francisco player. As much as he 
+resembles Elvis Presley on the album cover, 
+Isaak sounds like him (with a bit of Buddy 
+Holly) on the record’s 12 originals. 
+Psychedelic and country-ish guitar textures 
+nix with Isaak’s passionate vocals, creating 
+high points of musical drama. Such a gen­
+tle pairing of vocals and sparse guitar is rare 
+today. I suspect Warner Bros, has signed an 
+unknown musical genius whose simplistic 
+songs will appeal to lovers of emotional roots 
+rrock .
+2. Van Morrison—A Sense of Wonder
+(Mercury)
+The great Irish bard returns triumphantly 
+with a bunch of bright, new compositions 
+and a pair of magnificent covers of songs by 
+Ray Charles and Mose Allison. Van’s sparkl­
+ing production and amazing session musi­
+cians generate uplifting spiritual music and 
+cool jazz. Always an honorary soul man to 
+many, Van’s expressive voice is in vintage 
+j form, soaring to new emotion-filled heights.
+- If “Tore Down A La Rimbaud” were any 
+more charged-up, it would fling the stylus 
+off the turntable. The album does shift 
+r gears, with Van’s celtic roots showing up on 
+. a couple of instrumentals. One of contem- 
+| porary music’s true pioneers seems 
+revitalized.
+3. Husker Du—New Day Rising (SST) 
+This fifth album from Minnesota’s already
+legendary Huskers assaults you with a 
+relentless fuzz guitar attack. Bob Mould & 
+Co’s material has matured, becoming more 
+melodic and song-oriented than ever before. 
+However, most of the vocals are mixed too 
+low, deliberately of course. “I Apologize” 
+deviates most radically from the group’s 
+furious thrash-and-mumble delivery in its 
+vocal clarity, Stiff Little Fingers-like chorus, 
+and length (3:40). On this LP, their second 
+ln six months, the Huskers have created 
+a new wall of sound which packs a tremen­
+dous punch.
+is being directed by James Berry.
+The life of Zelda Fitzgerald has been 
+dramatized before in such works as Ten­
+nessee Williams’ play Closed For a Summer 
+Hotel, a 1930’s film called Beloved Infidel, 
+and a recently-closed off-Broadway play also 
+called Zelda. But according to Miss Silvestri, 
+no one ever looked at her as a woman — 
+just as the crazy wife of F. Scott Fitzgerald.” 
+Previous portrayals of Zelda’s life have con­
+centrated on the sordid story of her
+new music
+4. The Velvet Underground—VU. (Verve)
+Just as Lou Reed now begins to transcend
+his underground status, Polygram has dusted 
+off and remastered ten historic songs intend­
+ed for a never-released fourth Velvets LP on 
+MGM. Reed’s lyrical adventures, some of 
+which later appeared on his solo albums, 
+scream with intensity and biting guitar licks. 
+Aside from the two tracks with John C^le, 
+this record depicts an important, innovative 
+period (mid-to-late 1969) in Lou Reed’s long 
+career. “Foggy Notion” justifiably joins “I’m 
+Waiting For The Man” and “Sister Ray” as 
+all-time rock and Velvets classics.
+5. Grandmaster Flash—They Said It 
+Couldn’t Be Done (Elektra)
+Is this much fun okay for one’s health? 
+Since leaving Sugarhill, “Grandmaster 
+Flash” has become the moniker for a full 
+group effort. While Mr. Flash still spins and 
+scratches, collaborators Kidd Creole, 
+Rahiem, Levon, Mr. Broadway, and Larry 
+Lowe do the rappin’ and singin’. Catchy rock 
+’n’ soul music written by the team receives 
+elaborate electronic treatment by a host of 
+masterful musicians. “Rock the House” and 
+“Sign of the Times” exemplify the exciting, 
+novel way Flash bridges the gap between 
+street rap and structured music. Listen close­
+ly to catch Eddie Murphy being cut up in 
+the process.
+breakdown, giving an unfair and inaccurate 
+picture of a gifted, dynamic woman who was 
+a creative artist in her own right, as a 
+painter, dancer, and writer.
+Zelda, says Silvestri, “was the original flap­
+per”—the archetype of Prohibition era 
+female flamboyance. She was a pervasive in­
+fluence on all who surrounded her. Her uni­
+que and uninhibited personality was source 
+of inspiration to Fitzgerald and Ernest Hem- 
+mingway. Zelda’s spirit can be sensed in the 
+female characters in their novels, and in the 
+music of her friend Cole Porter.
+But in the male-dominated world of the 
+1920’s, Zelda was prevented from reaching 
+her potential as a creative artist and getting 
+the recognition she deserved. In the late 20’s 
+Zelda and her husband collaborated on a 
+series of short stories. Eventually Zelda began 
+to write stories on her own, but they still car­
+ried the husband-and-wife by-line. When 
+one of her stories was accepted by the Satur­
+day Evening Post, the publishers exerted 
+pressure to drop her name from the by-line, 
+and in the end the story appeared under the 
+name F. Scott Fitzgerald, even though he 
+had had no hand in writing it. Fitzgerald’s 
+own writing, in fact, revolved around Zelda 
+so much that he was incapable of finishing 
+his novel The Last Tycoon after she was 
+institutionalized.
+It is appropriate that the story of the ar­
+chetypical 1920’s woman is being presented 
+as a musical. “When I read about Zelda,”
+says Silvestri, “I heard music.” Music was an 
+integral part of the unique culture of 
+America in the 1920 s; it was the age of jazz, 
+as reflected in such Fitzgerald novels as The 
+Great Gatsby.
+Zelda will be performed April 11-13 and 
+17-20 in the Skibo Ballroom. The musical 
+director for Zelda is Robin Fountain; the ar­
+ranger and assistant musical director is Ar­
+thur Turner.
+WRCT Top 10 Albums
+1. Laurie Anderson
+United States Live
+2. The Milkshakes 
+They Came They Saw
+3. Husker Du 
+New Day Rising
+4 . Shockabilly 
+Vietnam.
+5. Bill Nelson
+The Two-fold aspect of Everything
+6. The Droogs 
+Stone Cold World
+7. Jean-Michel Jarre 
+Zoolook
+8. The Smiths 
+Hatful of Hollow
+9. Nash the Slash 
+American Bandages
+10. Bunnydrums 
+Holy Moly
+For a tee brochure call Toll Free:
+or write: • 800-222-TEST
+34iiftîion.îLPenter Educational Tastino
+HLtake the next course FREE.
+Philip Pelusi Haircutting Workshops!
+Register for a Philip Pelusi haircutting workshop and 
+get a great-looking cut for just $8.00!
+Call Salon nearest you — ask for workshop 
+coordinator.
+Bank Center 261-6550 Century III Mall 655-1940
+Squirrel Hill 521-12C0 Village Square Mall 833-6770
+,tac< Ì.'unW^Ol'1'2'2’-
+too'w neviceS’ ^rp.0-
+3fp*et,°0)
+mal0' nCv'ce
+todaV
+trie in one
+u.sJLV'd!tue
+feg?#V*50’eiflP1iloVer
+A"eQ
+.t*,cXU.
+I*'"1
+
+---------------------------------------------------
+
+We will be interviewing on campus 
+Thursday, February 14th
+A rich career, extending the limits of the mind, awaits you. To explore the possibilities, visit with our representatives during our campus visit, or send your resume and letter of introduc tion to: Manager. College Relations Gotild Defense Electronics Division ^ 6?1 1 f^yrneadow Drive Glen Barate, Maryland 21061
+% #An Equal Opportunity Employerllp
+Electronics Division, where the challenge is to keep our country superior in defense-related sound detection systems and associated commercial technologies.To maintain the advantage over anddetermined adversary, we must constantly re-energize our thinking with fresh ideas. We are always listening for professionals witb Keen minds, and expertise in electrical engineering, mechanical engineering, quality assurance, manufacturing, integrated logistics support, software systems and systems engineering.To broaden your career horizons, we conduct on­going internal training in all needed specialities.
+OULD
+Electronics
+Sidewalks were not 
+shoveled on weekends, 
+creating a safety 
+hazard for students.
+Physical Plant was 
+contacted and
+promptly agreed to 
+shovel the sidewalks 
+whenever necessary, 
+including weekends.^
+Problem:
+Come to us with your problems 
+Wherrett Room, 7:00 p.m. Tuesday
+Funded by Activities Fee
+%
+Student Senate:
+
+---------------------------------------------------
+
+Valentines
+To #30 Your “stats” are #1 in my book.
+Michael — Happy Anniversary, you lucky guy!I love you. — Susan
+Little Boy: Happy Valentine’s Day and 1V4 an­niversary. S, B, & F love you a lot and so do I. Love, Your Toy and the Guys.
+To my dearest A.M.: My love for you is only limited by your acceptance of it. Be mine! Love, C.F.
+Elyse, I love you forever. — Michael
+Dear K, you are the perfect one for me. I love you. — CD
+To the Welch Wenches: Jackie — Will you be my. . .um. . .Jennifer — will you be my Val-- .. .oh, gee, I, uh. . .will ONE of you be my. . .will SOMEONE be. . .1 need a drink.Love, Stevie
+To J*C*: Thanks for being such a soft, warm, wonderful lady (with gorgeous legs!) Please be my Valentine. — David.
+To all of the truly amazing Tri-Delts, Happy Valentine’s day. The past three years have been the best three of my life. Thank you for being so special . . . I’ll never let you go.For all the good times . . . Love, Love, Love, Daina
+L.G.
+AMOEBALOVE
+NUCKY — Thanks for a wonderful 8 months! I love you more than ever! — Your throbbing python of love.
+CHI OMEGA: The spirit of love and sisterhood is alive every day. Play that funky music.
+Mari—You call ME strange?.. .You witch. Priscilla—Behind that sweet face lies...a psycho killer!Karen—Remember the pizza-CS connection when you pass the carrot/mayonnaise/raisin thing. STOP SMOKING! ! !Teresa—I shall remember thy burets forever. Dost thou yet desire the Beak album?Dave—I want your body, you cretin.Daniel Dee Bear and Cthulhu lieben sie immer!
+Christine, Life has not been easy these past two years, but you have made them enjoyable. It is comforting to know you are always there. Love, Matthew
+To the big bad 2nd floor, I think you’re all great. HAPPY VALENTINE’S DAY! Love, a 3rd floor reject.
+Dear Lisa-seeker, That note was so . . . touching. It’s a shame you sent it to the wrong address. Love, Not-Lisa.
+A Happy Valentine's Day wish to my family: Mom, Marlene, and Sue.AI ASS W, HHH— Michael
+M — you make every love song a reality, bring my dreams to life, and take me beyond fantasy.Love, B.
+Happy Valentine’s Day Zeus. Love, MB.
+Cards, Bears and Flowers don’t begin to show how much I care for you. Wishing you much happiness.G.M.
+Michael — All my love on our first Valentine’s Day together. — Elyse
+^ Don, meep! Love, Katrin. P.S. SMILE!
+BW2C-Just a Valentine reminder to tell you how much you are still loved & a wish to turn the calendar back. Hope all works out for the bet­ter. Love, WHN
+Hilary — you are so hot — I touch I bum. Hap­py Valentine’s Day. Love, David
+Happy Valentine's Day to the best little sisters from the Brothers and Pledges of Sigma Nu.
+To Lucy —(beep, beep!)Linus
+Sweetness, you sure know how to end a vacation! Love, Your Obesity
+Lovey: “You’re in my heart, you’re in my soul, . . . you are my lover, you’re my best friend." I love you. — Lovey
+Kitten, A Valentine of loving thoughts for you.I want to tell you, Sweetheart, how much I love you, but loving thoughts and words can only show a part of all the love for you that glows in my heart. Happy Valentine’s Day! — With all my love, Les
+To my python: I love you so much! Grrrrr! Hap­py Valentine’s day! Love, your duck.
+Peggy, Peggy, Peggy How do I love thee? Let me count the ways. 1, 2, 3, at least 15 ways.
+Dear Henlopen,Let’s have a marvy first V-day weekend together.I love you very much!PTVQ.
+MA:Love Ya, let’s wandle off together.-T.
+To: Heather From: AndyHappy Valentine’s Day to a fellow punctual perfectionist. Don’t do it if you can’t get it right the first time!
+Happy Valentine’s Day to Batboy, I’m hip I’mhip. You’re my calendar guy.P.S. EAT YOUR FOOD !!
+Joe Cf
+To my YUM-YUM;
+Happy V.D.
+JG
+To XXLB@TB,KI love to be with you. XXOT@TD
+To the rest of the male gender: Karen Nicole is^ taken! Hopefully, soon by me. CFA 416
+to my sweet Clown: jOur love has always been a three-ring circus-^- wil1 you join me in the center ring? Lovey
+CJ (the next Richard Stoltrman):Keep your hopes, dreams, and ambitions shin- 'ng in front of you; for my love will always follow you wherever you go. Your future and my love is 'n your hands. Keep on hookin’’ 
+love,Carm Bud
+Venus, If old St. Valentine knew you, you would be the goddess of his worship. ais^you are mine. May this holiest of days keep us warm until St. Patrick can again renew our faith. — Lovey.
+Happy Valentine’s Day 306 South Aiken! Love, 618 Clyde Street (Apt. 13)
+DOMOL/FB — “That was a D-fiat minor diminished ninth, she noted chordially (as she wondered if her p: ?no lessons were paid up yet.) Oh, boy our FIRSi' Valentines Day! Happy one month. Love, Eurydice (?)
+PETE,THANKS TO A MEXICAN DINNER, WILL YOU BE MY VALENTINE?ROBINP.S. GET READY FOR SATURDAY
+
+---------------------------------------------------
+
+12 am 
+1 
+2
+SUNMONTUE
+Cosmic Flap Jacks
+Big Floppy Pancakes 
+space, electronic, 
+ambient
+The Rhythm of the Beat 
+Les
+jazz, R&B, funk
+Corwin of Amber
+early rock, jazz
+Illicit Affairs 
+Rick
+new wave, dance, blues, 
+jazz
+The Cat's Meow 
+The Cat
+rock, psych, jazz, space
+Random Truck w/ Tony 
+early rock, jazz, blues
+Radio Classics 
+classical, experimental
+The Social Register 
+Taylor Travers 
+rock, oldies, jazz, 
+funk
+Sunday Quarter to Nine
+Dynamic Vegetation 
+Norman
+hardcore, psych, 
+experimental
+Music for Gurus 
+and Spies 
+Mr. Nobody 
+new age music, 
+rock 'n roll
+Caviar and Meths 
+Maxine
+heavy metal, hard rock
+Sunrise
+in the Rearview Mirror 
+Dan
+new music, ska, funk
+Chatting Over Coffee
+Mort and Jane
+rock, oldies, comedy,
+reggae
+Electronic Mysteries 
+Rick Brandt
+rock, electronic, oldies, 
+jazz
+A Cool Dry Place 
+Rob
+modern, dance, reggae
+Room with a View
+Mark Jason 
+eclectic modern music
+Occasional Death 
+Red Hot Rosa Cheese
+drone, psych
+Madame Pompadour's...
+Morphic Resonance
+Chris Koenigsburg 
+avant garde, jazz, 
+electronic
+Things that Go Bump 
+in the Morning 
+Icabod
+experimental, jazz, 
+new music, vocal
+Sanitized for Your
+Protection
+Mr. Clean
+jazz, instrumentals
+Mad Mixin'
+The Inspector 
+funk, dance, jazz
+Arbitrary Choices w/ Don 
+rock, space, jazz, oldies
+Skolem Functions 
+just about anything...
+Modern Angst w/ Norbert 
+hardcore, reggae, funk,
+Radio Pepe 
+hardcore, punk, funk
+Green Eggs and Ham
+Sam I Am
+dance, electronic, jazz, 
+rock
+Unsightly and Serene
+Clare
+new wave, 
+experimental, industria*
+
+---------------------------------------------------
+
+I Spring 1985program
+188.3 FM STEREO
+j Phone 578-2883 or 621-WRCT (9728)
+WRCT is a Public Service stahnnstation of Carneg,e-Mellon University, Pittsburgh
+[ WEDTHUFRISAT
+¡Best Thing Since 
+¦Whipped Cream 
+Don Giovanni 
+garage, jazz, rockabilly, 
+¦big band
+June
+June
+reggae
+Dead Set 
+Jim
+Dead, jazz, Motown, 
+blues
+Guts and Passion 
+Bambi
+psych, punk
+Malicious
+Mr. Glitch, Daysleeper, 
+Garrett
+rock, classical
+Romantic Pagans for 
+Matriarchy
+Ovid
+reggae, folk, blues, punk
+iThe Wake 
+Bpectre
+Kisych, blues, jazz, 
+Husion
+The Talk Normal Show
+Anji and Marni 
+new wave
+Second City Alternative 
+Jazz
+Lisa Smith
+jazz, classical, fusion
+Plate of Shrimp 
+Otto
+hardcore, punk, reggae
+¦Carnal Whimsy 
+»The Queen
+I of Radio Pornography 
+1 rock, new wave, psych
+Real Time
+Sean Brady
+old rock, country,.
+classical
+Spaced Out Sarah 
+psych, oldies, rock
+Music Incognito 
+Rich
+funk, jazz, reggae, rap, 
+R&B
+passionate Cabaret w/Z.J.Neurotica
+Jeff Stafford
+new wave, rock, R&B,
+jazz, fusion
+Through the Looking
+Glass
+Joelle
+jazz, rock, folk, 
+classical
+The Act of Being Polite 
+Ray
+anything
+f Is There Anybody Out 
+I There? w/ Phil 
+i^Pace, comedy, folk.
+¦ Baby Snakes 
+RNck Farley 
+Zappa...
+Orgando¡ i Ta,k Show
+Beer in Your Ear 
+Bill
+rock, blues, jazz, ethnic
+Music for Heathens
+Sodom and Gomorah 
+industrial, ska, psych, 
+punk
+Asexually Speaking
+Mike Usually
+modern, new wave, 
+dance
+Bj'niiich Manuever
+Cheesethrust 
+|nardcore, punk, doom.
+Industrial
+Penguin Dust 
+HAL
+industrial, space, 
+hardcore, psych
+SPORTSLINE
+Sex Without Touching 
+Wayne
+punk, comedy, space
+Nuclear Winter 
+Fetko
+silly sounds, strange 
+noises, world music
+PPustrial Park 
+1' Entropy 
+Rd The Supervisor 
+¦retrial, drone,
+J^rimental
+Hell Hath No Mercy 
+heavy metal, hard rock
+Bop n' Blues w/ Willy V. 
+blues
+It's Time to Make 
+the Do-Nuts 
+Col. Gum
+neopsych, European rock
+The Party Never Stops 
+at the Cold Front 
+Russell Post 
+hardcore, experimental, 
+jazz, painful
+PunM by AcHvtU— Wm
+
+---------------------------------------------------
+
+Acme.
+Classifieds
+FURNISHED 1 BR SUMMER SUBLET! 5th
+Ave. security building 12 min. walk to CMU, kit­
+chen, bath, living room, dining room, 3 large 
+closets + additional storage, laundry facilities, 
+no roaches!
+Rent : $359/month + electric
+Available : May 15, 1985 - August 31, 1985
+Call 681-2519 after 9 p.m.
+APARTMENT FOR RENT : 1/2 block from 
+CMU, lower Beeler St. Huge, 2500 sq. ft. 10 
+rooms, 2 story apartment. 5 bedrooms, 2 living 
+rooms 22 X 17; 31 X 14. Two bathrooms, kit­
+chen, dining room, small office, sunporch, 
+garage, storm windows, 1 floor air conditioned. 
+Washer & dryer. Comfortably suitable for 7. 
+$1300/month + utilities. Available beginning of 
+May. Call 521-9441 after 7:30 pm.
+USED COMPUTER WANTED Call 261 3933
+Events
+Movies1 of Backstage at the Kirbv A look 
+JL mb at the backstage preparations of 
+the famous Kirov Ballet, the Leningrad company 
+that was responsible for Nijinsky, Balanchine, 
+and Baryshnikov. Ip Russian with English sub­
+titles. Pittsburgh Playhouse, 7:30 pm, 9:30 pm 
+Admission $2.95.
+Plays
+Of Mice and Men performed af the Famdus 
+Rider Cultural‘Center. Performances through 
+March 3: Friday and Saturday at 8*pm; Sunday 
+at 2 pm Tickets available at f amous rider box 
+office and TIX. Call 681-i476 for details.
+Sports
+Fencing away meet against Indiana University 
+of Pennsylvannia at 1:30 p.m.
+Recreation
+Stuffed Sweethearts orders being taken. Delivery 
+of February 14. Baker Hall, 10 am to 4 pm; Skibo 
+Grey Matter 11 am to 2 pm; Morewood Gardens 
+4:30 pm to 7:30 pm Another A Phi O service.
+Clubs
+Student Senate Meeting open to the campus 
+community. Skibo Wherrett Room, 7 pm.
+Presidential Awards for Design Excellence,
+presented by Malcolm Quantrill, RIBA, Visiting 
+Professor of Architecture at Texas A&M. Part 
+of the Department of Architecture Spring Lec­
+tures Series. Wean Hall 7500, 8 pm.
+Families in Transition, presented by the 
+Counseling Center. An ongoing support group 
+for students whose parents are separated or 
+divorced. E-Tower Morewood, 3:30 pm to 5:30 
+pm.
+Art
+Works by Kimberly Burleigh, Steve Hankin, 
+Lillian Pierce, Mary Weidner in display at Pitt­
+sburgh Plan for Art until March 10. Gallery 
+hours Tuesday through Saturday: 10 am to 5 pm; 
+Sunday 1 pm to 5 pm.
+Selected Drawings of Georg Baselitz shown until 
+February 28 at the Hewlett Gallery. Gallery 
+hours: Tuesday through Friday: 11 am to 4 pm; 
+Saturday: 12 noon to 4 pm; Sunday: 1 pm to 4 
+nm- .........................
+symbolics
+Symbolics, Inc. is the established leader in the development of symbolic com­
+puting systems for advanced applications in Artificial Intelligence, Knowledge- 
+Based Systems, CAD, and Software Development. Our 3670 computer system, 
+currently the most powerful LISP-based system commercially available, pro­
+vides an unmatched software development environment for complex applica­
+tions. We currently seek a Field Software Support Engineer for our Pittsburgh 
+office.
+TheNw spTarofe sCnnpfa 
+egihgeef
+The qualified candidate will provide technical advice and instruction on all 
+Symbolic's software features, specializing in distribution and installation pro­
+cedures for software products built in the Symbolics software system.
+We require advanced programming skills in at least one programming pro­
+cedural language, LISP, or equivalent. Significant software experience, par­
+ticularly in system and networking software. Possession of good interpersonal 
+skills is essential, along with excellent reporting and problem-solving ability. 
+A B.S. in Applied Math/Computer Science, or equivalent, is required with 
+0-4 years' experience.
+We offer an excellent salary and compensation package. Please send resume 
+to Donna Weinberg, Symbolics, Inc., 11 Cambridge Center, Cambridge, 
+MA 02142. An equal opportunity employer.
+APARTMENT FOR RENT : Large 1 
+bedroom, dining room, living room, equipped 
+kitchen, laundry, balcony. Clean, bright, good 
+location. $425 +elee. 921-7023. Evenings.
+RESUME/TYPING SERVICE Special stu­
+dent’s rates. Call EXECUTIVE RESUME, 
+261-7117.
+OAKLAND-SUBLEASE Available March 1. 1 
+bedroom apartment with wall to wall carpet, air- 
+conditioning, security building $260 + electric.
+621-2552.
+COUNSELORS, OVER 19 who like to havef 
+and make fun at unique overnight boys’ sunu^ 
+camp in Penna. Able to instruct one of 
+following: Water Safety, Waterskiing, Boat 
+Soccer, Basketball, Arts and Crafts, Rockcliu 
+bing, Riflery, Ham Radio, Rocketry, Science 
+Archery, Track, Tennis, Golf, Photograph 
+Pioneering, or General Athletics, write CA\|p 
+DIRECTOR, 138 Red Rambler Drive, LaF, 
+Hill, PA 19444.
+Movies1 Q% Badlands, starring Martin Sheen,
+JL Sissy Spacek, Warren Oates. Fine
+actting highlights this moody film about two 
+young lovers who go on a killing spree in the 
+1950’s. Based on a true story. Pittsburgh 
+Playhouse, 7:30 pm, 9:30 pm Admission $2.95.
+Music
+Graduate Recital, with John Olsson, trombone. 
+Alumni Concert Hall, 5 pm.
+Sports
+Men’s Varsity Basketball home game against 
+John Caroll University. Skibo Gym, 8 pm.
+Women’s Basketball home game against Butler 
+Community College. Skibo Gym, 6 pm.
+Recreation
+Stuffed Sweethearts orders being taken. See 
+February 12.
+Clubs
+AIESEC meets in Skibo 11 at 4:30 pm.
+Astronomy Club meets in Doherty 2304 at 8:30 
+pm.
+Movies
+1 / 1 A Man and a Woman. Beauti-
+JL JL fully simple winner of academy 
+award and the Cannes Film Festival. Doherty 
+2210, 6 pm, 8 pm, 10 pm Admission $1. Spon­
+sored by Activities Board.
+Get out your Handkerchiefs, starring Gerard 
+Depardieu, Patrick Dewaere, Carol Laure. A 
+clever amusing comedy romp about two friends 
+who cannot understand women. Oscar for Best 
+Foreign Film. Pittsburgh Playhouse, 7:30 pm, 
+9:30 pm Admission $2.95.
+Music
+The Chamber Orchestra of Europe First U.S. 
+Tour 1985, sponsored by the BOC Group 
+features Alexander Schneider, guest conductor, 
+and Cecile Licad, pianist. Carnegie Music Hall 
+(Oakland), 8 pm Student tickets $7.50, $6.00 at 
+the Student Union and Heinz Halil Box Office 
+or call Ticket Charge 392-4900.
+Valentine’s Day A11 Ages Show, featuring The 
+Shunts, The Urge, M.R.N. Tickets $3 advance, 
+available at Think Pink 261 Atwood (in 
+Oakland), or. $4 at door. The New Group 
+Theater (5188 Penn Ave., 681-1635), 9 pm.
+Clubs
+Explorer’s Club plans rock climbing and kayak­
+ing trips. All welcome. Skibo 12, 6:30 pm.
+Lectures
+Is It Real or Is It Digital Effects? Warren 
+Waken and Alan Green of CMU Electronic Im­
+aging Laboratory will show and discuss their work 
+in computer graphic animation. Pittsburgh Film 
+Makers, The Media Arts Center, at 205 Oakland 
+Ave., 8:45 pm Admission $3.
+Managing Stress, presented by the Counsel® 
+Center. Leam how to cope with academic a* 
+personal pressures. First of seven lectures giVc 
+on Thursdays. E-Tower Morewood, 4:30 pmt 
+5:30 pm.
+Movies1 tI Bachelor Party. DohertyJL xj 6 pm, 8 pm, 10 pm, 12 pm. Ad 
+mission $1. Sponsored by Activities Board
+The Bostonians, starring Vanessa Redg 
+Christopher Reeve, Madeline Potter. Awealti 
+feminist battes it out with a romantic redned 
+from the South in this film version of Hei 
+James’ novel. Pittsburgh Playhouse, 7:30: 
+9:40 pm, 11:50 pm. Admission $2.95.
+Plays
+The Birthday Party, by Harold Pinter; din 
+by Gillette Elvgren. A comedy of terror abouil 
+bizarre party featuring treacherous guests; 
+harrowing birthday games. Opens at 8 
+Stephen Foster Memorial Theatre (Forbes Art 
+in Oakland). Admission $4.50 to $6.50 
+range for run of shows). Ticket information] 
+624-4101. Runs until March 2; show perfor 
+hours: Thursday through Saturday: 8 pm; I 
+day 2 pm.
+Music
+Harpsichordist Geoffrey Thomas performs s
+recital to celebrate tricentennial birthdays] 
+Bach, Handel, and Scarlatti. Pieces played a 
+elude Bach’s Partita IV in D major, sonataslj 
+Scarlatti, and Handel’s Suite in E majorwki 
+includes the “Harmonious Blacksmith” vat 
+tions. Synod Hall (Fifth Ave. and Craigj 
+behind St. Paul’s Cathedral in Oakland),! 
+pm. Tickets $6 ($3 for students) purchasedaiij 
+door. ^
+Sports
+Women’s Basketball away game agaij 
+Washington and Jefferson College at 7 j
+Recreation
+Campus Pub pre-grand opening in the> 
+Highlander Room at 4 pm. Free food andd
+Craig Karges performs in AB Coffeehouse.. 
+Wherrett Room, 8 pm.
+Movies
+| j \ Raiders of the Lost Ark. 1 JL 2210, 6 pm, 8 pm, 10 pm.A(“
+sion $1. Sponsored by Student D° 
+Council.
+Harold and Maude, starring Ruth Gordon 
+Cort, Vivian Pickles. A comedy cult 
+a young man and his 79-year-old g11" 
+Bizarre and hilarious.Soundtrack by Cat SJ
+Pittsburgh Playhouse, 7:30 pm, 9:30. 
+pm. Admission $2.95.
+Sports
+Swimming home meet against Hiram 
+and Gannon College. Gymnasium p00'1
+t—
+Clubs
+Game Club meets in Skibo H at 1 P1"
+continued o'11
+Olt >75-2021CMU Travel Office
+Campus Consentanee
+s-MlU vto
+
+---------------------------------------------------
+
+February 12, 1985—The Tartan—Page 17
+me
+•nUed from page 16
+Movies
+7
+ Foul Play. Chevy Chase joins
+Goldie Hawn in stopping an evil 
+against the Pope. Doherty 2210, 6 pm, 
+10 pm. Admission $1. Sponsored by Ac­
+es Board.
+t Me in St. Louis, starring Judy Garland, 
+aret O’Brien, Mary Astor, Leon Ames.
+' musical about a family at the turn of the 
+ry. Score includes Garland’s, “Trolley 
+” Pittsburgh Playhouse, 7:30 pm, 9:30 pm. 
+ission $2.95.
+Music
+Presents: Carsickness and the Bats, per- 
+ing a free concert in Skibo Wherrett Room
+pm. -
+Movies
+8
+ The Godfather, starring Robert 
+Duval, Diane Keaton, A1 Pacino, 
+Caan, Marlon Brando. Oscars for Bran- 
+creenplay, and Best Picture. Pittsburgh 
+ouse, 7:30 pm only. Admission $2.95.
+Clubs
+i 0 meeting in Doherty 2210 at 7 pm.
+one welcome.
+If you wish to place an announcement, 
+classified ad, miscellaneous item, or event in The 
+Tartan send it in care of the Acme Editor, The 
+Tartan, 103 Skibo, Carnegie-Mellon University, 
+Pittsburgh, PA. 15213; send it via campus mail 
+to the above address; or drop it off at our offices 
+in 50 Skibo. Events may be sent through com­
+puter mail to MEOPat CMCCTC. Only classified 
+ads will be accepted over the phone.
+Please include the following information when 
+submitting events: title of event, sponsor, brief 
+description, location, date, and time. In addi­
+tion, include the namejand phone number of the 
+person submitting; this information will be used 
+only to confirm the event.
+The T artan is not responsible for the accuracy 
+or validity of any Events listings. In addition, it 
+reserves the right to edit or omit any listing for 
+publication.
+Classified ad forms are available in our office.
+All events are free of charge and open to the 
+general CMU student population unless other­
+wise noted.
+Deadline for Acme Submissions is Wednesday 
+at 5 pm for the next week’s issue. If you have any 
+comments or suggestions, send them to any of the 
+addresses listed above.
+Unfortunately, TOPSC was down this week 
+and events mailed to the listed account were not 
+published in this issue. The Tartan regrets any 
+inconvenience caused by this.
+-BOOK CORRECTION
+eH Terminal Room
+X3168
+you want
+ree Tickets
+en here’s a way to get some. The 
+rtan has two tickets to Rodney 
+ngerfield’s February 16th show at 
+Syria Mosque, and YOU can win 
+m. All you have to do is write 
+n, in 25 words or less, why you 
+nk you get no respect. Then drop 
+ff at the Skibo Information Desk 
+|)The Tartan. Deadline is 7:00 pm 
+Wednesday, February 13th. Please 
+lude your name, address, and 
+ne number. The winner will be 
+ified on Thursday, February 14th.
+mets courtesy of DiCesare-Engler.
+on
+Carsickness and the Bats
+unrig the time you're an undergraduate or graduate student, 
+ou maY experience some of the following:
+¡DEPRESSION • ANXIETY • LONELINESS • ANGER • CAREER DOUBTS 
+P FAMILY TROUBLES • DIFFICULTY WITH FRIENDSHIPS • 
+pXUAL QUESTIONS • MARITAL OR PARENTING PROBLEMS 
+f LACK OF MOTIVATION • SLEEPING OR EATING PROBLEMS
+P to a certain level these feelings are quite normal, but when they begin to get 
+n the way or overwhelm you, psychotherapy may be of help. Approximately 
+13 f of our patients are students.
+^ you are interested in seeking such help through insight-oriented, confi­
+dential psychotherapy on a sliding fee scale, call 661-2300 and ask for Mrs. 
+pown. Qualified therapists will be available to speak with you. We are only 2 
+| les ^rorn Oakland, an easy bus ride. Insurance coverage can often be utilized.
+%
+The Pittsburgh Psychoanalytic Center
+211 N. Whitfield St, Pittsburgh, Pa. 15206 
+A private clinic in the public service
+By BILL WRBICAN
+Special to The Tartan
+This Sunday marks the return of local 
+favorites Carsickness and The Bats to CMU.
+The members of Carsickness, one of Pitt­
+sburgh’s most popular local bands, are 
+celebrating their fifth aniversary together, as 
+they formed in 1980. The band has receiv­
+ed favorable reviews in music magazines and 
+has played to enthusiastic crowds in New 
+York and Toronto.
+Carsickness draws from jazz and folk in­
+fluences as well as from rock and roll to form 
+a sound uniquely its own. Carsickness has 
+recorded two albums and three singles, and
+Contest
+National College Poetry Contest
+International Publications is sponsor­
+ing a national college poetry contest 
+open to all college and university 
+students wishing to have their poetry 
+anthologized. Cash prizes will go to the 
+top five poems. All accepted 
+manuscripts will be printed free of 
+charge in a bound and copyrighted 
+anthology. Deadline for submission is 
+March 31.
+CONTEST RULES AND 
+RESTRICTIONS:
+1. Any student is eligible to submit his 
+or
+her verse.
+2. All entries must be original and 
+unpublished.
+3. All entries must be typed, double- 
+spaced, on one side of the page only. 
+Each poem must be on a separate 
+sheet and must bear, in the upper left- 
+hand corner, the NAME and AD­
+DRESS of the student as well as the 
+COLLEGE attended. Put name and 
+address on envelope also!
+has prepared a five song EP for release in 
+the near future.
+The Bats are a newer band which form­
+ed in the Spring of 1984. They play excellent 
+straightforward rock and roll with garage 
+and punk influences.
+Both Carsickness and The Bats draw 
+many requests on WRCT. If you have never 
+been able to see these bands, now is your 
+chance .
+Carsickness and The Bats appear this Sun­
+day in the Skibo Wherrett room at 1:00 p. m. 
+as a service to the campus community. The 
+concert is sponsored by WRCT with the 
+assistance of the Activities Board Technical 
+staff
+4. There are no restrictions on form 
+or theme. Length of poems up to four­
+teen lines. Each poem must have a 
+separate title. (Avoid “Untitled”!) 
+Small black and white illustrations 
+welcome.
+5. The judges’ decision will be final. 
+No info by phone!
+6. Entrants should keep a copy of all 
+entries as they cannot be returned. 
+Prize winners and all authors award­
+ed free publication will be notified im­
+mediately after deadline. I.P. will re­
+tain first publication rights for ac­
+cepted poems. Foreign language 
+poems welcome.
+7. There is an initial one dollar 
+registration fee for the first entry and 
+a fee of fifty cents for each addtitional 
+poem. It is requested to submit no 
+more than ten poems per entrant.
+8. All entries must be postmarked not 
+later than the above deadline and fees 
+be paid cash, check or money order, 
+to:
+INTERNATIONAL 
+PUBLICATIONS 
+P.O. Box 44044-L 
+Los Angeles, CA 90044
+—Win Someone’s Heart—on February 14.
+Give Flowers on Valentine’s Day
+It’s a wonderful way to show your love...and win some in return
+TRUE LOVE floss'A loveable
+plush Lovey Bear Only
+holding a magnificent $12’9 
+rose in a hand blown 
+glass bud vase
+Get Double the Love...
+Two roses in a double stem hand-blown 
+glass bud vase mg. - -
+Only I "OVtCft
+$1799 I B*SKtT Brti—* 
+V r^\ roj^QLl
+reS
+Y_0FT
+tin''*LOCAL 'DELIVERY AVALIABLE
+¿.Fr °m(Ï99îALL MAJOR CREDIT CARDS ACCEPTED
+“WE MAKE FLOWERS AFFORDABLE’'SHACKELFORD’S & MAXWELL’S
+Quality Florists Since 1901 FLOWERS
+WUkHMburg. ; PttquM Im
+7314)457 »Monn* Ptaza. 373-IMO *fann Hüte Shopping Cantor. 241-3775----------- “ ------ * Mr. 2712500. 323-0392rtquM litr Shopping Cantor. 327-5099 •Braddocfc HM* Shopping dve pt Franc» HoapMai. 601-1110 -Oakland. 601 7962 «Magh.ny Cantar MonrooviNo MaN. 856-6170 *Graangata Mai. 036-0325 lIbee Squara. 054-4200 KAUFMANNS • Downtown Mtatourgh. 232 »41
+Happy Valentine's Day!
+
+---------------------------------------------------
+
+Wh«n You r* Onto 
+A Good Thing, 
+Stick With HMCAPRI PIZZA
+Where Today... 
+Tcmcrrov...
+AND EVERY DAY. .
+yU, iPbabMP uPVb nMmmF hR pF-dFR. ob aEP uPVb nIMDPk
+oooooooœooooooooooooooœooooooooooooæooooooooooooooooocxxDOOOO
+0
+0
+0
+0
+0
+0
+0
+0
+?A/so For Your Night Life Pleasure*
+FORCES STUDIOSo Jhwep whsLpS
+•Open Tuesday - Sunday 9 p.m. to 2 a.m.«
+ooœooooooooooœœoœœoootro^
+Hv$1 TpfLes oJe7 ni97 no7 $1—$H n9pge *Z$5——t—
+LARGE 
+'0 CUT PIZZA including=^*2 LITERS OF PEPSI,$2.99+EAT-IN or DELIVERED!!*
+No one ever starts without us.Materials Scient
+CIT Freshman Open Houseorientation, lab tours, and 
+demonstrations
+Refreshments will be served
+Thursday, February 14, 1985 
+Wean Hall 4327 
+4:30-6:30 pm
+
+---------------------------------------------------
+
+MJ^Jg^s^Jutuf^as season's end is n»ar
+f~ e* TartanS OUtof coherence championship picturevmphasu”mNp C- YNMha
+, sports Editor
+lother winter sports season is coming toI
+ id, and another Tartan mens basket- team is going to finish with a losing
+1.
+U dropped two games this week, to 
+? leaders W&J and Hiram. After star­
+ve PAC season with a 4-2 record, the 
+ins have now lost three straight and are 
+•rail with three games to play.
+ch has not had a winning season since 
+978-79 campaign, finishing 11-9. CMU 
+|ed at 11-11 in both 1979-80 and ’SO^l. 
+: 28 years of the PAC, the Tartans have 
+|he conference just once, in 1977 when 
+Dave Maloney led the Tartans to a 
+lecord.
+I there hope for CMU basketball? 
+[ps. A young team will improve, and 
+a young team. Head Coach Larry 
+has been a head coach for just two 
+| and will no doubt improve as a game-
+this season was to be expected, 
+from last year’s team were leading 
+Greg Gabriel, starting guard Ray 
+ian, starting forward Rob Kukowski, 
+;serves Herb Sendek and Tom Suckl- 
+the season, Scott Saxton, Jay 
+and Dave Gestrich left. With that
+_______J *
+Anderson had a very good recruiting year, 
+getting freshmen Hart Coleman, Michael 
+Stewart, and Tom Franklin, and unknown 
+commodity David Smith. More years like 
+this, and this will be a championship team. 
+Anderson works hard at recruitment, recent­
+ly travelling to a local high school to court 
+a prospect.
+This year had hope and disappointment, 
+but does not yet have an end. CMU needs 
+to win at least two of three to finish strong. 
+A record of 9-13 and 7-5 in conference 
+be a solid season after the loss of players and 
+the inexperience of the team. Even the 
+seniors John Taormina and Dwayne Waite 
+have played two full varsity seasons.
+It was a tough week on the road for CMU. 
+At W&J (15-4, 8-1) Wednesday night, the 
+Tech five took on the team that is clearly the 
+class of the conference. The Tartans trailed 
+by just three points at halftime, but lost 
+71-59. W&J’s leading scorer Tony Torchia 
+erupted for 16 second half points and finish­
+ed with a game high 22 points. John Achille 
+hurt the Tartans with 14 points, mostly from 
+the 20-25 foot range.
+Michael Stewart hit for 17 points in the 
+game to lead CMU
+Hiram defeated the Tartans Saturday 
+night, 79-66, avenging an earlier loss to 
+CMU. Rod Swartz had 30 points for the Ter­
+riers, and brother Russ had 18. CMU was 
+led by David Bart with 13 points. Hart Col­
+eman and Dwayne Waite had 10 apiece, and 
+John Taormina scored nine points and pull­
+ed down six rebounds.
+CMU takes on John Carroll (6-13, 5-4) at 
+home tomorrow night at 8 p.m. Radio 
+’ • “ -1'’ 88.3
+John Taormina goes up and over Jay Peters (35) for a layup.
+photo by Bob Fishel
+PAC Standings
+PACWLPCTGBOVERALLWLPCTGBW&J81.888—W&J154.789
+Hiram54.5553Hiram712.3688JCU54.5553Bethany612.3338Y2CMU45.4444Grove City612.3338y2Bethany35.37541/2Thiel612.333SV2Grove City35.37541/2JCU613.3159Thiel26.25051/2CMU613.3159
+This Week’s Games 
+Grove City 70 Bethany 66 
+W&J 71 CMU 59 
+John Carroll 76 Hiram 70 
+Mt. Union 94 Thiel 91 (2 O.T.) 
+Hiram 79 CMU 66 
+John Carroll 67 Bethany 62 
+W&J 81 Thiel 61
+\wun toll) will surely be an integral part of the future of the Tartans.
+ader emerges in IM's
+RISTOPHER D. LEWIS
+Editor
+stands atop the intramural basket- 
+§ues with the only undefeated ma­
+le record at 6-0. The “Wolfpack” got 
+xth win defeating Pika by seven 
+^ndy James led the scoring with 22
+games and keeping referee 
+The only way to keep the IM 
+working is to keep the games-d.
+after]noon will be the intramural
+äment. The finals begin at
+11:15 am in Thistle Hall. The tourney is open 
+to the public. There is no price for admis­
+sion. Defending champions should include 
+heavyweight Marc Muster and 155-lb. 
+champ Reid Sclafani.
+FINAL ROSTER CALLS: February 12; 
+Handball (commissioner E.J. Birdy, x2214), 
+pinochle (Vic Boland, 682-9412), water 
+basketball. February 21; Individual Chess, 
+(Ed Klehr, 681-4313), Call Pool —Individual, 
+Co-Rec Table Tennis-
+DUE TODAY, FEBRUARY 7: Call Pool- 
+Team (Rob Fleischman, 687-1465), table 
+tennis.
+Miphoto by
+CMU fencers were very successful Saturday, defeating Cal St. and Allegheny before 
+losing to Division I Cleveland State. Full coverage of this meet plus the Intercollegiate 
+Tourney fought Sunday in next week's Tartan.
+
+---------------------------------------------------
+
+Page 20—The Tartan—February 12, 1985
+Val Sooky throws a bounce pass .versus Bethany.
+The Naval Air Development Center located in Bucks County, Pennsylvania, near Philadel­phia, is the Navy’s principal R&D center for naval aircraft systems with emphasis on Anti- Submarine Warfare and Tactical Air Warfare.
+Career opportunities featuring challenging work assignments, technical independence, and responsibility exist for entry level scientists and engineers to develop advanced products in the following areas:
+• Software and Hardware Systems
+• Radar, Acoustic, Magnetic and 
+Optical Sensors
+• Communications and Data Networks 
+Systems
+• Aircraft and Ship Navigation 
+Systems
+• Aircraft Materials and Structures 
+Campus Interviews scheduled for
+FEBRUARY 27th
+Contact Your Career Placement Office For An Interview
+For information call (collect) (215) 441-2483 or send a resume and transcript to:
+NAVAL AIR DEVELOPMENT CENTER Civilian Personnel Office (Code 033) 
+Warminster, PA 18974-5000
+U.S. CWnnth^ Hiqiriwd — An Equal Opportunity Employer
+Women get first conference win against Bethany, 66-63
+photo by Edward Un
+By DON EGGERT
+Tartan Staffwriter
+With the support of a relatively large 
+crowd and a loud contingent of the Kiltie 
+Pep Band, the CMU women’s basketball 
+team relied on some of its best play of the 
+season to defeat the Bethany Lady Bisons, 
+66-63.
+According to Coach Gerri Seidl, the 
+Tartans performance was “the best, most 
+consistent game the team has played this 
+season. Also, the atmosphere of the large 
+crowd and the band helped everyone’s play.’
+Spectators cheering for CMU finally got 
+something to cheer about, as the Tartan 
+women fought for an early lead and main­
+tained control over a struggling Bethany 
+team throughout most of the game. The 
+Tartans were led by senior forward Michelle 
+Schlegel, who collected a game-high 23 
+points while snatching 10 rebounds, and 
+freshman Monica Zalevsky who contributed 
+16 points, a game-high 13 rebounds, and two 
+steals to the winning effort.
+Seidl pointed to Schlegel’s key perfor­
+mance, stating, “Michelle didn’t play the in­
+side game last year, but she had a nice game 
+inside. She’s come a long way.” Looking at 
+Zalevsky’s play, Seidl added, “If she can con­
+tinue to do that consistently, she will be a 
+big help in the (PAC) tournament.”
+Senior forward Laurie Arendas had the 
+other hot scoring hand, with 13 points and 
+12 rebounds. Teammates Nancy Dilulio, 
+Cheryl Hauser, and Val Sooky added impor­
+tant support from the floor.
+Dilulio, who averages 10 points per 
+only hit two of 13 field goal attempts | 
+made up for the poor shooting with< 
+bounds, four assists, and two steals. In 
+dition, she played the entire second half* 
+four personal fouls, barely avoiding f0u 
+out early. Meanwhile, sophomore Chd 
+Hauser provided solid defense 
+sophomore Val Sooky snared eight reborn 
+with two assists. Seidl noted Sooky s play s 
+ing “Val has stepped in and done a nice» 
+starting the last four games,”
+In spite of the good performances 
+Tartan victory came at the free throw 1 
+The women shot at a .783 clip, hitting! 
+of 23 from the charity stripe. Bethanyj 
+up nine points at the line, hitting only i 
+of 15. Going into the game the Tartans \ 
+averaging a meager .527 freethrow per«
+tage, a mark they easily surpassed.
+Although Bethany outshot the Tai 
+from the field 27-24, the Tartan 
+showed much improvement. Seidl ren 
+ed, “Defensively, the man-to-man is wh 
+looked for all year,”
+The women’s victory didn’t come witl 
+a scare, though. Up by a point, 64-63,i 
+just over a minute left, the Tartans i 
+fighting to stay ahead when Arendas fot 
+out of the game. The ball changed 1 
+several times, most notably on a key steal 
+Tartan freshman Joy Braxton, andthej 
+tans were able to pressure the victory. I 
+The defeat of Bethany was the first tj 
+ference victory for the Tartans, andt 
+third overall. The women hope to duplJ 
+their victory before a large crowd in their j 
+home game, a non-conference battle: 
+Butler Community College. Wednes 
+night at 6:00 p.m.
+Student Special
+ZENITH Z-150
+WITH
+FREE Amber or Green Monitor
+>1895
+(REGULAR $2895)
+te
+* Fully IBM Compatable
+* 320K RAM
+* Two (2) 360K Disk Drives
+* Parallel And Serial Ports
+* High Reso lution Color And Monochrome Card
+* MS-DOS J. ll.Multiplan And Word '
+* Four IBM Expansion Slots
+152 3869¦1W oor.s ¦i tPOS2THE NA*®*0"
+Computer „ Spirt a
+Parkway Center Mall
+Pittsburgh, PA 15220
+(412) 921-3211 
+Mon. - Sat 10:00 - 9 00
+l6 > ecom°uncu< *-7c7n-7A cBc-CcF
+
+---------------------------------------------------
+
+ome one! Come all! to the 
+re-Grand Opening 
+lie CAMPUS PUB
+n theighlander 
+oom
+riday, February 15th at 4:00 pm ree food and drink
+on’t
+I
+SKI CLUB 
+MEETING
+TUESDAY, 2/12 
+(TONIGHT) 
+Room 39
+Skibo 
+8:30 
+pm 
+for
+s0h afhn ap uNCe 0gpuW no
+$16 Lift 
+$9 Rental
+FREE BUS*
+eJefcpgehgJhaewk
+Itine
+Where highly 
+talented grads pursue 
+high tech careers
+You've gotten a good education. Now begin a great career with 
+Hazeltine Corporation. We are one of the foremost leaders in the 
+electronics industry. Our achievements in electronic systems and 
+software development, signal and information processing, 
+microwave and radio communications, VLSI and microelectronic 
+design and antenna research have earned us a reputation for 
+innovation and excellence. For example, the FAA has awarded 
+Hazeltine a contract for the design, production and installation of 
+the Microwave Landing System, making us the world's leading 
+supplier of MLS equipment.
+Since vital new ideas are our trademark, we value vour 
+knowledge. Hazeltine Research Laboratories in suburban Long 
+Island, New York is seeking qualified and motivated MS and Ph.D. 
+candidates in Electrical Engineering or other related disciplines 
+Assignments will be in systems analysis and digital signal 
+processing. Selected candidates will work closely with senior staff 
+members to apply advanced adaptive antenna processing 
+technology to a wide range of government applications The 
+ideal candidates should possess a combination of analytical 
+and hardware skills, particularly VLSI forms of digital processing 
+with concurrent or systolic-like architectures
+If you fit this description, you'll find challenging projects and 
+outstanding career opportunities at Hazeltine
+Come talk with our college recruiting representatives on campus
+Wednesday, March 6
+If you're unable to ge ogether with us on campus, send your 
+resume to: Ms. Doreen Cassidy, College Relations Director, and 
+tell her of your specific area of interest. Details on the diverse 
+opportunities at Hazeltine are available in your school's 
+placement office
+© HazeltineCorporation
+Greenlawn, L.I., NY 11740
+An Equal Opportunity Employer Committed to Affirmative Action 
+A Hazeltine Corporate Policy.
+U.S. Citizenship Required
+
+---------------------------------------------------
+
+Page 22—The Tartan—February 12, 1985
+By CHRISTOPHER D. LEWIS
+Tartan Sports Editor
+and NEIL J. GREENBLUM
+Tartan Contributing Editor
+As the winter gets icier, the hockey Tar­
+tans grow colder. The CMU skaters dropped 
+two games to Western Pennsylvania Inter­
+collegiate Hockey Association (WPICHA) 
+rivals this past weekend.
+HOCKEY
+The hockey club travelled to Erie Friday 
+night to take on the Gannon University 
+Golden Knights (13-2). Gannon got off to a 
+quick 2-0 lead en route to a 5-1 victory.
+The Tartans skated slowly in the first 
+period after a three-hour bus ride to the 
+Glenwood Ice Arena. Goaltender Bob 
+Kosakowski was not in the game early, and 
+three goals were past him before CMU 
+warmed up.
+It became a dirty, chippy game, a 
+becoming traditional for the Gannon team. 
+They are known to take advantage of a 
+pitiful corps of referees in college clu 
+hockey. CMU captain Tim Kenny re-injured 
+his knee twice in the game, once on a slash 
+and another on an obvious penalty that was 
+not called. The latter may put Kenny, CMU s 
+best defenseman, on the bench for the re­
+mainder of the season.
+Caleb Corkery scored the only goal for the 
+Tartans. Defenseman Dan Holdnack had 
+two goals for Gannon. Harry West, Jack 
+Schumacher and Sean Carroll also scored for 
+the Golden Knights.
+CMU has been hurt badly by injuries. 
+Several of the skaters against Gannon were 
+one-time substitutes, as John Barrett and 
+Steve DesRochers were just two of the in­
+jured. Martin Gorman, although he played 
+versus Gannon, was hobbled by an injured 
+knee.
+Sunday afternoon brought more hardship 
+to the Tartans, as the 13-1 Duquesne Dukes, 
+the leader in the Greater Pitt Conference,
+photo by Dewey
+There was always a lot of action in front of the net against Gannon.
+scored with just over three minutes to play 
+to defeat the Tartans 3-2.
+Tech played one of their best games of
+AM he needed was a fucky break 
+Then one day she moved in.
+GOBER PETERS COMPANY PRODUCTION II HAROLD BECKER FILM “VISION QUEST 
+MATTHEW MODI • LINDA PIORENTINO • MICHAEL SCHOEFELING 
+featuring MA$)WltA performing her new bit song 'GAMBLER' 
+Director of Photography OWEN ROIZMAN, A.S.C. 
+Music Score Composed and Performed by TANGERINE OREAM 
+Executive Prodacers STAN WESTON and ADAM FIELDS 
+Based on a novel by TERRY DAVIS Screenplay by DARRYL PDNICSAN 
+Produced by JON TOS and PETER GU8ER Directed by HAROLD BECKER
+rjmim mm » wm mm m ¡a®!m 'w mm m
+EHomE-n1UR -«¿¿r A* ' »CCOWPM* H6fur «>» «auk*
+OPENS FRIDAY, FEBRUARY 15th AT A THEATRE NEAR YOU.
+their season, but were just outmanned by tl 
+Dukes, and were worn down by the 
+period. The Tartans had just twelve skata 
+Ted Dawson, Paul Russo and Sean McGii 
+were the only defensemen.
+Eric Spray and Corkery had the goals) 
+CMU. Corkery played well all weekend, w 
+ning WRCT player of the game honors 
+Friday night. McGinn took the m 
+Sunday.
+The Tartans are now 6-7-1 on the ve: 
+battling with West Virginia for third pli 
+in the conference, behind Duquesne ai 
+Pitt. The next game is Saturday 
+Penn State.
+cœ
+These are just some of the sports 
+here at CMU. If you are interested 
+in joining the sports staff of The 
+Tartan, or just interested in im­
+proving sports coverage, come to 
+a meeting with the Tartan sports 
+staff and members of the CM 
+sporting community, Thursday, 
+February 14, at 3:30 in W 
+Women's Gym.
+The Tartan. The effort is be- 
+ing made to bring you * 
+best sports coverage CM ] 
+has ever seen.
+GOLF
+La ©rosse
+FENC/NG
+Long bus trip hurts Ice 
+Tartans in Gannon loss
+
+---------------------------------------------------
+
+February 12, 1985-The Tartan-Page 23
+The Number Sheet
+IM Standings 
+Majors
+CMU Men’s Basketball Stats
+(in” im »75K To Start 
+Mission II 
+eta
+ream Team
+DI
+UPA
+Intermediate
+m “A”
+GSIA) White Knight 
+heta Xi-B 
+teel City Cafe 
+:lta Alpha Lambdat
+usarchs 
+TO Hogs
+lestined Truculents
+m “B” 
+ath Grads 
+rdans Angels 
+TO Pledges 
+ecret Squirrels 
+andlelight Lounge 
+eta’s Wooglin 5 
+SIA) The Technique 
+DP
+m “C” 
+rewers
+he Old Men
+U-A
+omb Squad 
+harlie the Jew 
+ggmen
+TO Unlisted 
+ase
+“D” 
+ywalkers 
+enerates 
+at. Significant 
+uming Machine 
+'a-B
+i Kappa Theta 
+oon Unit Normal 
+TO Tide
+“E” 
+he Doctors 
+ta’s “Das Boot” 
+aliers 
+etal-Orgy 
+A
+aPPa Sigma-A 
+ver 200 Lbs.
+I Bio 
+“p>
+Id Millworkers 
+e Franchise 
+netrators 
+eta-Xi 
+eysa
+othership
+Minors
+na (S)
+,ster Highmen 
+*am
+d Row
+Leatherette
+E-C
+U.N.
+n Without Talent 
+fits
+N6i2£¦ IGM fGAELTITMUAEd, SJMQ.PF-n A no RT K ST TP
+Won-LostGeorett Debàki1744111396183ft.fiftftfi5/3.844-110?7110106fi.2
+6-0Dv>aA 11« V« a i ' c174199.414112*_44ftlftfi/fi.247-41191ft1293
+3-1Hart l.olemjii177?1774ft729fi24fi8149/8.848-ft24ft311.31731ft.2
+3-1Rubo ! Rrown13?4ftft43fi1723.73924/1.835-4223.3ft12fiftft.ft
+2-2Muhad "su • rt1747lift3fi212lfi7f»ft27/1. fi28-ft3243ft9Iftfifi 2
+2-4lohn li or min .i179?186.4957ft9fi7298ft/*.ft42-13ftfift31725414.9
+1-3David Bau1630654fi29IR5ftft37/2.320-02922ft17694.3
+0-6Richard Neff175?119.43729ftft.58ft80/4.737-ft133131ft1.337.8
+lem. < k';164lfi2ftft1423fift928/1.831-ftft42211ft221.4
+Won-LostMese Iudir.au113.333ftftftftft2/2.ft1-ft12ftft?2.ft
+4-1Da', i;i -v :*Ìi10ft.ftftft(1ft.ftftft2/2.ftft-ftftftftftftft ft
+3-1john 3n ndi'!?00.ftftftft1ftftft2/1. ft3-ftft1ft1ftft.ft
+2-1Lui.t: Demo101.ftftft221 ftftft1/1.ftft-ftft2ftft?2.ft
+3-3114,250o1000ft/ftft-ftoooo22.0
+1-4
+0-3CMU
+OPP.
+17
+17
+419
+486
+988
+1033
+.424
+.470
+213
+242
+352
+360
+.605
+.672
+704/41.4
+669/39.4
+351-10
+341-10
+200
+209
+304
+254
+49
+29
+117
+145
+1051
+1214
+61.8
+71.4
+PPG
+Won-Lost
+3-0
+1-0
+2-1
+2-1
+2-3
+1-3
+0-3
+Won-Lost
+5-0
+2-0 
+2-1 
+2-1 
+2-2
+1-3 
+0-3
+0-4
+Won-Lost
+5-0
+3-0
+3-0
+1-1 
+1-2
+1-3 
+0-3
+0-5
+Won-Lost
+4-0 
+4-1
+3-1
+2-1
+1-2
+1-3 
+0-3
+0-4
+Won-Lost
+4-1
+3-1
+3-2
+2-3 
+2-2 
+2-2
+1-3
+0-5
+Won-Lost
+2-0
+3-1 
+2-1 
+3-2 
+2-2
+1-4 
+0-3
+Won-Lost
+4-0
+3-0
+2-1
+1-2
+1-3
+0-1
+0-2
+0-2
+Patera (P)
+1. Hampshire Hall
+2. I Tappa Kegga
+3. Kappa Sig-H
+4. DU-B
+5. Rimmers
+6. VLS Intellectuals
+7. Scobell
+8. Boss-Doherty
+Won-Lost.
+4-0
+3-0
+3-1
+1-1
+1-2
+1-3
+0-3
+0-3
+Valentine (V)
+1. Fletchers
+2. History Grads
+3. Jamalots
+4. DTD
+5. Dudes
+6. AF ROTC 1
+7. Bloody Tourists
+8. 11,23 D
+Won-Lost
+3-0
+3-1
+2-1
+1-1
+1-2
+1-2
+0-2
+0-2
+Muraco (M)
+1. Mungmen
+2. ZOO
+3. ACO
+4. Dynamic Rams
+5. Inner Party
+6. AF ROTC 2
+7. Lost Cause
+8. Future Prof.
+Won-Lost
+2-0
+3-1
+2-1
+1-1
+1-2
+1-2
+1-3
+1-2lY SENTRYSENTRY Y SENTRY SENTRY YSENTRYSENTR
+Raising the standard 
+in ATE careers
+Automatic Test Equipment (ATE) is one of the fastest growing industries in 
+high technology. In terms of dollars invested, people hired and energy 
+spent, no company has done more to raise the worldwide standard for 
+high-performance ATE than Sentry Digital Test Systems.
+Sentry is the name that semiconductor test experts identify with the top of 
+the line in Automatic Test Equipment for LSI and VLSI — and have for the 
+past decade. So when we decided to change our company name, the 
+choice was obvious. Fairchild Digital Test Systems is now Sentry Digital 
+Test Systems. We’re proud to invite you to join Sentry — a name already 
+well known.
+Graduates with a BS or MS in Electrical Engineering or Computer Science 
+will find exceptional career opportunities with Sentry Digital Test Systems 
+in the following areas:
+• Design Engineering • Manufacturing
+• Test Engineering • Production Control
+• Reliability Engineering • Purchasing
+• Software Engineering
+tR5LFBG,V hRbPIOMPwV
+Wednesday February 20
+Let us show you how raising the standard in ATE technology can raise the 
+standard for your career. Contact your Placement Office, or send your 
+resume directly to Greg Young, University Relations Manager, Sentry 
+Digital Test Systems, 1725 Technology Drive, San Jose, CA 95115. An
+equal opportunity employer.
+SENTRY
+Schlumberger
+Digital Test Systems
+
+---------------------------------------------------
+
+Editorial.Peop/Excess
+Last year it was Electrical Engineering. This year it’s Math. 
+Here we go again.
+It seems that, like so many major airlines, the administra­
+tion has “overbooked” the spaces it has available this time 
+for freshmen in the Math Department. CMU is not nearly 
+as well equipped as an airline to handle an overload of peo­
+ple, and CMU’s “flight” is one which many students can’t af­
+ford to miss.
+When an airline finds it has too many passengers, the first 
+tactic it tries in order to make its quota is to ask those already 
+seated on the plane to debark voluntarily, usually at the in­
+centive of $100 or so in cash. If enough people do not leave 
+the plane, the airline will then raise its offer, either in cash 
+or in free tickets to anywhere the airline flies. Finally, it opens 
+up to the waiting passengers, admits to them that there are 
+not enough seats, and attempts with very generous offers, to 
+influence enough passengers to take a later flight. The airline 
+also assists “bumped” pasengers in finding the next available 
+flight -even if it requires placing those passengers on a com­
+peting airline. Whatever the solutions, the airline is bound 
+by law to honor the agreement purchased from them by the 
+passenger in the form of a ticket.
+The airline industry has found ways to deal with its seating 
+problems successfully, at least most of the time. CMU, 
+however, continually has difficulty dealing with an overabun­
+dance of students requesting entrance into particular 
+departments.
+The University knowingly overbooks the spaces it has 
+available for entering freshmen, which is understandable. 
+Many students change their minds, and if the University were 
+only to accept the exact number which it needed, it would 
+find itself short of students every year. The University also 
+assumes the existence of a “fudge factor”— the unpredictable 
+number of students who will drop out of a program or transfer 
+to a different department. It estimates this factor every year, 
+and accepts students into each school on that basis.
+But the University doesn’t take such precautions voithin the 
+schools. Last year, the overacceptance problem occurred in 
+the Electrical and Computer Engineering (ECE) Department 
+of CIT. More than 225 students vied for 125 positions in ECE 
+at first; when it seemed that there would still be too many 
+students and enough spaces, CIT notified its students of the 
+impending predicament, and asked for volunteers to explore 
+other fields of study. The school also offered to raise the 
+number of students to be accepted into ECE to approximately 
+175; however, the freshmen were warned that it would be 
+necessary to hire part-time teaching staff, and that the high 
+student load would lower the quality of teaching. Further­
+more, students were told that if an overload still existed after 
+all the Department’s efforts, the ECE would “weed out” 
+students: either the Department would accept only those with 
+a QJPA above 3.2, or it would accept all those above 3.6 with 
+the remaining spaces filled by lottery. Many students have 
+left the Department, and even CIT, since then. However, an 
+overload still exists in the ECE program.
+Now the Math Department faces a similar situation. Ac­
+cording to Robert Kail, Associate Dean of CIT/MCS, there 
+is indeed an overload of students intending to declare a ma­
+jor in Math this semester. He notes, though, that the students 
+have been duly notified of the problem, and have known 
+about it for some time.
+We can understand the plight of the University in dealing 
+with “overbooking.” However, we cannot condone the way 
+in which CMU “changes the rules in the middle of the game.”
+“Weeding” and lotteries are unacceptable methods for trim­
+ming a department’s size. Many students make a large sacrifice 
+in deciding to attend a particular university, especially an 
+expensive private school like CMU. Once they have made the 
+commitment to come here, they deserve a reciprocal com­
+mitment to provide them the best possible education. No one 
+expects to be thrown off the plane in the middle of the flight.
+We do not profess to know the solution to this overcrowding 
+problem. At the same time, though, we feel the administra­
+tion must find better ways to bear the responsibility of 
+educating those students which it has accepted for attendance.
+We hope that the administration and/or the Math Depart­
+ment will be able to deal with this situation in a fairer, more 
+acceptable manner, consulting students if possible; at the very 
+least, they should explain their actions to us. After all, it is 
+they who are better qualified to make such decisions, and 
+who have the information and resources available to imple­
+ment them. CMU Airways should be able to fulfill the needs 
+of each of its passengers.
+vI;X;Xv>X;X*X«Xv.-%.l^^^^^
+illl!
+mm®
+lliiii:
+¡mi
+<<•>>>>§«•!
+V"
+»
+M.SoSSMAM
+“Ladies and Gentlemen, I’m afraid we’re still too loaded down, 
+is there anyone else who wouldn’t mind...”
+Mutilated books not onlyi - m _ m iviuuiaicu uuu/\z> nuiLGTTGlS. complaint at library
+Editor:
+It’s not everyday when one ar­
+rives at his scheduled work-study 
+job, is suddenly pulled into a 
+private room by his employer, and 
+told, “Were not allowed to let you 
+work here anymore.”
+I had been hired for a position 
+in the Music Library in December 
+and returned to campus early to 
+arrange scheduling for the Spring 
+semester. My employer seemed 
+pleased with my background and 
+anticipated my work in the 
+recently vacated position of 
+equipment maintenance. I had 
+just begun my job when the above 
+incident took place.
+So what had happened? The 
+librarian mentioned a black mark 
+on my “personnel record” from 
+when I worked in E&S, and ask­
+ed if I knew what it was. I did.
+I spent three semesters of 
+drudgery there, pasting labels 
+and shelving books at minimum 
+wage. But was it not common 
+policy for a wage increase after a 
+year’s work? Yes, but only if one 
+began the job in September, I was 
+told. I began in January, so I 
+wasn’t entitled to more pay until 
+September. I tried to rectify this 
+library policy, as my low pay 
+didn’t seem justified. However, 
+everyone said “rules are rules” 
+and took no interest in modifying 
+them.
+At one point my persistence ap­
+peared to have materialized when 
+I got an appointment with Presi­
+dent Cyert. He seemed to take a 
+genuine interest, promised that 
+the policy would be revised, and 
+even offered to pay me the dif­
+ference in salary straight from his 
+wallet. Then he hesitated, and 
+decided it would be better if I 
+received the discrepancy through 
+more offical channels, yet assured 
+me I’d get it. I didn’t.
+The policy was revised, though 
+after I had left the country. Two 
+years later, Thomas Michalak, 
+Director of the Libraries, was the 
+last to forget.
+It was he with whom I had 
+spoken about my “dismissal” from 
+my post at the Music Library. 
+Yes, he remembered my name 
+well but insisted that my removal 
+from this new job had nothing to 
+do with the disturbance I caused 
+two years ago, although he 
+remarked in rather unflattering 
+language that the administration 
+had no business meddling in the 
+Libraries’ affairs. He claimed 
+that I could not be hired (even 
+though I already hacf been) bas­
+ed on my performance at the E&S 
+Library.
+I admit that my heart wasn’t 
+completely “in the work” of 
+tediously pushing book carts 
+around. But my employer never
+expressed dissatisfaction witl 
+work and did keep me for t 
+semesters. After I was told 
+Michalak that my evaluation] 
+unsatisfactory, my fori 
+employer said he had 
+satisfied, but not impressed,] 
+my work. Paraphrasing, “It 
+ly give outstanding evaluati 
+but I suppose Mr. Michalakii 
+prets them more strictly I 
+do.”
+Mr. Michalak suggestedtl 
+had not indicated enough i 
+sibility in my past perform* 
+be able to handle a job inj 
+. library. And being a dispatj 
+at Campus Police doesn’t i 
+responsibility?
+I find it disturbing that s 
+course of events has been atn 
+occur, and that nobodyj 
+Warner Hall could do 
+about it. “We still havejoM 
+in food service” wasn’t what II 
+in mind. I had a job thatroj 
+to my studies, and it 
+taken from me only ^ 
+organized my schedule aro»
+I guess I shouldn’t exP 
+paycheck for the several 
+¦had already worked theree 
+Nor her t Set 
+Math/Mu
+15-111 in the old days
+Editor:
+Answering Dan Tobias’ column 
+. . . Dan, I sympathize with your 
+complaints, but you should count 
+your blessings. I remember in 
+1980, before the EDUs existed, 
+what it was like to take 15-111. 
+Back then, we used the TOPS 
+systems, in fact one TOPS system, 
+which was frequently overloaded, 
+slow, and prone to crashing. For
+an editor, we were taught EDIT 
+(!), if you can believe it. Anyone 
+wanting to use EMACS had to 
+learn it herself. Few did. The 
+masteries were held in the Cave. 
+Our lecturers were foreign grad 
+students with poor English. I tell 
+you, it was no fun. I am familiar 
+with both ALOE and EMACS 
+and found ALOE quite usable, 
+even convenient for programm­
+ing. I suppose students 
+have a choice, but many ^ 
+don’t know either editor, 
+my experience the big8*fi 
+ing block to learning 1, . VnuC^l syntactic problems. * m
+agine the wasted ^°urS5^|
+ing to get a program t0 j
+when ALOE would hav
+the error immedia^
+Miller’s policies may he ^
+ever, but the equipment * 
+U1
+m
+
+---------------------------------------------------
+
+February 12, 1985—The Tartan—Page 25
+Or© Letters: On frothing deathmongers" and "defense research
+A/
+w0uld like to respond to two 
+cles if I may.
+.ebuttal No. 1: The January 
+Tartan contained an opinion 
+e article entitled “Behold the 
+” Hoping to become better in- 
+ed on issues surrounding the 
+I read it. The article, I am 
+id, did not do its title justice, 
+author opened with the ques­
+ts CMU turning into a war 
+re?” The rhyme compensates 
+bsence of meter but the ques- 
+is provacative only in that 
+wonders what a war whore 
+¡Id possibly be.
+he author proceeded to 
+er his question, in a manner 
+Ipeaking, by constructing a 
+|aic framework for a collection 
+absurd metaphors and
+misnomers (inserted paren­
+thetically) in which the SEI is 
+described as a software “Ar­
+mageddon,” its prospective pro­
+jects are “sleek new death 
+machines to be used on random 
+populations in selected Third 
+•World countries,” and conser­
+vative supporters of the SEI are 
+labeled, “frothing deathmongers 
+of the political right.”
+What was the point of the ar­
+ticle? Does the author advocate 
+disbandment of the military? A 
+halt to weapons production? Or 
+does he acknowledge the necessi­
+ty of a military establishment and 
+seek only to prevent CMU from 
+dirtying its hands in the business? 
+Perhaps he was just blowing off 
+steam. If his intent was to inform 
+or persuade, he failed.
+The Tartan is not a tabloid. It 
+is a university newspaper with an 
+educated readership. Such sensa­
+tionalism and ballyhoo are inap­
+propriate for its pages. I would 
+welcome rational, informative ar­
+ticles on the SEI in future issues.
+Rebuttal No. 2: This is in 
+response to last week’s letter to the 
+editor in which a group of masters 
+candidates protested a recruiting 
+ad by a weapons manufacturer 
+which had run in a previous issue 
+of The Tartan. Before launching 
+into my rebuttal, let me com­
+mend the authors for the rational 
+tone of their letter.
+They claim no objection to 
+defensive military research. Good. 
+I won’t have to argue for the 
+necessity of a military defense. 
+Their objection was to the ad’s
+portrayal of an offensive weapon, 
+a missile. But is it possible to 
+classify military hardware as of­
+fensive or defensive? The only 
+purely defensive features of 
+military hardware I can think of 
+are camouflage, armor, and 
+evasiveness. However, some lethal 
+weapons are considered to be tac­
+tically defensive. For instance, a 
+short range surface-to-air missile 
+is considered defensive in that it 
+deters direct airborne attack. It 
+may be hard to conceive of such 
+a weapon, packed with explosive 
+and shrapnel, as a defensive 
+device. Its defensive nature lies in 
+its application, not its construc­
+tion. Similarly, larger range and 
+strategic weapons are defensive if 
+their purpose is deterrence.
+I wish guided missiles had
+never been developed. But the 
+genie is out of the bottle. We can­
+not, with prudence, neglect 
+weapons development in the hope 
+that potential adversaries will do 
+likewise. Our military force, 
+through the deterrent power of its 
+weapons, maintains a degree of 
+international stability and securi­
+ty little appreciated by most 
+citizens. Weapons manufacturers, 
+therefore, provide an important 
+service. And I am sure the intent 
+of the ad, which caused such of­
+fense, was not the glorification of 
+the destructiveness of missiles but 
+merely a means of impressing 
+prospective recruits with the com­
+pany’s involvement in high 
+technology.
+Bob McNeely 
+GSIA
+iand of change will 
+l/'f the DECs as well
+VIEWPOINT: Ward Travis
+owly, the hand moves. Slowly it makes 
+langes. Slowly the hand touches us all. 
+Ily moves the hand. It plows on, glacier, 
+jy unstoppable. It’s more than just ter- 
+kls. Termination? A way of life. What 
+[of life, hmm, a question there. Hands.
+e hand removed the terminals in WeH 
+Then 5201 became inaccesible to 
+users. There were too few consultants, 
+me wanted the PC’s to be unguarded 
+n vulnerable at night. No one explain - 
+iy 5201 could not be open like the UCC 
+MP, 24 hours a day. 
+t students residing in Morewood,
+e, and the frats, Wean is closer than 
+> and is the next preference after the 
+gets full. And let’s talk walking that 
+block from the Hill, in cold weather, 
+ut socks, it can be bad. I sold my 
+Anyway.
+essed, back then, that they intended 
+Id a wall and close 5li00 off complete- 
+en it might not be 24 hours at all. And
+11, then all the people who use TOPS 
+(nightly) will have lost another good 
+point to the mainframes, 
+ybe that is the point. Maybe we’re all 
+Pushed off the mainframes by the 
+Sockless, frameless. Oh. 
+k at cross section of people who
+ere) responsible for a good deal of the 
+°n the 20s. There are two 
+isions—folks Scribing and the CS 
+ads- The first class was trimmed 
+erably when the Humanities (and 
+I colleges were told that they could 
+e most °f their diminishing budgets 
+°ling out the standard “paper” ac- 
+t0 undergrads, and encourag-
+m t0 Use the PCs instead. That cut 
+, num^er of people off the main- 
+°rr»pletely. They can still get request 
+ts, true.
+other subdivision, take a look
+to h ^ an excePtr°n> the hand f at the course currently cannot be
+°n pr\ r .
+I -p, . ’ t“e software isn’t portable
+lot S c^an^nS- though the hand
+ave its fingers in those actions. 
+ejc °° at the 15-2xx students; they
+ror l° just recemly (this 
+j. J l° use the Cluster, a Pascal dif- 
+rhe Pascal the students have
+used for years, a Pascal with no debugger. 
+They got amazingly small accounts on the 
+20s, just for receiving mail “etc.”
+The upper-level students were in the 
+clear —like 15-312 students. 15-312 is “Com­
+parative Programming Languages,” and is 
+devoted to exposing students to the large 
+number of computer programming 
+languages that exist, and what they each 
+have to offer. I took 15-312 this semester. 
+We used the 20s and had roomy accounts, 
+though they were almost all gone by the end 
+of the semester. This is mainly because the 
+hand has not adopted any really advanced 
+software (besides Epsilon, and possibly 
+Scribble) for the PCs, in particular any Lisp 
+systems or a Snobol system. (Lisp and Snobol 
+are languages that TOPS has standard im­
+plementations of which are studied in 
+15-312). And it seems clear that no one is 
+going to create a Snobol for the PCs. (They 
+just did, I hear. Can’t say I’m floored.) Since 
+that leaves only the 20s, 312 folks were home 
+free with accounts this semester.
+But then a strange thing happened. 
+Maybe the hand passed by unseen. The 312 
+students found themselves on Macintoshes, 
+studying something that has not been shown 
+to be a programming language at all. 
+Whereas each language studied over the rest 
+of the semester had obvious things to teach 
+us, Macintosh Multiplan had very little. 
+This is a hightly debatable point, to be sure. 
+It was a “language” where procedures and 
+functions were geometrically isolated areas 
+of data dependencies, a language like none 
+other to be sure. Whereas it was an in­
+teresting experiment, one felt the hand at 
+work afterwards. Higher level CS courses, 
+like Graphics, started using the PCs last 
+year. I foresee a day when Compiler Design 
+will be done on the PCs.
+But this is detail. I want to generalize. 
+What? They’re my ankles.
+Well? Doesn’t anyone else see it? At each 
+level, freshman, sophomore, junior, and 
+senior, the hand closes the mainfrmes, 
+shades their influence on students’ work 
+habits.
+Slowly, we are learning to wait. That is 
+it. We are learning, we are being taught. 
+Taught that things are different on a PC. 
+Taught that the approach to programming 
+continued on pag* 26
+Notes from the Chair
+By Michael Bett
+Did you ever write a column titled “From 
+the Chair” for The Tartan and have trou­
+ble coming up with a topic?
+You didn’t, you say?
+That’s funny, because that’s exactly what 
+happened to me. I mean it, that’s exactly 
+what happened! So you’re wondering what 
+this week’s article is about. Yeah, I know. 
+This time I thought you’d like to know what 
+Student Senate did in a typical week.
+The Senate petition to move the calendar 
+back to a pre-Labor Day start of classes was 
+presented to the Registrar, Dick Rainsberger. 
+You’ll be happy to know that we were suc­
+cessful in our efforts. As a result of the peti­
+tion, classes will be moved to a pre-Labor 
+Day start for the fall semester. However, the 
+spring semester will also start one week 
+earlier than currently planned, on January 
+7 th. This allows time for the two seven-week 
+summer sessions.
+Senate also presented the Registrar a peti­
+tion to make registration two weeks earlier 
+this year. Currently, registration for the next 
+semester is scheduled for the last fullweek 
+before finals' Unfortunately, it appears that 
+we were too late on this one, although in 
+future years registration will not be schedul­
+ed for the last week before finals. Faculty 
+Senate also endorsed our actions.
+You win one, you lose one, but were 
+trying.
+By now you’re probably saying, “Gee, 
+Senate circulated a lot of petitions!” True, 
+we did that and a lot more. Read on.
+Nick Gianaris, Bob Waldron and myself 
+went to Dr. Cyert about using the Brimmer 
+House (the house behind Kappa Sigma) for 
+the campus pub. Dr. Cyert was really enthus­
+ed with this, and as it turned out the Brim­
+mer House will be used for student space. 
+Some fire regulations still remain to be work­
+ed out, but it will be ours to use and enjoy.
+But wait, that’s not all. Two weeks ago,
+Opinion Policy
+FiMinrials appear at the beginning of the opinion 
+section, and are the official opinion of Thr Tar­
+tan Editorial Board.
+Columns are the opinions of individual authors 
+who are usually on The Tartan staff, but the 
+opinions are not necessarily those o/The Tartan 
+Editorial Board.
+Lett«« to the Editor are opinions of mdixtdual 
+authors who are usually members of the I ’nwer- 
+sity community. A letter intended for publication 
+must be signed and include the writer’s address 
+and phone number for i>erification. Names will 
+be withheld upon request. The Tartan resen>es 
+the right to condense or reject any letter.___________
+Senate received several complaints from 
+students about snow not being shoveled on 
+weekends. As usual, we were quick to res­
+pond to the student body’s requests. Physical 
+Plant was contacted and notified of the pro­
+blem. They said they realized the problem 
+and that snow would be shoveled on the 
+weekends from now on. You’ll recall it was 
+shoveled the weekend before last, thanks to 
+Student Senate and the Physical Plant.
+“Amazing,” you’re saying, “Student Senate 
+really does get things done!” Well, that is the 
+truth. It must be, it’s in print.
+I hear the cries, “Give us more!” Well, your 
+wish is my command. More will be coming 
+at the Student Senate meeting tonight. Dr. 
+Stern will be addressing Senate on the In­
+tellectual Property Policy and its effects on 
+students. You will also hear the results of last 
+week’s activities. The Senate meeting is at 
+7:00 p.m. in the Wherrett Room. All 
+members of the campus community are in­
+vited to bring their questions, comments and 
+criticisms. But most of all, you’re invited to 
+bring yourself.
+Michael Bett is a junior majoring in 
+Mathematics and is Chairman of the Stu­
+dent Senate.
+‘fij
+Editor-in-chief ...............Stephen Volan
+Managing Editor.............Mike Pilewski
+Business Manager .. John Friedmann
+News Editor..........................Karen Gray
+Features Editor....................Ric Medrow
+Entertainment Editor.............. Al Datri
+Sports Editor ... Christopher D. Lewis
+Photography Editor____Mike Pilewski
+Acme Editor ...................Mohan Embar
+Art Manager........Michael A. Sussman
+Production Manager ... Katrin Wesner
+Typesetting Manager___Jill Clelland
+Asst. Business Mgr. ... John Lumpkin
+Asst. News Editor..........Jennifer Even
+Asst. Photo Editor................Dan Pellish
+Asst. Art Mgr.....................Mark Kissner
+Asst. Typesetting Mgr. .. Joe Hasper
+Contributing Editors: Peter Bain, Judy 
+Merrill, Bonnie Topf, Pauline Wen, Neil 
+Greenblum
+Production Staff: John Blanck, Don Eg- 
+gert, Don Gamble, Chris Telfer 
+Art Staff: Burton Morris, Joe Tomko, Jim 
+Voorhees, Rob Yaffe
+Copyright 1985 by The Tartun The Editorial Board 
+reserves the right to withhold from publication any copy 
+it deems unfit for publication. Editorial Offices: Skibo 
+50. (412) 578-2111. Business Offices: Skibo 52. (412) 
+578 2112. 24 hour phone. (412) 578-2113. Mailing ad 
+dress: Skibo 103. Carnegie-Mellon University. Pitts­
+burgh. PA 15213.
+Funded by the Activities Fee. Alt rights reserved.
+L
+
+---------------------------------------------------
+
+Page 26—The Tartan—February 12, 1985
+Viewpoint: Even CMU's computers will change
+continued from page 25
+on a PC is different. Too long have we all 
+been spoiled by the transparencies of main­
+frame use. Now we are all being taught the 
+backwoods of distributed computing.
+One does not log in, one turns on. One 
+does not have an account, one has floppy 
+disks. One does not have disk quotas, one 
+disk full, file not copied. One does not have 
+a load average, one has no PCs available. 
+One does not have Decnet, one has Pronet 
+and its valet Kermit. One does not have 
+nightly backups, one has the Pronet ar­
+chiver. One does not compute Turbo. One 
+does not enter the debugger, one adds it 
+himself. One does not, one has. One does
+OVERSEAS EMPLOYMENT
+WORLD-SIDE OPPORTUNITIES FOR MEN AND WOMEN! 
+JAPAN - EUROPE - AFRICA - AUSTRALIA - THE SOUTH 
+PACIFIC - SOUTH AMERICA - THE FAR EAST.
+EXCELLENT BENEFITS. HIGHER SALARIES AND WAGES! 
+FREE TRANSPORTATION! GENEROUS VACATIONS!
+More than 300,000 Americans Japan, Africa, The South
+— not including members of 
+the armed services — are 
+now living overseas. These 
+people are engaged in nearly 
+every possible activi­
+ty...construction, engineer­
+ing, sales, transportation, 
+secretarial work, accoun­
+ting, manufacturing, oil 
+refining, teaching, nursing, 
+government, etc.-etc. And 
+many are earning $2,000 to 
+$5,000per month...or more!
+To allow you the op­
+portunity to apply for 
+overseas employment, we 
+have researched and compil­
+ed a new and exciting direc­
+tory on overseas employ­
+ment. Here is just a sample 
+of what our International 
+Employment Directory 
+covers.
+(1). Our International 
+Employment Directory lists 
+dozens of cruise ship com­
+panies, both on the east and 
+west coast. You will be told 
+what type of positions the 
+cruise ship companies hire, 
+such as deck hands, 
+restaurant help, cooks, 
+bartenders, just to name a 
+few. You will also receive 
+several Employment Ap­
+plication Forms that you 
+may send directly to the 
+companies you would like to 
+work for.
+(2). Firms and organiza­
+tions employing all types of 
+personnel in Australia,
+Pacific, The Far East, South 
+America...nearly every part 
+of the free world!
+( 3). Companies and 
+Government agencies 
+employing personnel in near­
+ly every occupation, from 
+the unskilled laborer to the 
+college trained professional 
+man or woman.
+(4). Firms and organiza­
+tions engaged in foreign con­
+struction projects, manufac­
+turing, mining, oil refining, 
+engineering, sales, services, 
+teaching, etc., etc.
+(5). How and where to ap­
+ply for overseas Government 
+jobs.
+(6). Information about 
+summer jobs.
+(7). You will receive our 
+Employment Opportunity 
+Digest...jam-packed with in­
+formation about current job 
+opportunities. Special sec­
+tions features news of 
+overseas construction pro­
+jects, executive positions 
+and teaching opportunities.90 Day Money Back Guarantee
+Our International Employ­
+ment Directory is sent to you 
+with this guarantee. If for 
+any reason you do not obtain 
+overseas employment or you 
+are not satisfied with the job 
+offers...simply return our 
+Directory within 90 days and 
+we’ll refund your money pro 
+mptly...no questions asked.
+ORDER FORM
+International Employment Directory 
+131 Elma Dr. Dept. T21 
+Centralia, WA 98531
+Please send me a copy of your International Employment
+Directory. I understand that I may use this information for 90 
+days and if I am not satisfied with the results, I may return 
+your Directory for an immediate refund. On that basis I’m 
+enclosing $20.00 cash. .. check.... or money order.... for your 
+Directory.
+NAME ___________________________________________________
+please print
+ADDRESS
+CITYSTATEZIP
+International Employment Directory 1984
+not. One has.
+This is the lesson. One does not, one has. 
+Pay attention. Say it out loud. One does not. 
+One has.
+We are learning that mainframes are 
+bourgeois mammoths, and those who use 
+them the Bourgeoisie. We are headed for 
+economy in computing, are headed for the 
+trimming. We learn to row the one man 
+boats; we leave and the vast storage of the 
+mainframes. One does not. We afford 
+ourselves only private cycles. We distribute 
+the costs of computing, from the rich to the 
+poor. One buys one’s own cycles, one has his 
+own PC. One has.
+One does not; one has. Say it out loud. 
+Write it down.
+And now the slow learners are at 
+Those of us who will not accept the h 
+passage. Those who continue to make^i 
+days at the mainframes. Those whocli 
+the old way of life. We cling to the 20s 
+the slow hand will brush us off and i 
+us along.'
+Ward Travis is a junior in Appl. Afa^;)
+Viewpoint is a guest column uritten 
+a different member of the CMU comm 
+ty every week. To submit an articlefor(i 
+sideration as a Viewpoint, send it typefa 
+double-spaced to: Editor, The Tan 
+Skibo 103, CMU, Pittsburgh 159 
+Deadline is Friday at 5:00 pm for the 
+Tuesdays paper. No manuscripts w 
+returned.
+35mm
+Prints and Slides from the same roll
+Kodak MP film... Eastman Kodak’s professional color motion picture film now 
+adapted for still use in 35 mm cameras by Seatde FilmWorks. Its micro-fine grain 
+and rich color saturation meet the exacting standards of the movie industry. With 
+wide exposure latitude, you don’t have to be a pro to get great everyday shots or 
+capture special effects. Shoot in low or bright light from 200 ASA upto 1200 ASA. 
+Get prints or slides, or both, from the same roll. ei984 Seattle FilmWorks
+’"’iNTRODUCTOBY OFFER? Rush me two 20-exposure rolls of your leading KODAK MP film-Kodak 5247® (200 ASA). Enclosed is $2.00. I’d like to be able to get color prints or slides (or both) from the same roll and experience the remark­able versatility of this professional quality film.
+NAME
+ADDRESS
+ZIPCITY STATE ^
+Mail to: Seattle FilmWorks 
+500 Third Avenue West, P.O. Box C-34056 
+Seatde, WA 98124
+Kodak 5247 is a registered trademark of the Eastman Kodak Company. Unlit of 2 rolls per customer.
+PRECISION 
+HAIRCUT 
+(ANY LENGTH)
+$13.00
+(WASH-CUT 
+BLOW STYLE)A
+PERMS FOR
+ALL STYLES
+$25.00
+COLOR
+never met u head we didn't like
+. . .With apologies to Will Rogers, 
+the great American humorist.
+The point we're trying to make, 
+of course, is that many hair- 
+cutters only see hair when they 
+look at a head.
+At Great “X", we look at the 
+whole head as well as the hair. 
+We also listen to what the head 
+says, how he or she pictures him-
+Mon, Tues, Wed 10—7 
+Thurs, Fri 10—9 
+Sat 9—6
+self or herself after the haircut.
+Our haircutters are trained to put 
+it all together ... so that the 
+final product is more than just an 
+example of expert haircutting •
+. but a perfect representation of 
+who you want to be.
+Every head's a winner, when it 
+heads for. . .
+¿SO APPOINTAI
+687-3500
+NO APPOINTMENTS 
+UNISEX HAIR SALON
+«iff j 
+¦5NOiiSTPRECISION HAIRCUTTERS
+237 Atwood Str
+Across the str ^ 
+the Oakland
+
+---------------------------------------------------
+
+Just a little crazy.
+"AT SILICON SYSTEMS, 
+CAREER GROWTH 
+KNOWS NO BOUNDS
+With revenues up 150 percent over 
+last year, Silicon Systems needs people 
+who welcome the challenge and achieve­
+ment potential which that growth 
+represents
+People who will help us handle 
+that growth in stride People to join our 
+LSI design team, one of the industry's 
+finest People to operate our new, highly 
+advanced wafer fab and test facilities 
+People to help us define innovative 1C 
+products and open up new markets 
+worldwide
+Finding the right individuals is cru­
+cial to corporate growth So we challenge 
+our employees to work at the leading edge 
+of 1C technology We let them advance to 
+the limits of their imagination. And we 
+offer them superior work environments at 
+a choice of desirable locations
+That's how we've attracted and 
+retained the top people available —people 
+who have propelled us to the forefront 
+of our industry And that's how we've 
+built a unique company culture and 
+esprit-de-corps
+Of course the rewards at Silicon 
+Systems are commensurate with the con­
+tributions expected Rewards in career 
+development, job enrichment, tuition 
+refunds, graduate degree assistance, and 
+in a liberal package of employee benefits 
+Plus a stock plan that encourages 
+employee ownership ^
+If we re going in a direction you'd 
+like to go, and if you'd like to move at our 
+kind of pace, why not get in touch'?
+Silicon Systems. 14351 Myford Road, Tustm, 
+CA 92680 (714) 731-7110 Ext 6339
+iy Silicon siistans
+MW INNOVATORS IN/INTEGRATION
+Campus interviews will be held on Tuesday. 
+March 12. 1985. Please contact your Place­
+ment Office for an interview.
+Equal Opportunity Employer M/F
+
+---------------------------------------------------
+
+6ÉT THE '
+HtUNfc Ammys 
+fOP-toTTtM SOWEfMUcT
+CftfMßftl
+TXe^e exH'StT* su E\WP/y»Hcrr 
+mer; 1u;Arl of mwr
+»W**** of Arr* ?
+Wu.. ? *t*ter- 
+OFiwese pee 
+L peAtvy mop-
+sx1an;d;1
+i
+Al
+bEPB mNmew , <**e 
+A*e pepMireiv uwv-
+MOPEWOOD
+6AKPCNS
+universitydiningservice
+y:
+Uiltlo cofoMID-DAY
+Salisbury SteakCheese Stuffed Shells/meatless sauce Baked Stuffed Zucchini
+Lima Bean Casserole 
+Sausage Omelette 
+BBQ Ham Sandwich
+Turkey Tetrazzini 
+Hamburgers 
+Roman Rice&Beans
+BLT Sandwich
+Macaroni/Tomatoes Cahflower Marranc*
+Steak/Onion Sandwich 
+Tuna Noodle Casserole 
+Swiss Cheese Croquettes
+French Toast/Sausage 
+Cheese Dogs 
+Chicken Ala King
+Waffles/Bacon
+Grilled Reubens
+Swiss Cheese Sc Veg.Quiche
+Stromboli Creamed Chicken Macaroni au gratin
+Grilled Ham&Cheese 
+Rigatoni/Meat Sauce 
+Chili
+Cheese Blmtzes
+Potato Cakes'Corn Beef
+Kugel
+Vegetarian Pizza 
+London Broil 
+Shrimp Chow Mein
+Fish Split Hoagie 
+Turkey Tetrazzini 
+Deli Bar
+Everyday
+Hot/Cold Deli 
+Omelette to Order 
+Hamburgers & Hotdogs
+iKkiltie cofoEVENING
+Stromboli California Quiche Deli Bar
+Fried Perch 
+Beef Burgundy 
+Stuffed Shells/Sauce
+Burritos/Chih 
+Baked Ham 
+California Quiche
+VALENTINE DINNER
+BBQ Spareribs 
+Fish si Chips 
+Cheese Blintzes/Sauce
+Fried Chicken
+Ham &. Turkey Supreme
+Omelette Florentine
+Grilled Pork Chops 
+Hamburger SteaL/Gravy 
+Chinese Fried Rice
+FEBRUARY 11-17
+¿JWorewood " Qaidcqs
+Veal Parmesan Beef Stew Vegetable Fritatta
+Cheese.Spinach & 
+Beef Stew Baked Haddock/sa^
+Cheese/ Mush.Qm^ 
+Chicken Hawiian 
+Meatloaf/Gravy
+Ch.Ravioli/meatlc55
+Sausage Omelets 
+Turkey Devonshire
+Veal Parm./tneatl^j 
+Corned Beef/Ca^ 
+Fettucinni All
+Everyday 
+Ctfrved Beef or
+Funnies.
+Joe Freshman
+VA SO USED to IT. J COULDN'T GOWREHENO 
+ttWNfe h 61RV«lfMD
+ON \lNi(uTiN£'S____
+. DM...
+HEW i ft«, ON MiNflNt'5 DftY A&MN, W1H NO 
+öIM-WENO-.-
+;aa\
+dra
+By Mark Levii
+PoindexterBy Maszle and Be\

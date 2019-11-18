@@ -1,0 +1,1194 @@
+For program corrections see the EDUCOM EVENTS section on page 4 
+For a complete listing of Hospitality Suites, see page 4
+The Tartan
+Special IssueCarnegie Mellon UniversityNovember 12,1986
+Carnegie Mellon Inaugurates Andrew Network
+Cyert Realizes a 
+Dream with Network
+The following is a transcript of the 
+speech presented by Dr. Richard 
+Cyert, President of Carnegie Mellon 
+University at the inauguration of the 
+Andrew Network.
+The opening today of the Carnegie 
+Mellon campus network is the culminatnio 
+of a dream that I have held for six years. 
+With the advent of mcrocomputers, I 
+envisaged a situation in which each student, 
+each faculty member, and most staff 
+membershad access to a computer system 
+that would be connected together. I saw 
+such a system as an alternative to time 
+sharing. It was obvious to me after many 
+years of living with a time-sharing system 
+that it was not the right system for a 
+university. Time-sharing works only with 
+restrictions on the nilmber of users. It was 
+also clear that we needed a commercialCMU students work on IBM PC-RT WorkstationsEDUCOM Announces New Software Initiative
+IBM's Lucente 
+Praises Cooperation
+The following is a transcript of the 
+speech given by Carnegie Mellon 
+Trustee Edward Lucente at the 
+inauguration of the Andrew 
+Network.
+My ties with Carnegie Mellon are many.
+I'm IBM's campus representative. I'm 
+honored to be a trustee, and I'm an 
+alumnus.
+So, this inauguration -- and the 
+achievemnts it represents  has special 
+meaning for me.
+Our relationship with Carnegie Mellon is 
+an outstanding example of collaboration 
+between business and the academic 
+community.
+Since 1980, IBM has entered into more 
+than 1,800 research* agreements with nearly 
+350 universities around the world.
+And weve invested nearly $225 million 
+continued on page 2
+PRINCETON, New Jersey - EDUCOM 
+has created a software Initiative to address 
+the special problems colleges and 
+universities face in the development, 
+distribution, and use of software.
+"Our goal, " Steven Gilbert, director of 
+the EDUCOM Software Initiative, "is to 
+motivate academic and commercial 
+developers to create new and bettwe 
+software and find ways to deliver that 
+software efficiently. That includes creating 
+special terms and pricing structures, if need 
+be, that are mutually acceptable to the 
+academic community and commercial 
+software producers. Ideally, we want every 
+student and university to have access to 
+academic software as a full complement to 
+reading, lectures, and discussion."
+The EDUCOM Software Initiative is 
+pursuing issues that concern every college, 
+university, software producer, and author. 
+For instance:
+1. How can software producers, 
+including commercial, independent, 
+university, and other non-commercial 
+software authors, learn more about the 
+specialized needs of the higher education 
+market?
+2. How can commercial software be 
+made accessible to students and faculty on 
+tight budgets without violating copyrights 
+of software producers?
+3. How can different individuals or 
+research groups, at different universities, 
+avoid duplication of effort when creating 
+new software or adapting existing software 
+for new uses?
+4. How can new software, and new 
+applications of existing software, make the 
+learning environment more productive?
+There are not new problems. But as Steve 
+Ehrmann of the Annenberg/CPB Project, 
+an EDUCOM Software Initiative supporter, 
+put it, "the genius of [the Software 
+Initiative] is that EDUCOM has put its 
+finger on a family of problems and brought 
+together people who were ready to work on
+them."
+The EDUCOM Software Initiative has 
+broken down this family of problems into 
+six areas. Six task groups are focused on 
+encouraging academic software 
+development, giving educators and 
+researchers better guidelines for choosing 
+software, developers models for 
+institutional licensing of software, 
+providing new strategies for planning and 
+budgeting software acquisition and support 
+services, ascertaining the demand for 
+software in higher education, and even 
+establishing an awards propam recognizing 
+achievments in creating and using software 
+in the learning environment.
+"The goal of the task groups is twofold: 
+to encourage the development and 
+distribution of new and better software to 
+colleges and universities, so that every 
+professor and every student can have access 
+to the best that the new information 
+technologies have to offer, and to encourage 
+higher education institutions to recognize 
+and respect the needs of the commerical 
+sector as it disseminates software among 
+students and faculty," said Gilbert.
+Thomas W. West, of California state 
+University, the chairman of the Software 
+committee of EDUCOM's Board, described 
+the program this way:
+"The EDUCOM Software Initiative is a 
+multifaceted endeavor to deal withe the 
+explosion of microcomputing in the 
+educational arena. We're interested in the 
+concerns institutions have about the cost of 
+software; we want to know who is 
+developing software. Most important, we 
+want to know who is developing software. 
+Most important, we want to know how to 
+share information about who is using 
+software, and how they are using it, across 
+the spectrum of 3,000 universities in the 
+U.S."
+One of the first steps toward meeting the 
+goals of the Initiative is the responsibility 
+of the "Demand for Software in Higher
+Education" task group, this group is 
+learning more about how, where, and why 
+software is now being usedor not used 
+where it could beon college and university 
+campuses. EDUCOMadn Peat Marwich, in 
+coopertaion with The Chronicle of Higher 
+Education, are now completing a 
+comprehensive "Survey of Microcomputer 
+Use in Higher Education" among 
+EDUCOM members.
+Software copying is a special concern to 
+everyone connected iwth theuse of software 
+on campus, from professors who want their 
+students to use the software to the 
+commercial producers themselves. It is the 
+subject of a task group, "Institutional 
+Software Contracts and the EDUCOM 
+Code," which hopes to create guidelines and 
+models for institutional licensing of 
+commercial software.
+"The EDUCOM Code," said Kenneth C.
+Green, Associate Director of UCLA's 
+Higher Education Research Institute and co
+chair of the task force on licensing, "is a 
+statement of principle, similar to a campus 
+honor code, that reinforces the importance 
+of intellectual property, including software, 
+to the academic community, k sets an 
+important standard for institutional 
+responsibility, one that will affect the way 
+software users and providers approach each 
+other. Additionally," Green said, 
+"EDUCOM is developing materials to 
+facilitate site negotiations that reflect the 
+needs of both campus users and commercial 
+developers."
+Copyright abuse is also aof special 
+concern to groups like ADAPSO, the 
+computer software and services industry 
+association. ADAPSO has become heavily 
+involved with the Software Initiative 
+continued on page 3
+New EDUCOM Guide Published
+PRINCETON, New Jersey - Recently, 
+EDUCOM ammounced publication of its 
+first annual Guide to Corporate Associates, 
+featuring profiles of 59 companies that 
+offer high technology information products, 
+programs, and services to the higher 
+education community. The Guide is being 
+distributed free of charge to more than
+5,000 administrators, faculty members, and 
+other individuals at almost 500 colleges and 
+universities throughou the U.S. and abroad 
+who are members of EDUCOM.
+The Guide to Corporate Associates 
+includes completely up-to-date profiles of 
+59 Corporate Associate companies 
+associated with EDUCOM. It describes 
+each company's products, programs, and 
+services; special offers to institutions of 
+higher learning; information for contacting 
+each company; and directories to the 
+products, services, and programs offered by 
+the companies-from hardware to
+courseware, grants to user groups, 
+consulting to electronic mail, and much 
+more. The Guide provides a unique 
+perspectve on the industry that provides 
+information technology to higher 
+education.
+"A University may rely on many different 
+suppliers for information, products, and 
+services to support its information 
+technology," said Steven Gilbert, 
+Managing Director of the Corporate 
+Associates Program. "But until now, there 
+was no single source for information on 
+these products, services, and their suppliers. 
+Thats why we created a special guide."
+In just a little over three years, the 
+Corporate Associates Program has grown 
+to over 60 companies. The program is open 
+to any company, large or small, with a 
+special interest in providing information 
+technology products and services to
+continued on page 3
+
+---------------------------------------------------
+
+Page 2 - The Tartan - November 12,1986
+Relational Tech and Carnegie Mellon Form Partnership
+ALAMEDA, California, November 10 - 
+Relational Technology and Carnegie 
+Mellon University have announced a fiveyear technology partnership agreement to 
+create a distributed database environment 
+that will span the university's seven 
+colleges. This agreement marks the first 
+non-govemmental pact to develop 
+integrated information systems based on a 
+distributed database environment that 
+includes a variety of mainframes, 
+minicomputers and personal workstations.
+The implementation of this distributed 
+database environment will provide end-users 
+access to multiple databases residing on 
+dibergent hardware and operating systems. 
+Carnegie Mellon users in one department 
+can develop applications an daccess 
+necessary data and records from remote 
+dapartments. Key to the operation is 
+INGRES/STAR, Relational Technology's 
+heterogeneous distributed database product 
+which runs on a wide range of hardware and 
+operating system configurations.
+Carnegie Mellon has traditionally been a 
+technology-driven environment, fertile for 
+both alpha and beta testing of cross vendor, 
+high-technology concepts. In the area of 
+networking, some have emerged as industry
+breakthroughs, like IBM's Token Ring 
+Network, RT PC and Digital Equipment 
+Corporations's DEC NET. Other projects 
+that Carnegie Mellon has been involved 
+with include the early exploration of using 
+large disks with personal computers to 
+provide faster ways to transfer data across 
+PC-based networks, and participation in the 
+Apple Consirtium.
+Because of its involvement in the testing 
+and development of products manufactured 
+by a number of normally non-compatible 
+vendors, Carnegie Mellon is home to a 
+variety of hardware. The difficulty is 
+accessing university databases across 
+various departments is axacerbated by the 
+variety of hardware. This problem is know 
+in many organizations as "Islands of 
+Information."
+At present, the Carnegie Mellon 
+computing environment includes 75 DEC 
+VAX 780's, eight DEC 2060's, 400 Micro 
+Vax's, 1500 IBM PC's, more than 200 
+IBM RT's and 2000 Apple Macintoshes. 
+It's administrative production systems, for 
+example, reside on both a DEC 2060, a 
+VAX 780 and a 3COM Etherseries LAN. A 
+major development effort is underway to 
+integrate University information within an
+Ingres Database on an IBM 3083. Futures 
+plans include developing a new student 
+information system. These will reside on a 
+VAX cluster and two 8700's 
+"Under the new partnership, we plan to 
+use the INGRES/STAR distributed 
+database, along with Relational 
+Technology's personal computer product 
+currently being beta-tested at Carnegie 
+Mellon, to distribute computing power 
+across the university, moving data from a 
+central system to departmental systems and 
+ultimately to individual personal systems," 
+said Tony Schnaller, Carnegie Mellon 
+manager of systems development for 
+administrative systems.
+Carnegie Mellon is a pioneer in teh 
+commercial use of distributed relational 
+database managemtn. The university is also 
+a beta site for Relational Technology's new 
+Ingres for the Personal Computer product.
+According to Len Brush, Carnegie Mellon 
+director of administrative systems, "with 
+INGRES/STAR, we will be developing a 
+whole new family of information systems 
+for higher education."
+INGRES/STAR allows transparent access 
+across a variety of environments from 
+mainframes to mini-and microcomputers.
+Distributed database thechnology transcends 
+exising database managemtn and database 
+networking technologies. It presents an 
+organization with a single relatinoal view 
+of all data stored within an entire network 
+of computers so users need not be
+concerned with where data is located, how 
+to get it, or what type of hardware or 
+operating system is used.
+Relational Technology is a leading 
+developer of relational database
+management systems and a peioneer in 
+advanced distributed database solutions. The 
+company's primary product is INGRES, the 
+Distributed SQL Relational Database
+System. INGRES combines an open
+architecture distributed database capability 
+wint integrated fourth generation 
+application tools and a high-performance 
+SQL database.
+Relational Technology's INGRES 
+dominates the DEC VAX marketplace with 
+45 percent market share. INGRES is 
+currently available for a number of 
+operating environments including DEC 
+VAX/VMS, IBM mainframes and 
+compatibles with VM/CMS or UTS, and 
+more than two dozen UNIX operating 
+system bases computers.
+Pitt Displays "The Campus of the Future" for EDUCOM
+PITTSBURGH - During the EDUCOM 
+Conference, educators and industry leaders 
+form across the country will have the 
+opportunity get a first-hand look at the 
+University of Pittsburgh's Campus of the 
+Future.
+Pitt's Campus of the Future, a project 
+carried out in partnership with AT&T, is an 
+integrated fiberoptic-based voice-video-data 
+communication system that links 
+buildings, classrooms, loboratories, and 
+medical-instruction facilities throughout the 
+University's 131-acre Oakland campus. Pitt 
+is the first university in the world with 
+such an integrated system in operation. 
+Conference participantts will be able to see 
+demonstrations of the system's capabilities 
+in visits to the Pitt campus Wednesday and 
+Thursday afternoons from 2 ro 5 pm.
+Visitors to the Pitt campus will be able 
+to visit the University's Information 
+Resource Center in Hillman Library, the 
+Advanced Microcomputer Graphics Lab in 
+Forbes Quadrangle, the Graduate School of 
+Business , the NASA Industrial 
+Applications Center in William Pitt 
+Union, the Interdisciplinary Department of 
+Information Science in the School of 
+Library and Information Science, and the 
+Regional Computer Resource Center in 
+Forbes Quadrangle.
+Among demonstrations scheduled for 
+Forbes Quadrangle are interactive video in 
+science education and microcomputer 
+interfacing in chemistry. Pitt's Department 
+of History will also have a 
+communications demonstration with social, 
+economic, and geographic historians
+showing how computers are used to create 
+maps and newsletters and analyze data.
+Three demonstrations will be conducted in 
+Scaife Hall, De Soto and Terrace streets: 
+intelligent system for managing 
+information on laser disks, neuro-imaging 
+expert system, and expert based systems 
+modeling.
+Computer software will also be exhibited 
+in Forbes Quadrangle. Featured will be 
+Campus of the Future software as will as 
+MINI, a computer tutor for writers: desktop 
+publishing with Macintosh Plus; desktop 
+versus production electronic publishing; 
+interactive bargaining experiment; social 
+science data entry and verification; a 
+computer-adaptive placement testing 
+system for college mathematics; a 
+comprehensive microcomputer system for
+classroom testing; clinical education data 
+base of health records administration; Mac 
+publishing for academic journals; a dental 
+simulation; and BioTutoe, a study program 
+for the biological sciences.
+EDUCOM participants will also be able 
+to visit the Pittsburgh Supercomputing 
+Center in Monroeville, this center, the fifth 
+and most powerful supercomputing center 
+for engineering and scientific research, was 
+established by Pitt, Carnegie Mellon and 
+Westinghouse Electric Corporation, under a 
+National Science Foundation grant last 
+January.
+Pitt president Wesley W. Posvar will 
+address the EDUCOM '86 conference on 
+Friday morning. His topic will be 
+"Searching the Horizon."
+Lucente, Carnegie Trustee and IBM VP speaks at Inauguration
+in these institutions of higher learning.
+Many of those agreements  such as this 
+project at Carnegie Mellon  involve 
+applied research that may lead to products 
+such as the innovative "Andrew" software 
+we have produced.
+Others may not have such clear, practical 
+results.
+We have one basic criterion for deciding 
+where to invest in higher education.
+We support colleges and universities 
+where the long-term interests of IBM, the 
+needs of education and the national interest 
+coincide.
+Our joint development with Carnegie 
+Mellon is an excellent example of that 
+fusion of common goals.
+In Carnegie Mellon, IBM has a partner 
+that is one of the top-ranked computer 
+science schools in the country, a university 
+that is interested in practical systems 
+solutions as well as computer theory.
+Joining forces with a school of this 
+caliber has given us the chance to explore 
+development and marketing opportunities 
+in advanced personal computer 
+workstations, local area networks and 
+leading-edge software.
+Carnegie Mellon was looking for a 
+busiiness partner to help bring advanced 
+computer technology to the university and, 
+at the same time, expand and advance the 
+role of computers and education on a broad
+In 1981, this project was only a gleam in 
+Dick Cyert's eye.
+But that gleam contained a grand vision, 
+the vision of a bold new concept in 
+computing and communications, and the 
+vision of working with like-minded 
+educational institutions to establish 
+standards for educational software.
+This task force recommened that the 
+university proceed but they also gave 
+implemented the freedom to decide how 
+that should be done
+They simply established three goals: 
+improve access to computing for people on 
+campus; build a good computer service 
+organization; and provide the best possible 
+coombination of time-sharing and personal 
+computing.
+The task force fgave the development 
+team -- which includes both IBM and 
+Carnegie Mellon staff -- the freedom to 
+decide how all that would be done.
+Fairly early, the developerss decided they 
+would use a network  without a 
+mainframe.
+Both IBM and Carnegie Mellon realized 
+we were talking about a very large network -
+- possibly the largest in the world.
+And, frankly, even after a four month 
+feasibility study, we weren't sure it could 
+be done.
+But we were willing to try.
+One of the first challenges was meshing 
+the goals of both institutions.
+Why did Carnegie Mellon want and need 
+in a computing network?
+Would only IBM equipment be used? Or 
+was IBM willing to pay for other vendors' 
+equipment, if thats what the project 
+required?
+Ithink the question of equipment  and 
+the way it was resolved - illustrates the 
+kind of discussions that businesses and 
+educational institutions must have, and the 
+kinds of compromises they must make, for 
+the joint effort to be successful.
+Of course, these kinds of ventures arent 
+really carried out at an institution-toinstitution level.
+It's people-to-people contact that makes 
+them work. From the beginning, strong 
+personal and professional partnerships 
+between IBMers and Camegie Mellon staff 
+have been the glue that's held the pieces of 
+this project together.
+And there have been lots of pieces to hold 
+together.
+Ten IBMers have been on assignment here 
+with their families for the past four years.
+And, so far, IBM has contributed $25 
+million to this project.
+There's moie to this than money and 
+people, though. Much more.
+There's been a lot of communication: 
+briefings, confemce calls, lots of 
+converstions and -- believe it or not - even 
+a few intense intellectual exchanges  or, if 
+you prefer, arguements.
+In the last three years, Dick and I have 
+personally met every three months to 
+review progress.
+From all that communication, I think 
+we've come to a pretty good understanding -
+- of each other - and of this project.
+IBM hasn't just thrown money and 
+equipment here.
+We've tried to be very careful about that.
+We've tried to make sure that we didn't 
+send anyone or anything to Camegie 
+Mellon without the clear understanding of 
+how it would be used and the clear 
+understanding that Camegie Mellon wanted 
+it.
+As a result, we are today inaugrating a 
+local area network that is one of the world's 
+largest.
+More than 300 miles of cabling connects
+50 buildings and more than 7,000 
+computers and other devices will be 
+plugged into this one entwork.
+Through this network, today, students, 
+faculty and administration at Camegie 
+Mellon can share information with 
+hundreds of other people on campus.
+Not only are the users diverse, the 
+components of the system also are diverse.
+The network connects several types of 
+personal computers and workstations, 
+including IBM PCs and IBM RT PCs.
+And it incorporates various local area 
+networks, including IBM's Token Ring.
+
+---------------------------------------------------
+
+November 12, 1986 - The Tartan - Page 3
+Cyert Speaks at Andrew Inauguration
+-ajtner to complete such a job ans that 
+[here were commercial possibilities in the 
+concept of the network. I was pleased, there 
+fore, when IBM indicated a strong interest 
+in the project. Our first joint task was to 
+determine the feasibility of a network that 
+might have as many as 10,000 computers 
+on it. At that time, in January of 1982, it 
+was not clear that one could develop such a 
+network nor was the software available to 
+run the network if it were a feasible project. 
+So, all during the winter of 1982 a 
+taskforce diligently explored the limits of 
+our knowledge to determine the possibility 
+of bringing the network I dreamed of to 
+reality. By May of 1982 the committee had 
+determined the feasibility, and we had 
+meetings in Armonk and Pittsburgh to go 
+over the report. Then a feeling of elation 
+swept all of us who had been involved in 
+the project. We recognized that the network 
+had passed the feasibility test and taken a 
+major step forward in becoming a reality.
+The Information Technology Center was 
+formed as the mechanism for developing 
+the software and planning for the proposed 
+network. The Center consisted of 30 
+people, 10 of whom were from IBM and 20 
+who were hired by Carnegie Mellon. The 
+project got a tremendous lift when Jim 
+Morris agreed to become the head of the 
+ITC and assumed the leadership of the 
+development of the network. Jim hired the 
+other 20 people to make the ITTC a 
+functioning organization. IBM agreed to 
+make a contribution for financing the ITC, 
+and the project began to swing into high 
+gear.
+The two organizations had to work 
+clcsely together to complete this project. It
+EDUCOM Publishes 
+Corporate Guide
+continued from page 1
+colleges and universities. Through 
+participation in the EDUCOM conference, 
+seminars, and other services, and through 
+the annual Guide, the Corporate Associates 
+Program allows companies to establish 
+contact and exchange ideas with Member 
+institutions.
+EDUCOM is a nonprofit association that 
+serves as a resource for colleges, 
+universities, and research institutions that 
+want to learn more about current and 
+emerging trends in information technology. 
+It serves as a forum for the exchange of 
+ideas on computer applications in all 
+aspects of academia: teaching, research, 
+administration, and communication. 
+Seminars, publications, meetings and other 
+events throughout the year offer many 
+opportunities for EDUCOM Members to 
+keep up with the rapid advances in 
+information technology.
+The technology of information is based 
+on the people, and meant for the people. 
+This assertion is just one of the ideas 
+underlying the argument in favor of a 
+general revolution in education and industry 
+posited by Jean-Jacques Servan-Schreiber in 
+The Knowledge Revolution.
+Recently published by the Carnegie 
+Mellon Press, Servan-Schreiber's essay is a 
+discourse on the role that the computer will 
+and must, according to the author, take in 
+the future. Putting the computer in the 
+limelight calls attention to Carnegie 
+Mellon because of the University's role in 
+developing and implementing new 
+computer technology. When describing the 
+contributions of Carnegie Mellon to the 
+Progress in technology, Servan Schreiber 
+quotes such prominent university figures as 
+Nobel Prize winner Herbert Simon,
+is truly an amazing accomplushment in my 
+view for a business firm and a university to 
+have accompolushed this task in four years. 
+In the process personnel from the two 
+organizations have gotten to know each 
+other. During the whole four uears we have 
+maintained quarterly meetings to measure 
+the progress of the project and to assess the 
+problems that we had outstanding. It took 
+real determination and a great desire to 
+achieve our objectives that carried us all 
+forward.
+The establishment of the network 
+accomplishes two major objectives: (1) it 
+does give an alternative computer system to 
+conventional time sharing and (2) it 
+eliminstes the terrible problems that we 
+have mentioned and all understand about 
+time-sharing. So that if nothing else were 
+accomplished, we have established a major 
+alternative for universities and business 
+organizations for a computer system.
+A major aim, however, has been to affect 
+education in a significant way. The hidden 
+agenda has always been to bring about a 
+revolution in the way higher education is 
+carried on. As the project to establish the 
+physical network progressed, we also 
+developed an organization to do the 
+software that was going to be required to 
+make the nitwork tmly useful in education. 
+In the period that the network has been 
+under construction, the faculty and student 
+on this campus alone have developed some 
+200 programs that are modules of courses 
+or suppliements to courses. These 
+programs will be available to students to 
+increase their productivity in learning. In 
+addition, we have beenb able to automate 
+the card catalogue for the library so that 
+students will be able to go through the card 
+catalogue from their dormitory rooms or 
+any other spot where they are using a work 
+station. This part of the project has only 
+begun. We are working hard to develop 
+more electronic publishing and to make
+SANDY HOOK, Connecticut, November 
+6, 1986 - Productivity Products
+International ,Inc. (PPI), developer an 
+dmarketer of an advanced software 
+engineering environment, today announced 
+the formation of the PPI Education 
+Allinace. Under this unique program, 
+colleges and universities are eligible for 
+low-cost, institution-wide lecenses for PPI 
+products, price reducations on books, 
+manuals an dseminars, and access to PPI's 
+technical hot-line. PPI also makes course 
+materials and speakers available to 
+qualifires institutions.
+Until December 31, 1986, EDUCOM 
+members can get an additional 15% off the 
+product license fees courses available
+Professor Raj Reddy of the Electrical 
+Engineering Department, Vice President 
+Patrick Cnecine, and President Cyert.
+Beginning with the argument that 
+America has lost its competetive edge in 
+industry through laziness and failure to 
+keep up with the Japanese, ServanSchreiber stresses the need to reeducate and 
+retrain all segments of the American 
+population to deal more effectively with 
+computers. "In short, both national 
+objectives of 'individual freedom' and 
+'economic power' can be attained only 
+through a revolution in education."
+The writer believes that ultimately 
+Carnegie Mellon will lead the way in this 
+"knowledge revolution," a phrase coined by 
+Carnegie Mellon's Senior Vice President, 
+Patrick Crecine. The revolution can then be 
+exported throughout the world. The
+more use of the tapes of books and journals 
+that are already in existence on library 
+system.
+We know, however, that we cannot 
+produce all the programs that we need for 
+the various courses anymore than we or any 
+other simgle campus can produce all the 
+text books that are necessary for a campus. 
+Following this line of thought, we were 
+able early on to get a grant from the 
+Carnegie Corporation that has enabled a 
+consortium of universities interested in the 
+network to be formed. The representatives 
+of these universities have done a great deal 
+of work to get agreement on the 
+characterisitics that we want in a student 
+work station and have been able to discuss 
+these standards with vendors in the hopes 
+of getting certain characteristics such as the 
+operating system standardized or at least 
+available on all student workstations. We 
+want an environment in which programs 
+developed at any one campus can be used at 
+any other campsu. The text book is our 
+model.
+One president has advised higher education 
+to be "cautiously optimistic" about the use 
+of computer in education. My advice is for 
+all universities to move as rapidly as 
+possible in this direction with as many 
+resources as can be made available, those 
+who do not will be left at the starting gate. 
+The revolution is under way and as always 
+the prizes are to be won by those with the 
+foresight and the courage to grasp the 
+opportunity enthusiastically and to work 
+hard to achieve the objectives. I think you 
+will see today what can be accompolished 
+even though we have only scratched the 
+surface. As we bvegin to integrate the 
+findings of cognitive psyuchology on 
+learning into our programs and to develop 
+"intelligent tutors, " we will truly be 
+making it possible for students to leam in a 
+more productive manner. We have our 
+greatest opportunity since the Gutenberg 
+Press was invented, and we must not fail.
+SCHEDULE CHANGES 
+THURSDAY
+The Annenberg Session from 2:30 to 3:30 
+will be open not by invitation only.
+Carnegie Children's School. Tour at 4:00 
+pm cancelled; tours conducted as scheduled 
+at 2:00 and 4:00 on Wednesday, and 
+Thursday at 2:00.
+The LISP Tutoring System. Locations of 
+the joint CMU-Pitt presentation has been 
+changed from Forbes Quadranglw to 
+Hillman Library, Room 272. Starting time 
+(2:00pm) remains unchanged.
+Computers for Public Management and 
+Policy Decision Making, the School of 
+Urban and Public Affairs presentation will 
+be held at 2:00, 3:00 and 4:00pm, Margaret 
+Morrison Carnegie Hall, Room 405.
+The Andrew System, Parts 1,11 and III. this 
+presentation will be held in the Bureau of 
+Mines Building Auditorium.
+Software 
+Initiative Group
+continued from page 1
+because, said David Sturtevant, Vice 
+President for Public Communications, "we 
+want to improve the relationship between 
+the software producing community and the 
+university community."
+"Universities have special needs," added 
+Sturtevant, "that make them different from 
+private individual or business users of 
+software. We want to provide a good 
+understanding of copyright law, and help 
+university users
+understand what constitutes legitimate use 
+of commercial software. And we want to 
+help develop alternatives to software piracy, 
+for students, for example, with very little 
+money. That might include things like site 
+licenses and volume discounts."
+To organize the vast information available 
+about software and realted services, 
+evaluations, publications, and user groups 
+is one goal of the "Software Information 
+Resources" task group. The group is 
+nearing completion of its first guide to 
+sources of information about software, and 
+has polans for extensions of the project 
+such as online databases.
+Another task group, on "Academic 
+Software Development," is researching 
+institutional support for the development of 
+Computer-Based Education software. And 
+the newest task group, "Managing Software 
+Acquisition," is evaluating different 
+environments and approaches to software 
+acquisition and management, with plans to 
+schedule seminars on relevant topics early 
+this spring.
+The Software Initiative is being funded, in 
+part, by a grant from the Annenberg/CPB 
+Project. Steve Ehrmann, Of 
+Annenberg/CPB, said that one of the most 
+important aspects of the Software Initiative 
+project is the awards program now being 
+established by the Academic Software 
+Awards task group, which is developing 
+policies and procedures for an annual awards 
+ceremony recognizing achievments in 
+academic software. "The awards program is 
+important both because it can motivate 
+people, and because it can help establish 
+standards for what is good software, M 
+commented Ehrmann.
+Well beyond the planning stages, the 
+Software Initiative has mobilized the 
+commitment of almost 100 talented 
+volunteers from both EDUCOM colleges 
+and universities and EDUCOM's Corporate 
+Associates. The project is moving quickly 
+to achieve its goal of having a major 
+positive impact on the quality and 
+availability of software in higher education.
+Book Review: The Knowlege Revolution
+PPI Offers EDUCOM Discount
+through the PPI Education Alliance.
+"PPI recognized the need to train today's 
+students in tomorrow's software 
+engineering practices and to make state-ofthe-art software engineering technology 
+available to researches, " says Dennis G. 
+Sisco, president.
+The PPI software engineering 
+environment allows developers working in 
+C to take full advantage of the benefits of 
+object-oriented technology without 
+sacrificing the efficiency portability and 
+familiarity of C. Software engineers using 
+this environment can quickly prototype 
+new applications, build efficient code much 
+faster and , at the same time, build reusable 
+software components.
+development and implementation of the 
+Andrew network was a major impetus for 
+the composition of the essay. "Since the 
+"computerized campus" system is several 
+years ahead, shouldn't this model be applied 
+in every country?" the author asks.
+Servan-Schreiber is an eminent author and 
+public figure. He is the founder of the 
+French weekly L'Express, a cabinet 
+Minister and member of Parliament. Books 
+written by Servan-Schreiber include The 
+American Challenge and The World 
+Challenge, both of which have been 
+published in twenty languages. From 1981 
+through 1985, he was the President of the 
+Paris Center for Computer Literacy. 
+Currently, he is Chairman of the 
+International Committee of Carnegie 
+Mellon.
+
+---------------------------------------------------
+
+Wednesday EDUCOM Events
+CONCURRENT 
+SESSIONS 
+Providing Academic 
+Information Services
+Ballroom 1
+William Y. Arms
+V.P. for Academic Svcs.
+Carnegie Mellon Univ.
+Patricia Battin 
+VP. & Univ. Librarian 
+Columbia Univ.
+Malcolm Getz
+Assoc. Provost for Info. Svcs. & Tech. 
+Vanderbilt Univ.
+Thomas J. Michalak 
+Dir. Univ. Libraries 
+Carnegie Mellon Univ.
+Integrated campuswide information services 
+that combine traditional library aetivities-- 
+acquiring, storing, and disseminating 
+information-and computing center 
+activities--helping faculty and staff use 
+resources. Organizational and educational 
+impacts.
+University-Industry 
+Research Partner
+ships: The Next
+Steps
+Ballroom 2 
+John W. Alden
+Mgr., Education Programs Development 
+Texas Instruments Incorporated
+John W. McCredile 
+Dir. of External Research 
+Digital Equipment Cop.
+Sandra Ward
+Dir. of Distribution & Sales 
+WATCOM Group
+Candice Wilut
+Dir., Coporate Associates Program 
+EDUCOM
+Examination of several new cooperative 
+models combining resources of 
+government, industry, and universities. 
+Examples will include programs such as 
+NSF Engineering Research Centers, The 
+Simiconductor Research Corporation, the 
+Massachusetts Microelectronics Center, and 
+direct corperate investments in universities.
+Different EnvironmentsDifferent 
+Approaches
+King's Garden North
+Introduction: Steven W. Gilbert 
+Managing Dir.
+Software Initiative & Corp. Relations 
+EDUCOM
+William Kennedy 
+Dean of Instruction 
+Th Louis Comm. College
+James Morris
+Dir., Information Tech Center 
+Carnegie Mellon Univ.
+Bruce A. Sherwood
+Assoc. Dir., Information Tech Center & 
+Center for Design of Educational 
+Computing
+Carnegie Mellon Univ.
+David Smallo)
+Dir., Information Tech 
+Hamilton College
+Contrasting an advanced environment for 
+software development by faculty-Andrew 
+from CMU-with other approaches to 
+finding and adapting software for 
+instiutions not computer intensive.
+Will Faculty Survive 
+the Computer Revolu
+tion?
+Le Bateau
+Diane P. Balestri 
+Asst. Dean of the College 
+Princeton Univ.
+Raymond Lewis 
+Director
+Learning and Tech Services 
+Peter Lyman
+Asst. Dir., Academic Computing 
+Michigan State Univ.
+Scott Roberts 
+Prof. of Philosophy 
+Carlow College
+The impact of computers on faculty 
+priorits in research and teaching and their 
+implications for institutional change.
+Regional and State
+wide Networking
+Kings Garden South
+David C. Brown
+Asst. Dir., Office of Info Tech
+Univ. of Wisconsin-Madison
+Douglas S. Gale
+Dir., Computing Resource Center 
+Univ. of Nebraska-Lincoln
+Edward Goldberg
+Asst Chancellor for Academic Affairs 
+New Jersey Dept of Higher Education
+Kenneth M. King
+Vice Provost for Computing
+Cornell Univ.
+Glenn Ricart
+Dir. Computer Science Cent
+Univ. of Maryland College Park
+Funding issues, benefits to user 
+communities and government of recently 
+announced or proposed inter-campus 
+networks sponsored by state governments 
+and NSF.
+EDUCOM 
+Membership 
+Committee Meeting
+12:15 - 1:15 pm 
+King's Plaza
+Box Lunch Sponsor
+ed by Productivity 
+Products Internation
+al
+12:15- 1:15 pm
+Attendees have four afternoon choices: 
+Campus Events at Pitt and CMU, and at 
+the Hilton, Special Interest Groups, 
+Corporate Demos, and Hospitality Suites.
+Special 
+Groups
+Interest
+Buses will be available outside the Hilton 
+after SIGs for conferees who wish to attend 
+campus tours.
+1:30 - 2:30 pm
+Liberal Arts Colleges - Ballroom 2 Front 
+TwoYear Colleges - Allegheny 
+Computer-Intensive Campuses - Ballroom 
+1 Front
+Medical Schools - Ballroom 1 Back 
+Engineering Schools - Ballroom 2 Back 
+Research Universities - King's Garden 
+North
+Software Pricing, Licensing, Discounts - 
+King's Garden South 
+Software Developers Forum - Le Bateau 
+Making Effective Use of Consulting 
+Services - Duquesne 
+BITNET for New Members - Liberty
+Campus Events
+2:00 - 5:00 pm
+Please see page 31 as well as as CMU and 
+Pitt brochures included in your registration 
+packet.
+SPIRES meeting 
+4:00 - 6:00 pm 
+Allegheny
+Aplle Computers Second Annual 
+California Wine Tatsing Reception 
+5:30 - 7:30 pm
+Kings Garden North, South, and Ballroom 
+Foyer
+Banquet
+7:45 - 10:00 pm
+Ballrooms 1 and 2 /
+Introduction: Michael Roberts 
+Acting President Designate 
+EDUCOM
+Video Presentation: 
+A Matter of Percep
+tion
+Akram Midani 
+Dean of Fine Arts 
+Carnegie Mellon Univ.
+Perhaps the best example of technology 
+today is the invention of the cinema and its 
+evolution from a curiosity to an instrument 
+registering life, a sequencer of action, and 
+the current condition of a new art form that 
+has its own semiotics.
+The Future of Com
+puting in Higher Edu
+cation
+9:00 - 10:00 pm 
+Ballrooms 1 and 2
+Steven P. Jobs 
+President 
+NeXT, Inc.
+Steven Jobs, founder of Apple Computer, 
+Inc., established NeXT with five others in 
+September 1985. At Apple Jobs was the 
+prime mover behind the Apple Education 
+Foundation, the Kids Cant Wait Program 
+(whereby Apple donated one computer to 
+every scholl in California), and Apple 
+University Consortium Program. NeXT, 
+his new company, is focused on developing 
+workstations and relating software exclusivley for the higher education markets
+
+to
+Lucente Addresses 
+University for 
+Network 
+Inauguration
+Continued from page 2
+And, because the shared inforamtiona is 
+stored on several file systems that act as 
+one, the system can be easily expanded to 
+serve more people.
+And people are using it...
+...to send messages...
+...to teach...
+...and to do research.
+As you'll see in the demonstrations in a 
+few moments, the screens in the sytem 
+provide clearer, more detailed images.
+The system also includes tools to give 
+users fast access to the capabilities of t 
+"Andrew" software.
+For example, "windows" let people 
+more than one type of information at 
+time on the screen. And a "mouse 
+users give commands simply by pointing 
+Using the system, a student can interr 
+a session of chemistry homework to f 
+out wwhat time the basketball game si 
+A programmer who is writing a sei 
+commands casn see - in a window on 
+screen - what the user of the finis 
+program will see as a result of 
+command.
+A student preparing a history paper c( 
+have notes in one window, a lib 
+research document in another, and pop 
+third to look up the professor's office ph 
+number  just to make sure the paper re 
+is due tomorrow.
+Clearly, we're well on our way tov 
+realizing Dick Cyert's vision.
+This is a project that neither IBM 
+Carnegie Mellon could have done alone 
+And, frankly, I think there are few o 
+business-university partnerships that c( 
+habe accomplished what we have.
+Both parties have contributed a great d 
+IBM has contributed money, equipm 
+people expertise, time and attention.
+And Carnegie Mellon has contribi 
+great vision, high standards and gc 
+people and, from the beginning, 
+committed its computing future to a 
+and innovative system.
+And, it has volunteered one of the r 
+precious commodities found at a univers
+- peoples attention.
+In essence, Carnegie Mellon has been 
+very large, cooperative test site fo 
+prototype computer system.
+And I want to thank everyone who has 
+participated, for their patience wothhits 
+imperfections and for their comments on 
+how to male the system work better.
+Both personally and professionally, I'm 
+very proud of this project 
+As an alumnus, I'm proud that today's 
+Carnegie Mellon students are using a 
+leading-edge computer system.
+As a trustee, Im proud that this 
+university is on the leading edge of 
+computer eresearch and is calling for other 
+universities to join in adopting the system 
+and creating software that will make life
+long learning more easily available to more 
+people.
+And, as an IBMer, I'm proud of ofr 
+partnership with Carnegie Mellon.
+It has influenced our technology and 
+increased ;our capacity for innovation, ft 
+had added to our research base, it has yielded 
+Andrew, a product of which were very 
+proud and it ahs helped establish a bridge 
+between computer scientists and computer 
+users.
+This project is and outstanding example 
+of the benefits of industry and academia 
+working together and an accomplishment of 
+which we can all be proud.

@@ -1,0 +1,5232 @@
+THE TARTAN
+Volume 83. Issue 1 ' Carnegie Mellon University. Pittsburgh. Pennsylvania 7 September 1988
+Inside
+News
+The Andrew File System 
+will be the basis of a na­
+tional file server network. 
+Also, see new University 
+appointments in “Carne­
+gie Mellon in Brief.” See 
+page 2.
+Focus
+President Cyert wel­
+comes you back to campus 
+and comments on the state 
+of the University.
+The Tartan urges you to 
+get involved to make the 
+most of your time spent 
+out of class. See page 4.
+Diversions
+Activities Board has- big 
+plans for this semester. 
+Among the highlights are 
+the comedy troupe Guilty 
+Children and the bands 
+Steel- Pulse and The Flow. 
+See page 9.
+The controversial movie 
+The Last Temptation of 
+Christ opened last week at 
+the King’s Court theater. 
+See page 9.
+Features
+The University Living 
+section debuts with a story 
+about freshmen arriving on 
+campus and upperclass­
+men returning. Accompa­
+nying the. story are full 
+color pictures of arriving 
+students. See page LI. 
+Also in University Life, a 
+profile of Mike Murphy and 
+his dual roles as Student 
+Ombudsman and Coordi­
+nator of Special Projects. 
+See page L2.
+Sports
+Carnegie Mellon’s sports 
+teams opened the year 
+strong. The football team 
+beat Duquesne 24-14 while 
+the soccer and cross-coun­
+try teams also won. See 
+pages L9 & L10.
+The Sweepstakes Safety 
+Committee has outlawed 
+new two wheel buggies. 
+DU who first built two 
+wheel buggies will be al­
+lowed to continue using 
+them temporarily. See page 
+L10.
+Index
+Classifieds..................Lll
+Comics...........................L6
+Diversions........................9
+Features.......................LI
+Focus................................4
+Sports.............................L9
+CMU enters joint venture with Apple
+By ALBRECHT T. POWELL
+Tartan Photography Editor
+The college of Humanities and 
+Social Sciences (H&SS) has 
+named the Apple Macintosh II 
+as its standard personal com­
+puter and is suggesting that all 
+freshmen enrolling in the fall of 
+1989 purchase one.
+The plan for the integration of 
+computers into H&SS came 
+about last year. Vice President 
+for Academic Services William 
+Arms was negotiating with 
+Apple to get more Macintosh 
+computers on campus and en­
+courage more people to use per­
+sonal computers. Apple asked 
+Arms if there was a particular 
+area in which they could concen­
+trate their inputs. Arms imme-
+diately suggested either H&SS 
+or Fine Arts. After examining 
+both, Arms discovered that 
+Stephen Fienberg, dean of 
+H&SS, was looking for ways to 
+focus computing into programs 
+in the college.
+Apple donated 60 Mac II work­
+stations and peripheral equip­
+ment worth about $500,000 to 
+the college. The computers will 
+be used primarily for faculty 
+members to develop educational 
+software. Fienberg’s plan is to 
+have one computer system that 
+everyone can use. With the fac­
+ulty working on the Mac II, and 
+with students expected to either 
+have one, or have access to one, 
+it will be easier to provide edu­
+cational media outside the class­
+room to help further educate 
+students and to more easily 
+share information.
+Arms stated that the Mac II 
+was a natural choice. It was 
+chosen primarily because it is 
+“an attractive machine. It has a 
+lot of personal power, it is pack­
+aged so that you can plug it in, 
+turn it on, and work with it, and 
+Macintosh software is very popu­
+lar.”
+Fienberg foresees within the 
+next two years a classroom 
+highly integrated with the com­
+puter, used as an educational 
+tool. Currently, students use a 
+variety of computational tools 
+including Macintoshes, IBM PCs 
+and various mainframe systems. 
+Fienberg is trying to get away
+from the present system and 
+centralize computing around a 
+college local area network (LAN) 
+based on personal computers.
+This would place in the hands 
+of students most of the software 
+they would need for their course- 
+work. Much of this software 
+would be purchased by the stu­
+dents at a very reduced cost. 
+“Take for example, and the de­
+tails are not yet worked out, but 
+a software package for about 
+$100 containing a word proces­
+sor, spread sheet, graphics pro­
+gram, statistical programs, sev­
+eral languages, communications 
+software, to name a few.” Stu­
+dents would then own these 
+programs for their own use.
+Fienberg states that existing
+software is only the first step in 
+the use of the computer. The 
+H&SS faculty are intensively 
+working to design coursework 
+integrated with the computer, 
+“...such things as HyperCard 
+stacks for syllabuses, real time 
+examples and problems, com­
+puter demonstrations to make 
+certain ideas clearer, and so on..
+There are several classes that 
+will immediately benefit from 
+students having their own com­
+puters. These include logic 
+courses, which are primarily 
+computer based, and program­
+ming courses, such as LISP and 
+Introduction to Pascal. Many 
+such courses were restricted 
+because the computing was done 
+continued on page 6
+Tartan Football ’88
+photo by Albrecht T. Powell
+Bryn Marelli gets tackled while practicing on the Cut.
+Volou mle 83.I8os 
+o.1'Cu3 lma.C.m 8.mran
+By JONATHAN LEVY
+Tartan Assistant News Editor
+Prompted by a toughened state law on 
+underage drinking, the University has 
+issued a new policy on the use of alcohol 
+by students.
+Both the law and the University policy 
+follow on the heels of a Liquor Control 
+Board raid on two Carnegie Mellon fra­
+ternities last November. However, Vice 
+President for Enrollment Bill Elliott 
+says neither is a reaction to the raid in 
+which 150 students were arrested on 
+charges related to underage drinking. 
+Elliott explained that the law is the 
+result of what he sees as an increasing 
+nationwide awareness of the dangers of 
+alcohol over the past two or three years.
+Under House Bill 668, which Gover­
+nor Bob Casey signed into law on March 
+25, underage drinking is a summary 
+offense (similar to a traffic ticket) pun­
+ishable by up to 90 days in jail and a 90 
+day suspension of the offender’s driver’s 
+license. For repeat offenders a $500 fine 
+can be added and the driver’s license 
+suspension can last up to one year.
+Selling or furnishing alcohol to minors 
+and misrepresenting one’s age in order 
+to buy alcohol are now third degree mis­
+demeanors. Both carry a maximum 
+penalty of one year in jail in addition to 
+fines. In the case of falsifying one’s age, 
+the law also requires a 90 day driver’s 
+license suspension for first time offend­
+ers and a one year suspension for repeat 
+offenders. In addition, magistrates are 
+not allowed to give suspended sentences 
+for either crime.
+In order to assist students in comply­
+ing with the law, the University has 
+issued an alcohol policy which was sent 
+to parents of students over the summer 
+and will be distributed on campus in the 
+near future. The two-page document 
+• describes significant parts of the Penn­
+sylvania law and establishes rules for 
+the use of alcohol at student social 
+events.
+Under the policy, permission must be 
+obtained from the Dean of Student Af­
+fairs to serve alcohol in situations where 
+students will be present. Before the ap­
+proval will be given a Dean, department 
+head, faculty member, or non-hourly 
+employee of the University must take 
+personal responsibility for making sure 
+that students under 21 years old are not 
+served.
+The policy also requires that on-cam- 
+pus events at which alcohol is served be 
+held indoors and in private or semi-pri- 
+vate areas. Organizers of the events must 
+restrict publicity of the event to the Uni­
+versity community and may not publi­
+cize the fact that alcohol will be served. 
+Students are reminded that Liquor 
+Control Board licenses are required be­
+fore one may charge money for alcohol.
+The alcohol policy states that the Uni­
+versity recognizes students’ right to pri­
+vacy in their residential areas and sug­
+gests that the University will not at­
+tempt to exert control over students in 
+these areas unless they cause damage or 
+violate the rights of others. However, the 
+policy points out that students are still 
+responsible for obeying state law.
+The techniques for enforcing the alco­
+hol policy’s rules are still being devel­
+oped. The policy itself states that stu­
+dents who act irresponsibly will be sub­
+ject to “severe disciplinary action begin­
+ning with monetary sanctions up to and 
+including suspension or expulsion.” A 
+letter sent to parents along with the 
+alcohol policy states that Campus Police 
+will be allowed to issue citations to stu­
+dents who violate the alcohol policy. The 
+citations will carry fines between twenty 
+and fifty dollars.
+According to Elliott, the University is 
+not attempting to take over primary 
+responsibility for enforcing state law. 
+Instead, he said that “We are basically 
+trying to at least get in between our 
+community and the law to the point in 
+continued on page 6
+Fall 1988
+giM l88mralor.Us 
+v.eUt .oCu3s 18
+By CARLOS FRANCO
+Tartan News Editor
+Concern is mounting over the 
+decrease in the number of Car­
+negie Institute of Technology 
+(CIT) applications for the fall 
+1988 term.
+There were 2295 applications 
+received for this fall’s engineer­
+ing class. This number is down 
+almost 200 from last year’s mark.
+Associate Director of Admis­
+sions John Papinchak stated 
+that CMU fell short of its target 
+of350 CIT students. Of the 1204 
+admitted, only 334 have chosen 
+to attend Carnegie Mellon. Last 
+year 320 students out of 1047 
+accepted chose to attend CMU.
+According to Papinchak, the 
+decrease in engineering appli­
+cations appears to be a national 
+trend. He also states that Direc- 
+a.UorU1uv .U 8l'u y
+Plso glI81s 83.buao huCrUv saCuv1mu
+By ERIC W. LEULIETTE
+Tartan Contributing Editor 
+Though the East Campus 
+construction project is run­
+ning behind schedule, Uni­
+versity officials still intend to 
+have a new dormitory ready 
+for occupancy by the fall of 
+1989. “We’d like to make up 
+time some way,” commented 
+Associate Director of Campus 
+Operations Oscar Mayer.
+Some unplanned complica­
+tions this summer have 
+slowed down the construction, 
+even though workers lost little 
+time because of rain. One 
+major complication was the 
+discovery of a shelf of rock 
+under the site for the new 
+dormitory and dining facility, 
+tore samples had indicated 
+that caissons needed to se­
+cure the building’s foundation 
+would have to be placed 50 to
+75 feet into the ground to reach 
+a solid base. The discovery of the 
+shelf forced a redesign of the 140 
+caissons.
+Double shifts of work may 
+become necessary if there are 
+further delays. At present con­
+struction is not scheduled for
+weekends or during early 
+morning hours to control 
+bothersome noise.
+continued on page 6
+a- -•
+photo by Kevin Marsh
+Tech Field was demolished in June to make way for the new dormitory.
+
+---------------------------------------------------
+
+2The Tartan • Carnegie Mellon • Wednesday, 7 September 1988
+Carnegie Mellon in Brief
+7Uv3ue Srmu VnsouI '.us Ulor.Ulm
+Carnegie Mellon and IBM have announced plans for the ex­
+perimental deployment of a prototype nationwide computer 
+file system based on the Andrew File System (AFS). The 
+system will initially involve researchers only but is expected 
+to be expanded to include the business community. Carnegie 
+Mellon and IBM hope AFS will become an industry standard.
+S31uClU prmms 9NVgN aClr3
+In early August Metallurgical Engineering and Materials 
+Science professor Richard J. Fruehan became the first occu­
+pant of the POSCO chair in Iron and Steelmaking. The chair 
+is funded by a $1 million grant from the Pohang Steel 
+Company of South Korea. Fruehan received his bachelor’s 
+and doctor’s degrees from the University of Pennsylvania and 
+has been a member of the MEMS faculty since 1980.
+New director of physical plant named
+In June William G. Matthews, director of facilities for the 
+Pittsburgh School District for the past five years, was ap­
+pointed director of Physical Plant. Matthews has responsibil­
+ity for Design and Construction, the Craft Maintenance 
+Shops, Grounds and Transportation, and General Receiving 
+and Housekeeping. Prior to joining the Pittsburgh School 
+District, Matthews held several senior facilities management 
+positions in the U.S. Navy.
+Lazarus appointed Associate Dean
+Associate Dean of Carnegie Mellon’s Graduate School of 
+Industrial Administration Dr. Barbara Lazarus was ap­
+pointed Associate Provost of Academic Projects on July 1. She 
+will implement a new program of academic advising, estab­
+lish new relationships between offices responsible for aca­
+demic and career development, and assist the university’s 
+Dean’s Council in expanding CMU’s international program.
+Murphy accepts new positions
+Michael Murphy has been selected as the new Student 
+Ombudsman and Coordinator of Special Projects.
+Murphy’s job is twofold. As ombudsman, he is responsible for 
+dealing with student concerns and problems on a confidential 
+basis. If someone doesn’t know where to turn, Murphy will 
+direct them to the particular department or area to get the 
+assistance they need. Even on more broad based issues such 
+as the future of the campus, Murphy wants students to come 
+and talk to him.
+As coordinator of special projects, Murphy assists in the 
+planning, programming, and implementation of campus wide 
+projects. These range from athletics to student activities to 
+faculty and student interaction.
+Murphy has been associated with Carnegie Mellon for several 
+years working as Assistant Director of Housing for Residence 
+Life. See related story: University Living pg L2.
+Crime and Incident Report
+8/25 CRIMINAL ATTEMPT, 5:23 am. Unknown person at­
+tempted to steal a bike from the Donner bike rack. Perpetrator fled.
+8/25 THEFT, 11:31 pm. Unknown persons removed assorted art 
+supplies from a student’s basement studio in Roselawn Apart­
+ments. Value unknown.
+8/25 CRIMINAL MISCHIEF, 7:56 pm. Person unknown shot a 
+BB at the front window of Chi Omega Sorority.
+8/27 ASSAULT, 3:35 am. Security called to break up a fight in the 
+Quad. Fighting stopped when Campus Police arrived.
+8/28 DISORDERLY CONDUCT, 2:19 am. Male student would 
+not leave female student’s Morewood Garden room. Male student 
+was disrespectful, uncooperative and belligerent to Campus Police. 
+Male student was issued a State Citation for underage drinking.
+8/28 CRIMINAL MISCHIEF, 4:32 am. Unknown persons splat­
+tered plaster mix and paint over the first floor and stairwell of 
+Margaret Morrison Carnegie Hall.
+M3..8 eroCv3lelm 
+solmms i3lUwm3lF 
+8ulau olmcs
+GENEVA (AP) — The U.N. 
+secretary-general blamed dis­
+agreements over an immediate 
+troop withdrawal and a mari­
+time cease-fire for stalling for­
+mal Iran-lraq peace talks.
+“We are trying to clear the first 
+part (of a U.N. peace resolution) 
+on an immediate cease-fire and 
+a troop withdrawal without de­
+lay. . . . The cease-fire at sea is 
+part of the problem,” Secretary- 
+General Javier Perez de Cuellar 
+said.
+Formal sessions between For­
+eign Ministers Ali Akbar Ve- 
+layati of Iran and Tariq Aziz of 
+Iraq have been suspended since 
+Aug. 26. Plans for a formal ses­
+sion Monday, Aug. 29, were 
+shelved without explanation.
+Low-level talks with Iran and 
+Iraq were continuing.
+Aziz said last Monday, that it 
+would be impossible to advance 
+to other points until Iran agreed 
+that the cease-fire extended over 
+all Persian Gulf waters.
+“It is a very difficult problem, 
+and it cannot be expected that 
+this will be resolved in a few 
+days,” Perez de Cuellar said.
+DvlUsc VCr8nl3v 
+j.3cu3s 7'3uu M. 
+PUv Vo3rcu
+GDANSK, Poland (AP)—Ship­
+yard and dock workers in 
+Gdansk agreed to end their 
+strike at the request of Lech 
+Walesa, but striking coal min­
+ers who began the current labor 
+unrest demanded to meet with 
+the Solidarity chairman.
+In a meeting with Walesa yes­
+terday, senior government offi­
+cials promised talks on reinstat­
+ing the banned free trade union 
+movement and jointly solving 
+the country’s social and economic 
+problems. In exchange, the offi­
+cials demanded an end to 
+Poland’s most serious strike 
+wave in seven years.
+Walesa won agreement to end 
+the strikes from workers at the 
+Lenin shipyard and the sepa­
+rate Repair shipyard as well as 
+the Gdansk port after he went to 
+all three facilities to deliver his 
+appeal to the striking workers.
+Seven other enterprises re­
+mained on strike.
+A Solidarity spokesman said 
+workers at the July Manifesto 
+mine in southern Poland said 
+they would not end their occu­
+pation strike until local issues of 
+pay and work conditions are 
+settled and until Lech Walesa 
+visits the mine to explain his ap­
+peal.
+NATIONALNEWS?
+Aumol pmr'Co BBkB 
+a3lsCus rU Almmls
+GRAPEVINE, Texas (AP) — A 
+Delta Air Lines 727 crashed on 
+takeoff Wednesday at Dallas 
+Fort-Worth Airport, officials 
+said. The Boeing 727 en route to 
+Salt Lake City went down in 
+hazy sunshine, broke into two 
+and burst into flames on a flat, 
+grassy field near the runway. 
+Many of the survivors climbed 
+to safety through a blackened 
+hole in the top of the cabin.
+At least 96 passengers and crew
+scrambled to safety through the 
+shattered fuselage.
+Nine deaths were confirmed 
+following the crash, Delta 
+spokesman Bill Berry said, and 
+about 40 people were reported 
+seriously injured.
+A source involved in the Na­
+tional Transportation Safety 
+Board investigation said early 
+indications were that the jettook 
+an unusually long time to be­
+come airborne, that it climbed to 
+only about 80 feet, and that the 
+left wing struck the runway first.
+The Boeing 727 was powered 
+by JT8D engines manufactured 
+by Pratt & Whitney, a unit of 
+United Technologies Corp.
+David M. Long, a spokesman 
+for Pratt & Whitney, said the 
+company immediately sent two 
+investigators to the crash site to 
+assist with the investigation.
+Long said it was a routine pol­
+icy for the company to send its 
+investigators to all crashes in 
+which aircraft are powered by 
+Pratt & Whitney engines.
+He said it was “way too early” 
+to speculate on the cause of the 
+crash.
+The JT8D received its certifi­
+cation from the Federal Avia­
+tion Administration in 1967 and 
+about 10,000 are now in use.
+due mle s8uuvs 
+aCuac 83.aussrU'
+WASHINGTON (DJ) — A fed­
+eral law guaranteeing custom­
+ers of banks, savings associa­
+tions and credit unions timely 
+access to money they deposit by 
+check took effect Thursday.
+Here are some of the main 
+provisions of the law:
+— Local checks written on a 
+financial institution in the same 
+metropolitan area or within the 
+same Federal Reserve check- 
+processing region must be avail­
+able within three business days.
+— Funds on non-local checks 
+can be held for as long as seven 
+days after deposit.
+—Funds from cashiers checks, 
+certified checks and government 
+checks must be made available 
+for withdrawal by 9 am on the 
+next day of business after de­
+posit.
+— By Sept. 1, 1990, the hold 
+period will shrink to two days 
+for local checks and five days for i 
+non-local checks.
+News Briefs appear 
+courtesy of Dow Jones
+JOBS ON CAMPUS
+—
+Here are a few of the positions currently available:
+Architecture Shop (4) Work in wood shop. Pay rate open. Number of work hours per week varies.Contact: 
+Scott Smith @ x2361 :College Work-Study only.
+ECE Store(8-10) Sales of electrical components and basic requests from faculty and staff. Should be available 
+during store hours, 8:30 a.m. to 5:00 p.m., and some ‘til 9:30. Electrical Engineering student desirable. $3.75/ 
+hr. 10-15 hrs./wk. Work-Study not necessary.Contact Al Grupe @ x3328.
+Networking and Communication^) Student will assist full-time technicians in the installation, maintenance, 
+and repair of data and telecommunications equipment across the campus. $3.75/hr. 15 hrs./wk. Contact: Dan 
+Muchnok @ x2651. College Work-Study preferred.
+Physics( 1 ) Run errands, distribute mail, some filing, copy work and other miscellaneous clerical work. $3.35- 
+$4.25/hr. 20 hrs./wk. Contact: Thelma K. Boggs @ x2740 College Work-Study Only.
+Robotics(l) C++ programming on Sun3/260 workstation with real time image processing hardware. Will 
+develop image processing algorithms for real-time vision processing. Prior C/C++/UNIX experience preferred. 
+$4.25+/hr. (depending on qualifications) 20-40hrs./wk. Contact: Duane T. Williams @x7682. College Work- 
+Study Only.
+SEI-Computing Facilities(3) Assist hardware technicians in instalation, maintenance, repair, moving of 
+computer equipment, and maintaining lab area and computer rooms. $4.00-$6.00/hr. 10-15 hrs./wk. Contact: 
+Alan S. Koch @ x6395. College Work-Study preferred.
+Vending and Laundry(6) Clean vending and laundry equipment, pack laundry tokens, pickup and deliver dry 
+cleaning on campus. Stock shelves in vending area. $3.50/hr. 20 hrs. Contact: Don Ramsey or Mary Klawinski 
+@ x2138. College Work-Study Only.
+University Publications(3) Instruct clients on use of desktop publishing programs on the Macintosh to include 
+Pagemaker, Illustrator, Microsoft Word etc. Knowledge of design and layout essential. Knowledge of 
+PostScript desirable. $5.00-6.00/hr. Tim Basinski @ x2970. College Work-Study preferred.
+Many More Positions Available! Stop by the 
+Financial Aid Office today and pick up a job 
+directory or contact Wendy Sherman @ x2068.
+Computer Fair, Atrium of UCC Tues. 20 Sept. 9a.m. - 4p.m. Sponsored by the CMU Computer Store*
+*%. division of Academic Computing
+
+---------------------------------------------------
+
+FREE CONCERT
+SUNDAY SEPT 11 
+2:00 PM
+(RAIN LOCATION : CARNEGIE MELLON GYMNASIUM)
+FUNDED BY YOUR STUDENT ACTIVITIES FEE
+camegie
+IummTU
+BROUGHT TO YOU BY 
+CARNEGIE MELLON ACTIVITIES BOARD 
+AND BY THE UNIVERSITY OF PITTSBURGH 
+PITT PROGRAM COUNCIL
+LIVE REGGAE 
+FLAGSTAFF HILL
+
+---------------------------------------------------
+
+ms
+Another year, another $17,000
+THE >AllNeW' 
+PREPARED 
+CARNEGIE MELLON 
+STUDENT
+WöTHßCJöK
+B R^l IN
+MACINTOSH 3E 
+HO m&ABW
+f=OU- CoU>R 
+SUPB.&. CoMPi?TE/{
+Words from the Student Body President
+Andy tells you where to take your
+Freshman Camp is over, and 
+Orientation is just a memory. 
+Thank God — it’s about time. 
+You were all starting to have a 
+little too much fun there, and we 
+were worried that you’d get the 
+wrong idea.
+Carnegie Mellon isn’t about fun. 
+It’s no sleep. No social life. No 
+time for anything youwanttodo, 
+unless you really like lab reports 
+and minitab.
+But hey, don’t complain. You 
+expected that. You could have 
+gone to a less academically 
+strenuous school, but no-o-o, you 
+chose Carnegie Mellon.
+But you also expected to have 
+some fun. College is “the last 
+step before you enter the real 
+world... time to sow wild oats... 
+time to blow off steam... time to 
+grow up.” and a gazillion other 
+cliches that the college catalogs 
+and your parents told you.
+Carnegie Mellon tries to 
+smother that; and it will suc­
+ceed, if you let it.
+There are ways to fight back — 
+the first was at last Thursday’s 
+Activities Fair. In case you 
+missed it, over 40 organizations 
+were all competing for the same 
+scarce resource. You.
+With Dean Stephen Fienberg’s 
+endorsement of Apple’s Macin­
+tosh II and suggestion that all 
+1989 Humanities and Social 
+Sciences freshmen purchase one 
+o^ the $3,000 machines, Carne­
+gie Mellon is on the threshold of 
+some exciting possibilities, pro­
+vided that it enhances education 
+rather than becomes a financial 
+burden.
+It’s hard not to be skeptical. For 
+how many years has the admini­
+stration promised to require all 
+freshmen to buy their own com­
+puters? For how many years has 
+the administration promised to 
+make all classes use the Andrew 
+computer system? For how many 
+years has the administration 
+promised to activate the campus 
+ethernet? It’s hard not to be 
+skeptical.
+But...
+Computers can be used as 
+powerful teaching aids, comple­
+menting existing teaching meth­
+ods and instructional materials, 
+not replacing or forcing the rede­
+sign of existing techniques.
+The primary issue is whether
+No matter what your interests, 
+no matter what you have to con­
+tribute, no matter what you are 
+looking for, there is probably an 
+organization on campus that can 
+fill your needs.
+From the Society for Creative 
+Anachronism to GALA, WRCT 
+to the Computer Club, there is a 
+vast legion of diverse groups on 
+campus that actually (can you 
+believe it?) encourage fun. Ex­
+pect it, even.
+Check them out. The Activities 
+Fair was last week, but most or­
+ganizations welcome new mem­
+bers year around.
+We don’t mean to sound so cyni­
+cal. We have fun at The Tartan
+— a lot of it. It’s just that we’ve 
+watched too many of our class­
+mates go through the educational 
+machine with nothing to show at 
+the end but a transcript, a nasty 
+disposition and bags etched per­
+manently under their eyes.
+The bottom line is making the 
+most out of your four years here, 
+and that requires augmenting 
+your academics with social ac­
+tivities. As Einstein once said, 
+“Never let school interfere with 
+your education.” Words we take 
+to heart.
+using computers is a more effec­
+tive way to teach. Forcing stu­
+dents to buy powerful worksta­
+tions and forcing faculty mem­
+bers to integrate their courses 
+onto those computers will not 
+automatically make a Carnegie 
+Mellon education any better than 
+it is now.
+Another consideration is price. 
+When compared to the cost of a 
+Carnegie Mellon education, 
+$3,000 might not seem like a lot 
+of money. But, to a family com­
+pletely strapped to pay the exist­
+ing tuition, $3,000 might be the 
+straw that breaks the camel’s 
+back.
+Dean Fienberg guarantees that 
+no one will be denied a computer 
+because of cost. But, unless some 
+creative renting schemes are 
+actually implemented or public 
+clusters are expanded for stu­
+dents who cannot afford to buy 
+their own machines, Dean Fien­
+berg will have a tough time keep­
+ing his promise.
+Overall, the move is a positive 
+one... if the University keeps its 
+promises.
+Welcome back to a new year of con­
+struction. Though it might be incon­
+venient at the moment, mostoftheeast 
+campus construction should be done by 
+next year. Improvements have not just 
+been at the construction site. If you 
+went to classes last week, you probably 
+saw that more classrooms have been 
+carpeted and have new desks.
+Andy Robitshek
+The campus looks different now than 
+it did three years ago. There have been 
+many changes and things are assuredly 
+looking better. An important change in 
+making our university a more educa­
+tional environment for everyone is the 
+interaction of students and faculty out­
+side of the classroom. Freshman Orien­
+tation this year included an academic 
+orientation to campus with additional 
+contact with faculty members besides 
+the classroom experience.
+Although prices for books have gone 
+up, the new increased discount of 15% 
+on textbooks helps reduce that cost. We 
+are continuing to work with the book 
+store to try and be able to have them 
+provide textbooks at cost for students 
+in the next two years.
+I want to welcome all of you back to 
+the campus and to give a special wel­
+come to our freshmen. As you can see by 
+looking to the east, we have had a busy 
+summer. The work is vigorously under­
+way to build the new dormitory with 
+new dining facilities, as well as a park­
+ing garage and new athletic fields.
+The loss of the football field has meant
+President Richard M. Cyert
+a problem for the football team, bothfor 
+practice and for games. We have solved 
+the practice problem by utilizing the 
+Cut, as I am sure you have all noticed. 
+We looked for other practice fields, but 
+decided in favor of the Cut so that we 
+could eliminate long bus rides for the 
+players and enable them to continue to 
+have more time for studying, as well as 
+for practice. Since we will be playing 
+our games at Mt. Lebanon, it will be a 
+little less convenient to get to the games. 
+We will, however, be running buses, 
+and I hope that all of you will be able to 
+attend and cheer the team. I was pleased 
+to learn that the freshmen went to the 
+game last Saturday and released 92 
+balloons, symbolic of their 1992 gradu­
+ation date. I think that idea was terri­
+fic.
+It is good to see the campus filled with 
+students again. This campus was built 
+for people like you, and it has a lonely 
+feeling and appearance when there are 
+only a few students here.
+This year’s freshman are another out­
+standing group of students. They come 
+from all parts of the world, and all of 
+them have had significant academic 
+success in their school careers. The 
+total registered is approximately 1,170, 
+slightly above the number we aimed at,
+1,150.
+We had orientation for the new fac­
+ulty as well as for the freshmen. I par­
+ticipated in both orientations and was 
+pleased to meet some of our new faculty
+There are also other events and proj­
+ects occurring on campus. A large ef­
+fort is being put forth to get students 
+involved in sporting events. Many 
+people have complained about the lack 
+of school spirit here, and for one of the 
+first times, the administration has 
+placed an effort in getting students 
+involved in these events. There were 
+seven busloads of fans who went to the 
+first football game.
+This year I will again be working with 
+the Student Senate to coordinate the 
+SACs (Student Advisory Councils — a 
+group of students in a department who 
+meet with the department head or other 
+advisor) in all the departments. The 
+departments will then be getting stu­
+dent input on ideas and projects that 
+they are working on. Problems in de­
+partments will get solved before they 
+get out of hand. If you do have a prob­
+lem, you can try and get hold of the SAC 
+in your department. At the same time, 
+any of the Student Senators are avail­
+able to help you.
+I have been asked by many people 
+about getting the Fence fixed, and yes, 
+we are working on it. We are looking at 
+a few different solutions to try and fix it 
+as soon as possible. If you have any 
+suggestions, please feel free to call me
+and some of our freshmen. The aim of 
+an orientation is to make new people 
+better acquainted with the university 
+and its physical surroundings, but more 
+importantly, better acquainted with the 
+philosophy and the thrust of the insti­
+tution.
+Carnegie Mellon remains dedicated 
+to achieving excellence in our teaching 
+and in our research. The two objectives 
+are equally important and are the dis­
+semination of knowledge and the crea­
+tion of new knowledge. We have put an 
+increasing emphasis on improving our 
+teaching over the last five years, and 
+we are making significant progress. I 
+want Carnegie Mellon to be the best 
+teaching university in the country and 
+also the best research university in the 
+country. We can accomplish this goal 
+by emphasizing, more than most re­
+search universities do, the importance 
+of teaching. We have a large number of 
+faculty who are dedicated to being out­
+standing teachers and, with the help of 
+the Teaching Center, we are improving 
+both faculty and graduate students in 
+their ability to teach. The Teaching 
+Center, under Ted Fenton, is an essen­
+tial part of this whole approach.
+We are continuing to work hard on 
+raising money, so that we con complete 
+our building program. The fund drive 
+is going well, and we are well on our 
+way to attaining the $200 million that 
+we are after. The difficulty is in getting 
+the dollars in the form that we want. It 
+is easier for us to get dollars for profes­
+sorships and scholarships than it is for 
+bricks and mortar. Fewer and fewer 
+people are interested in buildings, but 
+we are finding a number of people who 
+are still interested in supporting that 
+activity. I am devoting an increasingly 
+larger proportion of my time to fund 
+raising and have been doing so this 
+summer. We will continue in this mode 
+until we have completed the campaign 
+and received the funds that we need for 
+the new buildings that we wish to have.
+problems
+at the Student Senate office, Skibo roomr 
+59, atx2115.
+During the year, I will have many! 
+committees working on projects to help' 
+improve our campus. These include! 
+committees dealing with the retail’ 
+stores, the Senior Banquet, faculty 
+course evaluations, the tenure system,, 
+and the Registrar’s Office. In addition,, 
+I have reformed the Enthusiasm Com­
+mittee with Miss Varsity Natalie Ca­
+pone and Chairperson of Student Sen­
+ate Erica-Levy as co-chairmen. This 
+committee will be helping to keep at­
+tendance up at the football games,; 
+Homecoming, and many other pro­
+grams during the year. There will also 
+be a SAMS (Students Against Multiple, 
+Sclerosis) group this year. If you are 
+interested in being on any of these com­
+mittees, please contact me at x2115.
+I am always open to more sugges­
+tions, ideas or complaints and am very1 
+willing to sit down and talk to with you. 
+Starting next week, I will again be 
+having office hours in the Senate Of­
+fice, and hope to listen to many of your 
+suggestions. If you do have any prob­
+lems, just stop by and talk to me or any! 
+Student Senator.
+Good luck to all of you thoughout the 
+year.
+At the request of Student Body Presi­
+dent Andy Robitshek and Tartan Edi- 
+tor-in-Chief Karl Barnhart, I am going 
+to talk to the students concerning the 
+state of the University. I am pleased to 
+have this opportunity, and I hope that 
+all of you come to that talk when it is 
+scheduled. It will give me a chance to 
+speak about a variety of events under­
+way at the University and will also give 
+you a chance to ask a few questions.
+I again extend a warm welcome back 
+to the campus to all of you. It is great to 
+have you back. I know this university is 
+a place where we work hard. At the 
+same time, however, I hope that it is a 
+place where you can enjoy yourself. I 
+wish you the best of luck for the coming 
+semester and hope that I will have a 
+chance to meet those of you whom I 
+have not yet met. My best wishes for a 
+great year.
+“(§)#%? !?g* $>
+Jgf2•W,L7zR 
+R,R,R$g0RE7 
+L-L'iSgK--HG
+Fed up with CMU? Tell us 
+about it. Send your questions, 
+comments, criticisms and sug­
+gestions, via Campus Mail, to: 
+The Tartan 
+Room 50 
+Skibo
+Remember to include your name 
+and phone number for verifica­
+tion (The Tartan will withhold 
+names upon request.)
+We are your newspaper.
+THE TARTAN
+Editor-in-Chief..........................Karl Barnhart
+Managing Editor..................Erika Peterson
+Business Manager.............Russ Seligman
+News Editor..........................Carlos Franco
+Asst. News Editor...............Jonathan Levy
+Features Editor......................Howdy Pierce
+Sports Editor...............................Josh Ruben
+Asst. Sports Editor........Natalie Hawryluk
+Diversions Editor..................Michael Rose
+Photo Darkroom Editor....Albrecht Powell 
+Photo Assignment Editor ...Andy Gillespie 
+Asst. Photo Editor.............George Thomas
+Art Editor.......................Grant Carmichael
+Advertising Manager...........Dustin Frazier
+Magazine Editor..............Judy Haraburda
+Copy Editor.................................Drue Miller
+Dossier Editors.......................Leslie Griffin
+Jim Williams
+Contributing Editors.............David N. Levy
+Stewart Levine 
+Eric W. Leuliette
+Carnegie Mellon University’s student newspaper since 1905
+The Tartan is the student newspaper ol Carnegie Mellon Univer­
+sity. It is a weekly newspaper, published by students each Tues­
+day during the fall and spring semesters, at no cost lo members 
+ot the university community. It is primed by Western Pennsylva­
+nia Printing,Inc. Subscriptions are avallablo (or $15 per semes­
+ter. $25 per year. The Editorial appearing at the beginning of the 
+opinion section is the official opinion of The Tartan editorial 
+board. Columns are the opinions of individual authors who are 
+not necessarily on The Tartan editorial board or staff. Letters to 
+the Editor are opinions of individual authors who are usually 
+members of the University community. A fetter intended for pub­
+lication must be signed and include the writer's address and 
+phone number for verification. Names will be withheld upon 
+request. The Tartan reserves the right to condense or reject any
+letter or column. Copyright © 1988 by Tho Tartan. The Tartan 
+editorial board reserves the right to withhold from publication 
+any copy it deems unfit for publication.
+Office: Skibo 50 (412) 268-2111 
+Mailing address: The Tartan / Box 17 / 
+Carnegie Mellon University /
+Pittsburgh, PA 15213
+Funded in part by the Activities Fee.
+All rights reserved.
+Library of Congress ISSN #: 0890-3107.
+And for just $3,000 more
+Cyert offers words of welcome & encouragement
+
+---------------------------------------------------
+
+Student Senate welcomes you back to 
+campus and urges you to
+et Imwúímedi
+The Student Senate meets every 
+Tuesday at 7pm in the Wherrett Room
+1STUDENTS:
+A MUSICAL PICTURE
+YOU CAN'T AFFORD TO MISS NATI A OLIAT ELWS HPRDCGMU AMD
+rWGM CWRL ELGIMDH AP PiI »GPPHORLUi hCSniWMC* NiILIvH SRHGk EWL Auu PCnIH WE nIWnuIt 
+kLIAPGMU A DGEEILIMP nGkPRLI GM IfILCWMIvH SGMD* wMD PiGH SATIH PiI »GPPHORLUi hCSniWMC 
+PiI nILEIkP nuAkI PW kuWHI CWRL ICIH AMD IMrWC PiI fGI¦*
+FWL AH uGPPuI AH $4.75 nIL kWMkILP' CWR kAM kAnPRLI nILEWLSAMkIH nLIHIMPGMU PiI SAHPILH 
+WE SRHGkVGMkuRDGMU oWaALP' eLAiSH AMD eIIPiWfIM* wMD IfILC HROHkLGnPGWM nAkTAUI 
+EIAPRLIH nLWULASH kWMDRkPID OC PiI GMPILMAPGWMAuuC LIMW¦MID LWLGM MAAaIu* wH PiI MI¦ 
+oRHGk sGLIkPWL WE PiI »GPPHORLUi hCSniWMC' iI ADDH SWLI GMPIMHGPC' SWLI DGSIMHGWM' SWLI 
+GMHGUiP PW CWRL SRHGkAu nGkPRLI*
+hnGkI Rn CWRL kRLLGkRuRS OC GMkuRDGMU PiI »GPPHORLUi hCSniWMC GM CWRL kWuuIUI 
+AkPGfGPGIH* cWRL IDRkAPGWM GHMlP kWSnuIPI RMPGu CWRvfI WLDILID*
+hIIGMU GH OIuGIfGMU* hW kAuu 392-4821 PW WLDIL* eI HRLI PW AHT AOWRP PiI
+OIHP HPRDIMP fAuRI AfAGuAOuIV 24 yLGDAC IfIMGMU kWMkILPH* dL' HGSnuC EGuu WRP AMD SAGu PiI 
+APPAkiID WLDIL EWLS*
+Experience a sound worth seeing.
+THE 1988 89 SEASON FOR STUDENTS
+FRIDAYSATURDAYSUNDAY
+WORKS BYCONDUCTORSOLOISTA1A2C1B1B3B4
+WAGNER
+RAVEL
+BERLIOZ
+CHARLES DUTOITSept.
+16
+Sept.
+17
+Sept.
+18
+Sept.
+18
+BEETHOVEN
+CHOPIN
+AARON COPLAND
+YOEL LEVIHORACIO GUTIERREZ, pianoSept.
+23
+HINDEMITH
+GLAZUNOV
+SAINT-SAËNS
+YOEL LEVIBORIS BELKIN, violinSept.
+30
+Oct.
+2
+Oct.
+2
+SIBELIUS
+SHOSTAKOVICH
+KRZYSZTOF
+PENDERECKI
+KRZYSZTOF PENDERECKIVICTOR TRETYAKOV, violinOct.
+7
+WEBER
+LISZT
+SHOSTAKOVICH
+MYUNG-WHUN CHUNGPETER DONOHOE, pianoOct.
+21
+Oct.
+22
+MOZART
+SCHUBERT
+JERZY SEMKOWRUDOLF FIRKUSNY, pianoNov.
+4
+Nov.
+6
+Nov.
+6
+STRAUSSLORIN MAAZELLYNN HARRELL, cello 
+RANDOLPH KELLY, viola
+Nov.
+11
+Nov.
+12
+BRAHMSLORIN MAAZELPAMELA COBURN, soprano 
+LUDWIG BAUMANN, baritone 
+MENDELSSOHN CHOIR OF PITTSBURGH 
+ROBERT PAGE, director
+Nov.
+18
+STRAVINSKY 
+HENRI DUTILLEUX 
+BLACHER
+LORIN MAAZELANNE MARTINDALE WILLIAMS, celloNov.
+25
+Nov.
+26
+Nov.
+27
+Nov.
+27
+DVORAK 
+MORTON GOULD
+ANDREAS DELFSFRED STRICKLER, tap dancerDec.
+9
+Dec.
+10
+Dec.
+11
+Dec.
+11
+HAYDN
+MENDELSSOHN
+BEETHOVEN
+GUNTHER HERBIGPETER FRANKL, pianoDec.
+16
+SCHUBERT
+BARTÓK
+IVAN FISCHERKLARA TAKACS, mezzo-soprano 
+LASZLO POLGAR, bass
+Jan.
+6
+Jan.
+8
+Jan.
+8
+RACHMANINOV
+KALINNIKOV
+NEEME JARVIVLADIMIR FELTSMAN, pianoJan.
+13
+Jan.
+14
+MOZART
+SCHUMANN
+MICHAEL TILSON THOMASVIKTORIA MULLOVA, violinJan.
+20
+Jan.
+22
+Jan.
+22
+RIMSKY-KORSAKOVMICHAEL TILSON THOMASSoloists to be announced 
+MENDELSSOHN CHOIR OF PITTSBURGH 
+ROBERT PAGE, director
+Jan.
+27
+Jan.
+28
+MOZARTLORIN MAAZELJEAN-PIERRE RAMPAL, fluteFeb.
+10
+Feb.
+12
+Feb.
+12
+BARBER
+PROKOFIEV
+LORIN MAAZELANDRES CARDENES, violinFeb.
+17
+Feb.
+18
+RIMSKY-KORSAKOV 
+EDISON DENISOV 
+SCRIABIN
+DIMITRI KITAIENKOHEINZ HOLLIGER, oboeMar.
+17
+Mar.
+18
+Mar.
+19
+Mar.
+19
+GLUCK
+BARTÓK
+RAVEL
+EDUARDO MATASHLOMO MINTZ, violinMar.
+31
+Apr.
+2
+Apr.
+2
+RESPIGHI
+ROSSINI
+ALESSANDRO SICILIANISoloists to bo announced 
+MENDELSSOHN CHOIR OF PITTSBURGH 
+ROBERT PAGE, director
+Apr.
+14
+Apr.
+16
+Apr.
+16
+GEORGE CRUMB
+BERG
+SMETANA
+ZDENEK MACALJOSEPH SWENSEN, violinApr.
+21
+Apr.
+22
+BACH
+SCHUMANN
+DEBUSSY
+LORIN MAAZELYO-YO MA, celloMay
+12
+May
+13
+May
+14
+May
+14
+BEETHOVEN
+BRAHMS
+LORIN MAAZELALDO CICCOLINI, pianoMay
+19
+MAHLERLORIN MAAZELMay
+26
+May
+27
+USAir is the official airline of the Pittsburgh Symphony Orchestra. Programs and artists are subject to change.
+THE PITTSBURGH 
+SYMPHONY
+Lorin Maazel Music Director
+PLEASE SEND ME
+? A: 24 Fridays at 8:30 pm for $114.00
+? Al: 12 Fridays at 8:30 pm for $69.00
+? A2: 12 Fridays at 8:30 pm for $69.00
+? Cl: 12 Saturdays at 8:00 pm for $69.00
+? Bl: 12 Sundays at 2:30 pm for $63.00
+? B3:6 Sundays at 2:30 pm for $31.50
+? B4: 6 Sundays at 2:30 pm for $31.50
+Number of seats:______For a total of $_
+METHOD OF PAYMENT
+? Check payable to The Pittsburgh Symphony Society
+? VISA
+? MasterCard
+? American Express
+Account Number. 
+Expiration Date_
+Name The Card is In 
+Name___________
+Current Phone Number _ 
+Address to Send Tickets 
+City--------------------------_ State __Zip .
+Name of School-
+Student ID Number- 
+Signature ________
+Mail to: Student Series
+The Pittsburgh Symphony 
+Heinz Hall 
+600 Penn Avenue 
+Pittsburgh, PA 15222 
+Student Series Tickets are not exchangeable, returnable or renewable. 
+Seating assignments made on "best available" basis.
+
+---------------------------------------------------
+
+6The Tartan • Carnegie Mellon • Wednesday, 7 September 1988
+’3 m..mh.fGet Ais and B& fandaCDI
+'Ey a Macintosh today-you
+IheNeanderttaliiANevvLa* at<ïï< Hill.»
+wiees,sinngitirtsai^jee
+53u&3lb3lo.x
+km»itti
+I3o1Y
+Or 5sm xrrmr43ooo3xxojoxa3_uZoCp48Mo&"o’ 111'JW .<rtÍTe»TllltVTÍ^TTi5I<itte- 
+r i » 11 ih n i » ir* 4rvk*5 uHhitftMwH ¦'wrV, i. fin. itu-jí Í n t U t ¦ Xvf • fjji*- • ÜíH«TT»^rf*»Tt3
+I rJf..../f
+Now that a new school year is under assignments that look as though y| 
+way, we have an idea that’ll make both bribed a friend in art school. And1
+you and your parents feel a bit more 
+confident come finals time:
+Get a Macintosh* computer to help 
+with your homework.
+Then you’ll never have to spend 
+another all-nighter retyping a paper 
+just to purge a few typos and dangling 
+modifiers. You’ll be able to crank out
+an amazing new program called 
+HyperCard—which just happens 
+to come packaged with every 
+Macintosh—you can easily store, 
+organize, and cross-reference rese 
+notes to your heart’s content.
+And if that isn’t enough reason itta
+Enter: É
+ap
+Apple, the Apple logo, and Macintosh are registered trademarks of Apple Computer, Inc. Sony Discman is a trademark of Sony Corporation.
+No purchase necessary. Odds depend on number of entrants. See your campus Apple reseller for complete contest details. Prizes may vary from product shown.
+Macintoshes strongly urged 
+for future H&SS students
+a.UorU1uv p3.I 8l'u B
+on a special research computer. 
+Other courses which will benefit 
+include statistics, ethics, psy­
+chology, and of course, writing.
+Fienberg gave several power­
+ful examples of what could be 
+done with such computer inte­
+gration. For example, the 1970 
+U.S. Census is available on 
+magnetic tape. To get a special­
+ized report on a segment of the 
+population costs thousands of 
+dollars. The 1990 census, will be 
+entirely contained on one or two 
+compact discs. These are read­
+able by computers, and students 
+can use current real world data 
+in their problem solving.
+The Macintosh IIs will also be 
+usable as Andrew workstations 
+in the near future. Apple and 
+the computer science depart­
+ment is working to integrate 
+Unix based software on the 
+Macintosh. This should solve the 
+several year old dilemma of what 
+workstation to recommend stu­
+dents use with the Andrew sys­
+tem.
+Fienberg stressed that the pur­
+chase of this computer would be
+“[Computers] are not 
+required, just as text­
+books are not required.” 
+—Dean Fienberg
+very advantageous and attrac­
+tive to students. “They are not 
+required, just as textbooks are 
+not required. A student can 
+borrow a friend’s textbook, or 
+check one out of the library. 
+Similarly, with the computer... 
+but we do expect they have ac­
+cess to one,” mentioned Fien­
+berg.
+Although costs have not been 
+finalized, a discount of about 
+40% is expected on the machines. 
+That would bring the cost to the 
+student down from $5,000 to 
+about $3,000. This price will be 
+available to all Carnegie Mellon 
+students, not just to H&SS stu­
+dents. Financial aid is working 
+to integrate the cost of the ma­
+chine into the students’ educa­
+tional costs. “No one will be de­
+prived of a computer because of 
+cost,” added Fienberg.
+Camagie Mellon is one of only 
+about 100 schools nationwide 
+that have a requirement or 
+strong suggestion for the pur­
+chase of a computer.
+There are some problems that 
+still need to be worked out. There 
+will be a need for a new central­
+ized printing network. The col­
+lege will have to make sure fac­
+ulty do convert coursework over 
+to the computer. After all, if a 
+professor has been teaching a 
+class for several years with the 
+same materials, what is the 
+incentive of taking the time to 
+convert it to computer applica­
+tions? Fienberg replied to this 
+last question that peer pressure 
+will take care of a lot of that. 
+Also, the department has hired 
+several full-time programmers 
+to help faculty with their com­
+puter work.
+Arms foresees computers be­
+coming more of a dorm-room 
+item. Perhaps even giving stu­
+dents the option of “renting” a 
+computer as part of their hous­
+ing contract.
+Fienberg summed the project 
+up by saying, “We want to make 
+life easier on the student, and 
+the classroom experience more 
+exciting, taking advantage of the 
+power of computers.”
+Construction begins on campus
+a.UorU1uv p3.I 8l'u B
+The construction work is co­
+ordinated by Barton-Malow/ 
+McAnallan, Carnegie 
+Mellon’s construction man­
+ager. The East Campus proj­
+ect includes the constrtuction 
+of a dormitory/residence hall, 
+parking garage, a football 
+field, and intramural fields.
+Construction began in June 
+when the stadium was de­
+molished and earth was 
+moved to prepare the founda­
+tion for the dormitory.
+In August, the Intramural 
+Fields were paved over to re­
+place the parking spaces that 
+were lost by closing the long 
+Skibo lot. Construction of a 
+600-space parking garage at 
+that site will begin soon.
+Administrators have been 
+working to convince CMU’s 
+neighbors that the 600-foot 
+long building will not ad­
+versely affect the area. Local 
+residents have expressed con­
+cerns that the building will 
+disrupt traffic on Forbes 
+Avenue and Beeler Street. In 
+addition, the aesthetics of the 
+garage have raised concerns.
+To alleviate the fears of the 
+neighbors, Public Relations 
+has produced a newsletter
+called “Good Neighbors” for resi­
+dents who live near the Univer­
+sity. The July issue assures that 
+the garage’s gates will not be 
+near the street entrances.
+The garage will be “one of the 
+most attractive urban facades 
+in Pittsburgh,” according to 
+Meyer. The outside walls of the 
+garage will be built in the same 
+style as those in the College of 
+Fine Arts.
+The new Margaret Morrison 
+lot will be used at least until 
+next summer. Spring Carnival 
+Chairman Dave Levy and Uni­
+versity officials are considering 
+holding next year’s Carnival on 
+the lot.
+When the garage is completed, 
+the Margaret Morrison lot will 
+be removed and the new IM fields 
+will be built. The land will have 
+to be graded to the proper level. 
+Eventually, the IM fields will be 
+lighted.
+Though the total recreational 
+area will be larger, the field will 
+not be large enough for regula­
+tion baseball. Two fields will 
+have diamonds for softball. They 
+will also be used for intramural 
+football, soccer, and lacrosse.
+Meyer stresses that the East 
+Campus project “enables the 
+University Center.” The project,
+he contends, “is a logical set of 
+circumstances [for which] the 
+University Center is the driv­
+ing force.”
+The University Center will 
+be built on the current site of 
+Skibo and the Skibo parking 
+lot. The new 412-seat dining 
+facility will replace the food 
+service lost when Skibo is tom 
+down for the second phase of 
+the construction.
+The decision to build a new 
+dormitory was the result of 
+an agreement between the 
+University and residents of 
+Shadyside and Oakland. The 
+University promised to dis­
+continue housing students in 
+those neighborhoods in 1989. 
+The loss of housing in those 
+areas required the building of 
+a new facility.
+The dormitory will also have 
+the effect of unifying the Hill 
+dorms. Student populations 
+in north and south housing 
+will be nearly evenly divided 
+with the addition of the dorm. 
+The residence hall is designed 
+to house 302 students.
+The construction plan also 
+calls for a walkway to run 
+along the new dorm as an 
+access from the Hill to the 
+Student Center.
+New policy restricts use of alcohol
+a.UorU1uv p3.I 8l'u B
+time that the State Police don’t 
+have to come in and do whatever 
+they do when they find people 
+that are breaking the law.”
+One Resident Assistant who 
+asked not to be named, felt the 
+University was vague in in­
+structing RAs about their re­
+sponsibilities under the new 
+policy. Furthermore, she ex-
+plained that the only concrete 
+restriction placed on her is that 
+she can not plan activities which 
+involve alcohol. She also said 
+that as far as drinking in rooms 
+is concerned, “As long as I don’t 
+. . . see it, I’m not going to re­
+spond.” She believes that other 
+RAs will probably take a similar 
+approach.
+The fraternities are working
+with the University and the LCB 
+to develop procedures for par­
+ties. Elliott said that fraternity 
+houses are residential areas, 
+whose occupants are entitled to 
+the same privacy rights as occu­
+pants of dorm rooms. However, 
+he said that “If it [drinking at 
+parties] is called to our atten­
+tion, then obviously we’ve got to 
+take the appropriate action.”
+7vIrssr.Us 
+o3rus o. loo3lao 
+I.3u uU'rUuu3s
+a.UorU1uv p3.I 8l'u B
+tor of Admissions Mike Stieidel 
+has meet with the engineering 
+department heads in order to 
+devise some strategies to attract 
+engineering students.
+One strategy that will be im­
+plemented to attract more stu­
+dents is a letter writing cam­
+paign. According to Papinchak, 
+CMU has never conducted a let­
+ter writing campaign, but due to 
+the decrease in the number of 
+CIT applicants one will be con­
+ducted for the next year.
+The Admissions Office will 
+begin sending students who have 
+inquired into the engineering 
+program letters explaining the 
+different programs available. 
+The civil engineering depart­
+ment has gone as far as sending 
+those who have inquired a video 
+cassette that describes the pro­
+gram.
+Despite the decline in the 
+number of engineering applica­
+tions, the University saw an 
+overall increase in the number 
+of applications. The College of 
+Fine Arts (CFA), the College of 
+Humanities and Social Sciences, 
+Mellon College of Science (MCS), 
+and Industrial Management 
+(IM) all posted gains.
+Targets of 250 freshmen stu­
+dents were exceeded in the CFA, 
+H&SS, and MCS. IM exceeded 
+its target of fifty freshmen.
+When asked about the quality 
+of the freshman class Papinchak 
+stated, “They are as bright, if 
+not brighter, than classes in the 
+past four years.” Papinchak feels 
+that it is getting harder to admit 
+the freshman class every year 
+because there is no real differ­
+entiation between the clear ad­
+mits and the clear rejects.
+
+---------------------------------------------------
+
+ATTENTION 
+H&SS and IM SENIORS
+The deadline for submitting your resume for the H&SS and IM Resume Book is 
+Wednesday, September 14. Each book will be mailed in early fall to over 300 
+prospective employers in an effort to bring H&SS and IM seniors to their attention. 
+Resumes must be one page only. You may submit a resume for each book if you are 
+majoring in both H&SS and IM; you may submit more than one resume for the H&SS
+book if you have more than one H&SS major.
+If you need help with your resume, make an appointment to see Debbie Mall in 
+Career Services and Placement (Warner Hall, x2064) or pick up a handout on resume
+preparation in the CS&P library.
+Also, walk-in hours (3:30 - 4:30 daily) are available for brief resume and job search
+questions.
+6P*9 7M g;iMig7* MifPV
+CMU Counseling & Student Development Center................................268-2922
+After 5:00 pm, an answering service operator will help you reach the staff mem­
+ber on call.
+CONTACT Pittsburgh................................................................................782-4023
+24 hour telephone counseling, crisis intervention, and supportive listening.
+Drug Connection......................................................................................854-0700
+An alcohol/drug crisis hotline, 5-9 pm
+Tel-Aid.........................................................................................................281-4664
+A series of taped information on medical, legal, consumer, and safety issues.
+Lists of titles appear in the blue pages of the Pittsburgh telephone directory.
+Counseling and Student Development Center, a division of Student Affairs
+OLD & IMPROVED!
+Subscribe now to I’itrsbiinjlj's most nriiiinnl rniirrrt series
+On Saturday nights in Synod Hall, 
+the Renaissance and Baroque Society 
+presents music that's so alive you expect 
+Bach himself to take a curtain call!
+• Flexible seating plans
+• Ticket exchange privileges
+• Subscriptions as low as $35
+• Student rates from $17.50
+rhc Renaissance & Haroquc Sucictv <>l l’iusburjih 
+( all lor information: 682-7262
+your parents,
+win a Sony Disarm
+yjlook at a Macintosh today, here’s 
+vljother:
+Right now, you have three chances 
+1 win one of Sony’s Discman™ CD 
+! lyers—including the exciting Sony 
+)cket Discman, which also plays the 
+m 3-inch CDs. And even if you miss 
+Jt on the CD player, you may still win 
+ie of 15 Apple T-shirts. No strings 
+tached—just fill out a registration
+form at the location 
+listed below.
+So come in and get your 
+hands on a Macintosh.
+If not for yourself, do it for 
+your folks.
+4
+The power to be your best.1“
+ftber 6th-September 23rd
+Computer Store
+¦ x-2636
+
+---------------------------------------------------
+
+15-lxx 
+Mastery Retakes
+October 1 & 2
+Signups in Wean 5419 on or about September 15. 
+See your TA for permission to signup.
+There will be a special review section for interested 
+parties Thursday September 8th 5:00-7:00 Wean 5409.
+look; He^e com es doüg on His 
+0R2ND-Mew Bi'Ke. 80Y He seews 
+to Have a lor or exixa sF&fJD/NG 
+MoNey THese t)2Ys.
+our How ne 
+Does Î77
+so, You've eaKNeoaMM 
+THi'S (MoNey JUST BY 
+P3RT,Ci'P27?aJG iN SHI Dies 
+ar g/'oDec/s/'oN 
+L-a goraroR/es ?
+You per! 2nd 5/Nee \ 
+THeY've Hap a ReceNT t 
+PaY ¡Mcfóase, The watfNG Mo Re y\oNeY / 
+THaN eves Before) 7
+C
+rHàr 5CUND5 
+How C2N we Ger ’ 
+ÎNVoLVeD ?
+wemaTwo-weeKeMD 5TudY is
+COMiNG UP SooN- FRee PHVSÌC2LS
+2Re eeiNG conduced ACINTOTTHKoVGrH 'FK-l'tyay JU5T 
+ca(.i- BibOeC/5/flfJ -af 363-O400
+fop tfofc? /Wfo^aT/bN.
+f much MoNeY ^ .
+Will We M2KS 1 som e s-TUDies 
+\ from THis } PaY as Hue» 
+V5TC/DY? /\as '
+^ $IW ! tbW I'LL 6e 2PL£ ^ 
+To euy a New sreKeol...
+^ $
+¿£T’5 caiL 
+dioDecisicN 2H0 lAdKe aN
+aPPoiMTMeNr Now!
+^y^wGkGG
+üiNAPgiViNd *7üN;7MN;iPV/ idgx
+5900 Penn AvenuePittsburgh, PA 15238
+^y^wGkGG
+You will take one or more doses of medication —
+We will take limited blood and/or urine samples.
+You might qualify if you:
+• Are a healthy male • meet appropriate weight
+• 18 years or older standards
+• pass our physical • meet schedule requirements
+(overnight stays are required)
+
+---------------------------------------------------
+
+DIVERSIONS
+V8.Us.3uv hn n.13 7aor)rorus Suu
+By ERIKA L. PETERSON
+Tartan Managing Editor 
+AB — Activities Board — 
+those mysterious folks with the 
+office upstairs in Skibo — just 
+what are they up to this year? 
+Will they be able to top last year’s 
+tropical island complete-with- 
+sand reggae dance? Will Donald 
+Woods be as — well — contro­
+versial as his gonzo counterpart 
+Hunter S. Thompson? Perhaps 
+not, but this semester’s AB 
+schedule promises a good bit of 
+much needed entertainment — 
+something to fill up that copious 
+free time...
+AB Dance: My personal fa­
+vorite, AB Dance will be bring­
+ing us Blues with the “Uptown 
+Rhythm Kings” and “The Grand­
+sons of the Pioneers,” on Satur­
+day, September 17 at 9 pm in the 
+Ballroom. The next weekend, on 
+Friday, September 23, same 
+time, same place, is something 
+called “Rock” with a band called 
+“The Magnetics.” Can’t tell you 
+much more—go check it out. On 
+Friday, October 21, AB is bring­
+ing back a CMU favorite — 
+Reggae with “The Flow.”TheyVe 
+played the Ballroom and DTD 
+each at least once and are defi­
+nitely worth the opportunity cost 
+of an evening of studying eco­
+nomics. There’s no time listed, 
+and they say it’s going to be 
+outdoors, so cold or rain will 
+likely send them into the Gym, 
+but it’ll be a good show in any 
+case. Finally, on Saturday, Oc­
+tober 29 at 8 pm, it’s big band 
+with “The Tommy Dorsey Or­
+chestra” in the Ballroom. Well 
+thought of on the Big Band scene, 
+this should be good if you liked 
+George Gee last year.
+AB Coffeehouse: Coffee­
+house starts off the season this 
+weekend, on Friday, September 
+9 in the Wherrett Room with a 
+reportedly hysterical comedy 
+troupe, “Guilty Children.” I have 
+it on good authority that they 
+will indeed be funny, and as 
+usual with a comedy Coffee­
+house, get there early or you 
+won’t get a seat. On Saturday, 
+October 15, Coffeehouse is bring­
+Steel Pulse will be up on Flagstaff Hill Sunday - it’s at 2
+ing a real live hypnotist to the 
+Ballroom at 8 pm. James Mapes, 
+who played Coffehouse two years 
+ago, is returning to campus. 
+Could be interesting — I expect 
+we’ll all walk out saying “I loved 
+it. It was much better than 
+CATS. I’m going to see it again 
+and again.” Finally, AB lists that 
+perennial favorite, the Airband 
+competition, on Saturday, No­
+vember 12 in the Ballroom. Ron 
+Dari an will emcee as your friends 
+contort their lips in a concerted 
+effort to attain the width of Mick 
+Jagger’s mouth.
+AB Lectures: Two writers 
+lecture this semester — on
+Wednesday, October 26 at 8 pm 
+in the Ballroom will be journal­
+ist Donald Woods, friend ofSouth 
+African anti-apartheid activist 
+Stephen Biko, and author of Cry 
+Freedom. This should be an in­
+formative evening, especially for 
+us insular, apathetic CMU stu­
+dents — you might very well 
+learn something. Next, on Tues­
+day, November 15 at 7pm in the 
+Ballroom, the author of the re­
+cent bestseller Bonfire of the 
+Vanities, the sixties counter­
+culture classicTTie Electric Kool- 
+AidAcid Test and the space-age 
+historical The Right Stuff—Tom 
+Wolfe — will speak. This is defi­
+photo courtesy MCA Records
+pm, so don’t be late
+nitely one not to be missed — 
+it’ll be packed too, so come early.
+AB Concerts: Just one
+listed, but it should be a blast. 
+Reggae with rastamen Steel 
+Pulse this Sunday, September
+11 at 1pm on Flagstaff Hill, or 
+the gym if it rains. They’ve been 
+around since 1975, have several 
+albums, and toured with INXS 
+this summer. Sounds like a 
+promising Sunday afternoon. At 
+least, if it doesn’t rain.
+For information and sched­
+ule changes of Activities Board 
+events, call the Info Desk at 
+x2107, or call AB directly at 
+x2105.
+Last Temptation is here
+By MICHAEL ROSE
+Tartan Diversions Editor
+Once in a while, in between 
+all the sexploitation flicks, 
+teens in lust and teens in 
+trouble movies, and ridicu­
+lous comedies comes a film 
+with incredible social impact 
+and artistic merit that doesn’t 
+talk down to its audience or 
+hold with old assumptions 
+about what we believe. Only 
+once in a while.
+Once in a while there is a 
+film like The Last Tempta­
+tion Of Christ. It may not be 
+for everybody, but it is a fas­
+cinating exploration of the life 
+and times of the most myste­
+rious individual in history. 
+It’s thought-provoking and 
+sometimes disturbing. That’s 
+what good filmmaking is all 
+about.
+The Last Temptation Of 
+Christ is Martin Scorsese’s 
+adaptation of the novel of the 
+same name. The book consid­
+ers Jesus in both his divine 
+and human aspects, and deals 
+primarily with the conflict of 
+the martyr as he is tom be­
+tween his human desires and 
+the mandate of his godhood. 
+It is not based on the gospels 
+as such; rather, it takes a 
+creative look at the story that 
+they tell.
+Last Temptation was origi­
+nally scheduled for Novem­
+ber release. However, due to 
+the substantial controversy 
+surrounding the film in pre­
+release, it was de­
+cided that it should 
+be released early. Re­
+ligious leaders de­
+nounced the film and 
+large crowds turned 
+out to protest the 
+limited opening. Time 
+magazine’s cover of “Who was 
+Jesus?” in August fueled the 
+media hype. The film opened 
+to sellout crowds on both sides 
+of the police line.
+In Pittsburgh, the film 
+opened last week at the King’s 
+Court theater in Oakland. 
+Interestingly enough, as the
+9 pm show began, only a 
+handful of protesters turned 
+out to admonish the audi­
+ence members. At approxi­
+mately 10:45 pm, however, 
+large numbers of protesters 
+appeared, just in time (it 
+would seem) for the 11:00 
+television news.
+As a reviewer, I liked the 
+film. From a rather informal 
+audience poll, a good portion 
+of those attending felt simi­
+larly. The film stars Willem 
+Dafoe as Jesus, Harvey 
+Keitel as Judas, Harry Dean 
+Stanton as Saul/Paul, Bar­
+bara Hershey as Mary 
+Magdalene, and David Bowie 
+in a magnificent cameo as 
+Pontius Pilate. All are spec­
+tacular. Dafoe gives a won­
+derful sense of the power he 
+has but cannot fully under­
+stand. Keitel is remarkably 
+good as the betrayed be­
+trayer, and as much as the ~ 
+film hangs on Dafoe’s shoul­
+ders, it is Judas and not Peter 
+that is the rock on which Last 
+Temptation is built.
+The story itself is intrigu­
+ing. The basic premise of both 
+book and film is that Jesus 
+was uncertain of himself and 
+tormented by his divinity, by 
+his very martyrdom. Most of 
+the controversy has centered 
+around a fifteen-minute fan­
+tasy sequence that takes 
+place as Jesus is being cruci­
+fied. Jesus is seen within that 
+sequence making love to 
+Mary Magdalene, 
+and is depicted with 
+a wife and family in 
+later life. This se­
+quence is extraordi­
+narily powerful, es­
+pecially the encoun- ~ 
+ter between Jesus 
+and the convert Paul. Al­
+though some people might 
+have difficulty dealing with 
+a sexual Jesus, if they were 
+that sensitive they probably 
+would have left the theater 
+long before.
+The film is long. Really 
+a.UorU1uv .U 8l'u BG
+f.)rus/ f.)rus/ f.)rus" 93u)rues .p oCu hr' plmm 3umulsus
+By MICHAEL ROSE
+Tartan Diversions Editor
+Autumn means different things 
+to different people. Although you 
+and I are in the midst of starting 
+off the school year, in Hollywood 
+the studios and the stars are 
+gearing up for the fall releases. 
+; The Tartan has received advance 
+information on some upcoming 
+films and we’d like to tell you 
+about them so you can start 
+planning those precious nights 
+off-campus well in advance.
+Walt Disney Pictures has been 
+doing land-office business lately, 
+especially under their Touch­
+stone adult-oriented label. With 
+such films as Big Business, Who 
+Framed Roger Rabbit? and Good 
+Morning, Vietnam in the sum­
+mer movie market, Disney/ 
+Touchstone is primed for a 
+magnificent fall release sched­
+ule. Watch next month for the
+release of The Good Mother, a 
+film directed by Leonard Nimoy 
+and starring Diane Keaton. The 
+drama, based on Sue Miller’s 
+1986 novel of the same name, 
+takes a close look at the social 
+and emotional conflicts of single 
+parenting in the 1980’s.
+Disney also has plans for a 
+brand new animated feature to 
+be released in November. The 
+film, Oliver & Company, is a 
+retelling of Dickens’ Oliver Twist 
+from the point of view of a ca­
+nine cast of characters featur­
+ing the voices of Cheech Marin, 
+Billy Joel and Bette Midler. In 
+December, Touchstone will be 
+releasing two films; one tenta­
+tively titled Fugitives, a comedy 
+starring Martin Short and Nick 
+Nolte, and Beaches, starring 
+Bette Midler and Barbara 
+Hershey. Beaches is directed by 
+Garry Marshall and is based on
+! photo courtesy Orion Pictures
+Director John Sayles>and writer Studs Terkel moonlight 
+as journalists in Eight Men Out
+the novel of the same name by 
+Iris Ranier Dart. Mrs. Dart, a 
+CMU alumna, is also the author 
+of The Boys In The Mail Room.
+Paramount Pictures hit it big 
+this summer with Eddie Mur­
+phy’s Coming To America, and 
+current offerings include Jeff 
+Bridges in Tucker. Coming this 
+fall are four films, with the most 
+eagerly awaited by far being the 
+live concert film of Rock Band 
+U2, entitled Rattle and Hum. 
+The film, with footage from the 
+band’s recent world tour, should 
+be released in early October, with 
+the accompanying double album 
+arriving in stores sometime next 
+week.
+Also from Paramount are a pair 
+of dramas and an offbeat com­
+edy, all coming this fall. The 
+Accused stars Jodie Foster as a 
+rape victim and Kelly McGillis 
+as her crusading lawyer, in a 
+Jonathan Kaplan film. John 
+Lithgo w, late of the Tony-award- 
+winning play M. Butterfly, plays 
+a Vietnam P.O.W. in Distant 
+Thunder who tries to come to 
+terms with his teenage son, 
+played by Ra\ph(TheKarateKid) 
+Macchio. Lastly, Paramount pre­
+sents an oddball combination in 
+The Experts, with John Travolta 
+and Arye (Soul Man) Gross as 
+American instructors in a So­
+viet spy training school. Directed 
+by Dave Thomas of SCTV, The 
+Experts is sure to provide an in­
+teresting surprise or two.
+Tri-Star Pictures hasn’t been 
+rocking the box office lately, so 
+the hope is that some of their fall 
+releases will spark excitement. 
+Upcoming pictures include
+Sweet Hearts Dance, a romantic 
+comedy starring a wonderful 
+ensemble cast of Don{Miami 
+Vzce)Johnson, Susan(i3wZZ 
+Durham)Sa.ra.ndon, 
+Jeff{Something WiZcODaniels 
+and Elizabeth(A6ow£ Last 
+Night... )Perkins; Bat 21, a mili­
+tary action-drama starring Gene 
+Hackman as a downed pilot and 
+Danny Glover as a helicopter 
+jockey; High Spirits, a super­
+natural comedy of ghosts and 
+romance starring Steve Gutten- 
+berg, Daryl Hannah and Peter 
+O’Toole; and my personal favor­
+ite high-concept film, Chances 
+Are, starring Cybill Shepherd 
+as the widowed mother of Mary 
+StuartOSome Kind Of Wonder- 
+/w/)Masterson and Robert 
+Downey, Jr. as the reincarnation 
+of her late husband. Only one 
+problem, that being that 
+Downey’s character is only 25 
+and is the boyfriend of 
+Masterson’s. It may sound a bit 
+on the inane side, but these 
+people (Downey and Shepherd) 
+have some real chemistry going 
+for them and they look 
+mahvelous together.
+Orion Pictures has had a few 
+big releases this summer, nota­
+bly Colors and Bull Durham, 
+and they’re going strong with 
+Married to the Mob in its first 
+weeks in the theaters. By the 
+end of September, we should 
+have the premiere of Eight Men 
+Out in Pittsburgh; and none too 
+soon. This long-awaited adapta­
+tion of the Elliot Asinof novel 
+deals with the infamous 1919 
+“Black Sox” who conspired to 
+throw the World Series, and
+photo courtesy Tri-Star Pictures
+Cybill Shepherd and Robert Downey in Chances Are
+stars John Cusack, Charlie 
+Sheen and Christopher Lloyd. 
+Also coming from Orion is Fare­
+well To The King, ajungle drama 
+set in World War II Borneo and 
+starring Nick Nolte.
+United Artists only has one 
+major film up for release in the 
+next two months, but it’s a
+doozie. Betrayed is the Costa- 
+Gavras film starring Debra 
+Winger and Tom Berenger that 
+takes a hard look at the ultrar­
+ight terrorist movements in the 
+heartland of America. This film 
+is straight from the headlines 
+and is loosely based on the case 
+a.UorU1uv .U page BG
+
+---------------------------------------------------
+
+The Tartan • Carnegie Mellon • Wednesday, 7 September 1988
+&.u ü.hÎs hlac ( Cu ClsUÎo aClU'uv
+Now that all the big studios 
+are running out of indoor-bull- 
+stuff junk to throw up on the 
+screen, the rest of the summer 
+belongs to pure dee solid drive- 
+in releases. Here’s your complete 
+A to Z Drive-In Guide to the 
+Stuff I Can’t Wait to See. All 
+these pictures are real. I didn’t 
+make any of em up.
+“Angel III: The Final Chap­
+ter”: The original high-school- 
+student-by-day, hooker-by-night 
+is now 26 years old, living in 
+$ew York, but goes back to El 
+Lay to get involved with Rich­
+ard “Shaft” Roundtree and try 
+1» find her dead mother. A brand- 
+tfew bimbo in this one.
+' “Bimbo Barbeque”: The ad­
+vertising for this sequel to 
+“Assault of the Killer Bimbos” 
+says it all: “Their Second Full 
+Frontal Assault.”
+“Bloodscape”: I’m quoting: “A 
+boy goes our for pizza during his 
+family’s housewarming in a 
+suburban apartment block, only 
+t6 find them gone when he re­
+turns, victims of a deadly gang.” 
+: “Bloodstone”: “The largest 
+ruby in history. The deadliest 
+Vrllain in the world. The clumsi­
+est detective on earth. The 
+smartest couple in India. The 
+biggest adventure of the cen- 
+tftry is about to begin...” I can’t 
+wait.
+2 “The Chair”: A con was fried 
+in the electric chair 20 years ago 
+by rioting prisoners, and now 
+his ghost is back for revenge on 
+the guard who refused to come 
+to his aid. Starring James Coco.
+“Deathblow“: The first file to 
+team the immortal talents of 
+Frank Stallone, Jerry Van 
+Dyke,, and Howard Hughes’ life- 
+lpnggirlfriend, Terry Moore. The 
+jjlot: ‘'Victimized women take re­
+venge on their attackers in a 
+ijiost unusual way.”
+! “Death Spa”: Some guys in 
+Seattle tell me this is a puke-a- 
+rama. The ad says: “You’ll sweat 
+.b’lood.”! “Devil Woman”: The title role 
+is played by Carrie Leigh, the 
+scary lookin lipstick lizard who’s 
+suing Hugh Hefner for kicking 
+her out of the Playboy Mansion. 
+The plot: “A young woman learns 
+that her brother’s lover is the 
+resurrected mother of the Anti­
+christ.”
+“Fire With Fire”: White-bread 
+airhead college girls take a va­
+cation to Mexico and get held 
+hostage by a brutal and sadistic 
+South America drug dealer 
+(Oliver Reed) while waiting for 
+Robert Vaughn to put on his 
+Beatle boots and wind-breaker 
+and come get em out.
+“Flesh Eater”: Bill Hinzman,
+the last guy to turn zombie in 
+the classic “Night of the Living 
+Dead,” in a rare screen appear­
+ance. As the ad says, “He lived. 
+He died. He’s back. And he’s 
+hungry!”
+“The Fly 2:The Insect Awak­
+ens”: The good news is the best 
+horror flick of the 80s will live 
+again. The bad news: David 
+Cronen­
+berg, the •
+batta.
+“Pin”: A brotherN and sister 
+who keep the memory of their 
+ventriloquist father alive by 
+keeping his dummy around.
+“Piranha Women”: The ad 
+says, “Don’t get them wet!”
+“Purgatory”: “Arrested 7,000 
+miles from home. Sentenced for 
+a crime she did not commit. Carly 
+mmmmmammmm Amold facesthe great chal-SIS: Joe-BobGoes p\t£
+have any- • _ —. - »from the
+thing to do * |0 TtlG DflVG"1!!! I prison called 
+with it. • »Purgatory.”“Hallow- ••••••••••••••••••••• • Action. Star-
+een IV’: They learned their les- ring Tanya “Sheena Queen of
+son about sequels after “Hallow­
+een III” turkeyed out, so Donald 
+Pleasance is back, along with 
+the original slasher, Michael 
+Meyers. Still no Jamie Lee Cur­
+tis, though.
+“Howling IV’: “The original 
+nightmare.” They refuse to quit.
+“Hunted to Death”: You’ll be 
+interested to know that it has 
+“More passion that ‘The Godfa­
+ther’! More Majesty than ‘Dr. 
+Zhivago’! More epic war action 
+than ‘Lawrence of Arabia’!” And 
+it stars — who else — Michael 
+Stamatakis and Catherine 
+Koutrovis.
+“I Married a Vampire”: The 
+story of a small-town girl who 
+goes to Boston to make it on her 
+own, only to be cheated, 
+swindled, ripped off by a reli­
+gious cult, raped, and introduced 
+to a 100-year-old vampire.
+“Lurkers”: The story of a little 
+girl, burned with an iron, who 
+grows up to play the cello and be 
+tormented by her dead mother. 
+The critic for Variety, the trade 
+paper, calls it “the terrifying 
+story of a little girl forced to 
+grow up with a mother who can’t 
+act.”
+“Man Eaters”: An anthropolo­
+gist is shipwrecked on an island 
+inhabited by beautiful cannibal 
+women.“Midnight Movie Massacre”: 
+Includes a scene where a 300- 
+pound transvestite eats a space 
+monster.
+“The Order of the Black 
+Eagle”: Action sequel “Unmask­
+ing the Idol,” about a secret agent 
+with a baboon sidekick who tries 
+to stop an evil army from un­
+freezing the body of Adolf Hitler 
+and using stolen lasers to de­
+stroy the world’s satellites.
+“Phoenix — The Warrior”: 
+After-the-nukes story about a 
+world populated only by beauti­
+ful “savage” women in Zebra skin 
+loincloths, and their attempts to 
+perpetuate the race with a sperm 
+bank. Starring Persis Kham-
+the Jungle” Roberts.
+“Redneck Zombies”: “Tobacco 
+Chewin’, Gut Chompin’, Canni­
+bal Kinfolk from Hell!... Filmed 
+in Entrail Vision.”
+“Savage Beach”: Fourth in the 
+“Malibu Express” breasts-and- 
+machine-guns series, a tale of 
+Hawaiian naval intelligence 
+officers searching for $25 billion 
+in gold hidden by the Japanese 
+at the end of World War II. Star­
+ring Dona “Yes, These Are Real” 
+Speir.
+“Sex Police”: “In 1995, when 
+sex between unmarried persons 
+is against the law, a rookie must 
+save his teen-age brother and 
+the world from the ruthless 
+Sexual Authority.”
+“Slime City”: Cult horror flick, 
+rarely seen outside New York, 
+about an apartment building full 
+of monsters who need human 
+bodies to contain their slime 
+organs. The newspaper Variety 
+has seen it and calls it “repul­
+sive.”
+“State Park”: “No one will be 
+admitted after the bear steals 
+the bulldozer.” By the director of
+“Screwballs.”
+“Terror Squad”: Adventure 
+story about Libyan terrorists 
+invading Kokomo, Indiana and 
+occupying the local nuclear 
+plant. Starring Chuck Connors.
+“Uninvited”: Straight from 
+the plot outline: “A Fugitive Wall 
+Street arbitrageur finds there’s 
+more to worry about than the 
+SEC — a killer cat has found its 
+way on board his luxury yacht.”
+“Zombie Brigade”: Australian 
+zombie picture about a small 
+town that sells off the land the 
+Vietnam vets are buried on so 
+that a Japanese company can 
+build a “Robotman” theme park.
+In the meantime, everybody 
+needs to check out “Phantasm
+II,” which is the sequel it took 
+Don Coscarelli nine years to 
+make, and which has three flying 
+silver balls instead of the one in 
+the original flick, and a severed 
+hand instead of a levitating 
+severed finger. Otherwise, it’s 
+the same deal—The Tall Man is 
+back, taking corpses down to his 
+mortuary and turning em into 
+killer midget monks. We’ve got 
+exploding houses, ESP, Crema­
+torium Fu, a four-barreled 
+sawed-off shotgun, Flam­
+ethrower Fu, 10 nekkid breasts, 
+dwarf tossing, embalming 
+needles plunged through vari­
+ous parts of various bodies, ear- 
+lopping, forehead-drilling, wrist- 
+hacking, bimbo-flinging, 
+Grandma-bashing, devil sex, 
+and the most terrifying scene 
+I’ve ever witnessed — a per­
+fectly decent 1971 Hemi Cuda 
+flippin over, landing on its roof 
+and bustin into flame. I cried for 
+two hours. It’s AMAZING what 
+they’ll let these stunt people do 
+for the sake of a movie.
+Four stars. Check it out twice.
+Last Temptation “worth 
+seeing” at King’s Court
+continued from page 9
+long. It runs about two hours 
+and forty-five minutes but it 
+seems longer. It is not boring
+— the action is smooth — but 
+there’s just a lot of ground to 
+cover and Scorcese does it as 
+well as he can. It is rated ‘R’ 
+and is somewhat graphic — 
+but in this case the justifica­
+tion of on-screen violence is 
+fairly evident; after all, it is a 
+violent story with a violent 
+conclusion. This is not Sun­
+day school Christianity; the 
+Jesus of Last Temptation 
+fights and bleeds and gets dirt 
+under his fingernails.
+In the last analysis, 
+whether or not you spend your 
+$4.50 to see The Last Tempta­
+tion Of Christ depends on you. 
+It’s not blasphemy or heresy; 
+nobody is going to wave a Bible
+in your face and tell you your 
+soul is condemned to hell if 
+you see this movie. It is, in 
+fact, an insightful, impas­
+sioned and intriguing consid­
+eration of what Jesus and his 
+associates might have been 
+like, and how he and they 
+have passed down their influ­
+ence over the past two thou­
+sand years. If you aren’t afraid 
+to open your eyes and see, 
+and think, then go see Last 
+Temptation. Find out for your­
+self.
+The Last Temptation Of 
+Christ, directed by Martin 
+Scorsese, starring Willem 
+Dafoe, music by Peter Gab­
+riel, playing at the King’s 
+Court in Oakland at 6807 
+Forbes Avenue. For informa­
+tion and showtimes, call 682- 
+2334.
+f.)rus a.IrU' s..U
+continued from page 9of Alan Berg, the Denver radio 
+personality who was murdered 
+by avowed white supremacists. 
+Don’t miss it.
+That’s the rundown; now 
+watch for the premieres of these 
+films in local theaters. Although 
+most of the first run houses in 
+the Pittsburgh area are a ways 
+from campus, the Squirrel Hill 
+theaters are quite accessible and 
+you can bus or find a friend who
+drives to make it out to Mon j 
+roeville and the Malls (the new ^ 
+Cinemette is apparently quitep 
+nice). In addition, the King’s 
+Court in Oakland has begun to 
+take some first run showings, E 
+particularly The Last Tempta-\ 
+tion Of Christ (see page 9), and* 
+the Pittsburgh Playhouse hasji 
+the Pittsburgh premieres of “art fa 
+house” films such as Aria ands 
+House of Games. Keep an eye on ii 
+the ads for openings and venues, p
+In a perfect world, nobody would have to organize 
+anything. But real life isn't so simple. 
+DIVERSIONS STAFF MEETING 
+Monday at 8 pm in the Tartan Office.
+ALL interested writers are welcome.
+WE ALWAYS 
+NEED LEADERS
+The Air Force is looking for pilots...navigators...W missileers...engineers...managers and ... more. Our posi- 
+^ons ^ important \bu can get one through Air Force ROTC As an Air Force ROTC cadet, you’ll be trained in leadership and management practices. \bu may also apply for our scholarship program that helps pay college expenses, plus $100 per academic month, tax free After graduation, you'll have all the prestige and respon­sibility of an Air Force officer \buU disccwer a new vrorid where you’ll be challenged to excel... and rewarded for jour success. Let us gKeyou the details today
+CAPT HELEN BOND 
+412-268-8747
+Leadership Excellence Starts Here
+S;PV6 VMNg? 
+2VPA üNN?V 7M ü7;D7id 9;igPV
+BRYN MAWR-VASSAR 
+BOOKSTORE
+4612 Winthrop Street, Oakland (off Craig) 
+Tuesday through Saturday, 10:00AM — 4:00PM
+NEW SEASON BEGINS SEPTEMBER 6
+I
+COMPUTER USERS - SAVE UP TO 75
+Enable 2.0 by The Software Group (Regular 5695)$179
+Full featured integrated program for MS DOS computers. Five modules. Word Processing, 
+Spreadsheet, Graphics, Database Management and Telecommunications. Easy to learn and cost 
+effective. Requires a min of 448K RAM
+? Yes, Please send me enable 2.0 on; Q 5 1/4" 3 1/2"
+Ready Set Go! by Letraset USA (Regular S495)$254
+Page layout software for the Mac with min. 512K For designing books reports, brochures, and 
+flyers. It combines all the traditional publishing steps-from design and layout to word process­
+ing and production-in one program.
+? Yes, Please send me Ready Set Go! for the Macintosh
+Kablit by Sccure-U Prevent Computer Theft! $49.95
+Keep your computer secure with a 10 ft twisted steel cable with a Master Lock and two keys. 
+No drilling or gluing. Installs in just 10 min.
+? Yes, Please send me Kablil for ? Mac ? Mac SE/II ? IBM PC
+Servitig over 1,000 Universities and Schools nationally 
+DISKOVERY EDUCATIONAL SYSTEMS
+I860 Old Okccchobcc Road, Suite 105 
+West Palm Beach, FL 33409 
+(407)683-8410 (800)331-5489
+REQLIRKD FOR PURCHASE: Attach copy of School I.D. & copy of driver's license.
+Name
+Address
+City, St, Zip
+~~] Money order p-] MC/VisaName on Card
+Card #Exp. Date
+SignatureDate
+MCu
+Vo1vuUo A.3Iro.3n g.1Uarm
+will hold its FIRST meeting
+at ‘FS(Q)(Q)p»[iTm in the WtaDTOiit
+The Student Dormitory Council (SDC) serves and 
+represents all Housing residents. Some of SDC’s activities 
+include residence hall programming; talking with Housing, 
+Vending, and Food Services; planning University wide 
+activities; and actively participating in Spring Carnival. However, 
+in order to best serve Housing residents, SDC needs you! All 
+residents are welcome, so come find out what SDC is all about!
+
+---------------------------------------------------
+
+The Tartan • Carnegie Mellon • Wednesday, 7 September 198811
+THIS WEEK IN DH2210
+Thursday, September 8 
+Jean de Florette
+This film was hailed as “a cinematic masterpiece” in its 
+theatrical release last year. It won seven of the French equiva­
+lents of the Academy Awards and took Cannes by storm. The 
+story of a simple French fanner and his battle against Nature 
+and neighbors, Jean de Florette is possibly the best and cer­
+tainly the most beautiful foreign film of the decade. The sequel,' 
+Manon bf the Spring, shows next week.
+At: 6, 8,10 pm
+Friday, September 9 
+Moonstruck
+A romantic comedy in the old style, Moonstruck stars Cher 
+and Nicolas Cage as star-crossed lovers in modern-day Brooklyn, 
+victims of the lunacy that has afflicted lovers for centuries. 
+Olympia Dukakis co-stars as Cher’s mother—she received the 
+Oscar for Best Supporting Actress for the role. Take a friend.
+At: 6, 8,10 pm, 12 midnight
+Saturday, September 10
+Dirty Dancing
+Shimmy shimmy wama wama shake — how do you call your 
+loverboy? The sleeper hit of last summer that inspired its very 
+own concert tour, Dirty Dancing has spun off more sound­
+tracks, themed more parties and caused more back injuries 
+than any other movie in recent memory. Jennifer Grey and 
+Patrick Swazye are kinda cute, and the music is fun. Wear 
+comfy shoes.
+At: 6, 8, 10 pm, 12 midnight
+Sunday, September 11
+Commando
+Ahmold Iz Bahck! The inimitable Schwarzenegger fights 
+terrorists, rescues his daughter, flexes his pecs, causes trouble 
+in an airport, uses automatic weapons like Raid Ant & Roach 
+Spray, utters the unforgettable line, “I like you, Scully. You’re 
+funny. That’s why I’m going to kill you last..kills Scully by 
+dropping him off a cliff — head first — and on the whole simply 
+behaves like the cultural icon and upstanding citizen he is. 
+September Sundays, of course, are Arnold nights, with The 
+Running Man on the 17th (Saturday), Raw Deal on the 18th, 
+and The Terminator on the 25th. He told us he’d be back.
+At: 6, 8,10 pm, 12 midnight
+Check out the Forbes 
+Gallery: Art for fun’s saké
+By JULIETTE BORDA
+Tartan Staffwriter
+Ever notice that little gray 
+building on the corner of Marga­
+ret Morrison Street and Forbes 
+Avenue? If you’re not in the 
+College of Fine Arts, you proba­
+bly visit the Forbes Gallery about 
+as often as a paintingmajorpulls 
+an all-nighter at UCC. Some 
+things Mom never told you: the 
+Forbes gallery is not a club that 
+requires dues fees, a funny hair­
+cut or a special major in order to 
+be admitted. It is an organiza­
+tion funded by YOUR Student 
+Activities Fee, that features 
+student work paintings, draw­
+ings, prints, sculpture, video, 
+installations, poetry readings, 
+and sometimes unusual combi­
+nations of these categories.
+The first floor of the building 
+that now houses the gallery was 
+the Woodlawn Pharmacy until 
+1969, when a gallery for Carne­
+gie Mellon students was estab­
+lished. In 1976, it was named 
+the Forbes Street Gallery. At 
+that time, student exhibits 
+usually followed themes: a 
+glassblowing show, a freshman 
+and sophomore show, and a stage 
+design show were just a few. 
+Today, shows during the fall 
+semester are usually works by 
+Junior level art majors, and 
+seniors exhibit during the sec­
+ond semester. The shows change 
+weekly.
+Tuesday night gallery open­
+ings provide a pre-hump-day 
+outlet and a very informal at­
+mosphere (as well as complimen­
+tary refreshments) for students 
+(and the public) who are inter­
+ested in seeing what student 
+artists do all day. You’re still 
+wondering what people do at the 
+gallery openings — ritualistic 
+chants? sacrificial offerings of 
+art to the Gods? nude slam- 
+dancing? Yes, a bit of each, in 
+addition to admiring the stuff on 
+the walls and mingling amongst 
+old and new acquaintances. If 
+you’re pressed for time on a 
+Tuesday night, you may visit 
+the gallery during the week. Ons 
+of the advantages to dropping, 
+by during the day is being able, 
+to view the art from across the 
+room without peering between 
+heads and shoulders.
+The Annual Alumni Show 
+runs from September 6-21. The 
+shared element in this show is 
+the fact that all the artistes are 
+Carnegie Mellon Graduates. The 
+works on display run the gamut 
+from drawing to sculpture and 
+painting to fiber weavings. They 
+are varied in media, size, an,4 
+the artist’s intent. The show pro­
+vides the opportunity to see 
+directions that fourteen Carne­
+gie Mellon graduates have cho­
+sen to pursue — a welcomed 
+change from the student work 
+that is influenced primarily by 
+its immediate surroundings. r
+One of Carnegie Mellon’s 
+best-kept secrets: The Forbes 
+Gallery. Tuesday Night open­
+ings are from 7 until 9 pm; hours 
+are Tuesday through Saturday
+11 am until 7 pm, Sunday 12 
+until 5 pm.
+CARLOS SOSAGRANT JONESSUSAN KRUSEHOLLY A. VAN DEURSEN
+flfllT, Structural Engineering. University of Virginia, Fi- jjc Santa Cruz, Marine Biol- (JnivetBity of Michigan, MBA
+Analyzing and designing 
+bridges. Developed working 
+model of a double spandrel arch 
+bridge. The HP-28S helps him 
+analyze structural stress and 
+geometry. It's the only calcu­
+lator that lets him do both sym- 
+bolic'algebra and calculus. 
+It. features 
+powerful 
+matrix math and graphics cap 
+abilities. And HP Solve lets him 
+solve custom formulas without 
+programming. With more than 
+1500 functions, 32K RAM and 
+both RPN and algebraic entry, 
+the HP-28S is the ultimate sci 
+entific calculator
+nance. Studies fluctuating 
+stock and money market 
+trends. Assisted head trader 
+in Yen at Chicago Mercantile 
+Exchange.The HP-12C with
+ratios, net present value and 
+internal rate of return. He can 
+even create his own custom 
+programs . The HP- 12C is the 
+established standard in fi­
+nancial calculators.
+ogy. Studies behavior of blue candidate. Assisted on pric- 
+whales and effect of environ- ing projects for GM. The HP- 
+ment on distribution of mar- 17B offers easy algebraic entry, 
+ine mammals. The new, easy Plus time value of money, cash
+to use HP-22S has a built-in flows and linear regression to
+analyze budgets and forecasts. 
+HP Solve lets her enter her own 
+formulas and solve for any 
+variable, 
+ewlett-
+Packard's calculators are built 
+for your success. Look for them 
+giving her access to the at your campus bookstore. Or 
+most commonly used scien- call 1-800-752-0900, Ext. 658E, 
+tific equations. Statistics for your nearest dealer
+with linear regression. And We never stop asking "What if...
+algebraic entry.The ideal HEWLETT
+student science calculator
+RPN lets him analyze prices, equation library with solver,New Achievers in Heavy Metal, Swing, Blues i and Motown.
+PACKARD
+Amie sez,
+“If they don’t 
+come see me 
+in my Sunday 
+movies in Sep­
+tember, I just 
+might get 
+very, very 
+angry.”
+Here comes Guilty Children
+By AMANDA COHEN
+Tàrtan Staffwriter
+An improvisation troupe from 
+Boston will be performing in the 
+Wherrett Room this Friday. See 
+them. If it’s the last thing you 
+do, see them. They are Guilty 
+Children, and they are the best 
+thing to happen to improv com- 
+|edy since The Second City, 
+j The core of an improv group 
+is, of course, the improvisation, 
+and Guilty Children can put the 
+best of them to shame. Their 
+irk is super-improvisation: 
+ter than a speeding one-liner 
+:d more powerful than George 
+¡Matter's Comedy Club. They 
+highly physical and use every 
+ich of the performing space, 
+lether it be a three-by-six foot. 
+iatform or a grand concert hall 
+tge.
+Like Chicago’s Second City, ’ 
+ston’s Guilty Children now 
+ive a home-based troupe and a 
+»uring troupe. The original 
+embers were assembled in the 
+[1 of 1983 from a workshop 
+«inducted by Phil Lebovits, who 
+iirected the group while also 
+participating as a guilty child.
+[ nder Phil’s direction they 
+toured all over the Northeast, 
+and even for a video on MTV.
+[ ut unlike Second City’s tour­
+ing troupe, Guilty Children’s 
+3 low is mainly composed of 
+improvised scenes rather than 
+3 d sketches that have been 
+handed down through the gen­
+erations.
+In addition to the standard 
+improv structures, the Children 
+bave invented their own games,
+the most impressive of which is 
+their version of the game show 
+Jeopardy. The audience yells out 
+the answers, and the panel has 
+to come up with the questions, 
+with points going to the funniest 
+instead of the most accurate. 
+Too bad they don’t grade exams 
+that way.
+Another game has the entire 
+group improvising scenes that 
+give hints to make one member 
+guess the names of items chosen 
+while he was sequestered back­
+stage. Picture one poor fellow 
+trying to figure out “a rubber- 
+handled spatula” from clues 
+being improvised around him.
+Guilty Children’s prepared 
+sketch repertoire changes every 
+year, but past gems have in­
+cluded a group therapy session 
+moderated by Dr. Seuss (com­
+plete with narrator), Purple 
+Dawn (Prince vs. a commie in­
+vasion), and a song about the 
+President called “Let’s Do the 
+Ronnie” (“First you lean to the 
+right, then you lean to the 
+right...”). Maybe you had to be 
+there.
+But you can be there this Fri­
+day. AB Coffeehouse is fortu­
+nate enough to be hosting Guilty 
+Children’s very first Pittsburgh 
+appearance. So come see history 
+being made. Come see comedy 
+being made. Come see Guilty 
+Children.
+Guilty Children will be ap­
+pearing on Friday, September 
+9th in the Wherrett Room at 8 
+pm. For further information call 
+the Skibo Info Desk at.x2107 or 
+ABatx2105.
+SN;üPV 
+TTVÍ
+CLIP
+&
+SAVE
+HERE TO ASSIST WITH YOUR BUSINESS, 
+MEETING AND VACATION TRAVEL 
+NEEDS.
+BUSINESS TRAVEL — 321-9700
+I VACATION TRAVEL — 521-7300
+ONE PHONE CALL TO ARRANGE YOUR 
+ENTIRE TRAVEL PACKAGE AND YOUR 
+\ DOCUMENTS DELIVERED TO YOUR 
+I DOOR ON CAMPUS
+HP-28S SCIENTIFIC CALCULATOR
+HP-12C FINANCIAL 
+CALCULATOR
+HP-22S SCIENTIFIC 
+CALCULATOR
+HP-17B BUSINESS CALCULATOR
+Lutheran University Center - LUC 
+4515 Forbes Avenue 
+Pittsburgh, PA 15213
+Drop in 9 am - 5 pm weekdays
+A WORSHIPPING COMMUNITY
+Sundays - Eucharist LUC 11:15 am
+2nd Sundays and
+Festivals Heinz Chapel 6:30 pm
+A STUDYING COMMUNITY
+Sundays LUC 9:30 am
+Wednesdays LUC 7:30 pm
+Furthermore, we eat together Sunday lunch, 
+Wednesday supper. And we have retreats,
+service projects, Inter-collegiate pro­
+grams. Did you get a schedule at the
+Activities Fair? Stop by LUC if you need
+one.
+R*SQRT<Zx*±n
+LUTHERAN CAMPUS MINISTRY
+The Rev. Ruth Becker 
+Campus Pastor
+(412) 682-6886
+Meaaage8 24 hoursdaily
+
+---------------------------------------------------
+
+We also need a few pizzamakers who also 
+start well above minimum wage.
+>£)1986 Domino's Pizza. Inc
+NEED CASH? WE DELIVER]
+y!BwB\GG ¡óBwóà\G315 N. Craig St. 623 Greenfield Ave.
+We are OaklancTs largest pizza delivery store, and we need people
+who want to make money...
+Do you need a job during school that pays you for your time?
+Domino’s Pizza is hiring delivery personnel who have their own car and insurance. 
+Work for the company whose employees are among the best paid in the industry!
+Start above minimum wage plus great tips — average $6-$8 per hourl
+Hours are very flexible from 8 to 48 hours per week; Lunchtime, Dinnertime, late 
+evenings and weekends. We Vo work around your schedule. We offer paid 
+vacations, free meals, and pizza discounts. Just maybe you'll see why we are the 
+world’s largest pizza delivery company and want to take advantage of our 
+advancement opportunities.
+
+---------------------------------------------------
+
+PV Pm > V^ Dà D’ 62iA >LlVlUfr
+Volume 83. Issue 1The Tartan. Carnegie Mellon University. Pittsburgh. Pennsylvania7 September 1988
+he average freshman’s journey to campus is a long 
+one, made far longer by the tirade of college pointers 
+offered by his protective parents. He arrives at Carnegie 
+Mellon greeted by a plethora of overenthusiastic freshman 
+counsellors, resident assistants, and confusing though occa­
+sionally educational (if you know where to look) literature. 
+Based on extensive research, the average freshman agenda has 
+been determined to look somewhat like this:
+»Arrive on campus.
+• Stand in line at Kiltie trying to look nonchalant.
+•Parents appear, nonchalance plans devastated.
+• Search for the dorm with the “unique architectural style.”
+«Arrive at Hamerschlag.
+•Pick up keys.
+•Console hysterical mother while father grabs a catalog, 
+flipping to “Refund Policy.”
+•Attempt to open room door.
+•Fail.
+•Get the right set of keys.
+•Open room.
+• Parents look in, father muttering something about “$17,000,” 
+mother reaching for the can of Raid.
+•Drive around for an hour looking for a parking space.
+•Double park, unload car and U-Haul onto sidewalk.
+•Visualize how impressive your 23” Hitatchi color console TV 
+stereo entertainment center will look against those blue ce­
+ment block walls.
+• Consider the Priesthood and a vow of poverty after realizing
+Coming (back) toCAMPUS
+Photos by Aaron Young, except freshman camp photo courtesy of 
+The Thistle. Text by Staffuiriters Darlene Fozard, Stefan Savage, 
+Terence Spies and Managing Editor Erika L. Peterson.
+a.UorU1uv .U 8l'u *^
+
+---------------------------------------------------
+
+5SThe Tartan • Carnegie Mellon • Wednesday, 7 September 1988
+6um8rU' so1vuUos rs frcu f138CnÎs '.lm
+By ALBRE CHT T. POWELL
+Tartan Photography Editor 
+Wearing two different hats, one 
+of Student Ombudsman and the 
+other as Coordinator of Special 
+Projects, Michael Murphy—he 
+prefers just plain Mike — has 
+two primary goals: the first, to 
+help students. The second, to 
+help students.
+Wait, you say, how can this be? 
+As Student Ombudsman, he is a
+“I assist students in using the system, and 
+working within the system,” says Murphy.
+person to turn to when you don’t 
+know where to go. A first step in 
+getting a problem solved, or a 
+place to complain with unsatis­
+factory results. As Coordinator 
+of Special Projects, he works on 
+projects designed to enhance the 
+quality of life on campus. He is 
+an administrator whose primary 
+concern is for the student.
+An ombudsman, according to 
+American Heritage, is “a gov­
+ernment official who investi­
+gates citizen’s complaints 
+against the government or its 
+functionaries.” Murphy sees 
+himself in a little less “techni­
+cal” light. He’s just there to help 
+students.
+Whenever a student has a prob­
+lem or concern, and doesn’t know 
+where to turn, he can go to 
+Murphy, who will point him in 
+the right direction. If the stu­
+dent has had some problems that 
+were not rectified satisfactorily, 
+Murphy can help.
+“I assist students in using the 
+system, and working within the 
+system. It’s sort of the ‘How 
+should I go about solving this,’ a 
+game plan, if you will.” Any time
+a student talks to Murphy, the 
+conversation is strictly confiden­
+tial. He can be reached at 268- 
+2991.
+Murphy’s other job, Coordina­
+tor of Special Projects, is just as 
+important. Currently, he is as­
+sisting in over two dozen proj­
+ects such as working with Bruce 
+Gerson, Sports Information 
+Director, and the athletics de­
+partment for “On the Road in 
+’88” — the 
+Tartan foot­
+ball team’s 
+current 
+theme. 
+Murphy 
+and Gerson 
+are trying to 
+help foster 
+campus 
+spirit and 
+unity by ar- 
+ranging 
+transporta­
+tion to and 
+from the 
+games, 
+giveaways, 
+prizes, and 
+other sun­
+dries to help 
+get students 
+to the
+games.
+Other 
+projects in­
+clude: work­
+ing with 
+faculty sen­
+ate for
+greater fac­
+ulty and student interaction, 
+developing a parents’ newslet­
+ter of campus events and activi­
+ties, working with Anne Witch- 
+ner, the Director of Student 
+Activities, on student leadership 
+and development, creating a peer 
+education net­
+work committee 
+on alcohol and 
+drug education 
+(known as 
+CADE), and ad­
+dressing the 
+need for greater 
+awareness with 
+minority issues
+— to name a 
+few. “It’s sort of 
+whatever comes 
+along or what­
+ever is needed,” 
+says Murphy.
+When asked about his views of 
+Carnegie Mellon, he says, “I am 
+amazed at the vitality and com­
+mitment of the student body. 
+And the faculty, for that matter. 
+People here are struck with so 
+much enthusiasm with all the 
+change that’s going on, it’s 
+amazing.”
+Murphy goes on to say that he 
+really appreciates how both 
+students and faculty seem ori­
+ented to suggest broad-based 
+improvements, many of which 
+will not affect them. Such things 
+as quality of life issues are im­
+portant. “Things take time. 
+Many of the students who par­
+ticipated on the Quality of Life 
+student task force are no longer 
+around, but their ideas and vi­
+sions will be of advantage to 
+future students.”
+The position of ombudsman is 
+a relatively new one at Carnegie 
+Mellon. It was instituted last 
+year as an experiment, and found 
+to be successful. Dan Corbett, a 
+then-part-time SUPA student, 
+was appointed by President 
+Cyert to address student needs. 
+Corbett, who was actively in­
+volved with the Quality of Stu­
+dent Life task force, said that 
+this type of position, “an admin­
+istrator that students can really 
+relate to,” was really needed on 
+campus.
+Corbett went on to say that 
+students are perhaps the most 
+important part of Carnegie 
+Mellon, and they need a very 
+clear cut inroad into the system. 
+Murphy plans to continue much 
+of the work Corbett began.
+Murphy got his Bachelors 
+degree in Economics from the 
+University of Virginia, in 1981, 
+received a masters in Counsel­
+ing and Higher Education in 
+1982, and came to Carnegie 
+Mellon the same year.He worked 
+until 1985 as Assistant Dean of 
+Student Affairs and an Area 
+Coordinator on the Hill (Murphy 
+smiled, “The Hill—best place to 
+be!”) He earned a Masters in 
+Public Management from SUPA 
+in 1985, and became Assistant
+RESERVE OFFICERS' TRAINING CORPS
+BELIEVE IT OR NOT, THIS GUY 
+ISINGLASS.
+If you’re looking for excitement and adven­ture, you’ll find it when you enroll in Army 
+ROTC. It’s not your ordinary college elective.
+7;f“ ;NMg
+THE SMARTEST COLLEGE 
+COURSE YOU CAN TAKE.
+Call CPT Jim Del Re 
+at X5242 
+or stop by A-204 Hamburg Hall
+“It never really occurred to me 
+to stay here....I’ve always moved 
+around a lot,” he says. Murphy 
+took his new position on July 1 
+of this year. “One of the best 
+things about the position is that 
+a lot of it is determined by stu­
+dents.” He was given no agenda 
+of what direction to go. It was a 
+“very open ended job descrip­
+tion, with lots of opportunity,” 
+he says.
+When asked whether he felt 
+this would be a long-term job, 
+Murphy replied, “Well, I think 
+that the position needs a long­
+term commitment. You need 
+someone who will see projects 
+through. I like this place, both 
+Pittsburgh and Carnegie Mel­
+lon.”
+“Besides, we [my wife Nancy, 
+my cat Taylor, and I] just bought 
+a house, and we really like it 
+here. Yeah, I’ll be around for a 
+while,” he smiles.
+Counseling available to all
+By HOWDY PIERCE
+Tartan Features Editor
+“We’d like to let everyone 
+know we’re here,” says Lorrie 
+Rabin, the Director of Carne­
+gie Mellon’s Counseling and 
+Student Development Center. 
+Judging by last year’s statis­
+tics — 3000 hours of one-on- 
+one counseling scheduled 
+with 500 students served—it 
+doesn’t look like Rabin has 
+much to worry about.
+The CSDC provides confi­
+dential counseling for a 
+number of problems ranging 
+from eating disorders to diffi­
+culties with boyfriends and 
+girlfriends. Free counseling 
+is available to any member of 
+the CMU community.
+In addition to one-on-one 
+counseling, the CSDC offers 
+workshops on topics such as 
+^depression, stereotypes, and
+stress management. Last 
+year, these workshops 
+reached about 2000 students.
+Rabin stresses that the coun­
+seling center is available to 
+everyone."We’re widely used. 
+We see problems ranging from 
+very serious to the everyday.”
+The newly-renovated center 
+boasts two new faces. Glen 
+Sherman, recently of the 
+University of Pittsburgh, is a 
+new senior staff consultant. 
+The other new counselor is 
+Ed Lilly, previously with 
+Student Affairs. “Ed has a 
+background in counseling and 
+we’re very pleased to have 
+him,” says Rabin.
+To reach the counseling cen­
+ter, which is located in the 
+bottom of the E tower of 
+Morewood Gardens, call ex­
+tension 2922. A staff member 
+is on call 24 hours a day. À
+Director of Housing for Resi­
+dence Life.
+Murphy wanted a job with a 
+little broader range of impact. 
+He planned to leave Carnegie 
+Mellon this year, but heard about 
+the position of Ombudsman and 
+Coordinator of Special Projects 
+and applied at the last minute.
+It
+brings out 
+the best 
+in all of us.
+Unibed Wtay
+It’s apples and honey time so... 
+CHABAD HOUSE ON CAMPUS
+Wishes you a happy, healthy and successful
+Rosh Hashanah — 5749 — New Year
+Public Shofar Blowing - 5 PM Skibo 
+12 & 13 September
+For home hospitality contact:
+Rabbi Shmucl & Sara Weinstein On Campus:
+4710 Wallingford Sholom Cohen x-5872
+683-7770
+'The Warmest Place Away from Home"
+A project of the Yeshivah Schools
+HIGH HOLYDAY SERVICES
+Community Services Rosh Hashanah
+Sept. 11 8pm, William Pitt Ballroom 
+Sept. 12 9:30am, William Pitt Ballroom 
+Sept. 13 9:30am, William Pitt Ballroom
+Reform Sevices Rosh Hashanah
+Sept. 12 10am, Dining Room A, William Pitt Union
+Community Services Yom Kippur
+Sept. 20 8pm (Kol Nidre), William Pitt Ballroom 
+Sept. 21 9am, William Pitt Ballroom
+Reform Services Yom Kippur
+Sept. 20 8pm (Kol Nidre), CMU, Skibo, Rooms 105&106 
+Sept. 21 10am, CMU, Skibo, Rooms 105&106
+Pkme 363-,
+16 INCH 
+PEPPERONI PIZZA $5.oo+tax
+Saturday 11 am - 2 am 
+Sunday through Friday 3 pm - 2 am
+
+---------------------------------------------------
+
+The Tartan • Carnegie Mellon • Wednesday, 7 September 1988L3
+Slso lUv gCul8" üulorU' oCu ?rmoru hm1us
+Food is a necessity. Unfor­
+tunately, it is not always 
+cheap, and often requires a 
+bit of preparation and imagi­
+nation, both 
+of which can 
+betime-con- 
+s u m i ng .
+CMU often 
+requirestoo 
+much time 
+to comforta­
+bly devote 
+energy to 
+food, so stu­
+dents often 
+trust to CMDS to take care of 
+that for them.
+Some brave souls who take 
+suchmatters as food into their 
+own hands, upon getting 
+strapped for time, panic and 
+rely on the five pre-prepared 
+food groups: pizza, nachos, 
+Chinese (subdivided into 
+Takeout and Delivered), caf­
+feine, and junk. Others rely 
+on old standards, such as spa­
+ghetti, which are cheap, quick,
+and easy, but get boring after 
+about a month.
+While I can’t offer you some 
+more time (hey, I’m a student, 
+too!), I can take 
+care of some of 
+the imagina­
+tion for you by 
+offering cheap, 
+easy, interest­
+ing variations 
+on those old 
+standards. 
+Spaghetti 
+Let’s start 
+with spaghetti, 
+since it’s one of those nice things 
+you dorm residents can cook in a 
+hot pot without getting your RA 
+mad.
+Here’s a refresher on how to 
+make spaghetti: Fill pot with 
+water, add a bit of salt or oil to 
+keep the spaghetti noodles from 
+sticking to each other, and heat. 
+When the water reaches a roll­
+ing boil, put the noodles in (if 
+you’re dealing with a hot pot, 
+you may want to break them in
+half) and leave them there until 
+tender. Drain the water from 
+the noodles. Rinse them with 
+cold water to remove excess 
+starch and stop them from cook­
+ing. Heat sauce of your choice 
+and pour over spaghetti.
+A variation for those who like 
+vegetables: Julienne (chop into 
+matchstick-size pieces) carrots, 
+zucchini, or the vegetables of 
+your choice. Sautee lightly in 
+olive oil (possibly difficult in a 
+hot-pot) with basil, and oreg­
+ano. Toss with spaghetti, a little 
+more olive oil and parmesan 
+cheese. A variation on this vari­
+ation: if you have chicken left 
+over from a previous lunch or 
+dinner, julienne the leftovers and 
+throw them in too.
+Some more variations:
+Mix your still-hot spaghetti (or 
+other pasta shape) with grated 
+cheese or cottage cheese.
+Rinse the noodles until thor­
+oughly cold, and toss them in a 
+salad (or even just with toma­
+toes and olives) with Italian
+dressing.
+Mix your spaghetti ( warm 
+or cold) with flaked tuna fish, 
+grated mozzarella or Swiss, 
+tomatoes, and olive oil. 
+Peanut Butter Cookies 
+I think you get the idea. 
+For dessert, you may even 
+want to make these cookies, 
+which are quick and easy 
+and feature another low- 
+prep standby: peanut butter.
+• 1 cup peanut butter
+•1 egg• 1 cup sugar
+• 1 teaspoon vanilla 
+Combine all the ingredi­
+ents. Form into 1-inch di­
+ameter balls. Flatten each 
+ball with a fork (twice, to 
+form a criss-cross pattern 
+on the cookie) on an un­
+greased cookie sheet. The 
+oil ifi the peanut butter will 
+keep them from sticking to 
+the pan. Bake at 350 de­
+grees for about 10 minutes. 
+Makes about two dozen cook-
+AC addresses literacy
+By DENISE A. TROLL
+Special to The Tartan
+This article¦ is the first of a 
+series addressing the state of 
+computer literacy at Carnegie 
+Mellon. Future articles will dis­
+cuss the long-term goals of Aca­
+demic Computing’s Documenta­
+tion and Training and present 
+the typical student’s view of CMU 
+computing systems.
+Denise Troll is the Documenta­
+tion and Training Coordinator 
+for Academic Computing. —Ed.
+Central computing at Carne­
+gie Mellon is managed by Com­
+puting Systems, a unit of the 
+Academic Services Division. 
+Computing Systems is composed 
+of three departments: Academic 
+Computing, Network Services & 
+Data Communication, and 
+Computing Systems. While the 
+three departments share the 
+responsibility for delivering 
+computing services to the CMU 
+campus, it is Academic Comput­
+ing which is the primary liason 
+between Computing Services 
+and the user community.
+Academic Computing took
+steps over the summer to im­
+prove and coordinate its docu­
+mentation and training services.
+Computer
+literacy
+first of a series
+We hope to provide more up-to- 
+date service, to better facilitate 
+users’ understanding and access 
+to this service, and to establish 
+channels for user feedback so 
+that we can continue to develop 
+documentation and training that 
+meet the needs of the campus 
+community.
+To be responsive to users’ 
+needs, we must know what those 
+needs are. In a general way it is 
+clear that users want a stable 
+system, easy-to-use software and 
+hardware, printing and consult­
+ing services, and up-to-date 
+documentation and training 
+a.UorU1uv .U 8l'u *¡
+Carnegie Mellon comes back to life...
+The Rites of August
+a.UorU1uv p3.I 8l'u *i
+j the effort needed to lug your 
+belongings up three flights of 
+j stairs. Lower, middle, and up- 
+. per back pain makes you ques- 
+j tion the necessity of the 23” 
+j Hitatchi color console TV stereo 
+\ entertainment center that 
+doesn’t fit in your loft anyway.
+•Meet your roommate, check 
+I out his stuff, begin to worry about 
+the fate of modern psychology 
+' when you realize you’ve been 
+I paired up with a violent anar- 
+I chist hacker who showers only 
+1 weekly. Begin to have a serious 
+] personality crisis when you 
+j contemplate why you were 
+j paired with him.
+• Head for lunch at Kiltie with 
+i you family. Discuss with mother 
+j the possibility of having dinner
+Fed-Exxed to your room nightly.
+• Bid a relieved farewell to your
+¦ family, promise to call often and 
+j not let your laundry get too far 
+] behind, and head for the frats as 
+| soon as the car rounds the cor- 
+| ner onto Forbes Ave.
+; For returning students, how- 
+ever, campus looks decidedly 
+; different. You already know the 
+I secret formulas necessary to 
+navigate the halls of Morewood 
+j and Wean, the hideousness of 
+; Skibo and Donner no longer
+shock you, and your body has 
+built up an immunity to CMDS 
+food, making dinner a tolerable, 
+if not exactly enjoyable experi­
+ence. After discussing with your 
+roommate all the items you will 
+need to purchase to make your 
+room one of the finest on cam­
+pus, your activities probably look 
+something like this:
+•The Grand Slam Campus 
+Social Tour. This involves visit­
+ing every person you ever met in 
+their room, office, apartment or 
+fraternity and trying to assimi­
+late, in a matter of hours, the 
+aggregate activities of several 
+dozen people over the course of 
+the last three months.
+•Gathering a large group of 
+these people, and heading to­
+ward Oakland or someone’s 
+apartment to avoid eating at 
+Kiltie for as long as possible. O’s 
+fries are a definite must for those 
+who have forgotten just how 
+horrible it is possible to feel.
+•Returning to your room late 
+that night to remember just how 
+much you don’t like your 
+roommate’s boyfriend, and 
+scheming a devious plan to lock 
+them out at the next opportu­
+nity.
+•The Registrar. Returning to 
+classes undoubtedly means the
+odyssey to the registrar’s tent, 
+your department, your adviser 
+and back to the tent in order to 
+drop and re-add the four classes 
+for which the times changed and 
+finally determining that the only 
+way you’ll graduate is if you 
+switch from Industrial Manage­
+ment to Modern French.
+• Class. Realizing that first day 
+that the psychotic guy who lives 
+down the hall is in five of your 
+six classes, has switched to your 
+major, and has decided he wants 
+to go out with you. Run scream­
+ing to you roommate in the grill 
+at lunch and wonder why, on top 
+of all this, that you’re actually 
+eating a Tartan burger.
+•Homework. Calculate your 
+average monthly salary over the 
+summer, the average cost of each 
+class, your workload, and the 
+minimum hours of sleep on 
+which a person can survive, and 
+determine that dropping out of 
+school and working at the Giant 
+Eagle would increase your qual­
+ity of life significantly.
+• Remembering that despite all 
+that, you did manage to have a 
+reasonably good time last year.
+•Embarking on a plan to have 
+an even better time this year by 
+blowing off the first econ assign­
+ment and going dancing instead.
+• •Coming Soon* <
+S3uu jlmcwiU M1o.3rU'
+!"GG8I ( BB"GG8I 
+V1Uvln oC3.1'C MC13svln
+Calculus,Physics, Chemistiy, 
+Computing, Academic Writing
+jloaC p.3 vuolrms 
+rU The Tartan.
+Sponsored by Counseling & Student Development Center, Division of Student Affairs
+TopNotchART MATERIALS INC.
+819 Penn Avenue, Downtown 
+Pittsburgh • 355-0444
+411 S. Craig Street • Oakland 
+683-4444 
+Open Sundays 1 to 5
+Stop in for FREE 24-pg. 
+Money Saving Brochure
+CREDIT CARDS ACCEPTED
+Reg. $189.50 SALE s99.50 
+SAVE $90.00
+ByA LREC HTBT.P 
+Reg. $2.38 ONLY $1.32 roll
+Career Services and Placement is offering some important programs for seniors and graduate 
+students about to enter the job market:
+Mechanics of Registering Information Tables:
+Tuesday, September 13 — 10:00 - 4:00 Skibo Lobby
+Wednesday, September 14 — 10:00-4:00 Skibo Lobby
+Pick up registration forms and learn how registering with CS&P will aid you in your job search, 
+by allowing you to sign up for campus interviews and receive job referrals.
+Job Search Orientation:
+Tuesday, September 21 — 11:30-4:00 Wherrett Room, Skibo
+Wednesday, September 22 — 11:30 - 4:00 Kresge Theatre, CFA
+Learn how to most effectively use Career Services and Placement. Discussion will cover the cam­
+pus interview system and other career and employment issues. A packet containing extensive job 
+search material will be distributed.
+
+---------------------------------------------------
+
+cIhist(e. ‘yearbook^
+Open House September 11 
+Sunday 1:00 - 8:00 p.m. 
+Room 45 Skibo 
+New Members Welcome
+Senior portraits 
+The 1989 Thistle will only accept portraits 
+done by Strem-Varden Studios
+Set shots: Sept. 26-30Oct. 3-4 11-14 5-7
+Semi-formal dress only.
+Due to unexpected complications with 
+last year’s production, the 1988 Thistle Yearbook 
+rill not arrive until December 1.
+Please be patient.
+Funded by your Activities Feei
+
+---------------------------------------------------
+
+The Tartan • Carnegie Mellon • Wednesday, 7 September 1988L5
+Academic Computing hopes to increase literacy through documentation, training
+a.UorU1uv p3.I 8l'u *^
+However, the details about the 
+specific academic computing 
+that users are required to do 
+and the needs that this require­
+ment generates are more diffi­
+cult to identify.
+Documentation and Training 
+staff members worked this 
+summer to address the obvious 
+general needs that users have 
+with regard to computer educa­
+tion. In addition, we feel that we 
+have devised a way to learn more 
+about these general needs and 
+what specific academic comput­
+ing needs exist in relation to 
+documentation and training.
+We see satisfying the basic 
+needs for documentation and 
+training about text editing, elec­
+tronic mail, file transfer and 
+printing as a first step, a short­
+term goal. Satisfying the needs 
+for documentation and training 
+about specific online academic 
+activities is a second step — a 
+long-term goal — that we can­
+not achieve until we know what 
+such users want. This article 
+discusses what we have done to 
+achieve our short-term goal. The 
+second part of this series will 
+address what we are doing to 
+achieve our long-term goal.
+The short-term documentation 
+objective is to provide up-to-date 
+manuals, handouts, and online 
+help for the centrally supported 
+systems and software.
+This summer the Documenta­
+tion and Training staff recruited 
+several student writers to help 
+us keep up with the demand for 
+up-to-date documents. These 
+writers are helping revise obso­
+lete documents and prepare new
+Now available online...
+Training modules released to campus
+Formerly available only to Printing on Andrew,Introduc- STRUCTION. See the online 
+tion to Scribe, Introduction to 
+the Macintosh, and Excel.
+By the middle of September, 
+the complete set of UTMs will be 
+available for reference in the 
+public computer clusters. You 
+may check them out with a valid 
+CMU ED card.
+UTMs will also be available in . puterliteracy”means orought 
+postscript format on Andrew in to mean at Carnegie Mellon. 
+/üsr/Iöcäl/döc and in Scribe for- Comments may be sent to
+mat on VAX-B in SYS$IN- tro!l+@andrew.
+student consultants working 
+for Academic Computing, 
+User Training Modules — 
+“UTMs” for short — present 
+the concepts and capabilities 
+of different applications and 
+procedures integral to com­
+puting at Carnegie Mellon.
+Examples of available 
+UTMs are: Introduction to the 
+VAX, Introduction to UNIX, 
+The Andrew Help System,
+help on utms for a current list 
+of titles and filenames.
+At the end of each UTM is an 
+evaluation form asking users 
+to rate the UTM itself and the 
+“do-it-yourself’ approach to 
+training. Users are also asked 
+to comment on what “com-
+ones. Three new manuals were 
+completed this summer, and 
+more are underway.
+To better organize and control 
+documentation, we have inven­
+toried all of the hardcopy docu­
+ments in the public clusters, and 
+we are purchasing or producing 
+documents that users requested. 
+We have also made explicit ar­
+rangements with the consult­
+ants who work in the clusters to 
+see that the bins of handouts are 
+never empty, and to report hand­
+outs that are no longer accurate. 
+This fall we will be revising the 
+handouts.
+To facilitate users’ access to 
+the documents, we have begun 
+to put new or revised versions of 
+locally-produced manuals and 
+handouts on Andrew.
+The short-term training objec­
+tive is to provide the user com­
+munity with basic instruction in 
+the centrally-supported systems 
+and popular software. Over the
+Printing online documents
+Academic Computing has 
+begun to put new or revised 
+versions of locally-produced 
+manuals and handouts on An­
+drew in the directory usr/lo­
+cal/doc.
+To access the documents, 
+type the following in your 
+typescript window: 
+cd usr/local/doc 
+Is
+A listing of all the documents 
+currently online will appear. 
+The majority of these docu­
+ments fall into two catego­
+ries:
+•Those documents with file­
+names ending in “.PS” are 
+postscript files, which means 
+you can print them on any 
+Andrew printer. Just type the 
+command 
+print -Tnative -Sprin-
+tername file 
+where printername is the 
+name of the Andrew printer 
+you wi sh to print on and file is 
+the name of the postscript file, 
+including the “.PS” suffix.
+•Those documents with file­
+names ending in “.doc” are EZ 
+files. To print them, just type 
+the command
+ezprint file 
+where file is the filename of 
+the document, including the 
+“.doc” suffix.
+The only new manual that is 
+not available in /usr/local/doc 
+is “The VTJI User’s Guide,” 
+which is too large and con­
+tains too many pictures for 
+users to print it conveniently. 
+“The VUI User’s Guide” can 
+be purchased in the CMU 
+Computer Store.
+summer, we organized our train­
+ing program by designating 
+trainers who meet regularly to 
+discuss issues related to train­
+ing, and by developing a promo­
+tional agenda to advertise our
+training ses- ___________
+sions to three 
+audiences: stu­
+dents, faculty, 
+and staff.
+Student train­
+ing will be adver­
+tised on large posters in the 
+clusters and across campus, on 
+the “announce” bulletin board 
+on Andrew, and in Cursor, Aca­
+demic Computing’s monthly 
+newsletter. We are also creating 
+a training help file that lists the 
+complete training schedule for 
+the semester; you will soon be 
+able to access this file by typing 
+“help training” on Andrew or 
+VAX-B.
+A new training session entitled 
+“How to Read Computer Docu­
+mentation” will be offered this 
+fall as part of Academic 
+Computing’s efforts to coordi­
+nate documentation and train-
+ACADEMIC
+COMPUTING
+ing. Experience indicates that 
+many users do not read the avail­
+able documents, either because 
+they do not know they are avail­
+able, cannot find them, don’t 
+know how to use them, or choose 
+____________ to ask the con­
+sultant or ad­
+visor instead.
+Although we 
+will continue 
+to develop the 
+training pro­
+gram, we know that, because of 
+scheduling conflicts and a lack 
+of resources, we cannot provide 
+every user on campus with per­
+sonal instruction. Therefore, 
+users must turn to documenta­
+tion for guidance. We are work­
+ing to improve the documents 
+and to train users how to locate 
+and use them. We are currently 
+working on the following proj­
+ects:
+°To solve the problem of users 
+not knowing what documents 
+are available where, we will be 
+preparing an easy-to-use data­
+base on Andrew to which all 
+users will have access. Users
+ship? A
+SCHOLARSHIPS 
+AVAILABLE
+Looking for a scholar­
+ship? Air Force ROTC has 
+two- through four-year scholarships 
+that can cover tuition and other expenses, 
+plus $100 per academic month, tax free 
+Find out if you qualify
+CAPT HELEN BOND 
+412-268-8747
+Leadership Excellence Starts Here
+will be able to query the data­
+base for documents on each of 
+the supported systems and ap­
+plications. When the documen­
+tation component of the data­
+base is completed, we plan to 
+add information on training and 
+consulting.
+•To solve the problem of sched­
+uling training sessions to meet 
+the needs of 7000 users, we are 
+exploring audiotape, videotape, 
+interactive videodisk and online 
+tutorials as alternative ap­
+proaches to personal instruction. 
+These avenues offer a time- and 
+cost-effective method for users 
+to proceed at their own pace.
+•To encourage users to become 
+stronger computer users and
+hence independent of consult­
+ants, we are starting a campaign 
+to emphasize user initiative in 
+achieving computer literacy. 
+This campaign encompasses 
+documentation, training and 
+user feedback. Our first major 
+step is to provide do-it-yourself 
+training via hardcopy documents 
+called User Training Modules 
+(UTMs).
+Much progress has been made 
+this summer in accomplishing 
+our short-term goals, but we 
+know that there is much more 
+work still to be done — particu­
+larly in regard to specific aca­
+demic uses of computing. Our 
+long-term goal along these lines 
+will be discussed next week.
+What
+Can An
+MBA
+Degree
+Do For
+You?
+An MBA degree from Ohio State can bring you greater opportunities, income,- and career challenges. Our nationally recognized MBA program offers merit-based financial aid and has no prerequisites. We enroll both business and nonbusiness majors. And many of our graduates have gone on to jobs with established leaders like IBM, Goldman Sachs, AT&T, and Procter & Gamble. For a free brochure about our programs, please write or call:
+Director, MBA Programs The Ohio State University 112 Hagerty Hall 1775 College Road Columbus, OH 43210-1399 614-292-8511
+Come to Great Expectations precision haircutters for a look that stands out and lets you be who you want to be,
+WITH THtt COUPON
+I save $2.00 coo¦ Precision Haircut ia.I8uou eroC sClI8.. z hm.e ponm” l
+JjX September 30. ^
+SAllsF^TOlTGUARANTEEDi _ ~ “ ” 
+D3ulo Vonmus Vol3o loxxx
+cHfcmnms»
+Theartrni HAiRcuneris
+237 Atwood Street
+Across the street from 
+Oakland Post Office 
+687-3500
+GET INVOLVED!
+Petitions are now being accepted for Student 
+Government Treasurer
+Available:At Skibo Info Desk
+Deadline: 5pm, September 23
+For more info: Call Student Senate at x2115
+15% Off ALL 
+REMNANTS
+with this coupon
+9X12 CARPET oniy $39*s
+McClures 
+Carpeting
+1701 E. Carson St. 
+Southside 381-5140
+5 minutes from Oakland
+All styles, colors. 
+Room size rugs, remnants
+
+---------------------------------------------------
+
+W3$m ¦ :
+Funded By 
+Vo1vuUo 
+A.3Iro.3n 
+g.1Uarm
+BLOOM COUNTY
+BY BERKE BREATHED
+I p/pf/r maio & vce InsidIexTpagepg2 ...S4 9ThL 
+stmi onfCrI&CIm ^semce.
+turner, tmi1I0tPyENTER A PFOFES5ION THAT RELIEVES ME CFPEPENPEHCE < ON THE MEXICAN ) TAXFMER- y
+J'LLßefFARMERSELFLESS SERVANT 73 MOTHER EARTH.
+..MP PLACE BETWEEN 6UM m CHEEK. SPITRESlPUE AT POOS, BUGS, saxrenitHe'S Feanxdxo bl ’819 @9> lA bNW eanT't
+fmIh SImi uai IneTTfUPSET ABOUT BEING BOUNCEP FROM / w POLITICS. /
+I THINkr OOfc pi< 
+rr£ cu&fve tHis- 
+s sßMssTge/ J
+C06LL G-EMTLEMeM^
+ooe Fßi\T€£NlTiJ.,'V PiUPWft- MU
+~T\ HAS-¿A FIVE
+r\
+THE OTHSJfc. FßATe-BMl'naS 
+outBvjild us (kj BccaH,
+OürßDNi OS IM 8UGG&, 
+RND OUTSIN& US 
+> GrR££K SlMG-/
+TVEHEARP HE'S ON VOCATIONAL 
+REBOUNP...
+*KEEP THOSE FtAT-FOOlEP GOOQBAHS 
+IN WASHINGTON OUT OF MY ,v iEtr...d y
+SAY THE FOLLOWING W' TVJO THINGS IN ONE BREffTH f OKAY...WITHOUT \ SHOOT. OCRACKING UP: ~ JV—^
+. KEEP THOSE 1 FLAT-FOOTEP GCOMBAHS IN WASHINGTON 
+OUT OF MY \HAIR~. f
+bO AHEAP QUIZ ME ON 
+CHAPTER TWO.
+HURRY UP- HEB'nee/HEB/, use.' s
+'.HURRY UP WITH MY FEPERAL BAIL-OUTCHECK.-;
+FfcflNk
+YES, 1 BELIEVE WE CAN L NOW PlSFENSE WITH THE TERM 'YAHOO. ~ THANK YOU VERY MUCH.__^
+1 THE PtFFEREHCE BETWEEN BANKRUPTCY MP A PROFIT­ABLE HARVEST CM SOMETIMES 
+PEAS SIMPLE AS THE SOPHISTICATE!? USe OF A PERSONAL COMPUTER. "
+"'CHAPTER ONE ¦THE SOPHISnCATEP FARMER"
+By Kurt Shaw gInkspots
+OOP HELP M£, IVN&/&rùfve vi'thx VISJINCHY /¡MBflCflK/ ^WYOF
+r LESSEE- ONE-HALF BUSHEL CORN.- TWO POUNPS CHEMICALLY FATTENEP TOMATERS.. S . ONE YAM----
+^ AFTERSALES,I SHOULP OWE #37% MILLION.
+BmiT bdF by P98w ON MY FEET- m KNOW. ,PROUGHT. FIRE. LOCUSTS. FLOOP. EARTHQUAKE. FOUAR PLUMMETEP. GRAIN EMBARGO. BANK FORECLOSEP. COWS GOT WE FLU. PfG BfT THE MAILMAN.
+PLUS A TORNAPO HIT PORING THE TOMATER . HARVEST.
+FARMER OPUS WHAT HAPPENEOr/
+BOT I > PtPN'T GROW ANYTHING 
+BUTptRf.
+PLUS, \ OF COURSE, YOUR REGULAR GOVERNMENT
+SUBSIPY/y
+AAAANP YOUR EMERGENCY / PROUGHT / 
+K RELIEF/ J
+( IS ALIEN ) FONT/ HI PING IN THE BUSHES?
+CHEER UP, MISTER \ FARMER/ HERE'S YOUR CROP-INSURANCE 
+SETTLEMENT/ ^
+mw/
+WERE JUST ^KIPPING.
+V Edward Julius Collegiate CW8721
+
+---------------------------------------------------
+
+By Danny Fahs
+/1 UANOtR -me 6ALAXYV '—X olu MV ship THi mee83.I ("b/
+NAATIOLE WAS HPR ^M^BNKXr&C^ APvetfTURc. ^
+,A_ -¿?3B"H6Re«JP TrieEE s1'CarnugiM Uv i take on an opp
+IMilfi,fe \ ,\v lum ue Meer A
+süallL J^ERrK V- fjEW FRiewp,..
+\ y-d i i---------—sp=> ii i' /r _¦* J
+“I utoOLP KAVe XoRecooNr Am exploitsFOR AU- THE ifcoSX. 
+TKAHSffPS, AtiP
+8u3.I s1'C BevreRTHIU6S To Do THAM
+t3u3yr3P a Volu ,ft« THBSe MoHTHS."
+"THERe I tOAS, A 
+PRiSOKiefi A60ARP
+a iMue sf*cesnip.ni'm Mot \BCIN6 Pb1P 1CTloO&H FCfi 
+aC1Ir ngi M
+f'MV NAME 15 8hu
+111 n7Spi9NP I 
+AT TH6 «*SÖMf 7^5/: AHE&p 
+AD Me...
+•stTßue, CGMUri»
+PoeS hAn *vrkAGooVSAUm
+I USUALLY HAVeI TO w3y7F9 IT I
+•Dar\ny
+.L j3M!N£S 
+UTrPlftMOWD"We UJ6R6 SEARCHING FÖR I A WAY Tp UN- BlANk ucSoen MIND IA)HeN we RAH AFoOU 
+SD b 8FFbjAB
+wrlahcFt kUdTJ7f neer... in ^
+if "oUe FRigmv® f A Mice 6IRL.
+WMTH A FEU) eXT«A\ 
+92urn FELL INTo \ A •b8yjn 8jr , \8ftAi»ia)ASH[ü6fW
+"Trtey uteeg6o/iJä8h b88b7W EARTH
+itoiTM me83. .lI..AfJp THUS START As1s'C Ia8rn
+CHlCkS!
+giii .lu FChh' THeY'ßE ^^ive eor 
+no,Libiz Won, To ter ¿«/r TSVIM& To of HBRfe AMPU6ARM How To S7&P THIS 
+ggASg uib2RnB$ u10w93nn //M r^-~\ACTl vrr y/ ,-» 00ß f NJOT OKiuy^—1———Nthat, ear i CUvtyP'
+ßeew 8h b uE0sn thhu. IM Hooks.! —~—
+F\iez3i fbfa&l TRW Wl'l 
+-Tlte?/IW^’-etN WoRFr^So
+I «m weWilt] become ]'m l(Slups£/
+r-r-.HIdfßsessaib
+$¦ 1 U K-4f-i.TiW&s covLoee, 
+LWNI .-iio gy
+>t*tj®w^aus teyggrii
+I)Dbwex) I^o rrn' —
+¡toßciu'^e -to ji1
+Hw v$\( uncc^) vV£ 
+w 1
+/Our-
+5«A/T S07!iee. W££ INCOMES -die Dpe&tSE.KlöVfJ"VWvV" L^öUKt? MV? /yjri^jc \+V\((k/{c Ifn K>u||J
+)SS 42 Skin mark 11 Germ-free
+44 --- poetica 12 Nuance
+ror land or 45 Masses of blood 13 Film workers
+47 Stockings 15 Fit for food
+10 defy 48 Siamese (var.) 20 “Darn it!"ir James 49 Defend 23 Doctrines
+'Onent 51 Never: Ger. 28 Object of
+•e’s spirits 52 English prep devotionschool student 30 John ---
+54 Bridge supports 31 -------- run
+trseghian 56 Adjusted a watch 32 Part of MPH
+57 Time of day 33 U.S. agencyl*la 58 Talks back to 35 Musical7groups
+1*r 59 Intended 36 Roof workerI.1 key 37 "The --- of
+DOWN Penzance"1 1- 38 Give support
+»•seball 1 Strong drink 39 Least difficult
+2 Midwest tity 41 Robert Redford andLionel (3 wds.) Jack Nlcklaus, e.g.
+own, 3 Tennis term 43 See 32-Across
+dger 4 Egyptian god 45 Author of "The Red
+5 Sea eagles Badge of Courage"
+even 6 Commit a military 46 Rugby play
+'1th crime 49 Papal name
+7 "It's --- cause" 50 Work with a
+certain 8 Electrical units piano
+9 --- Marie Saint 53 Spanish for us
+10 Midwest city 55 Spanish equivalent
+the '50s (2 wds.) of Mrs.
+SH3E
+NexT
+W€-AI<.
+IehFlBIy'3shouttftMi‘iLV-C/n- -r
+#%blKilO
+^iTesizel
+VPefi&Ew
+i
+
+---------------------------------------------------
+
+Back, by popular demand...
+Better than ever...
+Must see to believe...
+It’s the long-awaited return of...VOX POPULI
+Your chance to voice your thoughts on life, love, 
+school, sex, the general state of the universe...
+Let that special someone know how you really feel... 
+Vent frustrations toward your friends or roommates., 
+Say anything you want, in 25 words or less...
+Just jot your idea down on a piece of paper and send it to:
+Vox Populi 
+do The Tartan 
+Skibo Info Desk
+AIESEC — Pittsburgh
+First Meeting 
+Wednesday 9/7/88 
+Skibo Room 12 
+6:30 pm
+Vo1vuUo
+A.3Iro.3n
+g.1Uarm
+SDC is now accepting applications 
+for Public Relations Designer
+Applications are available at the 
+Skibo Information Deskso1vuUo
+A.3Iro.3n
+g.1Uarm
+Deadline for applications is Sept 15
+Saturday, September 17 Blues Dance with
+THE UPTOWN RHYTHM KINGSandTHE GRANDSONS OF THE PIONEERS
+S7** !! Vg6PA2*P
+Friday, September 23 Fins and Flippers Dance with
+THE MAGNETICS
+Friday, October 21 Homecoming Dance with
+THE FLOW
+al3Uu'r:
+IummTU
+Saturday, October 29 
+Big Band Dance with
+THE TOMMY DORSEY ORCHESTRA
+D_A^N__Q_E
+funded by activities fee
+
+---------------------------------------------------
+
+7 8mulslUo 
+lelcuUrU'
+It was a relatively bright 
+and sunny Saturday after­
+noon. A slight departure 
+from the normal overcast 
+grayness associated with a 
+typical Pittsburgh day. But 
+wh at th e h eck, wh en you’re 
+up to your neck in early 
+semester expenses like tui­
+tion, books and food, any 
+little hint that <cYes, it is a 
+nice world” helps.
+The game was already un­
+der way. The football sea­
+son opener. “Snyder passes 
+to Barnyak. COMPLETE! 
+The sophomore is off and 
+running! He’s at the 15... 
+the 10... the 5... TOUCH­
+DOWN TARTANS!” the an­
+nouncer boomed over the 
+radio. “And that will bring 
+these CMU fans to their 
+feet. Yes sir! Both of those 
+guys are having a whale of 
+time at this, the first home 
+game of the 1988 season!” I 
+chuckled to myself as I lay 
+in my bed after sleeping 
+the morning away.
+He continued, “And here’s 
+the extra point attempt. 
+And it’s GOOD! My oh my, 
+those Tartan fans now have 
+REALLY big smiles on 
+their faces now...”
+That is what I expected 
+the first game to be like 
+this year. I figured that 
+since only a few people went 
+to the football games on 
+campus, who would possi­
+bly attend a game out on 
+the other side of the Fort 
+Pitt Tunnels. To my sur­
+prise and great satisfaction,
+I was proven wrong. Out of 
+an estimated 2,500 total 
+attendance, about 1,800 
+CMU fans went out to the 
+game. Transportation was 
+provided by the school in 
+the form of six buses, each 
+making two trips.
+Sports Information Direc­
+tor Bruce Gerson, the Pub­
+lic Relations Department 
+and the Athletic Depart­
+ment worked hard all 
+summer long to plan 
+events, promotions and in­
+crease overall “campus 
+awareness” to help insure 
+big crowds and good times 
+for this year’s sporting 
+events. Gerson admits 
+however, that most of this 
+energy is going into the 
+football games.
+“We’re not trying to slight 
+the other sports,” Gerson 
+said in an interview on the 
+eve of the big game.
+“When people come to the 
+football games and get a 
+program, they will see the 
+other sports.” Every game 
+program contains a profile 
+of the other fall sports and 
+their schedules.
+Gerson commented, “I ex­
+pect that we’ll see the larg­
+est attendance of the sea­
+son in this first weekend. If 
+I’m wrong we can always 
+get more buses.”
+So, even with the Pirates 
+over 7 games out of first 
+place and no sight of an 
+NBA team on the way for 
+Pittsburgh, life is good at 
+athletic fields all over the 
+city where the Tartans are 
+playing. So what if we do 
+not really have a home field 
+advantage, one can really 
+see a lot of the city just 
+going out to the games. Who 
+knows, maybe you could get 
+a job as a cabbie in your 
+spare time come Spring.
+Ml3olUs v1I8 A1F1usUu rU suls.U .8uUu3/ ókwBk
+By STEWART LEVINE
+Tartan Contributing Editor
+The field was different for most, 
+but the result was the same. In 
+the season opener for both teams, 
+three yards and a cloud of dust 
+carried Carnegie Mellon to its 
+first victory of the 1988 season, 
+24-14 over cross-town rival 
+Duquesne. The win was CMU’s 
+seventh'straight victory over the 
+Dukes.
+The game also marked a home­
+coming for Tartan Head Coach 
+Rich Lackner who played at Mt. 
+Lebanon in high school.
+Three different running backs: 
+Chris Hansen, Scott Barnyak, 
+and Fran Bellante scored touch­
+downs for Carnegie Mellon. The 
+Tartans ran three times as often 
+as they passed and cranked out 
+twice as many yards on the 
+ground on the way to the vic­
+tory. This year’s money play is 
+fullback left, a call CMU made 
+many times. Left guard Russ 
+Hann commented, “[The backs] 
+know they can run behind us.”
+The Tartans’ new surround­
+ings did not seem to totally agree 
+with them. Three starters were
+forced out of the game due to 
+injuries. In the first series, de­
+fensive lineman Marvin Ger­
+many was lost, followed by 
+sophomore quarterback Billy 
+Snyder and sophomore running 
+back Robert Schmitt.
+Coach Lackner refused to at­
+tribute the problems to Mt. 
+Lebanon’s artificial turf. “(Play­
+ing on) turf doesn’t bother me, 
+we’d better get used to it.” The 
+effects of the injuries were less­
+ened by the work of Carlos Ro­
+driguez, Barnyak and others. 
+Rodriguez is a role-player on the 
+defensive line. “We may have 
+three linemen, I consider Carlos 
+as our ‘fourth,’ he can play any of 
+the three positions,” said Lack­
+ner.
+Snyder may be out for the sea­
+son due to torn ligaments in his 
+left knee. A doctor’s report is 
+pending. This came after a prom­
+ising debut at starting quarter­
+back. While in the game, the so­
+phomore was nine of 15 for 98 
+yards. This leaves the quarter­
+back job open for either senior 
+Laszlo Buda or freshman Steve
+V.aau3 oulI hulos 
+ü3lUv—rs ówBt '.lmru 
+6..'u3eu3p rs cun
+By JOSH RUBEN
+Tartan Sports Editor
+The Tartan Soccer team opened 
+up the 1988 season last Sunday 
+with Brandeis University. The 
+team kept up the pace set by the 
+football and cross-country teams 
+by defeating the Brandeis 
+Judges 2-1.
+Brandeis jumped out to a quick 
+lead in the game when Mike 
+Novaria scored after 6:45 into 
+the game.
+Carnegie Mellon came back to 
+tie the game with a Rob Schaef­
+fer goal off of an assist from co­
+captain Bob Stefanowicz. The 
+half ended 1-1.
+Off of an assist from Mike 
+Ference at the 24:30 mark of the 
+second half, Young Kang put the 
+ball into the Brandeis net for the 
+final and winning point of the 
+game.
+All-America Candidate Eddie 
+Park tops a list of six returning 
+lettermen for Carnegie Mellon 
+this season. Park, voted team 
+MVP as a sophomore last falll, 
+led the Tartans with 11 goals 
+and six assists and was voted 
+first-team All-Region, first-team 
+All-PAC for the second straight 
+year, and first-team All-UAA.
+While Park, a 1988 co-captain, 
+highlights the offensive side of 
+the ball for Carnegie Mellon, the 
+Tartans are not without several 
+defensive standouts. Defenders 
+Chuck Shvanda and Bob
+Stefanowicz, and goalkeeper 
+Glen Hoogerwerf, a first team 
+All-PAC and honorable mention 
+All-UAA selection in 1987, are 
+welcome sights for Head Coach 
+Nick Gaudioso. Hoogerwerf 
+ranked among the league lead­
+ers with a 1.17 goals-against- 
+average and led the PAC with 
+seven shutouts last season.
+In last Sunday’s game, Hooger­
+werf had 10 saves against the 
+Judges.
+At the midfield position the 
+Tartans return sophomores 
+Chris Kasaback and Justin Piz- 
+zella. Last year, Pizzella ac­
+counted for three goals, two of 
+which were game winners, and 
+one assist, while Kasabach kept 
+pace with a goal and five assists.
+The Tartans also return de­
+fender Mike Ference, midfielder/ 
+defender Joe Schwerha and for­
+ward Alan Stein.
+The team will play all home 
+games at Sewickley Academy.
+Ironically, in a pre-season poll, 
+the UAA coaches picked Bran­
+deis to finish 4th overall and 
+Carnegie Mellon 5th.
+On the 7th, the team goes to 
+play at Slippery Rock Univer­
+sity beginning at 4:00 pm.
+The next Tartan Soccer home 
+game will be against New York 
+University on the 11th. Buses 
+will leave from Skibo Hall at 
+12:15 pm to take fans out to 
+Sewickley.
+photo by Jeff Rosenblum
+Freshman midfielder Alan Horn connects with a header 
+in Sunday’s action against Brandeis.
+j.IuUÎs ouUUrs 
+sol3os o.vln
+By NEAL LEVENE
+Tartan Staffwriter 
+Under first-year head coach 
+Julie Babler, the Tartan 
+women’s tennis team is currently 
+preparing for its upcoming 1988 
+season which starts today with 
+an away match against 
+Duquesne University at 3:30 pm.
+Losing two members to gradu­
+ation, the Lady Tartans are 
+hoping that their experience will 
+make the difference this season. 
+They hope to recapture the 
+President’s Athletic Conference 
+championship from Grove City 
+College. Returning are Suzy Dot- 
+tor, Beth Cavanaugh, Tracy 
+Boyd, Alice Garver, Mary Beth 
+Ashbaugh, and Sohee Chung.
+After posting a 7-1 record last 
+season, the women finished a 
+close second place behind Grove 
+City in the PAC championship. 
+Cavanaugh, Amy Fibus, .and 
+Boyd captured the numbers two, 
+four and five singles titles, re­
+spectively, while Dottor and Ca­
+vanaugh teamed up to win the 
+PAC doubles crown. CMU also 
+placed fifth in the First Annual 
+University Athletic Association 
+Championships, as Boyd and 
+Vibus captured the number three 
+doubles spot.
+“They look really good,” stated 
+coach Babler. “They are really 
+enthusiastic at practice, and we 
+had a good turnout. Fourteen 
+people tried out for the team. I 
+was really pleased.”
+Their first home match will'be 
+the 15th, against Indiana Uni­
+versity of Pennsylvania.
+pnoto Dy Jeff Rosenblum
+Sophomore Quarterback Billy Snyder scrambles from Duquesne’s Carl Burdin (72) amd Vinnie Vaccarello during 
+the first quarter of Saturday’s season opening game at Mount Lebanon High School.
+Patemo. Germany and Schmitt 
+will both be back before mid­
+season.
+The winning touchdown came 
+midway through the third quar­
+ter. Duquesne’s Marc Vemer 
+shanked a punt which set the 
+Tartans up at mid-field. On 
+second and 12, Snyder found 
+Barnyak free to complete a 25 
+yard pass. Three plays later the 
+sophomore tailback punched the 
+ball in from the eight yard line 
+for the touchdown. A two point 
+conversion put Carnegie Mellon 
+on top, 17-7, to stay.
+The Tartans added an insur­
+ance score early in the fourth 
+quarter. Flanker Mike Beresford 
+returned another Vemer punt 
+to the 50 to put the Tartans in 
+business.
+The Tartan offense seemed to 
+stall in the final quarter, but the 
+Dukes helped Carnegie Mellon 
+out. On two consecutive plays, 
+Duquesne was charged with
+personal fouls, taking the Tar­
+tans from the Duke 48 to the 13. 
+From there, it was up to Bel­
+lante and Barnyak to carry the 
+ball. Bellante’s one yard dive 
+pushed the Tartan lead to 24-7 
+with 9:20 remaining.
+Duquesne was able to close the 
+gap to 24-14 afterwards with its 
+own penalty-assisted drive. A 
+Carnegie Mellon late hit 
+brought the ball to the Tartan 
+25, and two plays later the 
+Dukes’ big gun, Sean
+McDonough carried the ball in 
+for the game’s final score.
+From the onset, the game 
+looked to be all Duquesne. In the 
+first play from scrimmage, 
+heavyweight Duke fullback 
+Robert Grier broke for 26 yards 
+to bring his team to the Carne­
+gie Mellon 33. However, the drive 
+stalled and kicker DougMcAuley 
+missed a 42 yard field goal to 
+end the scoring threat.
+The Tartans were unable to
+capitalize, or do much of any­
+thing early on in the game. Three 
+first quarter drives netted a loss 
+of 19 yards and one first down. 
+The Dukes could do no better 
+until McDonough broke through 
+the line for a 55 yard touchdown 
+ramble midway through the 
+second quarter. That would be 
+the last big gain for the Dukes - 
+the Tartan defense adjusted and 
+as lineman Jason Dowdy noted, 
+‘They couldn’t get off the line.”
+The Duquesne score seemed to 
+be the spark Carnegie Mellon 
+needed. Schmitt’s 27 yard kick- 
+off return brought the Tartans 
+to their 42 yard line where the 
+offense took over. Schmitt and 
+Hansen took the offensive 
+chores, rushing or receiving on
+11 of the Tartans’ 13 plays on 
+the scoring drive.
+Hansen kept the drive alive 
+with a two yard carry through 
+the left side of the Tartan line on 
+fourth down, and was soon fol­
+lowed by Schmitt’s 19 yard scam­
+per to the 10 yard line. Three 
+plays later, Hansen ran the ball 
+in and cut the gap to 7-6. ;
+Three Duquesne plays anc} a 
+punt gave Carnegie Mellon the 
+ball with three minutes to go!at 
+the Duke 31. The Tartans were 
+able to bring the ball as close !as 
+the nine before settling for a &4 
+yard Jim Kelly field goal to make 
+the score 9-7.
+This Week: The Tartans 
+travel this weekend to St. Louis 
+to take on the Washington Uni­
+versity Bears. Carnegie Mellon 
+soundly defeated the Bears last 
+season 35-0 in the final game at 
+Tech Field. According to Wash­
+ington Head Coach Ken Woody, 
+the Bears’ offense is “built 
+around big-play people.” How­
+ever, their big-play back from 
+last year, Don Polacek, gradu­
+ated. The game will be broad­
+cast on WRCT-FM (88.3) begin­
+ning at 7:50 pm Saturday.
+u
+
+---------------------------------------------------
+
+noThe Tartan • Carnegie Mellon • Wednesday, 7 September 1988
+WORK FOR YOURSELF
+As a campus representative 
+you'll be responsible for placing 
+advertising materials on bulletin 
+boards and working on 
+marketing programs for clients 
+such as American Express, 
+Boston University, Eurail, and 
+various movie companies, 
+among others. Part-time work, 
+choose your own hours. No 
+sales. Many of our reps stay 
+with us long after graduation. If 
+you are self-motivated, hard­
+working, and a bit of an 
+entrepreneur, call or write for 
+more Information to:
+7fP;ig7d 97VV7DP 
+dPMjN;? 
+6211 W. HOWARD STREET 
+CHICAGO.IL 60648 
+1(800) 221-5942 or 
+(312) 647-6860 
+CHICAGO DALLAS LOS ANGELES 
+NEW YORK SEATTLE
+CHINA INN _» USChinese Restaurant 
+specializing in:
+Hunan • Peking • Shanghai 
+Szechuan • Canton Style
+Take Out Orders 
+Call 621-6199
+Sunday Buffet
+All You Can Eat 
+For Only — $6.95
+Located in Shadyside 
+across from Giant Eagle
+4609 Centre Ave.
+Cross-Country teams 
+sweep in first meet
+By JOSH RUBEN
+Tartan Sports Editor 
+& LEN O’NEAL 
+Tartan Staffwriter 
+The Carnegie Mellon Men’s 
+I and Women’s Cross-Country 
+I teams started off the winning
+• ways of the school’s athletic
+3 program in the first Varsity 
+;! competition of the 1988-89
+• school year by each winning 
+, their first meets of the season. 
+! In a dual meet at Duquesne 
+t University last Saturday 
+1 morning, the Tartan runners
+• faced Duquesne and West
+• Liberty State.
+The men’s team won handily 
+by finishing in the first 11 
+places. They beat both schools 
+by a score of 15-50.
+Junior Dave Supp finished 
+1st with a time of 26:42. He 
+t was followed by freshman 
+Mike Damon who finished 
+,, with a 27:04, and senior Pat 
+„ Noll rounded out the top three 
+v with a time of 27:14.
+„ The two victories lengthened
+the Tartan’s NCAA Division
+III record of consecutive dual 
+meet victories to 92 and 
+enabled the team to set their 
+sights on a ninth straight 
+undefeated season and PAC 
+championship for Head Coach 
+Gary Meckley.
+The women also had a 
+som6what easy beginning to 
+their season. They beat 
+Duquesne 21-40 and West 
+Liberty State 15-50.
+Top finishers for the Lady 
+Tartans included Kristin 
+Burgard, who finished 3rd 
+overall with a time of 20:34, 
+and Sue Johnson, at the line 
+rightbehind her at 21:27. She 
+was followed by Caroline 
+Lowe in the 5th spot at 22:18. 
+Both Burgard and Johnson 
+earned first-team All-PAC 
+honors last year.
+On Saturday both teams 
+travel to Grove City to 
+compete against Bethany, 
+Grove City, Thiel and 
+Duquesne.
+Early plans for Sweepstakes ’89 B
+due 31mu lrIuv lo oe.weCuumu3st
+photo courtesy Buggy Book '88
+King Eider in free rolls last 
+year looked to be the 
+buggy to beat.
+By KARYN SILVA
+Tartan Staff Writer
+The 1988 Sweepstakes saw a 
+first — a two-wheeled buggy 
+broke the course record with an 
+amazing time of 2:08.5. It came 
+as the result of a great deal of 
+time, energy, money and overall 
+effort on the part of the brothers 
+of Delta Upsilon Fraternity. Due 
+to a chain of events that proved 
+to be unfortunate for DU on the 
+second day of racing, Spirit won 
+the competition with yet another 
+broken course record of 2:06.2.
+However, the success of the 
+two-wheel buggy sparked the 
+concern of the Sweepstakes 
+Safety Committee. According to 
+Ron Campana of Student Af­
+fairs, the committee recognized 
+that there was now the poten­
+tial for a lot of organizations 
+who were looking for a “quick 
+good time” to develop two­
+wheeled buggies that were not 
+at the same high standards as 
+those of Delta Upsilon. The situ­
+ation was viewed as potentially 
+hazardous, since a major acci­
+dent or injury could jeopardize
+the future of the entire buggy 
+program.
+A two-wheeled buggy, which is 
+defined as any buggy that inten­
+tionally has less that three 
+wheels touching the ground at 
+any time while it is traveling 
+around the buggy course, has 
+certain inherent problems re­
+lating to its stability. With this 
+and the possible consequences 
+in mind, the Sweepstakes Safety 
+Committee met last May and 
+made a decision.
+The results of this meeting are 
+that in the 1988-1989 school year 
+no new two-wheel buggies will 
+be permitted to participate in 
+any Sweepstakes races or prac­
+tices. DU will be allowed to race 
+with their existing buggies and 
+drivers, but will only be allowed 
+to race alone during Sweep­
+stakes. Between now and May 
+of 1989, the Sweepstakes Advi­
+sory Committee will try to regu­
+late the safety and effects of two- 
+wheel buggies. If they cannot be 
+adequately regulated, all two- 
+wheel buggies will-be banned 
+and Delta Upsilon will only be
+allowed to race two-wheel bug- c 
+gies until their current drivers I 
+graduate, provided that theyC 
+race alone. t
+Campana feels that the ruling c 
+was a wise decision and he f 
+stands behind the committee and i 
+their efforts in trying to develop < 
+safe rules for two-wheelers. 3 
+Phil Tubesing, the 1988 Sweep­
+stakes Safety Co-Chairman, is l 
+glad that they didn’t outlaw two-1 
+wheel buggies totally. He feels t 
+that would be curbing technol- I 
+ogy, as it is obvious that these 1 
+things roll “wicked fast.” Tu- 1 
+besing also agrees that there i 
+need to be some sort of safety! 
+rules implemented for these 
+buggies due to the many things i 
+that could happen in the case of i 
+an accident. The only part of the < 
+ruling that he objects to is that* 1 
+two-wheel buggies have to run 1 
+alone, which would deprive them < 
+of the element of competition, i 
+Sweepstakes 1989 will decide 
+the fate of two-wheel buggies.’i 
+They may become the wave of® 
+the future or they may become'i 
+obsolete. Only safety can tell.
+Some long distance com­
+panies promise you the moon, 
+but what you really want is de­
+pendable, high-quality service. 
+That’s just what you’ll get when 
+you choose AT&T Long Distance 
+Service, at a cost that’s a lot less 
+than you think. You can expect 
+low long distance rates, 24-hour 
+operator assistance, clear con­
+nections and immediate credit 
+for wrong numbers. And the 
+assurance that virtually all of 
+your calls will go through the 
+first time. That’s the genius of 
+the AI&T Worldwide Intelligent 
+Network.
+When it’s time to choose, 
+foiget the gimmicks and make 
+the intelligent choice, AI&T.
+If youd like to know more 
+about our products or services, 
+like International Calling and 
+the AI&T Card, call us at 
+1 800 222-0300.
+AT&T
+The right choice.
+CtOIHIHC UEH AND \OUHG. MEN $INC£ 1960
+<•<•1 don’t want a lot of hype.I just want something I
+rcin rnnnt m W
+Sportswear' Collections*
+KIKIT • GOTCHA • 
+GENERRA • LEVI • 
+PERRY ELLIS • 
+MARITHE& FRANCOIS 
+GIRBAUD
+FALL/WINTER 1988
+5842 FORBES AVENUE 
+SQUIRREL HILL 
+421-5710
+
+---------------------------------------------------
+
+The Tartan • Camegie Mellon • Wednesday, 7 September 1988Lll-
+iUo3lI13lm 7oCmuoras" 7 'lIu oClo u)u3n.Uu alU 8mln
+By JOSH RUBEN
+Tartan Sports Editor 
+So, here you are at Camegie 
+Mellon and all you have been 
+. dealing with are classes. You 
+5 need something to get your mind 
+ojit of the books for a while so 
+that your brain won’t short cir- 
+; cuit. Maybe your beginning to 
+feel that “Freshman 15” weigh- 
+] ing down on your mid-section, 
+j Or, as is most often the case, 
+you’re just plain bored.
+. .Well don’t fret! As almost any 
+I returning student to Camegie 
+. Mellon knows, we have one of 
+! the best programs any where for 
+. beating those “CMU Class Room 
+: Brought Down Boredom Blues.”
+. It is the Intramural Program,
+- affectionately known around 
+, these parts as IM (eye-em).
+, Due to the East Campus con-
+5 struction, most IM fall sports, 
+f including football, will be played 
+> on Flagstaff Hill. The area will 
+I be divided up into three fields 
+, with one parallel to the street 
+, and the other two above the 
+street extending to Porter Hall.
+. “The city has been very kind to 
+us. We will be allowed to put 
+f down chalk lines to mark off the 
+; fields,” according to Director of 
+Intramural Athletics, Earl J. 
+Birdy.
+The only drawback to this plan 
+is that there will be no night 
+games since Flagstaff Hill has 
+no lighting facilities. To those 
+people who enjoy playing under 
+the lights, this may come as 
+somewhat of a letdown.
+Birdy points out however that, 
+“We have three fields now 
+whereas before we only had two. 
+So scheduling will not be a prob­
+lem. Games will be scheduled 
+for 4:30,5:30 and 6:30, as long as 
+there is sufficient light.” 
+According to the construction 
+schedule, games should resume 
+on the IM fields (currently serv­
+ing as a huge parking lot) by this 
+time next year.
+The IM program is one of the 
+few shining jewels in the (often 
+tarnished) crown of the Came­
+gie Mellon Athletic Department. 
+Whether you’re a jock or a brain; 
+an athlete or a clutz, you can 
+find a sport or game to partici­
+pate in and enjoy. The program 
+is open to all Camegie Mellon 
+students, faculty and staff.
+Last year, 9 activities (out of 
+the 35 offered) set new Camegie 
+Mellon Intramural Records in 
+the number of teams competing
+in each sport. Also, 13 sports set 
+new records in terms of the total 
+number of participants compet­
+ing. Such sports included Touch 
+Football which had 58 teams 
+with 746 participants, and Vol­
+leyball which had 67 teams ac­
+counting for 668 players.
+What seems to be the peren­
+nial favorite is Basketball, which 
+brought out 897 people, playing 
+on 99 teams. In addition, the 
+program saw an increase in the 
+total number of women involved 
+with IM sports, including the 
+growth of the Women Only sport­
+ing leagues.
+Even with these numbers, 
+Birdy wants to expand the pro­
+gram even more. In an effort to 
+do this, he will be conducting 
+informal talks in the dorms 
+around campus. The first one 
+will be today at Morrison’s, lo­
+cated in Margaret Morrison 
+Plaza for the residents of Boss 
+Hall, at 7:30 pm.
+Mr. Birdy is probably one of 
+the most enthusiastic and ener­
+getic people on the Camegie 
+Mellon staff. He is anxious to 
+involve as many people as pos­
+sible in the mental and physical 
+benefits of participating in the 
+IM program.
+One of the most gratifying 
+features of participating in IM, 
+according to Birdy, is “The inter­
+action among the students.” He 
+adds, “Where else on campus 
+can an English or Engineering 
+Major get a chance to meet and 
+interact with people from the 
+Drama Department, for ex­
+ample.”
+“The fraternities and sorori­
+ties are the most consistent or­
+ganizations that provide teams 
+and players, ” said Birdy. How­
+ever, he added that a great deal 
+of support has come from inde­
+pendent teams (mainly from the 
+dorms) in recent years.
+Another feature ofthe program 
+is that it is run by students from 
+all parts of the campus commu­
+nity. According to Birdy, “The 
+Intramural Board was made up 
+mainly of Greeks, but now it is 
+mostly independents.”
+Every week, the current team 
+standings, upcoming events, and 
+general IM news will be printed 
+in the Tartan Sports Section. 
+Consult it weekly and drop by 
+the Intramural Offices located 
+in room 101 (it is the door with 
+the “Please come in” sign) of the 
+Gym or call x2214.
+Tennis
+Entries for Tennis are due 
+in the Intramural Office by 
+4:30 pm on Thursday Sept. 
+8th. The IM Tennis Season 
+will once again be under the 
+team format. Any questions 
+concerning tennis should be 
+directed tothelMOffice Room 
+101 or call x2214.
+D.mp
+The Annual E.J. Birdy In­
+tramural Golf Tournament 
+will once again be played at 
+Schenley Golf Course. The 
+date for entries is Sept. 8th 
+but late entries will be ac­
+cepted up until the tourna­
+ment. The date for the tour­
+nament is not set, but look in 
+the Tartan Intramural sec­
+tion for updated information
+or contact the IM Office.
+g.w;ua é.mmunhlmm
+Entries for the Co-Rec Volley­
+ball are due on Thursday Sept. 
+15. Play will begin the following 
+week. Co-Rec Volleyball will be 
+the first of three intramural 
+volleyball sports that will be run 
+in the first semester. Following 
+Co-Rec will be 6-person Volley­
+ball and 3-person Volleyball. We 
+anticipate another great year of 
+Intramural Volleyball. Get your 
+teams together today!
+Sla1mon MuUUrs
+The lunch time Faculty Intra­
+mural Tennis entries are due on 
+Thursday Sept. 8. Anyone inter­
+ested who cannot find a team 
+should submit their name to the 
+IM Office Room 101orcallx2214.
+The league will be split into 
+Major and Minor divisions.
+NpprarlmÍs gm1h
+The “1988” Official’s Club is 
+now taking new members for 
+the 1988-89 school year. For 
+those students not familiar 
+with the organization, the 
+Official’s Club is run by the 
+Carnegie Mellon Intramural 
+Department. The Club fur­
+nishes officials for intramu­
+ral team events and updates 
+rules interpretation.
+Those Carnegie Mellon stu­
+dents looking for a part-time 
+job and are interested in offi- 
+ciatingTouch Football should 
+contact Assi stant Intramural 
+Director Mike Mastroianni at 
+x2214 or stop in the Intramu­
+ral Office Room 101 Gym.
+é.mmunhlmm suos 18 p.3 Î!!
+By NATALIE HAWRYLUK
+Assistant Sports Editor 
+After advancing to the semi­
+finals at the inaugural Univer­
+sity Athletic Association Cham­
+pionships and finishing fourth 
+in the President’s Athletic Con­
+ference last season, Head Coach 
+Sue Flaherty is optimistic about 
+the Lady Tartans’ 1988 season.
+“We’ll be playing a lot of de­
+fense,” says Flaherty, “as well 
+as concentrating on good pass­
+ing and serving. We’re working 
+on being smart hitters rather 
+than powerful hitters.”
+The Lady Tartans will be play­
+ing primarily a 5 -1 offense with 
+junior Laurie Shumaker setting. 
+Shumaker, the team’s second- 
+leading setter last year behind 
+Marianne Smith, recorded 36 
+assists and 97 kills during the 
+CMU’s campaign in 1987.
+“Laurie [Shumaker] doesn’t 
+have that much experience in 
+the middle, but she is working 
+hard,” commented Flaherty.
+Five letterwinners return to 
+the squad this season led by 
+middle hitter/blocker Nicole 
+Hanak, a second-team All-PAC 
+selection last fall.
+Hanak, a starting freshman, 
+finished the 1987. season as 
+CMU’s team leader with 112 
+total blocks - 45 unassisted - and 
+174 kills. She ranked fifth in the 
+PAC with 1.32 blocks per game, 
+and eighth in the league with
+2.05 spiking aces per contest. 
+Joining at the middle-hitter/ 
+blocker position will be Diane 
+Watson, a three-year letterwin- 
+ner, who was third on the team 
+with 104 kills and 83 blocks in 
+‘87. The Lady Tartans will rely 
+heavily upon Watson’s experi­
+ence and leadership this season 
+said Flaherty.
+Other returnees include junior 
+Kris Loh and sophomore Cindy 
+Peperak.
+New comers for CMU include; 
+junior Lynn Truskie, sophomore^ 
+Paula Madden and freshmen 
+Colleen Duckett and Deborah 
+Perry.
+“This year, we’re further along 
+at this point than we were at the 
+same point last year,” said 
+Flaherty. She attributed this to 
+a pre-season conditioning camp 
+for returning players.
+The Lady Tartans begin their 
+1988 campaign tomorrow night 
+at 7:00 pm against Pitt- 
+Johnstown and Carlow at Skibo; 
+Gym. The annual Carnegie; 
+Mellon volleyball tournament; 
+will be this weekend, Septeni* 
+ber 9th and 10th.
+Classifieds
+Jobs/Wanted
+Housing
+AFTERNOON CHILDCARE FOR 
+TODDLER — Monday, 
+Wednesday, Friday. Squirrel Hill
+— experience preferred but not 
+necessary. 521-4032.
+CLUB LEADERS FOR YOUNG 
+JUDEA. Responsible, resourceful, 
+creative & likes children. 
+September — April employment
+— Sunday afternoon meetings. 
+Salary+expenses. Send resume to 
+6404 Forbes Avenue, Pittsburgh, 
+PA 15217.
+HOUSEKEEPER/CHILDCARE 
+Two University professors (who 
+live close in) are looking for aperson 
+(or 2 people who job share) to run 
+household errands, do dinner 
+preparation and clean-up, pick up 
+children (2 year old and 3 month 
+old) from day-care center and do 
+childcare until dinnertime. 
+Between 20-25 hours per week 
+(2:00 — 6:00 or 6:30 p.m. — 
+flexible). $100—$125 perweek,or 
+more depending on qualifications. 
+Experience preferred but not 
+required. Car not required. Please 
+call 268-5041 or 648-1387 during 
+the day or 683-2385 evenings.
+SOLO-EMPLOYED SMALL 
+HIGHLAND PARKPUBLISHER/ 
+AGENCY needs part-time creative 
+assistant. Must be Mac-literate in 
+Pagemaker, Adobe Illustrator, 
+Abaton scanner or equivalent. 
+Send reply: Box 23181, Pittsburgh, 
+PA 15222.
+PART-TIME LABORATORY 
+TECHNICIAN—flexible hours— 
+average 20 hours/week—16 hours 
+college chemistry required — $6/ 
+hour. For more information — 
+Mary Margaret Coleman, NUS 
+Corporation (800) 262-3027 
+Robinson Township area — 
+Campbells Run Road.
+GREAT 1-2 BEDROOM furnished 
+apartments. Close to campus. Call 
+621-6378 or 341-1375.
+3-4 BEDROOM ON 2ND AND 3RD 
+FLOORS on 4600 block of Forbes. 
+Available now. $400 plus gas and 
+electric, 1 month free rent. 422- 
+9200.
+UNIQUE FEATURE FOR YOUR 
+RESUME: Buy rental property in 
+Shadyside, walk to CMU, collect 
+rent instead of paying it for four 
+years. 621-0814 days; 767-9942 
+evenings.
+SHADYSIDE — FIFTH AVE. 
+EXECUTIVE APT. SUITE 
+Elegant furnished 1 or 2BR 
+includes phone, cable (HBO), 
+parking, all utilities, maid service 
+available, near Walnut Street, 30 
+day lease, from $33 per day. 441- 
+4444
+FRICK PARK/ WILKINSBURG 
+AREA; near EBA; spacious 1 & 2 
+bedroom(s) $250 — $350 plus 
+utilities 241-2567.
+CHARMING CARRIAGE- 
+HOUSE APARTMENT, great 
+Squirrel Hill location north of 
+Forbes. Private, quiet, includes 
+utilities. Unfurnished—$325, or 
+furnished — $350. Available 
+immediately. 421-4272 or 325- 
+2852.
+MALE ROOMMATE WANTED. 
+Large two bedroom apartment in 
+Squirrel Hill. Close to stores/CMU. 
+$215 including heat. Call David 
+421-2694.
+ministries. Degree required. 
+Experience in TESOL, linguistics, 
+education, pharmaceuticals, 
+securities/finance, business 
+management, marketing,
+advertising, engineering,
+telecommunications, electronics, 
+or the travel industry preferred. 
+For information on the position, 
+please send resume and photo to 
+IES, Shin Taiso Building, 10-7, 
+Dogenzaka, 2-chome, Shibuya-ku, 
+Tokyo (150).
+RESEARCH PAPERS. 15,278 
+available! Catalog $2. Research, 
+11322 Idaho, #206XT, Los Angeles 
+90025. Toll free (800) 351-0222 
+Ext. 33 VISA/MC or C.O.D.
+TYPIST — Will type your papers, 
+resumes, etc. Accurate & 
+reasonable. Work done on IBM 
+PC. 243-4576.
+For Sale
+SONY CD PLAYER — CDP-750 
+new — remote —under warranty 
+— many features — $225. Call 
+Andrew x5495.
+Miscellaneous
+CHABAD HOUSE wishes all 
+Jewish students a Happy New 
+Year. For home hospitality during 
+the holidays call Sara @ 683-7770 
+or Fraydi @ 521-0770.
+ARYAN — TALL, FAIR, AND 
+HANDSOME (29, grad) with 
+somewhat strange, possibly unique 
+personality desires relationship 
+involving love, sex, or money. For 
+further details, 381-4548 Tom.
+Services
+LIVE AND TEACH IN JAPAN: 
+International Education Services 
+invites applications for a one year 
+assignment in Japan to teach 
+technical & conversationalEnglish 
+to Japanese business people from 
+major corporations/government
+Classified ad rates:
+1-20 words......................$3.00/week
+21-50 words....................$5.00/week
+over 50 words.................$8.00/week
+Classifieds must be submitted by 
+Thursday 5pm, the week prior to 
+publication.
+fg7M X Df7M *V7M X D;P• A7M
+VgN;P 6iD6
+A single exam score may be more 
+important than your hard »earned 
+GPA.
+Thousands of 
+bright, otherwise 
+eligible students 
+are unfairly penal­
+ized every year for 
+being underprepared, 
+for not knowing criti­
+cal test-taking skills or 
+for freezing up during the 
+actual exam, thus concealing 
+their true “aptitude.” You can 
+overcome these problems if you 
+know what kind of questions to 
+expect, have learned proven 
+test-taking strategies, and have 
+practiced under simulated test 
+conditions.
+GAPS gives you the knowledge, 
+confidence and the competitive edge 
+you need to succeed on critical exams.3
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+L
+? Yes! Please send m course checked below.iplete preparation(Verbal and Quantitath Skills)• 578 pages of ten• 14 60-mmuit cassettes
+? GRE §159.00(Verbal. Quantitative and Analytical Ability)• 727 pages of text• 1760-minute canettes
+Quantitative Skills and Interview Preparation)• 1122 pages of text• 46 60¦ minute collette i
+? LSAT $179.00 ? DAT $279.00(Reading Comprehension. (Chemistry. Biology, Math Disputes and Rules. Logical Skills. Perceptual MotorReasoning. Analytical Ability, Reading Compre-Reasoning and Writing hension and InterviewSamples) Preparation)• 210 pages of text • 1261 pages of text• 1060¦ minure cassettes • 37 60- minute cassettesMail to: GAPS Center, 500 Third Ave. W., Box 34057, Seattle, WA 98124-1057. VISA or MC orders call (800) 426-5537 x 1241 or (206) 281-1241 from WA, AK, HI and PR.
+? Please send me more information.
+Name___
+Address _ 
+City____
+_ Daytime Phone (_
+Your Exam Date _
+Enclosed: Check ? MO ? VISA ? 
+VISA/MC Account Number (all digits):
+Signature (required) _
+Course Cost Shipping*•Shipping: Regular—UPS 3 weeks, $7 (no P.O. Boxes or AK. HI, PR)P.O. Boxes. AK. HI. PR—Postal Delivery 3 weeks, $14Rush—Federal Express 5 days, $21 for MCAT. $14 all others (no P.O. Boxes, AK. HI. PR) “Washington residents add sales tax 2664
+? GMAT $199.00 ? MCAT $349.00IVrrhal and Ouantitative (Physics. Chemistry. Biology. ¦
+1 
+Ia
+I
+s
+I 
+I 
+I 
+I 
+I 
+j
+_ School _
+MC ?
+Expiration Date
+Total Enclosed** 
+(U.S. Dollars)
+
+---------------------------------------------------
+
+“John, there are two things I 
+want you to do for me. The 
+first is write for The Tartan. 
+The second is...”
+Tartan Organizational Meeting
+Thursday, 
+September 8 
+7:00 pm
+Free Pizza!
+We’re looking for:
+Writers — News, Sports, 
+LivingDiversions 
+Columnists 
+Photographers 
+Darkroom Staff 
+Artists 
+Cartoonists 
+Typesetters 
+Proofreaders
