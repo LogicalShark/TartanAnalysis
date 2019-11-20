@@ -7,11 +7,17 @@ import pickle
 import re
 from nltk import word_tokenize
 from nltk.tokenize.treebank import TreebankWordTokenizer, TreebankWordDetokenizer
+import gib_detect_train
+
+model_data = pickle.load(open('gib_model.pki', 'rb'))
+model_mat = model_data['mat']
+threshold = model_data['thresh']
 d = TreebankWordDetokenizer()
+
 table = {}
 size = 0
-order = 4
-year = "1920"
+order = 5
+year = 1950
 
 
 def addToTable(text, order):
@@ -20,6 +26,8 @@ def addToTable(text, order):
     # Make the index table
     for i in range(len(tokens) - order):
         sub = d.detokenize(tokens[i:i+order])
+        if gib_detect_train.avg_transition_prob(sub, model_mat) < threshold:
+            continue
         if not sub in table:
             table[sub] = {}
             table[sub]["SIZE"] = 0
@@ -27,8 +35,12 @@ def addToTable(text, order):
     # Count the following strings for each string
     for j in range(len(tokens) - order - order):
         index = d.detokenize(tokens[j:j+order])
+        if gib_detect_train.avg_transition_prob(index, model_mat) < threshold:
+            continue
         k = j + order
         following = d.detokenize(tokens[k:k+order])
+        if gib_detect_train.avg_transition_prob(following, model_mat) < threshold:
+            continue
         if not following in table[index] and len(following) > 0:
             table[index][following] = 1
             table[index]["SIZE"] += 1
@@ -80,6 +92,7 @@ def nextLetter(s):
 if __name__ == "__main__":
     start_time = time.time()
     length = 200
+    # for y in range(1940, 1950):
     try:
         modelf = open("model_"+str(order)+"_TAR_"+str(year), "rb")
         table = pickle.load(modelf)
@@ -87,14 +100,14 @@ if __name__ == "__main__":
         directory = os.fsencode("processed/")
         for file in os.listdir(directory):
             filename = os.fsdecode(file)
-            if filename.endswith(".txt") and filename.startswith("TAR_"+year):
+            if filename.endswith(".txt") and filename.startswith("TAR_"+str(year)):
                 readf = codecs.open("processed/"+filename, 'r',
                                     encoding="utf-8", errors='ignore')
                 text = readf.read()
                 readf.close()
                 addToTable(text, order)
-        modelf = open("model_"+str(order)+"_TAR_"+str(year), "wb+")
-        pickle.dump(table, modelf)
+    modelf = open("model_"+str(order)+"_TAR_"+str(year), "wb+")
+    pickle.dump(table, modelf)
 
     modelf.close()
     out = createText("", length, table, order, size)

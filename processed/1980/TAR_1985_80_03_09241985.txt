@@ -1,0 +1,3580 @@
+The Newspaper of Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213, Volume 80, Number 3, September 24,1985.
+Senators plan fight 
+against underage curfew
+photo by Andy Gillespie
+The U.S. Bureau of mines complex, shown above, will be owned outright by CMU 
+as of Mfonday.
+CMU acquires U.S. 
+Bureau of Mines complex
+By ALBRECHT T. POWELL
+Tartan Staffwriter
+Carnegie-Mellon University will have 
+outright possession of the U.S. Bureau of 
+Mines complex on Sept. 30, 1985 at a cost 
+of $5.8 million.
+This step marks the kind of outward ex
+pansion not seen since the early 70s when 
+Skibo and Wean Hall were built.
+CMU has been trying to acquire the 
+USBOM buildings ever since President 
+Warner proposed the plan back in 1957. It 
+took twenty years of fighting with the help 
+of Senators and CMU officials to have 
+authorization passed for the purchase of the 
+U.S. Government property.
+As the USBOM is a part of the Interior 
+of the Government, all negotiations had to 
+go through Congress. In the early part of 
+1981, the property was purchased with the 
+agreement that the USBOM be moved late 
+in 1985.
+The only problem with the plan is that 
+the buildings are not in very good shape. 
+Fred Rogers, Vice President of Business Af
+fairs said, There is a lot of work needed 
+since they havent been extremely well main
+tained. The U.S. Government is exempt 
+from building codes and inspections so their 
+buildings are not as well kept as those on our 
+campus. That will be changed. He con
+tinued by saying that . . . there is not even 
+a centralized fire alarm. They have hand 
+held horns that are supposed to alert the en
+tire building of a fire. . .
+The added work necessary to bring the 
+buildings up to standards will be greatly off
+set by their usefulness and necessity for the 
+campus community. Out of the six major 
+buildings, CMU will be using all but one and 
+a half. One organization associated with the 
+USBOM, the Mine Safety and Health Ad
+ministration (MSHA), will be leasing the re
+maining buildings space from CMU. This 
+will help to offset the cost of the complex.
+The sp3ce opened by this acquisition 
+will mostly be utilized in two areas. The first 
+will be basic Administrative purposes, such 
+as printing, Physical Plant, grounds keepers
+and some offices. The other major move will 
+be SUPA. The extra space in Margaret Mor
+rison, Porter Hall and other academic 
+buildings on campus will .. make CMU the 
+best it can be for its students, according to 
+Rogers.
+Another situation helped by the acquisi
+tion will be Parking. About 200 extra spaces 
+will be available to students, which will more 
+than make up for those lost by the Mellon 
+Institute parking lot closure.
+When asked about the new debts incurred 
+from the cost of the acquisition, Rogers 
+replied, When youve been waiting 30 years 
+to get the property, you just buy it. The 
+funding for these projects does not come 
+from tuition.
+As part of the Master Plan, all funding 
+will be received through outside sources such 
+as grants and fund raisers. The older debt 
+stemming from the building of Wean Hall 
+stands at around $2 million.
+One such hope is for .. .someone to 
+donate the $5 million for the buildings and 
+possibly have the complex named after 
+them. Until that time comes, though, they 
+will probably still be referred to at the 
+Bureau of Mines, said Rogers.
+The long term plans for the USBOM will 
+include the destruction of all but two of the 
+buildings, so that new ones may be erected. 
+These new buildings will be mostly 
+laboratories with a large parking garage 
+underneath. The buildings will be done in 
+the same architectural style as the rest of the 
+campus to keep its unified appearance.
+Eventually, CMU hopes to acquire the 
+Naval Reserve station which . .is something 
+we are pursuing. I can see it within the next 
+10-15 years, Rogers said. The entire Master 
+Plan includes and extensive addition to 
+Skibo, a new set of academic buildings built 
+parallel to Doherty and Wean creating a 
+second cut, as well as the conference center, 
+the USBOM complex and multiple addi
+tions to academic buildings. The whole 
+plan, expected to cost around $100 million 
+(which will be all funded through outside 
+sources and fundraisers) is an eventual real
+ity for CMU.
+By KAREN GRAY
+Tartan News Editor
+CMUs Student Senate opposed a propos
+ed curfew on Pittsburghs young adults at its 
+weekly meeting last Tuesday.
+The ordinance for a curfew, introduced 
+to city council by councilman Steven 
+Grabowski on Sept. 9, would prohibit per
+sons 18 or younger from going out after 10 
+p.m. on weeknights and 11 p.m. on 
+weekends.
+There are a lot of people on campus who 
+wouldnt be allowed to go to Oakland and 
+other places at night, said Campus Affairs 
+Committee chair Peter Cohen. We also have 
+lots of freshmen living off-campus.
+Pitts Student Government Board oppos
+ed the ordinance at its first meeting Sept. 12. 
+At that meeting, however, a spokesperson for 
+Councilman Grabowski said that the curfew 
+would not necessarily be focused upon col
+lege students.
+It will mainly be centered on kids hang
+ing out on street comers and creating distur
+bances, said the spokesperson. We cant do 
+anything about this now, but with this [pro
+posed] curfew, they can tell them to leave or 
+actually remove the kids themselves.
+CMU Campus Security Sgt. Russ doesnt 
+think the ordinance, if it passes, will affect 
+CMU too much. The campus is an exten
+sion of [the students] home. Well make sure 
+no one bothers them. Most of our problem 
+on campus is with outsiders, and the or
+dinance will cut down on that.
+Russ noted that in some areas of Pitt
+sburgh [a curfew] is necessary.. .you will see 
+quite a few kids hanging around.
+Several student senators, however, said
+By KENT RADEK
+Tartan Staffwriter
+Later this year, Carnegie-Mellon Univer
+sity, the University of Pittsburgh and 
+Westinghouse Electric Corporation will 
+receive a supercomputer from the Lewis 
+Research Center in Cleveland. The Cray
+IS, and improvement upon the Cray 1 which 
+was first produced in the mid 1970s, will be 
+operated and maintained for the group by 
+Westinghouse.
+Todays supercomputer breeds are com
+pared on the basis of speed, measured in 
+megaflops (millions of operations per se
+cond), and they usually lie in the range of 
+about 30 to 1000 megaflops. The cray IS can 
+perform up to 160 megaflops at peak capaci
+ty, about ten times as fast as any of the com
+puters currently operating at either CMU or 
+Pitt.
+The two men involved in investigationg 
+the project are Michael Levine, professor of 
+physics at Carnegie-Mellon, and Ralph 
+Roskies, professor of physics at Pitt. Roskies 
+explained, Scientists believe that supercom
+puters are the only feasible way of tackling 
+complex problems that require billions of 
+calculations to solve  problems such as 
+weather forecasting and predicting the crea
+tion and movement of tornadoes. They are
+that in the spirit of the proposal lies the 
+potential for discrimination.
+We should try to work under existing 
+laws, said Senator Seana Chun, adding that 
+police may be more likely to check the iden
+tification of blacks than whites.
+Student senator Nadine Flynn said that 
+the proposed curfew directly violates the 1st 
+Amendment of the US. Constitutions clause 
+stating, ..the right of the people peaceably 
+to assemble...
+According to Flynn, the proposed curfew 
+also violates the 14th Amendment, which 
+protects citizens from abridgement of 
+privileges or immunities.
+Cohen noted the recent overturning of 
+Philadelphia Citys curfew by Municipal 
+Court Judge Thomas J. McCormack.
+In explanation of his ruling , McCormack 
+stated that the curfew interfered with the 
+First Amendment right of young people to 
+assemble.
+Student Senate plans to act against the or
+dinance through a campus-wide petition 
+and a letter directed to Mayor Richard 
+Caliguiri and the City Council. Said Cohen, 
+We are also requesting that if there is a 
+public hearing, we should be allowed to 
+speak.
+Student Senate President Karen Lee is 
+coordinating the petition, which will be 
+available for students to peruse on Thurs
+day and Friday in front of Doherty Hall.
+City Council is supposed to decide the fate 
+of the proposal at the public hearing in 
+several weeks. In the meantime, however, 
+everyone in Student Senate is going to get 
+involved with this, said Cohen.
+also useful in vehicle design and quantum 
+mechanics, among many others. This is the 
+major reason for the necessity of high speed.
+CMU President Richard M. Cyert claim
+ed the grant reflects these institutions pro
+continued on page 5
+In This Issue:
+News
+Save your stereo...................page 2
+Features
+Blind Student........................page 7
+Counseling Center................page 8
+Arts & Entertainment
+Yakov Smirnoff.....................page 9
+Dare to be stupid..............page 10
+Sports
+Tech crushes JCU.............page 15
+Focus on IM's....................page 17
+Editorial..............................page 18
+Acme..................................page 22
+Cray Supercomputer 
+comes to Pittsburgh
+
+---------------------------------------------------
+
+Page 2The TartanSeptember 24,1985
+Campus Police urges marking of valuables
+By CAROLYN KELLY
+Tartan Staffwriter
+The CMU Campus Police has set in mo
+tion Operation Identification, a program 
+designed to help students protect their pro
+perty through engraving.
+Valuables such as stereos, cameras and 
+television sets can be engraved with 
+Drivers/Operators numbers.
+Security Director Robert S. Fadzen, Sr., 
+said that engraving personal property doesnt 
+necessarily mean that it will be safer from 
+theft, but that it will make items more dif
+ficult to pawn. Engraving also increases the 
+chances of recovering lost property and suc
+cessfully prosecuting the perpetrator.
+The benefits of this program do not end 
+when a student graduates from CMU; his or
+By AMY COPPOLA
+Tartan Staffwriter
+Twelve members of CMUs Students For 
+Choice (SFC) served as escorts for women 
+seeking gynecological service at the 
+Womens Health Services building and the 
+Summit Medical Center.
+This group joined with members of the 
+Beaver County chapter of the National 
+Organization for Women (NOW) on Sat., 
+Sept. 14 in hopes of suppressing rumored at
+tempts by pro-lifers to storm the clinics
+According to SFC co-founder Katherine 
+Robinson, pro-life advocators routinely 
+protest against abortion at the health clinics 
+on Saturdays because that is primarily when
+her numbers remain a part of a permanent 
+record.
+When the police recover stolen goods, any 
+special markings are entered into a com
+puter at the National Crime Information 
+Center. If valuables are stolen, they will be 
+registered along with the serial number in 
+the computer at NCIC. A match can be 
+made and the owner contacted immediately.
+Crime Prevention Officer Sergeant Russ 
+said that various locations will be designated 
+on campus as places for students to have 
+their valuables engraved. There will be 
+posters throughout the campus advertising 
+these places and times.
+Unfortunately, the Police were at the 
+Spirit House and Woodlawn Apartments 
+already. The turnout was very small
+the procedures are performed.
+During the protests, the prolifers display 
+vivid anti-abortion posters and distribute 
+anti-abortion literature to women entering 
+the clinic which, Robinson claims can be 
+very disconcerting to a woman who has 
+already made the decision to have an 
+abortion.
+At 7 a.m. that morning, six SFC members 
+gathered at the Womens Health Services 
+building downtown, while six others travel
+ed to the Summit clinic. Robinson stated 
+that the purpose of their presence was to 
+serve as buffers for the women entering the 
+clinics and to provide moral support for the 
+personnel.
+because the operation had not been properly 
+publicized. However, another date will be set 
+at both of these locations if requests are 
+made.
+Russ also said that if the dates and times 
+are inconvenient for some students, or if they 
+have several valuables they wish to mark, the 
+Police will loan them the engraver. In order 
+to borrow it, students have only to leave their 
+ID card at the Security Office in Baker Hall. 
+When theyve finished, they can return the 
+engraver and give the police a list of the 
+items they have marked and their serial 
+number.
+The number of thefts on campus is 
+relatively low and has decreased during the 
+past few years, however, the possibility of 
+theft remains.
+Robinson stated that no violent acts were 
+committed on Saturday, although some 
+heated discussion between pro-life and 
+pro-choice activists did evolve at the Sum
+mit clinic.
+Robinson noted that WHS personnel 
+welcome the help of SFC and other prochoice groups because the clinics security 
+system is unable to receive police protection. 
+Thus far, the situation has fallen under the 
+jurisdiction of the Federal Bureau of 
+Investigation.
+The constant fear of violence has been the 
+driving force of efforts to organize escorts on 
+pro-life target days, according to SFC 
+member Catherine Singstad. People should 
+be aware that this goes on all the time.
+For the 1983-84 school year, there was 
+a total of 177 thefts on campus. In 137 cases, 
+the property was stolen from unlocked 
+rooms. In another 29 cases, the property was 
+locked up, but the perpetrator gained acces to the rooms through the use of a key. 
+In only 11 cases were the thefts the result of 
+forced entry.
+The Police would like to increase security 
+awareness on campus. They have designed 
+a pocket  sized guide of safety tips and are 
+soon to distribute a handbook that will in
+form people of how to protect their 
+valuables, their homes and themselves.
+Sergeant Ricci will be conducting a series 
+of seminars on Street Safety, and a film en
+titled Nobodys Victim, will be shown on 
+campus.
+More people have survived cancer than now live in the City of Los Angeles.
+We are winning.
+AMERICAN # CANCER f SOCIETY*
+Pro-choicers form 'buffer zone'
+V
+Formation Meeting of the
+ROCK-N-ROLL CLUB
+Thursday, September 26 
+8:30 pm Room 11 Skibo
+Possibilities for this Interest group include:
+Musicians exchange (for those looking to form bands) 
+Album trading, borrowing 
+Song writers exchange 
+Sponsoring small concerts 
+Sponsoring transportation to larger concerts 
+Showing Rock-N-Roll films 
+and anything else we can think of
+The deadline for 
+DOSSIER, the literary 
+magazine, is October 4. 
+Submit all creative work to 
+The Tartan at the Skibo 
+Info Desk.
+Seminars Center for Design
+of Educational Computing
+Carnegie-Mellon University
+578-7641
+The Advanced Workstation: Demonstration of Educational Tools and Applications
+Thursday, September 26, 1985 
+Doherty Hall 2210 
+3:30  5:00pm
+Plans arc already in place to deploy powerful workstations across 
+campus next year. But what progress has been made towards creating 
+high-quality educational applications that exploit the unusual properties 
+of these machines? And how easy is it to buUd new applications?
+This presentation answers those questions by giving the university 
+community its first look at new courseware designed by CMU 
+faculty members. These programs have been implemented on advanced 
+function workstations running the Andrew system, designed by the 
+Information Technology Center. They arc being developed with the 
+assistance of grants from the Center for Design of Educational 
+Computing.
+Developers will demonstrate their projects, discuss their goals and 
+objectives, and explain how the software will be used eventually by 
+students. The presentation will also take advantage of Doherty Halls 
+newly installed projection system to give attendees a high-resoluticn 
+view of the entire 1,000-by-1,000 workstation screen.
+Presentations will be made by: '
+ Professor Robert Schumacher, Physics: Numerical solution of diffe
+rential equations, with graphical results.
+ Professor David Kufer, English: A notecarding system for writers.
+ Professor Robert Richman, Chemistry: Calculation and display of 
+reaction kinetics.
+ Professor Mary Lou Maher, Civil Engineering: Interactive graphical 
+aid for structural design.
+ Professor David Miller, History: Cartographic display of historical data.
+ Professor Bruce Sherwood, CDEC, ITC, and Physics: C-MU Tutor, a 
+tool for creating educational computer applications.
+
+---------------------------------------------------
+
+ Is population growth a crisis.. .or a 
+blessing?
+ Can anything be done about famine?
+ How can we support the growing num
+ber of elderly?
+ Why are so many of our children grow
+ing up in poverty?
+These and other important social and 
+moral concerns will be the focus of a 
+campus-wide course:
+99-100: Global Population: Myths, real
+ities and policies.
+Lecturers in the course will include 
+many of the leading international experts 
+in this field.
+When. The course will be held in Skibo 
+on the afternoon and evening of Friday, 
+September 27 and all day on Saturday, 
+September 28.
+For Who. The course is available for 2 
+units of academic credit to all full-time 
+CMU undergraduate and graduate stu
+dents. The course is open on an audit 
+basis to the entire CMU community: 
+students, faculty, alumni, staff, and to 
+their invited guests. All audit and credit 
+participants must pre-register. Outside 
+guests and alumni participants will be 
+asked to pay a small registration fee.
+Requirements For Credit. For students 
+who elect to take the course for credit 
+there will be a set of required readings 
+available in the bookstore and at registra
+tion tables on campus.
+There will be a brief quiz on the read
+ings during the course. There will be a 
+follow-up writing assignment involving an 
+essay of between 1,000 and 1,500 words.
+For further information visit one of the 
+registration tables set up on campus, the 
+Student Activity Desk in Skibo between 9 
+a.m.-5 p.m., or stop by Room 129 Baker 
+Hall. Telephone: 578-2672.
+Supported by the Office of the President 
+Carnegie-Mellon University
+
+---------------------------------------------------
+
+Page 4The TartanSeptember 24,1985
+Do You Want VISA & MasterCard Credit Car
+Manpower wiU be needed for the curfew 
+protest.
+If the community is so concerned about the 
+welfare of its children. Carr suggested, why not 
+invest in community halls where minors can 
+congregate?
+The suggestion was met by Senate with ap
+proval and the promise of immediate action.
+a Blood Drive in the Morewood Ree Room on 
+the 24th and 25th.
+MINUTES OF THE STUDENT SENATE 
+September 17. 1985
+FUNDING AND RECOGNITION: 
+Recommendation for granting Christians on
+IFC:
+Rush will continue for one and a half more 
+weeks.
+The meeting was called to order at 7:04
+PRESENT : Bett, Chu, Cohen, DeBroff, Flynn, 
+Hynes, Jagerski, Lee, Lee. Mukherjee, Novak, 
+rocher, Salomon, Taylor, Whysel, Dean CoxDEAN COX:
+After supporting the decision to make a state
+ment about the curfew, Dean Cox discussed this 
+weekends Global Population seminar, and inCHAIRMAN:
+Faculty Senate will discuss the possible crea
+tion of a separate Computer ScienceABSENT : DeLeon, Kissner (excused), Salley
+AUDIENCE PARTICIPATION:
+Thomas Carr of the GSIA approached Senate
+sburgh City Council creating a curfew for 
+anyone under the age of eighteen. Under the
+hours of 10:00 PM and 6:00 AM, and on 
+weekends between the hours of 11:0O PM and 
+8:00 AM. Any minor violating this curfew will 
+be subject to arrest and a fine will be levied 
+against the guardian responsible for sending this 
+minor out past curfew. Carr suggested that 
+Senate issue a formal protest before the city 
+council by drafting a letter and then asking for 
+the right to be heard at the next meeting. Call
+ing the ordinance clearly stereotypical, he 
+pointed out the clear absence of due process and 
+the violation of the First Amendments assurance 
+of freedom to assemble as two very important 
+violations to be made if this curfew is imposed.
+campus will be held once a month so that cam
+pus issues can be dealt with more effectively.
+Also, Karen redid the bulletin board with 
+committee news and has placed four suggestion 
+boxes around campus.
+ACADEMIC AFFAIRS:
+Still looking for issues-to-work-on.
+The committee is polling students for 
+suggestions.
+automatic tabling of proposed amendments for 
+one week. Automatically (and ironically) tabl
+ed for one week.
+CAMPUS AFFAIRS:
+Seana Chun has been named co-chair. Both 
+Seana and Peter Cohen met with Sylvia Ford 
+regarding the library space situation and she 
+suggested that they speak to Dr. Cyert because 
+there is no room in the library now for study 
+space.
+SDC:
+After last weeks problem with Morewood fire 
+doors, a new system has been installed.
+Group activities include the purchasing of a 
+big-screen tv for Schlag, a white water rafting 
+trip to be held on Saturday. September 20, and
+ANNOUNCEMENTS:
+Academic Affairs meets Monday at 8:00 
+Exec Committee meets Thursday.
+The meeting was adjourned at 7:52.
+CREDITCETTER,BOX 29X584, DAVIE,FL 33329
+SYtO! I want VIS^MasterCard^credit 
+| cardk. Enclosed find $15 which is 100Z 
+ refundable if not approved immediately
+Now YOU can have two of tha aoct racognited and accepted 
+cradle cards la tha world...VISA and Maetarcerd^ credit
+card___in your naW EVEN ir YOU AU NEU IN CREDIT or
+HAVE BEEN TURNED DOWN BEFORE!
+VISA* and MaaterCardg tha 
+cradle card* you dessrva and oesd for * ID * BOOKS 
+* DEPARTMENT STORES * TUITION * ENTERTAINMENT 
+ EMERGENCY CASH  TICKETS  RESTAURANTS 
+* HOTELS 4 HOTELS  CAS  CAR RENTALS * REPAIRS 
+I * AID TO BUILD TOUR CREDIT RATING IThis 1s ths credit card information kit studants have 
+bsen reading sbout in publicstlons fro* coast to 
+coaat and lncludaa SPECIAL STUDENT APPLICATIONS 
+for MaatarCard 4 Vlss ss wall aa other national 
+charga cards. Approval abaolutaly guaranteed so 
+Murry....fill out this card today.... 
+\ Your crsdlt cards sra waiting!
+I NAME
+AOORESS
+SOC SECURITYI PHONE
+I SIGNATURE
+INTERVIEWING - 
+WHATS IT ALL ABOUT?
+1. Preparation for the Campus Interview.
+2. What Happens in the Campus Interview.. .What Information is 
+Sought... How is it Obtained... How is it Used?
+3. What Happens After the Campus Interview.. .How to Follow 
+Up...How to Handle a Plant or Office Visit.
+These and other questions will be answered in a seminar
+* WEDOCT.2 7:30pm BH-AdamsonWing
+Automation: Tomorrows Technology TodayThe IBM Lexington, Kentucky Story.
+*1HJR0CT3 Ham to 4pm Skibo BaUrocm
+A conference where students from all academic 
+disciplines are invited to come and talk freely and 
+informally with company representatives.
+Air Products  ALCOA  Allegheny Power System 
+American Management Systems-AT&T CompaniesBell Communications  Boeing  Chrysler  Corning  
+Digital El. Dupont - F MC-General DynamicsGeneral Electric  GTE  Hewlett-Packard Company 
+HHB Softron  IBM  Jet Propulsion  Kodak  LOF Glass  
+Lawrence-Livermore  Lear Siegler  Microsoft  
+McDonnell Douglas  National Steel  Night VisionOlin  Perk in-Elm er  Procter & Gamble  GoodyearSinger-Kearfott  System Development Corp.- 
+Standard Oil Company  Texas InstrumentsUnited States Navy - U.S. Steel-Xerox.................
+Sponsored by the CMU Student Branches of SWE and IEEE.
+TO BE HELD ON TUESDAY,
+SEPTEMBER 24,1985 at 7:30 P.M.
+IN THE BALLROOM IN SKIBO
+PANELISTS INCLUDE:
+Barbara M. Hudson, MELLOH BAHK
+John J. Cotter, E.l. DU PONT DE NEMOURS & 
+COMPANY
+George Pernicano, ARTHUR ANDERSEN AND 
+COMPANY
+ALL UNIVERSITY STUDENTS ARE URGED TO ATTEND
+Career Services and Placement 
+Carnegie-Mellon University
+
+---------------------------------------------------
+
+September 24,1985The TartanPage 5
+SupercomputerJFC News
+Sigma Alpha Epsilon Fraternity held its 
+third annual window wash for charity 
+September 13. Automobiles, which were 
+stopped at the Forbes Ave. and Morewood 
+Ave. traffic light, had their windows wash
+ed and were asked to make donations for the 
+benefit of Childrens Hospital. Brett Ligo 
+Vice-president and fund raising chairman 
+of SAE, said the project was a complete suc
+cess, and the best one ever. The highlight 
+of the afternoon was a donation and a 
+friendly wave from Mr. (Fred) Rogers. The 
+final tally of donations was over $330.00 
+which will be given to Childrens Hospital.
+Once again, the Brothers of Sigma Alpha 
+Epsilon would like to thank all those who 
+took part in such a worthy cause.Washington Semester: American University
+continued from page 1
+minence in computing, as well as their 
+distinguished faculty, innovative networking 
+environments and close ties to industry. The 
+project has been marked by close coopera
+tion among Pitt, CMU and Westinghouse 
+and stands as an excellent example of what 
+can be achieved by creative collaboration 
+between industry and academia.
+Students at both Carnegie - Mellon and 
+the University of Pittsburgh will also benefit 
+from the acquisition, being trained in the 
+techniques involved in supercomputing and 
+it integrated in other courses. The primary 
+benefit, however, will be the citys. Univer
+sity if Pittsburgh President Wesely W. 
+Posvar said that the supercomputers 
+presence in Pittsburgh is another element 
+in the transformation of the city and region
+Honeywell will launch its fourth annual 
+Futurist Awards Competition Oct. 1 with an 
+increased incentive for college students to 
+enter a $10,000 grand prize.
+This years contest, which asks college 
+students to write essays about technological 
+advancements they foresee by the year 2010, 
+will offer ten winners $2,000 and the chance 
+to work for Honeywell next summer. For the 
+first time, one of these will be chosen top 
+winner and will receive an additional $8,000 
+for a total prize of $10,000. Last year 600 
+students, representing 255 colleges and 
+universities nationwide, entered the 
+competition.
+The contest is open to all full-time 
+students at any accredited college in the 
+United States. Students are asked to leap 
+ahead 25 years and write essays predicting
+into a center for high-tech research and 
+development. There will be an increased 
+synergistic effect among the universities, 
+hi-tech businesses and other research 
+organizations because of the availability of 
+the supercomputer and associated expertise. 
+Pittsburgh Mayor Richard Caliguiri saw 
+the supercomputer grant as a boost for 
+ecomomic recovery in Pittsburgh, saying 
+The supercomputer center will not only 
+benefit Pitt, CMU and Westinghouse in their 
+research efforts but will also act as a hightech magnet to attract those businesses 
+which can make use of the center s computer 
+expertise. The centers location here is a most 
+important contribution to the development 
+of Pittsburghs hi-tech, hi-growth 
+business climate.
+developments in two of six technological 
+areas: electronic communications, energy, 
+aerospace, computer science, manufactur
+ing automation or office automation. A 
+third essay must address the societal impact 
+of the technological predictions. Each of the 
+three essays should be 500 to 750 words long.
+Completed essays should be postmarked 
+no later than Dec. 31, 1985. In January, a 
+panel of top Honeywell scientists and 
+engineers will judge the essays on the basis 
+of creativity, feasibility, clarity of expression 
+and legibility.
+Winners will be announced in early 
+February, and each of the ten winners will 
+receive a two-day, all-expense-paid trip to 
+Honeywells headquarters in Minneapolis. 
+The grand-prize winner will be announced 
+at this event.
+By LISA MC ANANY
+Tartan Staffwriter
+CMU has participated in the Washington 
+Semester program offered by the American 
+University in Washington D.C., for almost 
+twenty years. The program itself is about 
+forty years old and involves approximately 
+200 colleges and universities around the na
+tion. Students spend one semester at the 
+American University gaining in-depth ex
+perience in one of five fields: American na
+tional government, politics, economic policy, 
+journalism or justice. During the semester, 
+the students curriculum includes: a seminar, 
+an internship, a research project, and in 
+some cases, a course of the students choos
+ing from American University.
+Approximately 400 students from around 
+the country take part in this program dur
+ing any one semester. These students remain 
+largely separate from the campus 
+mainstream. The seminars are conducted by 
+full-time professors of the American Univer
+sity faculty, but are not open to American 
+University students. In addition, the 
+Washington Semester students are housed in 
+their own dormitory. This separation has its 
+relative advantages for the visiting students. 
+For example: a CMU student participating
+in this program maintains his status as a 
+CMU student and is simply considered to be 
+in residence in Washington D.C. for a 
+semester. Also, students pay regular CMU 
+tuition and must only pay American Univer
+sitys room and board fee.
+Rob Berkowitz, currently a senior major
+ing in technical writing, spent a semester in 
+Washington in 1984. He worked as an intern 
+for the air and space department of the 
+Smithsonian Institute in journalism.
+According to Rob, the most surprising 
+thing about the program is that no one here 
+knows about it. He points out that at other 
+schools which take part in the program, the 
+competition for a place in the program is 
+fierce, whereas at CMU, nearly anyone who 
+demonstrates an interest can go.
+Dr. Eugene Levy, associate head of the 
+history and philosophy department here at 
+CMU, maintains the liaison between 
+Carnegie-Mellon and the American Univer
+sity. He too is pleased with the experiences 
+individual students have had during their 
+Washington Semester, and recognizes the ex
+cellent opportunities which the program af
+fords. Dr. Levy is available to any students 
+wishing to gain further knowledge about the 
+Washington Semester Program.
+Honeywell offers prize 
+for futuristic vision
+What is the name of a half
+mask worn with a mas
+querade costume?
+What city did Dominos 
+Pizza first offer its 
+famous 30 minute free 
+delivery?
+The more you know a boot Dominos Pizza, the more you II appreciate the fact that were Americas Number One pizza delivery company. After all, getting a hot, delicious pizza like ours delivered right to your door in 30 minutes or less is anything but trivial!
+Open for lunch11 am - 2am Sun - Thun 
+11am-3am FrlA Sat.
+Our drivers carry less than $20.00.Limited delivery area.
+ 1M4 Domino' Puza. inc.
+'"II I
+pizza *One coupon per pizza I
+$1.00 off any
+Expires: 10/6/85
+Fast, Free Delivery
+310 N. Craig St Phone 681-1700
+623 Greenfield Ave Phone: 521-2070
+DOMINOS
+PIZZA
+DELIVERS
+FREE.
+rmIIIIIIIIaIINA
+$2.00 off any 16" large 2 item or more pizza One coupon per pizza 
+Expires: 10/6/85
+Fast, Free Delivery'
+310 N Craig St Phone 681-1700
+623 Greenfield Ave Phone 521-2970
+1IIIIIIIIIIIIIII
+Calculus PH - 126A
+Pro I, II. Ill
+Physics PH - 126B
+Chemistry PH - 225B
+English as a BH - 135B
+second language
+Economics PH - 226B
+Intro to Computing WEH-5415
+Financial Accounting PH - 226C
+Academic Writing Problems BH - 235B
+DOMINOS 
+PIZZA^H
+free walk-in tutoring program 
+each week
+pontored by Studwtf Attain and 
+It CounMNng and Student Dwlopmtit C*nt*r 
+In Morewood Gardon* E Iowm. *2922
+Sunday thru thursday 7pm10pm
+
+---------------------------------------------------
+
+Before you make 
+a long distance commitment, 
+mate sure you know 
+what youre getting into.
+If Fletcher Christian and Captain Bligh had known what being stuck in the same boat would mean, chances are neither would have set foot aboard.And if you're stuck in the same boat with a long distance company that doesn't give you all the services you need, it's easy to harbor mutinous thoughts.But when you pick AT&T as your long distance company, you know you're in for smooth sailing.
+You'll get trouble-free, reliable service. Immediate connectionseven during the busiest hours. Guaranteed 60% and 40% discounts off our Day Rate on state-to-state calls. And operators to assist you with immediate credit for wrong numbers and collect calling.So when you're asked to choose a long distance company, sign aboard with AT&T. With AT&T Long Distance Service, you'll never be left stranded. 
+Reach out and touch someone.
+ 1985 AT&T Communications
+AT&TThe right choice.
+
+---------------------------------------------------
+
+Features.
+In the SpotUght
+Phil Kragnes: There's not a lot he doesn't do
+By CHRISTY CASAMASSIMA
+Tartan Features Editor
+Phil Kragnes lost total vision to Diabetic 
+Retinopoly three weeks into his senior year 
+in high school. He dropped all of his classes 
+except for English and still graduated on 
+time with the rest of his class.
+Although he faced a number of obstacles, 
+Phil decided to continue his education at 
+Montgomery Community College, where he 
+learned to use braille, type, and get around 
+with a cane. But Phil wanted more than an 
+Associate of Academics degree, which was 
+all the school offered, so he decided to look 
+into other colleges. Phil applied to CMU 
+with an interest in Cognitive Psychology and 
+Computer Science, however, CMU didnt 
+have much previous experience with blind 
+students. In addition, CMU was hesitant 
+about laying out the funds for the readers 
+and scribes needed to help Phil with his 
+schoolwork. Then Jay Devine, Dean of 
+H&SS, stepped in. He found out that the 
+Pittsburgh Association for Blindness was 
+willing to pay for Phils scribes and readers, 
+along with granting additional financial aid 
+for Phils tuition. So Phil was admitted this 
+fall as a second semester sophomore.
+Phil plans to remain at CMU for his 
+undergraduate and graduate studies. He is 
+working towards his Ph.D in Cognitive 
+Psychology and hopes to become a teacher. 
+His main ambition is to work with people. 
+I love people, I like to help them. Thats 
+why Phil has decided to go into teaching, 
+counseling service, or research. He feels that 
+psychology and teaching will afford him the 
+opportunity to help people and be in cons
+tant contact with them.
+Phil has been blind for three years. At first 
+he used a cane to get around, but for the 
+past year and a half hes had Orlan, a seeingeye dog. This dog is amazing; it is trained 
+to get Phil places and move around people.
+Phil wants people to know that although 
+Orlan is a German Sheperd, he will not bite. 
+However, if Phil is walking along campus 
+with Orlan on his harness, please do not try 
+to pet him because he is trained to avoid all 
+objects, and if a person puts a hand out in 
+front of him, he will try to back away in the 
+opposite direction. A lot of people wonder 
+how the dog knows where it is going. Phil 
+says that its up to him to become familiar 
+with places, and then he commands the dog 
+in the direction he should move. Through 
+routine, Orlan becomes familiar with Phils 
+schedule and automatically goes places 
+unless Phil directs him otherwise. If, by 
+chance, Phil and Orlan get disoriented, they 
+simply ask someone where they are. The dog 
+is also a good companion to Phil, in fact, 
+they live together in an apartment on 
+Morewood Ave.
+Phil says that hes used to living alone, 
+since his parents went away a lot when he 
+was younger. When Phil was five years old, 
+he learned to take care of himself, and now 
+hes accustomed to his independence. He says 
+that a roommate would be an impedi
+ment to him because a blind person needs 
+to know exactly where everything is and 
+because he needs total concentration while 
+studying.
+Phils average day is very busy: He gets up 
+at 6 a.m., walks and feeds Orlan, takes a 
+shower, and makes his bed. At seven, he calls 
+security and they have a shuttle pick him up 
+on Centre Ave. Then Phil goes to Kiltie for 
+breakfast, where someone helps him select 
+his food and carries his tray. He goes to 
+Calculus until 9:30 and then walks back 
+home to listen to tapes of his books. He is 
+back at school for his 11:30 Economics Class, 
+has lunch, and lets Orion run free on the 
+cut. He has History, and a reader in the 
+afternoon. Phils readers are usually CMU 
+students who volunteer to read him han
+douts, assignments, and other printed 
+materials.
+Most of Phils books are taped and he says 
+this can be a problem. When a sighted per
+son reads a boring book and falls asleep, he 
+wakes up where he left off. But for Phil, fall
+ing asleep during a tape is bothersome 
+because the tape runs through until the end, 
+and Phil must start again at the beginning. 
+Phil also tapes all of his class notes. Since 
+almost all of Phils study is done orally, 
+his retention capabilities are better than 
+most sighted peoples; he cant be distracted 
+by other sights, and therefore, concentrates 
+on the materials alone. Most teachers have 
+agreed to let Phil take tests orally. However, 
+in those cases where a written answer is need
+ed, Phil brings both a reader and a scribe 
+to the test; the reader reads the question, 
+and the scribe writes down Phils answers. 
+For paper writing, Phil uses a typewriter or 
+his new PC. with a voice synthesizer, which 
+tells Phil when hes made spelling errors.
+Phil feels that his blindness is not a great 
+handicap. His attitude towards his blindness 
+is surprisingly optimistic. He says that it 
+slows him down, but it doesnt stop him. Phil 
+feels that everyone has a handicap or pro
+blem of one sort, and that just because his 
+is physical hes not angry or bitter. Phil 
+speaks of the advantages of being blind, I 
+use my other senses. If everyone could lose 
+their sight for just one week theyd appreciate 
+things more. I lived in a small neighborhood 
+for eleven years and it was getting boring. 
+When I lost my sight, I went around and ex
+perienced my surroundings in a new way. It 
+was an adventure.
+Phil is more active than most people; hes 
+an outdoorsy person who likes to try new 
+things. Phil enjoys rock climbing, hiking up 
+Sugarloaf Mountain, and white water raf
+ting. In fact, Phil helped teach a course in 
+white water rafting; he showed other
+students how to tie complicated knots by 
+closing their eyes and feeling the ropes on 
+top of each other. Phil is also interested in 
+skydiving. Isnt he afraid? No, he says, 
+since I cant see how far up I am.
+Phil says that its natural for people to 
+hesitate around him, but he wants people 
+to come up and talk. He often makes blind 
+people jokes to lighten the atmosphere with 
+people hes just met. Im not made of glass, 
+you know. I like to rough house. Phil plays 
+frisbee with a beeping disk, he likes to cook, 
+go rollerskating, and ride a double bike. He 
+goes to movies, parties, and watches T. V. 
+Theres not a lot that Phil doesnt do.
+As far as social life goes, Phil doesnt like 
+huge parties, he does, however, like to hang 
+out with groups of ten or twelve people. Phil 
+says that meeting people at CMU has been
+made easier with Orlan, I meet a lot of peo
+ple, they just come up and ask questions 
+about the dog and we make friends. He also 
+meets people through his scribes and 
+readers. Phils last girlfriend was at the Com
+munity College. But Phil says that he doesnt 
+want to get stuck in a permanent relation
+ship, Dating is more special now because 
+I must be attracted to a girls inner personali
+ty instead of her looks, so I just want to date.
+Phil would like to be considered as an in
+spiration to others. As a teacher, he would 
+be able to say, Look, if I can do it without 
+sight, you certainly can with.
+Phil finds that some people are embar
+rassed to talk to him because they are scared 
+of saying the wrong thing. Phil says this most 
+often happens when people say something 
+like, I saw you on the cut, or Ill see you 
+later. Phil says that he can see, just in a dif
+ferent way. Phil is not a formidable 
+character, hes happy and very ap
+proachable. Dont get fooled into thinking 
+that because Phil is blind he is somehow dif
+ferent; hes not, hes a regular guy.
+Pittsburgh celebrates Carnegie's 150th
+By MITCHELL REICHGUT
+Tartan Staffwriter
+This November 25th will mark the sesquicential anniversary of the birth of An
+drew Carnegie; in other words it will be his 
+150th birthday. Andrew Carnegie should not 
+simply be remembered as the boy who came 
+here from Scotland with nothing, grew a 
+beard, got rich, and then founded CMU. He 
+should be remembered for the great con
+tributions he made to Pittsburgh. Not only 
+was Carnegie a wealthy steel magnate, he 
+was the benefactor of most of this citys 
+cultural life as well. He is, of course, respon
+sible for founding Carnegie Tech, which is 
+now Carnegie-Mellon University. He also 
+founded a library, an art museum, and a 
+music hall.(All of which supply Pittsburgh 
+with a bit of culture and personality.)
+To celebrate the birth of the man to whom 
+Pittsburgh owes so much, the Carnegie 
+Museum, the Carnegie Library, and CMU 
+will have a great deal of FREE events going 
+on from September through December 
+which everyone can enjoy. On September 
+28th rain or shine, there will be a Family 
+Fling at the Carnegie Complex in Oakland. 
+At 9:00 a.m., things will begin at the 
+Carnegie Library. Outside of the Carnegie 
+Institute, which will open at 10:00, there will 
+be a parade, demonstrations, storytellers, 
+musicians, dancers, craftsmen, and a Scot
+tish shepherd will be on hand with a flock 
+of Scottish sheep. There will also be Scot
+tish sports events such as a sheath toss, a 
+stone put, and a caber toss. The Museum
+of Natural History and the Museum of Art 
+will open free of charge, and there will be 
+a huge cardboard Camegie-Creature, 
+(which spectators can help build), a 
+childrens room, and food vendors.
+Other events at the Museum include The 
+1985 Carnegie International Exhibit, (Nov.9 
+through Jan. 5, 1986), James Galway and 
+members of the Pittsburgh Symphony at the 
+Music Hall, (Nov.IS), a one-day stamp col
+lection at the Carnegie Library, (Nov.25), 
+and Mr. Carnegies Museum (which opens
+November 26).
+CMU students are doing their share too. 
+There will be a CMU Symphony Orchestra 
+Concert at 8p.m., Wednesday, Nov.20th at 
+the Music Hall. The Camegie-Mellon 
+University Trio will also be performing at the 
+Music Hall, at 7p.m., Sunday, Nov.24th with 
+a champagne reception. On campus, peo
+ple can enjoy Andrew Carnegie Illustrations 
+at the Ellis Gallery, at CFA from 9a.m. to 
+5p.m.,Monday through Friday, Nov. 
+18-25th. From Nov.2nd through Dec 22nd,
+Mel Bochner Drawings will be on display at 
+the Hewlett Gallery in CFA. At the Hunt 
+Library, in the Fine and Rare Book Room, 
+Andrew Carnegie the Writer Exhibit can be 
+seen Monday through Friday, 1:30 to 4:30 
+p.m. also, watch out for more up and com
+ing student events. Remember, all of these 
+events are free, and everyone is welcome to 
+enjoy them. If Andy were alive today he 
+would want you to take a break and have 
+some fun, so go ahead and take advantage 
+of the celebration.
+
+---------------------------------------------------
+
+Page 8The TartanSeptember 24,1985
+Counseling Center offers students help
+By ERIKA M. QUIROZ
+Tartan Staffwriter
+The CMU Counseling Center, located in 
+Morewood Gardens, sits like a mother hen 
+cooing protectively over her egg of CMU 
+students. The Counseling Center offers help 
+for a variety of problems. Its main concern 
+is the emotional well being of the students. 
+Says director Lorrie Rabin, Academics are 
+well taken care of. We see ourselves as 
+available to people in need of emotional sup
+port.
+The Counseling Center deals with many 
+problems, ranging from depression and anx
+iety to difficulties with family and relation
+ships. Many students receive counseling due 
+to feelings of low self worth and loneliness.
+The center also otters many different types 
+of counseling. Professionals counsel in
+dividuals as well as provide support groups 
+focused on particular areas of concern. The 
+groups are chosen by talking to students to 
+get a sense of their particular needs. A 
+Family and Transition group came about 
+as a result of requests from students dealing 
+with divorce. Other groups are centered 
+around stress management, shyness, eating 
+problems such as bolemia and anorexia, and
+S & S auditions 
+begin Saturday
+By HELENE NEWBERC
+Tartan Staffwriter
+Scotch N Soda, CMUs student theater 
+group, announces auditions for their first 
+production of the 1985-86 season, a pair of 
+one act plays. The plays will run on the 
+weekend of November 15, Friday and Satur
+day nights at 8:00 pm, in the Mellon In
+stitute Auditorium.
+Scripts for LINE, a play by Isreal 
+Horovitz, are presently on reserve in Hunt 
+Library. The second one-act, possibly an 
+original student work, will be announced 
+shortly. Auditions for both plays will be held 
+on Saturday and Sunday, September 28 and 
+29, from noon until 5:00 pm in the Mellon 
+Institute Auditorium. It is strongly recom
+mended that actors auditioning have a 
+prepared monologue of dramatic material 
+and read the script for LINE prior to 
+auditioning.
+Scotch N Soda is open to any CMU stu
+dent, and you can get involved by contac
+ting Lauren Schneider at x2644 or Mary 
+Beth Gilmore at x4546.
+Futons, iss
+THE COMFORTABLE 
+JAPANESE COUCH 
+OR BED. 661-6499 
+CARLISLE MATTRESS 
+FACTORY OUTLET
+IF YOU NEED A 
+LAWYER 
+CALL 
+683-3555
+INCORPORATIONS 
+LANDLORD - TENANT 
+CRIMINAL LAW - TRIAL DEFENSE
+MURRAY A. FELDER
+ATTORNEY AT LAW 
+3447 Forbes Ave. 
+OAKLAND
+Time to... 
+Care More, 
+Share More
+studying skills. They also offer Crisis 
+Counseling and have a Crisis Night pro
+gram to deal with emergencies and poten
+tial suicides.
+The Counseling Center came about as a 
+result of a growing need for more concen
+trated attention on emotional problems. 
+Originally, the center was known as the 
+Bureau of Measurement and Guidance 
+which ran tests on intelligence evaluations, 
+aptitude, interest, personality, attitude and 
+various other evaluations. The growth of the 
+center was also initiated by Student Affairs 
+as a need to address the personal needs of 
+CMU students.
+Besides the individual counseling and 
+support groups, the Counseling Center sup
+plies workshops for stress managment and 
+tutoring sessions which began last year. Last 
+year alone they held over 800 tutoring ses
+sions which were taught by students who had 
+received an A in the particular courses 
+This year the tutoring includes eight dif
+ferent courses: Calculus I, II, and III, 
+Physics, Chemistry, English as a Second 
+Language, Economics, Intro to Computing 
+Financial Counseling & Academic Writing 
+Problems.
+In addition to this work, the Counseling 
+Center is jointly involved with the Health 
+Center. When symptoms of both emotional 
+and physical problems are present, the 
+students are referred from one to another for 
+a more complete diagnosis and treatment. 
+They have also worked on Educational Pro
+gramming together and plan to do more in 
+the future.
+The Counseling Center employs a staff of 
+three professional level counselors, Lorrie 
+Rabin, Roseanne Hickey, and Stewart 
+Sadowsky; seven advanced doctoral students, 
+Jack Foehl, Kathleen Hoy, Lynne Kalman, 
+Michael Lechner, Pat Riccelli and Maria 
+Riva; and one counsulting psychiatrist, 
+Richard Flemming. Also employed by the 
+Counseling Center is secretary Jean Barr, a 
+vital figure in the centers outreach. She is 
+warm and welcoming and makes students 
+feel at ease. Rabin says, It is not hard to 
+come here. Jean does a good job of making 
+people feel comfortable.
+The staff is a truly concerned group of 
+people. They make time for all who have the 
+need to come. You dont have to be bounc
+ing off the walls to come here, Rabin says,
+We are available for everyday worries that 
+are proving difficult to settle in.
+The Center is a very active operation and 
+at times there is a waiting list but the staff 
+has made changes in structure and employed 
+more counselors to reduce the problem. 
+Word was getting out about the waiting 
+list, says Rabin, but we feel very strongly 
+about urging people in need of help to come 
+despite the list. We will see people in need 
+of immediate help. The center has also in
+itiated a fifteen minute intake interview 
+where all cases will be given at least fifteen 
+minutes time to determine the severity of the 
+problem.
+The Center does short term work that 
+usually does not run over twelve sessions. If 
+it is needed, the patient will be referred to 
+local professionals at the Psychiatric Hospital 
+in Oakland where they have negotiated a 
+contract that permits them to refer students 
+to the resident staff for little or no fee.
+The major concentration of the Counsel
+ing Center is not on just counseling but on 
+outreach. Says Rabin, We want the students 
+to know that they are not alone. Were out 
+there.
+From ourFromFruTIVr, ANYTHINGm FOmmIBLr.
+VISIT US AT THE 
+CMU TECHNICAL 
+OPPORTUNITY 
+CONFERENCE 
+. on October 3rd
+A perspective of intelligence, imagina
+tion, and drive has always characterized 
+Microsofts approach to microcomputer 
+systems software. If you share our per
+spective, come join us . . . and go to 
+work on projects that will propel the . 
+entire industry forward. Networking . . . 
+sophisticated graphics . . . hardware/ 
+software components . . . operating sys
+tems . . . compilers . . . productivity 
+applications . . . and more.
+Youll work with hardware so new it 
+hasnt been publicly introduced . . . and 
+watch your input find its way into new
+systems headed for the marketplace. All 
+the advantages of Microsofts work 
+environment will be yoursincluding all 
+the high-level hardware, development 
+systems and software development tools 
+you need. You will also interact on a 
+daily basis with the sharpest professionals 
+in the business.
+Microsoft took the lead at the begin
+ning of the microcomputer software 
+industry. We have set the standards in 
+research, design, development, and mar
+keting ever since. Today, Microsoft holds 
+the lead in providing operating systems 
+(MS-DOS and XENIX) for key hardware 
+manufacturers workstations and personal 
+computers using 80286, 68000 series, 
+and future 32-bit microprocessors.
+Our work environment is comple
+mented by our location in Bellevue, 
+Washington, featuring all the attractions 
+of the Great Pacific Northwest, and just 
+across the lake from Seattle.
+The Microsoft perspective will intro
+duce you to a new world of possibilities 
+in microcomputer systems software.
+Explore your future with Micro
+soft. Were looking for Software 
+Design Engineers. Check with your 
+career office for position details or 
+visit with our representatives at the 
+CMU Technical Opportunity Con
+ference on October 3rd.
+MICROSOFT
+The High Performance Software
+MICROSOFT CORPORATION 
+Box 97200 
+Bellevue, Washington 98009
+An equal opportunity employer, m/f.
+
+---------------------------------------------------
+
+Entertainment.
+Yakov Smirnoff on America: What a country!
+photo by Olve Peersen
+Yakov Smirnoff: everything you always wanted in a comedian. . .OR ELSE.
+Compromising Positions
+By AMANDA COHEN
+Tartan Staffwriter
+Yakov Smirnoff said himself that perfor
+ming in Russia insured a captured au
+dience. Well, the CMU audience didnt need 
+the KGB to tell them to enjoy Fridays show 
+in the Skibo Ballroom. Smirnoff captured 
+us himself.
+Smirnoff began by explaining that he is 
+originally from Russia, and has been a com
+edian in America for eight years. He then 
+answered questions from the enthusiastic au
+dience. The questions ranged from what he 
+thought of life in America to what he was 
+doing after the show.
+Most people asked about comparisons 
+between the USA and the USSR. One stu
+dent wanted to know what sort of commer
+cials there were in the Soviet Union. Smir
+noff answered first that the majority of the 
+commercials were military, as there were no 
+brand names to advertise. He described an 
+ad in which two soldiers are sitting in a tank. 
+The first says, We cant invade any more 
+countries, and the other says, How bout 
+for a Michelob Light?
+There were a few interjections of Russian 
+dialogue with some students. Of Russian 
+comedy, which is to some a contradiction in 
+terms, Smirnoff explained the strict censor
+ship held comedians to rigid scripts and 
+allowed no improvisation. This leads to an 
+absolute lack of audience rapport.
+However, this freedom of speech is vital 
+to Smirnoffs routine, as he uses the typical 
+questions to lead his prepared materials, 
+creating the effect of improvisation. Smir
+noff said that they do have freedom of 
+speech in Russia, but in America you still 
+have freedom after speech.
+In an interview after the show, Smirnoff 
+said that starting out as a comedian in 
+Russia is similar to starting out as a come
+dian in the United States. Russian comics, 
+however, are required to heavily censor their 
+own material. You cant be caught dead 
+with the wrong material, he said, meaning 
+it literally. In a past show at the Iron Horse 
+Cafe in Northhampton, Mass., he said that 
+the self-censorship, and later censorship by 
+the Department of Jokes left little more
+By BRUCE KASREL
+Tartan Staffwriter
+One of the greatest musicians of the cen
+tury, Issac Stem, took center stage at Heinz 
+Hall on Friday. Playing Johannes Brahms 
+Violin Concerto, the stout 65 year old 
+musical genius played with style and vigor 
+that is seldom heard from violinists of any 
+age, much less a 50+ year veteran.
+The Concerto in D Major for Violin and 
+Orchestra was written in 1878. The work, 
+written for the great violinist Joseph 
+Joachim, was considered a very bright and 
+cheerful piece from such a dramatic com
+poser as Brahms. Many sections of the piece, 
+including the candenzas, were either writ
+ten or transcribed by Joachim, a great com
+poser in his own right. Joachims original in
+terpretation in the cadenza, now the stan
+dard, was filled with quick-fingered passages 
+that almost contradict the main theme. 
+However, Brahms brilliantly finds a way to 
+blend these distinct different ideas and came 
+out with a fantastic score.
+Stern, who has played this piece many 
+times, chooses to stay the traditional track 
+and play the piece as it was first played by 
+Joachim. At times Stern played the soft 
+passages a little bit too quietly and slowly, 
+but his flawless technique and his many 
+years of experience kept his level of playing 
+somewhere between great and exceptional. 
+The orchestra tended to be a tad overpower
+ing in many of the soft sections and the 
+woodwinds had a few intonation problems.
+than things like fish, the moon, and buttons 
+from which to eke out comedic routines.
+A good deal of his current material 
+centers on the strange, new world he found 
+when he came here eight years ago, such as 
+small language problems. For example, he 
+said that he was surprised to hear the word 
+Yup so often, because in Russian it means 
+sex. He talked about being confused by see
+ing grits on a Southern menu, thinking that 
+grits were a part of a womans body (as in: 
+Kiss my grits!). Yup.
+Smirnoff also cited some of his television 
+appearances, including a part on the series 
+Night Court and a lite beer commercial (in 
+Russia we also have a light beer.. .Everything 
+you always wanted in a beer...Or Else. ). His 
+movie appearances include Moscow on the 
+Hudson, Buckaroo Banzai, and Brewsters 
+Millions. In the latter, his one line was his 
+repeated catch-phrase for any fascinating 
+American peculiarity; What a Country!
+Of the Camegie-Mellon crowd, which was 
+standing-room-only, he said it was  one of 
+the better, intelligent respones. They knew 
+when to laugh and when to hiss at all the 
+right times. The group also knew what to 
+do and the end of the fantastic show; 
+everyone gave Smirnoff an enthusiastic stan
+ding ovation.
+Sam Simon, a native of Pittsburgh, was 
+the opening act. Simons act featured stan
+dard magic tricks and above-standard au
+dience relation, despite the expected 
+rudeness. The assistants he volunteered 
+nearly stole the show (as well as his magic 
+wand) but Simon came away with a good 
+deal of the laughs. Interviewed after the 
+show, Simon said that he was very happy to 
+have been invited. Simon had known Smifnoff before the show, and was delighted to 
+open for him and to find such a receptive 
+audience.
+American life doesnt seem to be treating 
+Smirnoff too badly. He recently finished 
+filming a movie with Meryl Streep and Jack 
+Nicholson called Heartburn. Definitely not 
+an opportunity he would have found in the 
+U.S.S.R. Is Yakov Smirnoff going to have a 
+prosperous future? Yup.
+Despite these few flaws, the piece was well 
+done and was greeted with a standing ova
+tion (the first of the season) by the sold out 
+audience.
+Before the Brahms concerto, the or
+chestra played the Overture to Benvenuto 
+Cellini by Hector Berlioz. The Pittsburgh 
+Symphony and Berlioz is a great combina
+tion, and the orchestra played this peice 
+with grace and intensity  as it should be. 
+It is a shame that this piece was the only 
+scheduled work by Berlioz for the season.
+After the intermission the mood took a 
+total about-face. Playing Igor Stravinskys in
+tense Rite of Spring the orchestra had to 
+shift styles from melodic and flowing to 
+harsh and jagged. Although the piece is very 
+unconventional, it was perfect for the 
+dramatic conducting of Christoph Eschenbach. Directing with a firm baton, Eschenbach moved the orchestra through the piece 
+masterfully and really gave an excellent per
+formance.
+The fine performance of Stravinsky piece 
+as well as the other works can be attributed 
+to the excellent poise of the orchestra, which 
+had to traverse both ends of the musical 
+spectrum through the concert. Remarkably, 
+the orchestra lost very little character in the 
+process.
+A final note for students ad senior 
+citizens: one hour before the performance 
+any remaining tickets are just $7, a steal 
+considering the world class status of the Pitt
+sburgh Symphony.
+By KAREN J. ELINICH
+Tartan Staffwriter
+Dr. Bruce Fleckstein, a successful 
+periodontist, puts his patients in Com
+promising Positions and uses his Polaroid to 
+preserve the memory. When he is suddenly 
+murdered, most of the women of 
+Shorehaven are suspect.
+From this premise springs this quite enterentertaining film by Frank Perry. The amus
+ing murder mystery follows Judith Singer, an 
+ex-journalist, as she does some investigative 
+reporting. She is intrigued by the mystery of 
+her gum-surgeons murder and she is bored. 
+Her husband is a stuffy, successful lawyer 
+who wears a navy three-piece suit and com
+mutes by train to the city each day. She shops 
+or visits her equally bored friends each day 
+as she has for the past seven years. When 
+something as exciting as a murder happens 
+in her community, she finds herself unable 
+to hold back her long dormant instincts as 
+a journalist even though her husband is 
+strongly against it.
+Susan Sarandon gives a fine performance 
+as Judith. She convincingly presents the conBy KATE BONELLO
+Special to The Tartan
+Waldorf: Doug Coopers Level II Ar
+chitecture Studio opens tonight at seven 
+p.m. at the Forbes Gallery. The show runs 
+through Sunday, September 29.
+Waldorf is the collective endeavor of nine 
+students: Stephen Scleroff, Rachel ONeill, 
+Ira David Bers, Alan Estabrock, Scott Shan
+non, Loretta Lung, Jill Watson, Joe Basipio, 
+and Lew Korczinewsky. They were all
+flict that her character feels over the choice 
+between scooping the story and being the 
+wife that her husband wants her to be. Her 
+performance has a kind of familiarity about 
+ither Judith is straight from the pages of 
+an L.L. Bean catalogand it goes over well.
+Raul Julia, quite busy these days with Kiss 
+of the Spider Woman as well as Compromis
+ing Positions, provides us with a really strong 
+performance as the homicide detective who 
+investigates Fleckstein s murder and Judiths 
+emotions. His character comes through most 
+strongly, showing himself as a truly talented 
+actor.*
+Once again, Edward Herrmann shines in 
+a supporting role. This time, he is wonder
+ful as Judith's husband. He has lately been 
+proving himself a solid actor in memorable 
+supporting roles. Most recently, the brightest 
+character in this summers The Man with 
+One Red Shoe was his CIA apprentice to 
+Charles Duming.
+Compromising Positions isnt the greatest 
+film, but it is an amusing and suspenseful 
+mystery with some fine performances.
+members of the architecture studio taught 
+last semester by Professor Doug Cooper. The 
+project which is shown this week is a plan 
+for the Waldorf School, an experimental 
+international school founded in Germany in 
+the 1930s by Rudolf Steiner.
+The Waldorf School attempted to teach 
+children to be competent mentally, physical
+ly, and emotionallyas opposed to attemp
+ting teaching children to remember facts 
+continued on p*9* 11
+The Pittsburgh Symphony
+Forbes Gallery: Architecture
+
+---------------------------------------------------
+
+3ge 10The TartanSeptember 24,1985
+Heres Weird A1 and The Stupid Band trying to look stupid (and succeeding)
+Get to the answers faster. 
+With thel'55-n.
+What you need to tackle 
+the higher mathematics of a 
+science or engineering cur
+riculum are more functions - 
+more functions than a simple 
+slide-rule calculator has.
+Enter the TI-55-II, with 
+112 powerful functions. You 
+can work faster and more 
+accurately with the TI-55-II, 
+because its preprogrammed
+to perform complex calcula
+tions - like definite integrals, 
+linear regression and hyperbolics - at the touch of a 
+button. And it can also be 
+programmed to do repetitive 
+problems without re-entering 
+the entire formula.
+Included is the Calculator 
+Decision-Making Sourcebook.
+It makes the process of using
+the TI-55-II even simpler, 
+and shows you how to use all 
+the power of the calculator.
+Get to the answers faster. 
+Let a TI-55-II 
+show you how.
+iaster.
+photb 
+yAbndGihAnb
+Creating useful products 
+and services for you.
+$55.00
+Genuine Diamond in I OK Gold
+Promise her in time 
+Your love will bloom. . .
+We promise in time 
+to allow full amount 
+toward engagement ring.
+IMPERIAL JEWELRY
+Maxon Towers 
+6315 Forbes Avenue 
+One Mile Out From Campus
+(412) 521-8930
+Weird Al Yankovic and his
+continued on page 11
+with you. A bit drawn out, its still funny.
+Yoda, a classic cut from way back when, 
+finally appears on an album. This song has 
+the unique potential to tick off both Star 
+Wars freaks and Kinks fans alike. This song 
+is good and strange; for some reason Als 
+voice doesnt sound too awful here. Turning 
+a classic rock song into a ballad about train
+ing to be a Jedi Knight is a bit stupid, but 
+keep in mind that A1 put the sick into the 
+word classic(k).
+Another great bit here is the performance 
+of George of the Jungle theme: yes, that 
+old cartoon that was more than a little 
+bizarre. Backed by an encore performance 
+by the original George (Bill Scotti) this 
+popped-up version of the theme for an ecclectic cartoon series fits in well with all the 
+other stuff on the album. What more needs 
+to be said... .art for arts sake must inevitably 
+be followed with silliness just for the heck 
+of it.
+Another original tune is Slime Creatures 
+From Outer Space. I didnt like this one  it 
+doesnt seem funny so much as it is just 
+weird, and a bit hyperactive now and then. 
+Ive heard funnier cuts than this in the same 
+style done by the Flying Lizards, and I dont 
+even like them. So there.
+Girls Just Wanna Have Lunch is another 
+well done parody, though Als voice hits the 
+ol cellar in terms of listenability again. Some 
+really disgusting sounds of people eating 
+lunch give this number the weirdness we all 
+expect, along with Als apparent fascination 
+with food. A good song, and quite funny.
+band Dare to be Stupid
+By ERIK HARE
+Tartan Staffwriter
+Would you believe that Weird A1 
+Yankovic was valedictorian of his high school 
+class? This is in fact the same Weird Al 
+whose new album, Dare to be Stupid, has 
+little trouble living up its name. Some real
+ly stupid tracks here. But dont get me 
+wrong: its just as hilarious as his other stupid 
+stuff, only now hes admitting something.
+Judging by the album, his tour with The 
+Stupid Band (which comes to the Graffiti 
+this Wednesday) should prove to be quite 
+outrageous. This album contains not only 
+the good-natured parodies of pop muzak for 
+which he is famous but also a whole mess 
+of originals of the 11 cuts on the album, 
+only four are parodies, while five are 
+originals, rounded out by an old favorite of 
+the cartoon set and the obligitory Hooked 
+on Polkas. Al seems to really be into new 
+creations these days, since this trend is pro
+gressing from his last album, Weird Al in 
+3-D: and judging by the contents of these 
+songs, Als creative genius for pure silliness 
+is unparalleled.
+The first song on the album is the nowfamous Like a Surgeon. This song, while 
+incredibly funny the first time through, got 
+quickly on my nerves because the 
+background thumping, true to the original, 
+is just so booorrrring. With pop music like 
+this being in fashion, the Weird Ones move 
+to original music makes a lot of sense. Like 
+a Surgeon is just as stupid as the original, 
+but much, much sillier.
+Dare to be Stupid, the second song, is 
+more than a bit new wave for my tastes, 
+although my tastes are too ecclectic to put 
+in print. Al sounds like hes smoked a whole 
+lid the way he shouts out the lyrics to this 
+original and weird cut.
+Without much doubt, the stupidest (and 
+thereby the funniest) song on the album is 
+the third, I Wanna New Duck. A lot of 
+tired cliches turned into duck jokes makes 
+for a song that left me gasping for breath 
+and turning blue, since laughing and 
+breathing tend to be mutually exclusive. The 
+wonderful lyrics are accented by the 
+perpetual sounds of (sort of) grown men 
+quacking out-of-key melodies. Truly eccen
+tric, but great.
+If Like a Surgeon doesnt prove that 
+Weird Al has the worst voice ever, the 
+fourth song, One More Minute definitely 
+does. Al wrote this slow ballad as perhaps 
+the perfect way to tell someone to go away: 
+Id rather spend eternity eating shards of 
+broken glass/Than spend one more minute
+
+---------------------------------------------------
+
+September 24,1985The TartanPage 11
+newmusic newmusic newmusic newmusic
+THIS BUD'S
+INA MNEO
+By DR. CALIGARI
+Special to The Tartan
+The 1980s music scene has largely been 
+composed of revivals of past movements  
+rockabilly, mod, and now psychedelic to 
+name a few. On the forefront of music to
+day is the upcoming revival of glam. Glam 
+was a movement in the early 1970s and in
+cluded such artists as David Bowie, T. Rex, 
+and Roxy Music. As in all revivals, the 
+original music is gaining in popularity and 
+new bands are recreating the feeling while 
+adding new, updated touches. A case in 
+point is the emergence of The Glam Slam 
+as one of THE clubs to go to in Los Angeles. 
+It plays all glam music and the crowd dresses 
+in an updated glam style. As for new glam 
+bands, one of the best is the Jacobites. Their 
+album Robespierres Velvet Basement sounds 
+a lot like very early Bowie and also T. Rex.
+It conjures up a lot of atmosphere  not 
+atmosphere in the Tangerine Dream sense,
+but atmosphere in the recreation of an era. 
+The singer sounds a lot like Bob Dylan and 
+the music is electrified folk with a rock edge. 
+It is very much in the tradition of Bowies 
+Hunky Dory album. Big Store is one of the 
+more electrified songs on the album and is 
+very similar in feel to T. Rex. Fortune Of 
+Fame includes a harmonica (pretty novel 
+among all the synthesizers being used today). 
+Most of the album is composed of slower 
+songs and two that stand out are Where the 
+Rivers End and Ambulance Station. All in 
+all its a really good album  different from 
+most of the music coming out now and very 
+tied to the early glam tradition.
+New singles:Worse Than You b/w Like 
+a Soldier from Life After Death. Worse 
+Than You is a mild garage snarl over swirl
+ing music replete with the now-uncommon 
+handclaps and tambourine. Like a Soldier 
+has catchy hooks and is very much Southern
+psychedelic.
+Wild as Soul b/w Such a Mystery from 
+Hysteric Narcotics. These are true hipsters. 
+As they say right on the groovy op-art pic
+ture sleeve: recorded in Hysterasound.
+Wild as Soul has a real 60 s feel to it while 
+Such a Mystery combines a cool organ and 
+one of the most memorable opening lines 
+(Shes got spyglasses / glued to her 
+eyelashes) to come up with a bouncy sound.
+Weird Al: Dare to be Stupid
+Forbes Gallery: Architecture
+continued from page 9
+and learn trades. To do this, the school 
+followed Steiners philosophy that the entire 
+body and all the senses should be used as a 
+learning tool, and so instituted a curriculum 
+of eurythimics. The children were taught to 
+see things as a whole, not just as outer ap
+pearances.
+The project which is on display this week 
+is in two phases. In the first phase, the ar
+chitects used a subtractive process: 
+theoretically given an enormous lump of 
+sandstone, they were told to subtract the liv
+ing spaces from the piece of sandstone as a 
+whole. To illustrate their work they were on
+ly allowed to use 8V X 11 pieces of paper, 
+which they taped together. The space of the 
+school is depicted in charcoal air drawings, 
+where the deeper the areas got, the darker 
+the charcoal that was used to shade them. 
+In the second phase, the architects were on
+ly allowed to use prismacolor pencils on 
+brown paper, and the only materials they 
+were allowed to use in the design were wood 
+and brick.
+The Forbes Gallery is open Wednesday 
+through Friday, 11 a.m.-6p.m., and Satur
+day and Sunday, 12 p.m.-5 p.m.
+continued from page 10
+For the movie Johnny Dangerously, 
+Weird Al got to do his first sountrack cut. 
+This is the Life is a cute piece, but not that 
+remarkably funny or strange. From a rather 
+bad flick comes this basically average song.
+For the upwardly mobile among us, the 
+original song Cable TV has a nice pop feel 
+that fits in well with this message. 
+Guaranteed as a hit song among the 
+bourgeois people who think of fun as com
+paring VCRs in major shopping malls, this 
+song is an (almost) true-to-life picture of the 
+meaning of cable: I got the Siamese Faith 
+Healers Network / The news and weather 
+from Peru / I got celebrity hockey / The raquetball channel too. I got... I got. Al is 
+making a point, and I like it.
+All of this is backed up by the fine accordian work in the obligatory Hooked on
+Polkas. With Top-40 stuff like DuranDuran, Yes, and Nenas Neun und Neunzig Luftballoonen (Ja, es ist auf Deutsch) 
+being put into polka form...well...you know. 
+Its stupid. But as Al said, I want to be there 
+when the accordian takes over the rock world 
+and becomes the no. 1 rock instrument. Im 
+telling you, in a few years, the electric guitar 
+will be obsolete. Luckily, Im on the forefront 
+of the accordian rock movement. OK Al: 
+we understand.
+Weird Al Yankovic and his Stupid Band 
+will appear this Wednesday, September 25, 
+at the Graffiti, 4615 Baum Blvd. Special 
+guestDr. Demento. Shows are at 7:00p.m. 
+(all ages) and at 10:00 p. m. (over 21.) Tickets 
+are $10.50 in advance at Kaufman's, Heads 
+Together, and Grafitti (682-4210) and $12.50 
+at the door.
+PICKUP
+APARTY
+The main bulk of the exhibition consists 
+of the renderings from the last three weeks 
+of the studio. They were allowed to use lead 
+pencils, which are usually used for architec
+tural drafting. With colored pencils they us
+ed light, shadow, and contrasting colors to 
+create very intricate designs for the Waldorf 
+School.
+Haircuts *14 to *16
+T Mon.-Frl. 9 to 9Lewis Sat. 9 to 5
+813 S. Aiken Avenue  Shadyside 
+682-4063
+BUOWEISER**KING OF BEERS*ANHEUSERBUSCH INC ST LOUIS
+
+---------------------------------------------------
+
+STTJDEIl
+"GRIPE 1
+STUDENT SENATE OFFICE
+TAMAL MUKHERJEE ^ MICHAEL BETT
+C-18 Mudge House 5545 Howe St.
+Phone: x4552 Phone: 621-7585
+CIT Student Senate Chairman
+Office Hours: Office Hours:
+Thu. 4:30-5:30 Tue. 6:00-7:00
+iv.
+PETITIONS F 
+CFA,CIT,H&< 
+Available at Ski 
+D< 
+Due 0
+|OE MURPHY
+Donner-A-5 
+Phone: x4109 
+CIT
+Office Hours: 
+Tue. 2:30-3:30
+NADINE FLYNN
+P.O. Box 148 CMU 
+Phone: 687-4269 
+CFA
+Office Hours:
+Wed. 1:30-2:30
+SEANA CHUN
+130 Marg. Morrison Apts.
+Phone: x5939
+H&SS
+Office Hours:
+Fri. 1:30-2:30
+JEAN E. NOVAK
+6329 Walnut Apt. 2 
+Phone: 661-0528 
+SUPA
+CINDY TAYLOR
+7-C-10 Morewood Gardens
+Phone: x3975
+MCS
+Student Senate.
+Working together, 
+we get things done,
+SENATORS NOT 
+PICTURED ARE:
+MARK KISSNER
+5030 Centre Ave. Apt. L52
+Phone: 681-0189
+CFA
+Office Hours:
+Tue. 1:00-2:00
+LEANNE CHU
+302 Shady Oak Apts. 
+Phone: x8965 
+SDC
+HILARY DEBROFF
+5-C-6 Morewood Gardens 
+Phone: x4891 
+IM
+Office Hours:
+Tue. 4:30-5:30
+
+---------------------------------------------------
+
+SEMATE
+USTERS
+n
+ROOM 59 SKIBO
+KAREN LEE
+C-306 Mudge 
+Phone: x4594
+Student Government President 
+Office Hours: M,W 6:00-7:00 
+Fri. 12:30-1:30
+PETE COHEN
+128 S. Dallas Ave 
+Phone: 441-9826 
+H&SS
+Office Hours: 
+Wed. 11:00-12:00
+OR SEATS IN 
+5S,GSIA,MCS 
+ibo Information
+Bsk
+>ct. 8th
+FRED DELEON
+Pi Kappa Alpha 
+Phone: x6614 
+IFC Representative 
+Office Hours:
+Tue. 2:00-3:00
+CHRISSY HYNES
+103 Welch Hall 
+Phone: x4207 
+CFA
+Office Hours:
+Tue. 11:00-12:00
+LISA SALLEY
+7 Roselawn Terrace 
+Phone: x4387 
+Treasurer
+STEVE WELLER
+A-309 Mudge 
+Phone: x4463 
+Parliamentarian
+ERIC ROCHER
+E-323 Morewood Gardens
+Phone: x4795
+MCS
+Office Hours:
+Thu. 5:30-6:30
+DAVE SALOMON
+1612 Shady Ave. 
+Phone: 421-8559 
+MCS
+Office Hours: 
+Wed. 4:30-5:30
+ANDY LEE
+1612 Shady Ave. 
+Phone: 421-8559 
+MCS
+Office Hours: 
+Wed. 12:00-1:00
+BRETT WHYSEL
+B-4 Mudge 
+Phone: x4474 
+H&SS
+Office Hours: 
+Tue. 10:30-11:30
+PETE LONSKY
+6235 5th Avenue B-17 
+Phone: 441-4973 
+H&SS
+CHERIE JAGERSKI
+Delta Delta Delta House
+Phone: x5958
+CIT
+Office Hours:
+Mon. 1:30-2:30
+STUDENT SENATE MEETINGS
+Every Tuesday- 7:00 P.M. 
+Wherrett Room, Ski bo 
+Everyone is Welcome
+
+---------------------------------------------------
+
+What Does It Mean 
+To Be All You Can Be?
+William James, the father of 
+American psychology, said, Most 
+people live,....in a very restricted circle 
+of their potential...They make use of a 
+very small portion of their possible 
+consciousness...
+To Be all you can be is to de
+mand more of yourself, to push 
+yourself to do things you thought you 
+could never do. By accomplishing them 
+you become all you can be.
+Army ROTC can add a unique 
+dimension to your college education 
+and contribute to your future success. 
+Youll participate in the practical ap
+plication of management techniques 
+learned in the classroom. This practical 
+application instills the maturity and 
+self-confidence so important to ad
+vancement in the business world. Its 
+known as the Margin of Difference 
+and there is a brochure to describe it. It 
+quotes Fortune 500 corporate leaders 
+and tells how much they value Army 
+ROTC experience. Get your FREE 
+copy of The Margin of Difference 
+from Army ROTC on your campus.
+Margaret Morrison 
+Carnegie Hall 
+B-7 or call 
+578-2205/2196
+ARMY ROTC 
+Be All You Can Be
+ALOTOF CAPTAINS OF INDUSTRY STARTED OUT AS SECOND LIEUTENANTS.
+How can you get the experience 
+you need to succeed in business
+These top executives started out 
+as Army officers. Right out of college, 
+thev were given the kind ot responsi
+bility most people in civilian life work 
+years tor.
+It you begin your future as an 
+Army officer, you could further your ca
+reer plans.
+How do you become an Army 
+officer7 A great way to get the training 
+you need is in Army ROTC.
+ROTC is a college program that
+will teach you leadership and manage
+ment skills, and train you to handle real 
+challenges.
+If you want to prepare for a 
+promising future in business, begin 
+your future as an Army officer, with 
+Army ROTC. You too might wind up a 
+captain of industry!
+For more information, contact 
+the Professor of Military Science on your 
+campus.
+ARMY ROTC. 
+BEALLYOUCANBE.
+M I # **.
+Rawleigh Warner, Jr., Chairman, Mobil CorpWalter F. Williams, President & Chief Operating Officer Bethlehem Steel Corp.
+Earl G. Graves, Editor &. Publisher Black Enterprise MagazineJohn G. Breen, Chairman, President & CEO Sherwin-Williams Company
+See Captain Perry Colvin in B7 of 
+Margaret Morrision Hall
+10 CUT URGE PIZZA 
+& 2 LITER PEPSI
+;11 z a . _
+RSCUTYPHGVD19
+3415 Tutti*
+^ 681-2202 or 681-2203
+
+---------------------------------------------------
+
+Sports.
+By BOB KOCA
+Tartan Staffwriter
+The CMU cross-country team par
+ticipated in the Indiana University Invita
+tional this past Saturday. A total of 25 teams 
+participated and CMU, led by Pat Noll and 
+Marc Sulecki, was the top finisher of the five 
+Division III teams. However the larger divi
+sion I schools proved to be out of our 
+league.
+Commenting on the match, Coach Gary 
+Meckley mentioned that the running con
+ditions were less than ideal. It was very hot 
+which made running the hilly course even 
+more grueling. He also mentioned that the
+field was tremendous and included a cou
+ple of olympians.
+He said that an occasional invitational of 
+this kind is good for bringing the team, 
+which has had outstanding success against 
+other Division III schools, down to earth. He 
+also said that there arent many invitationals 
+which present the level of competition which 
+would be best for the team. The smaller in
+vitationals often only involve Division III 
+schools and dont present enough compete 
+tion. In the larger invitationals, we get 
+outclassed by the Division I schools which 
+can attract runners with full scholarships.
+THIS WEEK S EVENTS
+[Tuesday: Soccer-CMU at Cal. St., Volleyball-Bethany and St. Fran, at CMU. 
+Wednesday: Field HockeyBethany at CMU. TennisBethany at CMU. Friday: 
+VolleyballCMU at Thiel. Saturday: FootballHiram at CMU. SoccerCMU at Hiram, 
+Cross-CountryCMU at GCC (men and women), Field HockeyCMU at Hiram, 
+TennisCMU at Hiram. ----------------------------------------------------------------
+Vic Boland carries for 95 yards.
+Tartans make it 3-0 with decisive victory over JCU
+Quarterback Mike Hensel pushes towards the goal linephoto by Erik Horn
+X-country challenged 
+in LU. Invitational
+By CHRISTOPHER D. LEWIS
+Tartan Editor-in-Chief
+The CMU Tartans continued their 
+undefeated season by dominating the John 
+Carroll University Blue Streaks, 35-0, this 
+past Saturday in Cleveland.
+Fighting a possible letdown after last 
+weeks upset of Bucknell, CMU executed 
+their offense and defense in a businesslike 
+fashion. The offensive line blew open big 
+holes for hard-running Vic Boland (95 yards 
+on 15 carries) and Mike Minjock (57 yards 
+on 10 carries).
+The Blue Streaks lost leading rusher Brad 
+Cantwell to graduation from last year, and 
+their offense has not recovered. Freshman 
+quarterback, Don Stupica, could not get 
+their offense moving, and the runners gain
+ed just 42 yards, compared to CMUs 273 
+yards. Their program, which looked strong 
+last year, has problems now.
+Against some of the lesser teams, its hard 
+to get emotionally fired up. But just like [in 
+1983], we went out and worked hard and 
+won the game, said strong safety and cocaptain Brad Sherwin.
+The Tartans got on the scoreboard early 
+in the first quarter. After a seven yard punt 
+return by Joe Orlowski to midfield, CMU 
+moved 50 yards in 11 plays. Junior quarter
+back Mike Hensel (seven completions in nine 
+attempts for 86 yards, one touchdown, and 
+one interception) threw a 17 yard pass to 
+sophomore halfback Darin Ball on a key 
+third-and-nine situation from the John Car
+roll 49, and later hit Minjock for a one-yard 
+touchdown pass on fourth down. Sophomore 
+kicker, Mike Nazzdro missed the extra point, 
+due to a bad snap, but the Tartans were 
+ahead to stay, 6-0.
+The Blue Streaks fell victim to many miss
+ed tackles and the powerful CMU running 
+game. Tech had 273 yards rushing, giving 
+them 796 yards total rushing in their three 
+games. A 21-yard run by Boland typified the 
+entire game. Boland broke a tackle at the 
+line, was hit by three secondary men whom 
+he dragged ten yards before being tackled.
+After a one-yard TD run by Hensel to put 
+CMU ahead 14-0, reserve quarterback, Joe 
+Mollica went to work late in the second 
+quarter. Hensel had to leave the game with 
+a slightly injured ankle. The Tartans drove 
+89 yards on 12 plays, culminating in a 
+26-yard pass from Mollica to Richards, the 
+play of Mollica, who had 82 total offensive 
+yards, and Nick Klipa (four of five for 48 
+yards) proved the tremendous depth CMU
+has at the QB position, as well as experience. Darin Ball (6) finds a hole between guards David Merrigan (67) and Ed Gallagher (76). 
+Hensel is a junior, while Klipa and Mollica
+are both seniors.
+There were a couple of bright spots for 
+JCU. Linebacker Joe Burrello tied a school 
+record with 22 tackles, and Stupica com
+pleted 14 out of 23 passes in his first start. 
+The Streaks only threatened twice, but were 
+thwarted early by an interception by Joe 
+Orlowski on the three yard line and stopped 
+late by three pass deflections by Dan 
+Preston. Andy James also had an intercep
+tion for CMU.
+Tartan Tattlers--The Tartans take on the 
+Hiram Terriers Saturday at Tech Field. 
+Game time is at 1:30 p.m., and the game 
+will be covered on WRCT 
+(88.3)...sophomore Billy Cramer returned 
+a kickoff 69 yards to set up CMUs fourth 
+touchdown...Billy Heiser caught his first two 
+passes of his career after switching to split 
+end from defensive back.
+L ______t .photo by Olvc PefrsenCoach Gary Meckley, sophomore Paul Carnine, and Freshman sensation Pat Noll 
+discuss the race.
+
+---------------------------------------------------
+
+Page 16The TartanSeptember 24,1985
+Women's Volleyball on three match winning streak
+Hi dH  ^ W UHADDAD A LDricr miT! - 1__. . 1  3poBy BARBARA FREESE
+Tartan Staffwriter
+The Carnegie-Mellon Womens Volleyball 
+team saw action on Tuesday and Thursday 
+of last week. The Tuesday match was against 
+Indiana University of PA. The scores of the 
+individual games were as follows:
+CMU
+15
+11
+15
+2
+15
+IUP
+6
+15
+9
+15
+11
+photo by Andy Gillespie
+Tartans return the ball en route to a decisive 3-2 match victory.
+The final match result was 3-2 CMU. 
+Coach Jane Fisk commented that she was 
+rather worried about this match in par
+ticular because Indiana U. is a Division II 
+school with twice as many students to choose 
+from as Camegie-Mellon. After all the worry 
+the team played very well. The outside hit
+ter positions were played well by Chris Cole
+man and Monica Zalvsky. Marianne Smith 
+lived up to the confidence placed in her by 
+being team captain, by doing an excellent 
+job setting, blocking, and hitting. The ear
+ly blocking by Marianne and Karen Kmetz 
+put a damper on the IUP game and the 
+coach believes that this is what enabled
+ene onit
+5512 Walnut St. Shadyside 
+M-S 10-5:30 W 'til 9Century III Mall Lower Level 
+M-S 9:30-9:30 Sun 12-5
+1 Oxford Centre Level 2 M-S 10-5:30 M & Th 'til 9
+KOL NIDRE InfoDesk.
+YOM KIPPUR SERVICES
+September 24
+7 *3 Op/??in the WgL/AM PITT UNION on Pitt campus
+REFORM 645,, in the Dr. EUGoldsteinLounge
+B'NAI B'RITH HILLEI - JEWISH UNIVERSITY CENTER 315 South Bellefield AvenueSeptember 25
+930in the WILLIAM PITT UNION on Pitt campus 
+REFORM Xl:00d/7? in the WHERRET ROOM
+SKI BO HALL - C.MU. CAMPUSFor info on Erev YomKippur dinner&Break theFast ; 621-8875
+YOM KIPPUR COMMLfMTY!am
+CMU to beat this Division II team. Senior 
+Sue Jordan did a good job in the position 
+of off-setter. Debby St. Pierre and Dianne 
+Watson were doing a good job sharing the 
+mid-blocker position. Unfortunately the 
+Junior Varsity team lost 2-0 to the women 
+of IUP. Coach Fisk says, however, that they 
+are learning in practice and will develop into 
+varsity level players before the season ends.
+On Thursday the Tartan women once 
+again were victorious on the volleyball court. 
+They won a dual victory against California 
+University of Pennsylvania and also Robert 
+Morris College. In the match against CUP 
+the game scores were:
+CMU CUP
+15 7
+15 12
+The final match result was 2-0 CMU.
+The match against Robert Morris was 
+almost identical. The game scores being 
+CMU RMC
+15 7
+15 3
+Again, the final was 2-0 CMU.
+The team, again, played well with attack 
+based on hard hits. Captain Marianne Smith 
+again showed her ability by doing a great 
+job of setting and at times surprising the op
+ponents by hitting instead of setting.
+Coach Fisk commented that the team is 
+improving with every match. She believes the 
+real test will come when the lady Tartans 
+play their first Conference match.
+/M Report
+The last chance to sign up for Intramural 
+Co-recreational Volleyball is Wednesday 
+September 25 by 4:30 p.m. There are 6 
+women and 6 men per team. Enter gym 
+room 101.
+The E.J. Birdy Open Golf Tournament 
+will be played Sunday, September 29 at 1 
+p.m. at Schenley Park. Post entrants are 
+welcome.
+There is a cross-country meet on October 
+3 at 4:30 p.m. Course is 1.9 miles. Post en
+trants contact Paul Pecora at 681-0251.
+A water polo team is being organized. En
+try is due September 25. Each team must 
+supply a Certified Life Guard for practices 
+and matches. Check IM Bulletin Board for 
+practice time.
+HEWLETT
+PACKARD
+LIST
+PRICE
+75 00 
+120 00
+MODEL CALCULATORS 
+HP-11C Slim-Line Scientific
+HP-1ZC Advanced Financial
+NP-15C Advanced Scientific 12C00
+HP-16C Digital Programmer 120 00
+HP-41CV Handheld Computer 225 00
+HP-41CX Handheld Computer 325 00 245.00
+HP-71 B Handheld Computer 525 00 395.00
+All calculators in stock for same 
+day delivery. Call for prices on 
+products not listed.
+OUR
+PRICE
+59.95
+89.95
+89.95
+89.95 
+165.00
+in
+COMPUTER
+PRODUCTS'
+DIVISION OF GRAPHIC ARTS SUPPLY
+699 Seneca St.
+Buffalo, NY 14210
+Call: (716) 85'-0004
+
+---------------------------------------------------
+
+September 24,1985The TartanPage 17
+... to information from 
+the Federal government is 
+available to you at more 
+than 1,380 Depository Li
+braries across die country. 
+You can visit any of these 
+libraries and use the De
+pository collection free of 
+charge. To find the Federal 
+Depository in your area, 
+contact your local library 
+or write to the Federal 
+Depository Library 
+Program, Office of the 
+Public Printer. Washington. 
+DC 20401.
+Federal Depository 
+library Program
+photo by Cindy Yee 
+Tartan Soccer team in action against a strong John
+photo by Cindy YeeCarroll team. Game ended in a 4-2 CMU victory.
+A Close Look at Intramural Sports
+3401 Boulevard of the Allies Pittsburgh, Pennsylvania 15213 
+(412) 683-6100 (800) 245-4444
+* Weekend rate available noon 
+Thursday through Monday. Cer tain daily minimums apply. Rates will be slightly lower for drivers over 25.
+Th ehmoryh uk n myw abth oDbw iDhysaho iDhho oh
+Non-discountable rate applies to this or similar - size car and is sub/ect to change without notice Specific cars sub feci to availability Call for details
+National Car Rental
+Duquesne deserves National attention.
+Available at
+434 Boulevard of the Allies 261-5500 
+4621 Forbes Avenue (Oakland) 682-1444 
+3950 Wm. Perin Highway (Monroeville) 372-1667
+fay John Friedmann
+Come in, I can help!" says the sign on 
+the door. And its true. E.J. Birdy, the man 
+behind the sign, helped 2915 students par
+ticipate in intramural sports last year.
+2915 individual students. 5012 total entries.
+If Mr. Birdy hadnt offered 
+t documentation, I wouldnt have/(V'believed him. Who would thinkGwthat so many people could join 
+together to participate in a single activity in 
+a school as segmented as CMU?
+Its not really a single activity, though. 
+The departments 1985-6 schedule lists 36 
+different sports, 15 in the fall and 21 in the 
+spring. They run the gamut from touch foot
+ball to darts, and include such diverse of
+ferings as chess (pencil neck geeks take note) 
+and water polo.
+Even E.J. Birdy seems a little impressed. 
+When I go to the intramural convention, 
+people at other schools go bananas when 
+they see our numbers. We might have the 
+best Division III IM program in the country.
+Why do people participate in IM sports? 
+After all, isnt CMU made up mostly of 
+pencil-necked geeks and flaky dramats? One
+HOWARDJOHNSON
+Lodge
+119 Newly Remodeled 
+Rooms
+major reason is the fraternities. All eleven 
+campus greek organizations have at least one 
+team participating in touch football. But the 
+fraternities account for only 15 percent of 
+the students on campus. Why do the rest 
+play?
+Birdy offers several answers. First, most of 
+the students live on campus, giving the IM 
+department a large pool of elegible bodies 
+looking for entertainment. Intramurals can 
+also serve an outlet for frustration, or a sim
+ple study break. Each of the intramural 
+events is structured to last about an hour, 
+so a student can be back to the dorm in less 
+than an hour and a half, explains Birdy.
+The social aspect as a reason for par
+ticipation isnt neglected, either. While an 
+indoor soccer match doesnt exactly function 
+as an athletic singles bar, it does provide a 
+chance to meet people you wouldnt or
+dinarily come into contact with. Social
+animals note, however: 165 of the S53 Corec volleyball players are female.
+In fact, females now have their own IM 
+director, Gerri Siedl, who is also the womens 
+basketball coach. Ladies, however, are 
+welcome to participate in any and all mens 
+activities. But now look for more female only 
+events and a greater push to get women 
+involved.
+All indications point toward the fact that 
+the IM program is growing and will continue 
+to grow at least as rapidly. This expansion 
+places the sole cloud on the IM horizon: the 
+need for more facilities. The IM teams must 
+share their fields, which varsity teams often 
+use for practice grounds. But where to put 
+a new field? If you have a solution, call x2214 
+and ask for E.J. Hell be glad you called.
+John Friedmann is a sophomore majoring 
+in industrial management and is Business 
+Manager o/The Tartan.
+STUDENTS
+RATE
+You're #1 with National. 
+You can rent a car if you're 
+18 or older, have a valid 
+driver's license, current stu
+dent I.D. and a cash deposit. 
+Stop by to fill out a short 
+casn qualification form at
+NO MILEAGE CHARGE
+least 24-hours in advance. 
+You pay for gas used and 
+return car to renting loca
+tion. We also accept most lit 
+major credit cards.
+
+---------------------------------------------------
+
+Editorial.?i
+Student voice 
+must be loud 
+to be heard
+In recent weeks The Tartan has printed 
+editorials focusing on a lack of communication 
+on the part of the administration when dealing 
+with the student body. We have stated that on 
+many issues, the administration has acted without 
+consulting the students. However, the blame 
+should not be placed solely on the administra
+tion. With a population of approximately six 
+thousand people, the student body has shown lit
+tle effort in letting the administration know how 
+it feels.
+Lets face it, when we as students arrive at 
+Carnegie-Mellon we expect someone to pander 
+to our needs, while we dont often think about 
+the particulars of solving problems. Because we 
+pay a lot of money to attend school we expect 
+many things, and if our expectations are not met, 
+we complain. We complain to each other, we 
+complain to our friends. But we rarely complain 
+to the right people.
+The student body, as a whole, doesnt take any 
+initiative in dealing with issues they should care 
+about. Do you care? In this issue of The Tartan 
+there is not one letter to the editor, and only one 
+student-produced opinion in the entire 
+newspaper. How can we expect the administra
+tion to hear our voice if we have nothing to say?
+There are exceptions,such as Student Govern
+ment President Karen Lee. Lee is working with 
+each administrator to set up office hours when 
+he/she would be available to talk with students. 
+But if the administrators were to set up hours, 
+and no one goes to talk to them, Karen Lees ef
+fort will be fruitless.
+Student Senate is another exception. Chairman 
+Michel Bett and his fellow senators have had an 
+excellent success ratio in solving problems 
+brought before the senate, yet one always hears 
+people say that Student Senate never gets 
+anything done. How can Senate solve a problem 
+that isnt brought before it.
+The administration has recently attempted to 
+improve lines of communication. When students 
+have had questions, they get explanations, if not 
+answers. Fred Rogers answered questions about 
+the proposed hotel at last weeks senate meeting. 
+Senior Vice President John P. Crecine has, for this 
+issue, written an extensive viewpoint on many 
+topics. In recent weeks, when asked about many 
+things, the administration has been answering.
+Ladies and gentlemen, now it is your turn. 
+Speak out on what is bothering you. Speak out 
+on issues you think are important. Read Dr. 
+Crecine s column, and tell us what you think. Tell 
+Dr. Crecine what you think. Tell Dr. Cyert, tell 
+Student Senate, tell someone your opinion. You 
+may be surprised at the result.
+A body with six thousand voices should not be 
+silent. It should scream.
+Hoff writes letter to Cyert
+.cr
+by Michael Hoff
+Dear President Cyert,
+This is my fourth year here. It 
+seems like yesterday I moved into 
+my freshman dorm. And it seems 
+like it was a totally different school 
+back then.
+Somewhere along 
+the line, something 
+went wrong. You 
+decided to give CMU a jump on 
+the future- P.C.s, IBM- thats old 
+news. But you cheated a lot of 
+students in doing so. While compsci students received more than 
+enough printing and computing 
+time, the H&SS (especially 
+English) people had their ac
+counts taken away. We lost our 
+computer access so people could 
+play Dragon Slayer. The P.C.s 
+came to the rescue a year later, 
+but while comp-sci people have 
+access to free and ample materials 
+we were struck with a five dollar 
+English class handout fee. I guess 
+our tuition hikes werent enough 
+to cover that.
+You thought the IBM deal was 
+the best for the school. I believe 
+it was. I really do handled poor
+ly, but still a good move. But be
+ing good wasnt enough. We had 
+to look good at all costs. You 
+jumped on the get-tough-withfraternities band wagon. When 
+one frat bacame a blemish in the 
+publics eye, they all paid. Rush 
+was shortened, the alcohol policy 
+became more strict and now their 
+parties are being raided to ap
+pease local residents. That makes 
+you look good to them. What 
+about the Greeks? They would 
+have had to cover the cost of the 
+vacant house had the freshmen 
+not been moved in. They wouldnt 
+have had any choice, eitheryou 
+own their houses. But, they were 
+spared. You actually made 
+freshmen move into that house. It 
+was nearly ruined over the sum
+mer and is still in poor shape. I 
+knowwe needed housing. So 
+why not use Morewood lot for 
+some sort of student housing? 
+Which do we need more  a dorm 
+or a hotel? I guess it came down 
+to a choice make the students 
+happy or make Oakland, Pitt, or 
+local hospitals happy. Guess who 
+lost.
+I cant argue about what the 
+DOD will do at SEI because I
+dont know enough. Do you? All 
+I know is that well have an arm
+ed forces higher-up on the board. 
+How much thought will he give to 
+the students?
+I tried to meet with you once. 
+The reason is not important. I 
+couldnt get past your secretary." 
+She referred me to Dean Braden 
+Walters. Why couldnt I see you? 
+I was just a student from a group 
+you had no time for.
+Impersonal. That is what CMU 
+has becomea small school too 
+busy to notice the people here. 
+But to an outside observer, we 
+look good. Damned good. So do 
+you.
+I could go on, but Ill keep thig 
+shortpartially because Im sure 
+youre busy, and partially because
+I know that nothing I say will 
+change anything at all. I wont ap
+pear on T.V., I dont represent a 
+corporation. I wont help profess 
+the technical, industrial, and 
+regional advances your school is 
+making.
+No. Im just a student.
+Michael Hoff is a senior major
+ing in professional and creative 
+writing.
+Why a Student Senator?
+By Michael Bett 
+Sometimes I really wonder why 
+I am a Student Senator.
+Students at CMU hold the view 
+that the faculty and administra
+tion are going to do what they 
+want to do when they
+want to do it. So in
+stead of complaining 
+and getting something 
+done about the problem, students 
+grin and bear it.
+The funny thing is that the 
+faculty and administration really 
+do care.
+Once the administration 
+realizes that they have done or are
+about to do something that will 
+inconvenience the students, they 
+do their best to correct the situa
+tion. First they must be contacted. 
+Contrary to popular belief, nine 
+out of ten administrators are not 
+telepathic.
+This brings me back to my 
+original question. Why am I a 
+Student Senator? Student Senators 
+are a strange breed. We care 
+enough at CMU to bring about 
+change; and we know how to do 
+it. Yet students seldom bother to 
+complain, so many problems are 
+not brought to Senates attention. 
+By giving us your favorite gripes,
+we can work to solve them.
+Just in the past two weeks, Stu
+dent Sentate requested that Clyde 
+Street residents, be given priority 
+on the parking list and that the 
+Hunt library study rooms be 
+reopened. Both requests were 
+granted. Making the administra
+tion aware of these problems 
+made them disappear.
+What does it all mean? Does 
+our Student Senate really have the 
+ability to solve our problems and 
+improve campus life? Actually, we 
+dont. That is, not unless you want 
+us to. Like it or not, were your 
+continued on page 20
+
+---------------------------------------------------
+
+r /* f* ///// 
+September 24,1985The TartanPage 19
+Administrative view
+responds to criticism of prioritiesSenior VP
+By John P. Crecine
+The first two issues of the Tartan this year 
+contain many references to and criticisms of 
+the Universitys priorities in capital expen
+ditures. These criticisms are also reflected 
+in my own conversations with students and,
+often, with faculty. Most recently
+v6^ the focus of the criticism has VC*09 been the construction of the
+Software Engineering Institute 
+Building, plans for a university conference 
+center, and parking problems exacerbated 
+by both. Construction delays for Scotland 
+Yard, the new, student-run pub in Skibo and 
+a plan to shift student study space from one 
+part of the Hunt Library to another, add to 
+the stack of complaints.
+Many of the specific criticisms reflect 
+misinformation concerning a project or a 
+misunderstanding of whose resources are be
+ing allocated to particualr projects, and the 
+constraints on particular resources. There is 
+an underlying theme in many of the 
+criticisms that is essentially accurate and 
+where criticism of the University and the 
+priorities revealed through its actions may 
+have justification.
+Before turning to what I see as the essen
+tial underlying issue how resources are 
+allocated at Carnegie-Mellon, reflecting 
+what priorities, and to whose benefit?let 
+me be defensive, as befits an administrator 
+and faculty member when talking to 
+students. Why are people so paranoid? A re
+cent version of the campus Master Plan 
+shows a student housing complex across 
+from the Cut on the other side of Forbes, 
+roughly where ATO and SAE fraternities are 
+located. This is cited as the central ad
+ministrations desire to get rid of fraternities, 
+or at minimum, our failure to appreciate 
+fraternities contributions to campus life. 
+The same master plan showed Forbes 
+Avenue and Frew Street as vacated by the 
+City, the Naval Reserve Building on Forbes 
+gone, and a host of new buildings a 
+university center complex, several new 
+research buildings, fountains, plazas, etc. 
+Did the mayor of Pittsburgh or the Chief of 
+Naval Operations sit-in in Warner Hall? 
+Cant students take a joke? The fact of the 
+matter is that we would like to see, thirty 
+years from now, a campus not split by a ma
+jor thoroughfare (Forbes) and we do see 
+limits to the useful life of several of the 
+buildings in which fraternities are housed. 
+A Master Plan, if useful, provides a com
+prehensive framework for thinking about in
+dividual projects, so that cumulative effects 
+of a series of separate construction or renova
+tion projects add up to a coherent whole. To 
+be comprehensive, one needs a 30-50 year 
+view, not a five to ten year view. The reader 
+can provide his or her own list of CamegieMellon buildings that should have been con
+ceived in a broader context.
+Again being defensive, the SEI and the 
+conference center have been cited by some 
+as evidence of the Universitys insatiable ap
+petite for prominence and prestige and 
+image if you allow me the choice of the 
+image to be projected, I gladly plead guilty 
+to having such an appetite for the Universi
+ty. One editorial and a few letters suggest 
+that the conference center and SEI were im
+portant fulfillments of President Cyerts ego 
+needs. I can assure you that there are a lot 
+of easier ways to satisfy egos, even those as 
+modestly-sized as Dick Cyerts, than putting 
+up buildings. To administrators with ex
+perience, buildings are headaches, not ego 
+trips! In fact the University is becoming more 
+prominent, more involved in the world out
+side of Schenley Park and Pittsburgh, and 
+decidedly less parochial. From a strictly 
+selfish point of view, the University is the 
+more interesting for it.
+A slightly more subtle defensive posture 
+that the administration could take is to point 
+out that the recent capital projects that 
+students are most aware of were due either 
+to unique opportunities (the University 
+Computer Center Building and the IBM 
+project), or were paid for by someone else  
+the SEI building and the conference center 
+are built with non-University resources (DoD 
+and private investors), at no risk to the 
+University, and will provide net returns to us.
+The response to all of these comments is 
+likely to be something like we agree with 
+all of that, but where do students fit in? 
+What is the University doing for students? 
+The defense would respond with a list of 
+large and small items from Morewood 
+Gardens renovations several years ago to a 
+doubling of the classroom renovation fund, 
+a $150,000 contribution to the student pub, 
+renovation of major art and design studio
+space in the College of Fine Arts, etc.
+There is a deeper underlying issue and 
+criticism. Let me try to phrase it. CarnegieMellon has developed great research and 
+academic programs. The excellence of these 
+programs are why we (faculty as well as 
+students) are here. But, the University never 
+seems to want to do anything for students 
+that affects life outside of the classroom (or 
+for faculty unless it is directly related to 
+sponsored research). Whenever there is a 
+hard choice or a trade off to be made, it 
+always seems to be made in support of 
+research activities and excellence in areas 
+of little direct benefit to students. Take, for 
+example, the University Computer Center 
+building, the Software Engineering Institute, 
+and the Conference Center. Even if these 
+projects dont always use University 
+resources, they do require a great amount 
+of administrative and faculty attention to 
+bring off. In the UCCB, SEI, and Con
+ference Center, the University has shown that 
+it can act quickly, effectively, and flexibly. 
+It can mobilize considerable administrative 
+talents and exhibit great entrepeneurial 
+competence in the pursuit of research and 
+intellectual objectives. Why cant those 
+talents be mobilized to do something equally 
+dramatic and beneficial for students? It is 
+not that we are opposed to computing, the 
+SEI, or the Conference Center, it is simply 
+that our needs never seem to get attacked 
+with the same intensity as the other, 
+legitimate needs of the University.
+This general argument is difficult to 
+refute, because much of it is true. Why? Is 
+it because the University administration and 
+faculty dont really give a damn for students? 
+No, of course not. Carnegie-Mellon students 
+get one of the finest undergraduate educa
+tions available anywhere at any cost. Near
+ly all faculty are personally committed to ex
+cellence in education and deliver in the 
+classroom. This is an institution that cares 
+deeply about undergraduate education and 
+has made great contributions, locally and 
+nationally from the Carnegie Plan that 
+included the liberal arts as an integral part 
+of a professional education in the 1940s, to 
+the H&SS core curriculum in the 1970s, to 
+the emerging University core and integration 
+of computing into education in the 1980s.
+It is not a lack of concern for students on 
+the part of the administration and faculty 
+that accounts for the fact that student 
+facilities have not kept pace with the 
+research and academic facilities at Carnegie - 
+Mellon. The two most important factors ac
+counting for these problems relate not to the 
+priorities and motivations of the central ad
+ministration or faculty, but to the availability 
+of monies for capital items and buildings, 
+and to the way the internal resource alloca
+tion process works.
+To begin with, there is no regular source, 
+for any purpose, of capital funds for private 
+universities. The sources of capital funds for 
+universities like Camegie-Mellon have pretty 
+much dried up in the past fifteen years. 
+Unlike public institutions, we have no state 
+legislature to provide a regular capital 
+budget. The Federal government no longer 
+provides special interest rate subsidies (so we
+can borrow) or direct capital grants to 
+private universities. Unlike the 1960s, most 
+corporate and public foundations no longer 
+make grants for brick and mortar items to 
+universities. Corporations and foundations 
+make grants to research projects or endow
+ment, but not to universities for buildings. 
+To the extent any funds are available for 
+buildings, they are tightly tied to specific 
+research activities and facilities to support 
+them. In response to this, the University has 
+begun to transfer significant amounts of its 
+operating income to capital (roughly 18% for 
+this fiscal year). This is no regular pipeline 
+of capital funds from the outside world to 
+a private university at all, let alone a pipeline 
+into student projects.
+The normal resource allocation process 
+works, in subtle ways, to fund many of those 
+projects that are first on one groups priori
+ty list and tenth on everyones elses. The pro
+cess makes it difficult to fund any of those 
+projects that are second or third on 
+everybodys priority list, but first on no ones. 
+This tendency, coupled with a clear strategic 
+focus in the university and the power of the 
+component academic departments E&CE, 
+Biology, or Psychology  will be funded 
+before university-wide projects that everyone 
+is favorably disposed toward, but not as pas
+sionately so as a department head or dean 
+concerning his/her pet project. Then there 
+is the question of scale  $500K to $2 million 
+projects are far easier to swallow than one,
+Opinion Policy
+The Editorial appearing at the beginning 
+of the opinion section is the official opinion 
+of The Tartan Editorial Board.
+Columns are the opinions of individual 
+authors who are not necessarily on The Tar
+tan Editorial Board or Staff.
+Letters to the Editor are opinions of in
+dividual authors who are usually members 
+of the University community. A letter in
+tended for publication must be signed and 
+include the writers address and phone 
+number for verification. Names will be 
+withheld upon request. The Tartan reserves 
+the right to condense or reject any letter.
+large $5 $20 million project and can be fold
+ed into existing budgets with less disruption. 
+While this characterization of the capital 
+resource allocation process is not entirely ac
+curate, it does describe some central 
+tendencies.
+Take this allocation mechanism, dry up 
+outside sources of capital, put it in a setting 
+where people (faculty and administration) 
+are rewarded for innovation and intellectual 
+entrepeneurship and hard work, let the 
+mechanism run for 20 years, and the results 
+will not be too different from what we 
+observe around us. . .a refurbished E&CE 
+facility, new space for Statistics and 
+Psychology, expensive wet labs for Biology, 
+Chemistry, and Chemical Engineering, 
+renovation in Fine Arts associated with 
+research or educational innovations, 
+campus-wide computer network (that will 
+include every student residence), etc. What 
+you also see are 65-year old athletic facilities, 
+rock-strewn play fields, the best student 
+lounge on campus on the first floor of the 
+library, and a spartan student center, 
+Skibo. The lack of outside capital resources 
+and the nature of resource allocation in a 
+human organization, where faculty with 
+focused research interests have significant 
+power, conspire to produce an under supp
+ly of central facilities  those things that the 
+majority of people in the university com
+munity use.
+Camegie-Mellon is, first an foremost, an 
+academic institution. Our first priority has 
+to be that of creating and supporting ex
+cellence in our academic programs, be they 
+educational or research. Any viable long
+term strategy must attend to academic needs 
+first. The University has done precisely that 
+over the past fifteen years, in a systematic 
+and very effective way. Carnegie-Mellon is 
+one of two or three elite institutions whose 
+stature has increased dramatically during 
+the past decade. We are not going to stop 
+doing those things that have been so suc
+cessful in the past. Yet there are gaps to be 
+filled and improvements to be made.
+It was the realization that the available 
+flows of capital resources and our normal 
+continued on page 20
+TheTartan.
+Editor-in-Chief ... Christopher D. Lewis
+Managing Editor.............Mohan Embar
+Business Manager ...John Friedmann
+News Editor.............................Karen Gray
+Features Editor ....Christy Casamassima
+Entertainment Editor..................Al Datri
+Sports Editor..............Bonnie Jacobson
+Photography Editor.........Olve Peersen
+Dossier Editor................Michele Keane
+Art Manager....................Mike Sussman
+Ad Manager.........................Celeste Clark
+Production Manager ... Katrin Wesner
+Typesetting Manager___Kathie Sitter
+Asst. Art Manager...........Mark Kissner
+Asst. Typesetting Mngr. Paul Rydzewski
+Contributing Editors: Neal Johnston, Ric 
+Medrow, Stephen Volan.
+Copyright  1985 by The Tartan. The 
+Editorial Board reserves the right to 
+withhold from publication any copy it deems 
+unfit for publication. Editorial Offices: 
+Skibo 50, (412) 578-2112. Business Offices: 
+Skibo 52, (412) 578 2113. 24 hour phone, 
+(412) 578-2111. Mailing address: Skibo 103, 
+Student Activities, Carnegie-Mellon 
+University, Pittsburgh, PA 15213.
+Funded in part by the Activities Fee. 
+All rights reserved.
+".. .the conference center and SEI were im
+portant fulfillments of Pres. Cyert's ego 
+needs... There are a lot of easier ways to 
+satisfy egos, even those as modestly-sized as Dick Cyert's..."
+
+---------------------------------------------------
+
+
+Page 20The TartanSeptember 24,1985
+Student-oriented included items in campaign
+continued from page 19
+allocation processes would not by themselves 
+produce the kind of university we want that 
+caused us, nearly two years ago, to begin to 
+lay the ground work for a capital campaign 
+for Carnegie Mellon. The ground work in
+cluded an update of the Universitys Strategic 
+Plan, a $200 million capital program to sup
+port the plan ($100 million for physical 
+facilities and $100 million for increased en
+dowment), the campus Master Plan to sup
+port the physical facilities component of the 
+capital program, and the other organiza
+tions and materials necessary for a successful 
+fund drive. Once the campaign plan, Master 
+Plan, and capital program is presented to 
+the Board next month, we will begin 
+meeting with faculty and students to present 
+the same information.
+There are many student-oriented items 
+in the Capital Campaign. Some, such as stu
+dent housing modernization, classroom 
+renovation, educational facilities, and 
+educational equipment, represent expansion
+of what we are already doing on a modest 
+level. Two issues of direct concern to students 
+were and remain at the very top of the 
+priority list for the capital campaign: in
+creased endowment for student financial 
+aid, and a new University Center.
+The need for increased financial aid is ob
+vious, as federal student support declines 
+and as the cost of supporting an aid-blind 
+admissions policy increases with tuition 
+costs. The need for a University Center is no 
+less obvious. The University Center is to con
+sist of a student center (a totally renovated, 
+re-skinned, and reconfigured Skibo), an 
+athletic and recreation center between the 
+student center and the football stadium (raquet courts, exercise rooms, indoor track, 
+50-meter pool, lockers, with tennis courts on 
+the roof), and a renovation of the existing 
+gymnasium for basketball, volleyball, etc. In 
+spite of the best efforts of many people, 
+Skibo does not represent the kind of facility 
+that the campus needs. Neither does the cur
+rent gymnasium building. Some facilities are
+totally lacking, and in many areas there are 
+too few facilities and too little space to fill 
+campus (students, faculty, and staff) needs.
+While there is no such thing as unanimi
+ty in any interesting organization, something 
+close to that exists in the administration con
+cerning the appropriateness of the inclusion 
+of the University Center in the capital cam
+paign and the need to implement the plans 
+for the Center as soon as possible. I know 
+we have internal plans, targets, and 
+deadlines and that the President, Vice 
+President for Development, the Vice Presi
+dent for Business Affairs, the Planning 
+Director, and I all agree the University 
+Center should be first. Now all we need is 
+the rest of the world to cooperate (and give).
+In summary, I think there is a legitimate 
+underlying criticism of priorities as reveal
+ed by the Universitys actions. There are ex
+planations for these actions that have 
+nothing to do with a lack of concern for stu
+dent needs. There are moves afoot to address 
+student needs, especially through the up
+coming capital campaign. We need student 
+help and support if we are to be successful.
+John P. Crecine, Senior Vice President for 
+Academic Affairs, serves as provost for CFA 
+and H&SS, has responsibility for resource 
+allocation (capital, operating, and space), 
+university planning, computing, libraries, 
+and student affairs.
+Senator wants 
+more problems
+continued from page 18 
+the administration. Bring us your gripes 
+and well bust them. Youll probably be 
+surprised at our success, even more surpris
+ed at how responsive the faculty and ad
+ministration can be.
+Student Senate meets tonight at 7:00 
+p.m. in the Wherrett Room.
+Michael Bett is a senior majoring in 
+Mathematics and is Chairman of Student 
+Senate.
+First, assume the recruiters at the Boston Consulting Group wont be impressed by aBin Corporate Finance.
+Second, assume a B-Grade calculator wont 
+be good enough to help you make the grade in 
+B-School!
+We suggest you get a calculator that has 
+no equal.
+The HP-12C.
+So advanced, it doesnt need an equals key. 
+So extremely simple to use, youll be mastering 
+even the toughest courses.
+The HP-12C is a recognized standard in the 
+world of business. Ask any banker. Or financial 
+analyst. Or consultant.
+It offers more built-in financial calculating 
+power than any other hand-held. Press just 
+one key and quickly solve time value of money 
+calculations like net present value, internal 
+rate of return, or amortization.
+The HP-12Cs quality has no equal. Thats 
+something you can see. Even feel. Right down 
+to the touch of the keys.
+Theyre specifically designed to eliminate 
+double entry. So you wont enter more than one 
+number at a time.
+Its a calculator youll appreciate even more 
+as time progresses and as you progress. From 
+the classroom to the boardroom.
+So make a smart investment right now.
+Go to your campus bookstore and get an 
+HP-12C.
+Or call (800) FOR-HPPC toll-free. Ask for 
+Dept. 735A. Well instantly give you the name
+of a dealer who 
+has no equal.
+Then write to 
+this address a little 
+later on.
+Exchange Place, 
+Boston, MA 02109.
+Its the interna
+tional headquar
+ters of the Boston 
+Consulting Group.
+HEWLETT
+PACKARD
+PG12512
+
+---------------------------------------------------
+
+Who says the 
+Pittsburgh Symphony 
+is beyond your reach?
+Now, with our 
+Special Student Subscription, 
+you can enjoy 8 Sunday 
+Afternoon Concerts for only $28.
+Students, we've chosen a series just for you, designed to bring you 
+the best of the Pittsburgh Symphony at one low price, at a time 
+that's right for you. For only $3.50 a concert, you can thrill to the 
+works of Mozart, Tchaikovsky, and Beethoven in the elegant 
+setting of Heinz Hall.
+Take a look at the programs. All have been chosen with your 
+schedule in mind: evenly distributed (four concerts this semester, 
+four concerts next semester), and designed to accommodate your 
+finals schedule.
+Imagine, for less than the price of a movie, you can escape from the 
+daily school routine, and spend your Sunday Afternoons with us.
+1985-86 Student Series
+Oct-13 Michael Lankester conducts Mozart, Kolb, Debussy, and 
+Janacek; with Guest Artist Jeffrey Siegal, piano
+Oct. 20 Rudolph Barshai conducts Tchaikovsky and Shostakovich; 
+with Guest Artist Ivo Fogorelich, piano
+Nov. 24 Yoshima Takeda conducts Copland, Elgar, and
+Rachmaninov; with Guest Artist Jorge Bolet, piano
+Dec. 1 Zdenek Macal conducts Beethoven and Prokofiev; with 
+Guest Artist Alexis Weissenberg, piano
+Jan. 26 Herbert Blomstedt conducts Weber, Bartk, and Brahms; 
+with Guest Artist Malcolm Frager, piano
+Mar. 2 Jean-Pierre Rampal will conduct and Perform Rossini, Bach, 
+Mozart, and Beethoven 
+Mar. 30 Christoph Eschenbach will conduct and Perform Mozart 
+and Brahms
+Apr. 13 Rafael Fruehbeck de Burgos conducts Dvorak and 
+Rimsky-Korsakov
+ALL CONCERTS ARE ON SUNDAYS, AT 2:30To order call: 392-4821
+The Pittsburgh Symphony- Bringing 
+the best to the Students of Pittsburgh.
+THE PITTSBURGH 
+SYMPHONY
+Women's Health Services.
+FREE PREGNANCY TESTING
+OaklandRm. 212, 3520 Forbes Ave.
+Downtown3rd floor, 107 6th St.
+ ABORTION SERVICES
+ BIRTH CONTROL & GYNE CARE
+For Your WHS SURVIVAL KIT, Fill Out & Mail Coupon To: 
+Women's Health Services, 107 6th St., Pittsburgh, PA 15222 
+Telephone: (412) 562-1900
+WHS Survival Kit
+Name 
+Street _
+CityState-Zip
+College (if student) _________________________
+Mail to: WHS, 107 6th St., Pittsburgh, PA 15222
+Saul I
+inTvswnTrrrrsraR
+llAUUkXULU.a' 
+ifrrr^nr^Trrr'T i |f tkv I % 11 *! u
+COMMUNICATION & ELECTRONIC SYSTEM ENGINEERING
+INTRUSION STSTEMS DIGITAL COMM HIGH FREQUENCY RARI MICROWAVE NETWORKS
+SATELLITE STATIONS COMPUTER NETWORKS RADAR SYSTEMS AIR TRAFFIC STSTEMS
+TELEPHONE SWITCHING TELEPHONE PLANNING NAVIGATIONAL AIOS
+RECRUITERS WILL BE ON CAMPUS 
+9 OCT 85 
+INTERVIEWING FOR CIVILIAN POSITIONS 
+AS ELECTRONIC ENGINEERS
+485th Engineering 
+Installation Group
+GRIFFISS AFB, NEW YORK
+Our bakery features everything from homemade old-fashioned pizza and calzones to the freshest daily-baked cookies and buns.
+Build your own salad at our bounti ful salad bar fresh fruit, vegeta bies. chicken salad, and more
+See our in-house butcher shop featuring a char broikd rib eye steak sandwich, a half pound and quarter pound hamburger, a char broiled chicken breast sandwich, a fresh baked fish sandwich and an all beef char-broiled quarter pound hot dog.
+We make our own tee cream and old fashioned waffle cones every day
+DONT FORGET OR CONDIMENT BAR WITH FRESH TOMA 
+TOES. LETTCICE, PICKLES, ONIONS, REUSH AND KETTLES OF
+MELTED CHEESE AND SAUERKRAUT------NO CHARGE OF
+COURSE!
+NOTHIN LIKE IT IN THE WHOLE U.S. OF A.
+422 1900
+
+---------------------------------------------------
+
+Acme.
+Announcements
+CMU Law Club is open to all students interested 
+in making contacts in the profession and prepar
+ing for the LSATs. The first organizational 
+meeting will be held on Wednesday October 2 
+at 7 pm in Skibo 12.
+Classifieds
+Parties Parties Parties We have 
+everything for your party at PAPERMART.... Over 10,000 square feet of party 
+supplies in our PARTY SUPERMARKET. 
+Baum Blvd. at Morewood Ave. 681-8900.
+Used Computer Wanted Call 261-3933.
+Is it true you can buy Jeeps for $44 through 
+the U.S. government? Get the facts today! 
+Call 1-312-742-1142, Ext. 3401-A.
+3 BR HOUSE for rent- Squirrel Hill - for 
+3 people. $210 each + utilities. Call Maria 
+at 521-5247.
+Pittsburgh Guitars-We buy, sell, & trade us
+ed and vintage guitars. 4806 Liberty, Bloom
+field, across from West Penn Hospital. 
+621-4733.
+Audiophile Stereo. Dual-Sonus-AdventSpica $600. Kenwood hispeed 60 watts $250. 
+13 television guaranteed $125. IBM 
+typewriter $200. 687-7445.
+OVER 50 BRANDS OF AUDIO, VIDEO 
+AND CAR STEREO EQUIPMENT. CON 
+TACT HAL AT 683-3948 AFTER 6 P.M.
+Furniture saleTwo blue carpets, approx
+imately 15 ' X 25 ', $100 each or best offer. 
+Blue upholstered living room chair, $75 or 
+best offer. All in good condition. Call Gina 
+at X3106 (daytime).
+FOR RENT- Bloomfield - Unfurnished - 3 
+Rooms; Bath; Modern; 3rd Floor; Wall to 
+Wall Carpeting - Adult - 361-2928.
+PLANTS & FLOWERS for sale. Desk 
+plants $7.50. Bouquets $3-5.00.. .All 
+FRESH.. .Alexs Flowers, corner of 
+Craig/Bayard (across from Gulf Station.)
+$I0-$360 Weekly/Up Mailing Circulars! No 
+quotas! Sincerely interested rush selfaddressed envelope: Success, PO Box 
+470CEG, Woodstock, II 60098.
+Earn up to $2,000 in your spare time 
+teaching KNITTING! For more information 
+call collect 617-266-7383.
+WantedStudent/s to share cost of student 
+subscription to Pittsburgh Symphony 
+1985-86 series. Call Shari before Oct. 1. 
+682-5945.
+Smithfield United Church (United Church * 
+of Christ and Methodist) welcomes college 
+students to our 10:45 a.m. Sunday services 
+at 620 Smithfield St. downtown across from 
+Gimbels garage. Participate in theological
+ly open approach and be our guest for 
+lunch.
+Sq. Hill, 2-3 BR, 5 min. walk to campus, 
+lg., modem, w/w, laund., secure, bright, op
+tional lease, avail, immed., $495-$595. 
+363-3560.
+Shadyside efficiency apartments for rent. 
+Security building. Call 682-3497.
+Miscellaneous
+Richard M. Cyert will have open office hours 
+between 3:30 pm to 5:30 pm on Wednesday, Oc
+tober 9. Students who wish to meet with the presi
+dent should telephone his secretary at 578-2200 
+to set up an appointment.
+Events
+Movies0/1X ^^LThe Stranger, starring Marcello
+Mastroianni, Anna Karina. Fine 
+adaptation of Camus novel about a man whc 
+feels isolated from society. Pittsburgh Playhouse, 
+7:30 pm, 9:30 pm. Admission $2.95.
+Recreation
+CMU Talent Show Tryouts. Sign up in Skibo 
+Gray Matter. For more information call Dawn 
+Buey or Eleanor Reid at x2154. Skibo Ballroom, 
+7:30 pm to 9:30 pm.
+Tai Chi Chuan, ancient Chinese exercise sessions 
+for fitness and weight control. Instructor Bob Lin. 
+Skibo 11, 2 pm to 3:30 pm. All students and facul
+ty members welcome.
+Clubs
+Student Senate meets in Skibo Wherrett Room 
+at 7 pm. Everyone welcome.
+?X Movies
+Tender Mercies, starring Robert 
+mmA Duvall (Oscar winner). A story
+about a down-and-out country singer. Rated PG. 
+Pittsburgh Playhouse, 7:30 pm, 9:30 pm. Admis
+sion $2.95.
+Recreation
+La Table Franaise, the French Language Table 
+at the Morewood Dining Room. Everyone in
+terested in the French language is invited to at
+tend. Morewood Gardens, 12 noon.
+ClubsAIESEC offers a world of experience, both prac
+tical and cultural, in an international studentrun business organization. Skibo 11, 4:30 pm. 
+Everyone welcome.
+Astronomy Club meets in Doherty Hall 2304 at 
+8 pm.
+Movies
+l^The Entertainer, starring 
+mtmA Laurence Olivier, Albert Finney,
+Joan Plowright. One of Oliviers greatest roles as 
+a has-been performer. Pittsburgh Playhouse, 7:30 
+pm, 9:30 pm. Admission $2.95.
+Citizen Kane. Doherty Hall 2210, 6 pm, 8:30 pm, 
+11 pm. Admission $1.
+Recreation
+Tai Chi Chuan, ancient Chinese exercise sessions 
+for fitness and weight control. Instructor Bob Lin. 
+Skibo 11, 2 pm to 3:30 pm. All students and 
+faculty members welcome.
+MORE Stats. Power! IMPROVED File Handling. Reporting
+The Enhanced 
+and Expanded 
+Statistical Package for 
+IBM PC/XT/ATs
+PzPP,ziI p nscfbAhN OboD PzPP,ziI dNmAnhN Pomobwobnwl mAN PzPP,zi I mfahwv. esyc g3 cswo nsc0yhDhAwbh womobwobnma wseoOmyh mmbamfah osy m cbnysnsc0rohy !sy Ahmya1 -2 1hmywv oDh Amch SPzPPl Dmw chmAo DbFD $rmabo1 cmbAeymch wseoOmyhp daa oDyhh cbnys0ysNrnow cmbALombA ehmoryh mAN amAFrmFh nsc0mobfbabo1 OboD oDh cmbAeymch hywbsAw dAN PzPP,ziI nschw OboD hhy1oDbAF 1sr wDsraN h*0hno eysc m cmytho ahmNhy . m oDsysrFDv Ohaa.NhwbFAhN 0mntmFh OboD h*nhaahAo NsnrchAomobsA mAN nrwoschy wr00syo
+PzPP,ziIEEEEEEEEEEEEEEEEEEEEE
+ Display manager & editor File matching & merging File transfer with popular PC programs Selective installation & removal ot procedures Crosstabulation Descriptive statistics Multiple regression
+ ANCM Plots & graphs Flexible data transformation Customized reports
+PzPP,zi.o. dx:d/i3x Pd6P6iP
+D MANOVA9 Factor analysis  Cluster analysis B Discnmmant analysis S Loglinear modelling
+PzPP,zi I d853P
+B Stub & banner tables B Multiple response data B Presentation quality tables and reports B Full range of percentaging and statistics options
+H This symbol mdtcales 9*e exerting new* capabilities  v added to SPSS/PC *
+!sy csyh Information, nsAomno sry kmythobAF xh0myochAo mop
+PzPP bAnpCCC /v kbnDbFmA dhArh 
+iDbnmFsv 65 727GG "G-,"-'."922
+6/ 3UOz3:PzPP 3rys0h 8: zO 8s* GG9 C-22 di usAAnDhc 
+Dh /hoDhyamANwpzDsAh: I"GG8"2"77GG TX: -G2G'
+:6Pdv kmwohyimyN mAN dchybnmA 
+3*0yhww mnnh0ohN
+SPSS inc.PRODUCTIVITY RAISED TO THE HIGHEST POWERfchaddnk Coree SPSS me kx compat rrucrocompute*. >BM PC/XT and PC/AT aie fiSPSS/PC' runs on the CM PC/XT  -------------------r-ires Corpora" SPSS SPSS/PC SPSS/PC SPSS/PC lattes and SPSS/PC SPSS/PC VKvnceO and SPSS/^C totei ** vxjar*e*v packag*) ana vX) e
+Deutscher Stammtisch, the German Language 
+Table at the Morewood Dining Room. Everyone 
+intersted in the German language is invited to at
+tend. Morewood Gardens, 12 noon.
+Clubs
+Explorers Club plans rock-climbing, kayaking, 
+and hiking trips every weekend. Skibo 11, 8 pm. 
+Beginners welcome.
+CMU Investment Group. Learn how to invest 
+and manage a real portfolio. Officer elections will 
+be held. Skibo 11, 6:30 pm. Everyone welcome.
+Movies9*7X M Ladyhawke, starring Rutger Hauer, 
+JmmA 9 Matthew Broderick, Michelle Pfeif
+fer. Medieval romance about a knight and his 
+lady. Rated PG-13. Pittsburgh Playhouse, 7:30 
+pm, 9:40 pm, 11:50 pm. Admission $2.95.
+Dune. Doherty Hall 2210, 6 pm, 8:30 pm, 11 pm. 
+Admission $1.
+Music
+Pittsburgh Symphony Orchestra, conducted by 
+Christopher Eschenbach. Works performed are 
+Mozarts Clarinet Concerto, and Mahlers Sym
+phony No. 1. Students may purchase remaining 
+seats for $7 one hour before the performance. 
+Heinz Hall, 8:30 pm. For more information call 
+392-4800.
+O Q MoTies
+Witness, starring Harrison Ford, 
+Kelly McGillis. Strong film about 
+an urban detective and an Amish family. Rated 
+R. Pittsburgh Playhouse, 7:30 pm, 9:30 pm, 11:30 
+pm. Admission $2.95.
+Starman. Doherty Hall 2210, 6 pm, 8 pm, 10 pm, 
+12 am. Admission $1.
+Music
+Pittsburgh Symphony Orchestra. See Friday 
+September 27 for details. Heinz Hall, 2:30 pm.
+Movies
+f Bizets Carmen, starring Plcido
+Domingo, Julia Migenes-Johnson. 
+Spirited film version of Bizets opera. Rated PG. 
+Pittsburgh Playhouse, 7:30 pm only. Admission 
+$2.95.
+Stripes. Doherty Hall 2210. 6 pm, 8 pm, 10 pm, * 
+12 am. Admission $1.
+Music
+Pittsburgh Symphony Orchestra. See Friday 
+September 27 for details. Heinz Hall, 8 pm.
+Movies
+I I Buuel Double Bill: EAge DOr 
+and An Andalusian Dog. Two 
+Surrealist classics. Pittsburgh Playhouse, 7:30 pm, 
+9:30 pm. Admission $2.95.
+Plays
+The Matchmaker, by Thornton Wilder.  
+Presented by Junior Repertory Theater. Studio 
+Theater, 4:30 pm, 8 pm.
+Clubs
+A phi O meets in Skibo Wherrett Room at 7:30 
+pm. Everyone welcome.
+See the Sports Section for this weeks sports 
+schedule.__________________________________
+If you wish to place an announcement, 
+classified ad, miscellaneous item, or event m The 
+Tartan send it in care of the Acme Editor, The 
+Tartan, 103 Skibo, Carnegie-Mellon University, 
+Pittsburgh, PA. 15213; send it via campus mail 
+to the above address; or drop it off at our offices 
+in 50 Skibo. Events may be sent through com
+puter mail to TT99@TF. Only classified ads will 
+be accepted over the phone.
+Please include the following information when 
+submitting events: title of event, sponsor, brief 
+description, location, date, and time. In addi
+tion, include the name and phone number of the 
+person submitting; this information will be used 
+only to confirm the event.
+The Tartan is not responsible for the accuracy 
+or validity of any Events listings. In addition, it 
+reserves the right to edit or omit any listing for v 
+publication.
+Classified ad forms are available in our office.
+All events are free of charge and open to the 
+general CMU student population unless other
+wise noted.
+Deadline for Acme Submissions is Wednesday 
+at 5 pm for the next weeks issue. If you have any 
+comments or suggestions, send them to any of the 
+addresses listed above.
+Thanksgiving flights to New York via USAir
+412/366-7855
+Depart Pittsburgh Nov. 26 & 27 in the evening to Newark 
+Return from Newark on the evening of Dec. 1
+SEATS ARE LIMITED * DELIVERY TO CAMPUS
+TheNw wehss paradermatologist
+ student discount available
+ easilv accessible b\ bus from CMlT
+3500 Fifth Ave, Suite 102, Oakland 
+682-4770
+Masitri'urd. \isa </< < eptcd 
+< '.all (i>/xmunu /ii
+Oat *7*2921CMU Travel Office
+Campui Consentane*
+Skibo 40A
+
+---------------------------------------------------
+
+Funes.
+Zurkby Nabil Liumang
+fn the foreign stud erri 
+registration o^fi.ce.
+Hello ,my name, Won>.
+i'm a mal Km a kcal)oruus.
+/Tkn ow all the: Unix Kernel 
+coclt loy htar-L I also can
+unoler54andi corc dumps,
+What can 
+'ou clo?
+;mUf,
+Murray The Bear
+ofCng i-Mh Nlws 
+CLOSE -UPS of RE Al 
+WILD -LIFE,
+THE NUN-BEATINGS 
+AND UMIOM SHOP 
+&LACK UStltJC)
+STORIES CftW WAIT.
+HOW ABOUT A 1 FT. 
+POLAR BEAR. INA 
+HAWAIIAN SHIRT 
+AT POINT
+T heU.S B
+by Jimbo Voorhees
+TS
+VOURE A GWTftT . - 
+S KIDDER FRANK , MOW,) W 
+*i\HOW ABOUT.... 1 
+BLOOM COUNTY
+provided by SDCby Berke Breathed
+wiilNesobN i dybe mo VcltbmlNe mtews. we we so olee,iw obeNThaett/E UP UKB APOLL. THEN
+wev pass o/tfwm all me erhh ^ )
+'ONE PW WE WE& KISSING MPi&w wbydnyobShk mse dbS elclchbi ms enow s hyvsTNbeii ob Sohefobek ' i.. m elhh2NVOUT, CILLA J"
+marnmME AfiXim/67Dam F mu 
+fuecmmmtmtDHEfct
+J/u~ /
+C0NSFWmX6/AU.0F0U/
+taking ApmrAse of a comsepamnesia wem/ som C MUac &i?
+HA/ I OUST POT Buyrr.f
+ANRPtSSVEOE ANP AEMPYNAMIC- I AM NOT/ A BMP CAN FCY.. I CAN NOT/ A ORP CAN Sm... LISTEN TO THIS :
+fy&mrtY-. J fj 
+AiLrtfWueces ** 
+smsosorxRMV*. 
+m) rr CMS AS^,1WU6H 7&Yte Hte\ TO
+wvesiER-rftMUbM* / _ 
+HE mss WHO AM I 
+A STRONG REALLY?
+tlhbi 'MLiwm.e, THE MOOSe'?
+uu CMU :pOPg, baebts -e 10 ACCEPT THE FACT mriHANeTosmv sobcbhsyvdLUFB AS A P&WN?
+lN blVmb ms fycN sy 
+hylI -me hI2bhiil frvvlmy Slh fycN io Km me ecl2c2biiSO WHAT. FOR GOOPNESS SAKE. IS NH me ANPNRWRALpvmse 2N Lire ?
+"j
+HOWS 'MISTS#AMNESIA' POING OH, WEmese elLh ? mue sS2VI IS SmPLYPITIFUL--*\
+..SOI 5 SEHT HIM OFF ^ FORSOMbOOP,K SOLIP, PROFESSIONAL COUNSELING...
+P5VCHIATRC MELP5*
+Tp 5rn1 TT z35
+\mmritiPSBOP..mm mamma, mm N Httm moca, morns Hare tsimte
+irs me...FOR A BREAK.
+r
+liiUmiL..+
+SO. THEY STILL INSIST TM A-A PENGUIN. WELL. I SURE KNOW WHAT 1 THINK ABOUT THAT '
+O.
+own mmv, rm ownvmrnRepfiWLse vm wrm A dwt* on HIS Am 7HA/ a imp ANP PUHPY MlfAfWL vtiHAzrr ON HIS NOSS*
+a.
+? Tartan Photo Contest Results-*
+19-Sep-85 23:20:09-EDT,000453;000000000001
+Received: from CMU-CC-TB by CMU-CC-TF; Thu 19 Sep 85 22:44:40-EDT
+Received: ID [xxxx@CMU-CC-TB]; 19 Sep 85 22:44:36 EOT
+Date: 19 Sep 85 22:44:36 EDT
+From: xxxx@CMU-CC-TB
+To: TT99@CMU-CC-TF
+Subject: Photo Contest
+It is quite obviously a close-up of a hole of a grate that is situated on a gravel 
+path between the Fine Arts building and the tennis courts. But Im sure youve 
+been told that x billion times already.
+Right on, xxxx. As a matter of fact, every entry we received for this contest gave the 
+same answer as yours. If you remember last week, we said answers will be judged on the 
+basis of creativity and originality. But how can you adjudicate a winner when all the 
+responses are alike?
+With this in mind, keep your eyes open for our next photo contest.
+
+---------------------------------------------------
+
+WHLCOME BACK
+G=*
+Lodg sim
+PIZZArm*
+For matinaMeegfhfR3KNDS OF SUBSco,
+683-030BAUM BLVD
+COUPONlUPONnrCOUPON
+BIG 12SUB1
+ WITH THE PURCHASE 1
+AC AMV 4C DI77A 
+I
+OF ANY 16 PIZZA
+(AT THE REGULAR PRICE)
+l^%BCflUST 1 ^K'l^pius J1
+1 ' JoSic $C1 11_ -..eCSfc ,r |J 11 * BI Ji $ - -
+ 2 '{$KES
+NAMf A DOW SS
+O/3 iOUzO/ z3 z6ZZd T3 3P3:3 g3
+iOUzO/ 3Xz63P 6ug O 56k6
+OU x356:3Y
+AtilADDRESSNAME
+OCK-NCOUPON
+56:3Y d3d  m G2,7,89
+ mm kn warn
+O/3 iOUzO/ z3 z6ZZd T3 3P3:3 g3
+iOUzO/ 3Xz63P 6ug O 56k6
+OU x356:3Y
+UPON 
+P^OFFl
+61V 4 I
+11 ANY PIZZA I
+- II NAME ADDUESS |
+COUPON
+LIVERYARE^Jj |^1W^85
+O/3 iOUzO/ z3 z6ZZd T3 3P3:3 g3
+iOUzO/ 3Xz63P 6ug O 56k6
+OU x356:3Y
+COUPON
+eysBCROCBtLy yYyNKEMP
+*Am ADDHESS
+O/3 iOUzO/ z3 z6ZZd T3 3P3:3 g3
+iOUzO/ 3Xz63P 6ug O 56k6
+OU x356:3Y b
+COUPON
+ion i i Limi i gp*
+iLIVE RY AREA B
