@@ -1,4 +1,8 @@
-/years
+wv/
+decades/
+years/
+syntax/
 classifier
 features
 tfidf
+tree.dot

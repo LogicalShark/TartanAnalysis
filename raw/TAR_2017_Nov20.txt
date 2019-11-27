@@ -1,0 +1,4335 @@
+thetartan.org
+@thetartan
+The Tartan
+November 20, 2017
+Volume 112, Issue 11
+Carnegie Mellon researchers combat partisan gerrymandering
+Carnegie Mellon’s student newspaper since 1906
+Chalabi discusses her work to engage readers through data
+NORA MATTSON
+Assistant News Editor
+We have a tendency to 
+think of data as concrete, 
+as being something that 
+communicates some kind 
+of exact and empirical 
+truth, just because we have 
+found a way to quantify the 
+world around us. However, 
+communicating the un-
+certainties that come with 
+every dataset is one of the 
+challenges that purveyors 
+of data journalism face to-
+day. Mona Chalabi, Data 
+Editor for The Guardian 
+US, has found one way to 
+convey this uncertainty: 
+with illustrations that 
+allow people to both 
+connect and engage with 
+data, but also to not overly 
+state its precision.
+In a talk last Sunday 
+at the Carnegie Library of 
+Pittsburgh, Chalabi out-
+lined her process when 
+it comes to presenting is-
+sues through data. This 
+talk was one of the many 
+events centered around 
+data and its usage hosted 
+by the Carnegie Library 
+over the past months.
+The Department of 
+Statistics and Data Science 
+at the Dietrich College of 
+Humanities and Social 
+Sciences is one of the fast-
+est growing departments 
+at Carnegie Mellon Uni-
+versity, with the number 
+of undergraduate statistics 
+majors being more than 20 
+times what it was in 2003. 
+This uptick was attributed 
+to the fact that the depart-
+ment focuses on “problems 
+that are real,” as stated by 
+Professor Rebecca Nugent, 
+director of undergraduate 
+studies.
+These “real problems” 
+are Mona Chalabi’s job. She 
+began her talk by talking 
+about the myriad issues 
+she had covered during 
+her work as a journalist, 
+bringing up that “which-
+ever of those issues you 
+care about, and hopefully 
+you care about at least one 
+of them, with both data 
+and design skills you can 
+try to make sure that other 
+people care about those is-
+sues too.” She outlined the 
+capacity for data visual-
+izations to engage people 
+with different viewpoints, 
+hoping that when the talk 
+was over “that whatever it 
+is that you are interested 
+in, you leave with a bit of 
+insight into how to com-
+municate your knowledge 
+to other people, maybe 
+even people that are total-
+ly different to you.”
+She also cited spreading 
+knowledge about statistics 
+and data usage as part of 
+the mission of her journal-
+ism, hoping that her re-
+porting will leave readers 
+empowered to fact check. 
+She states, “When you read 
+something, it’s okay to feel 
+skeptical.” However, she 
+also emphasized that “it’s 
+important to channel that 
+skepticism into action and 
+test this stuff for yourself. 
+And in order to do that, 
+it’s important that as many 
+citizens as possible have 
+these skills to be able to do 
+that research.”
+This commitment to 
+careful and ethical data 
+usage lends transparency 
+and another layer to her 
+work. “Mona commits to 
+transparency at every step 
+along the way by sharing 
+her sources, collaborat-
+ing with her followers 
+through live streams and 
+comments, and editing 
+her art based on feedback. 
+Paola Mathus/Art Editor
+See CHALABI, A3
+FORUM
+Local elections show the power of voters • A6SPORTS
+Womens basketball wins season opener • A10PILLBOX
+Bhangra in the Burgh bene?ts hospital • B10
+EVANGELINE LIU
+Staffwriter
+In the United States, 
+as one of the ?rst coun-
+tries founded on the basis 
+of democratically electing 
+government of?cials, the 
+practice of gerrymandering, 
+de?ned as drawing election 
+districts in a way that favors 
+one political party over an-
+other, is almost as old as the 
+country itself, starting with 
+some of the ?rst elections 
+in this country. In 1788, 
+Patrick Henry and his Anti-
+Federalist allies tried to 
+draw districts in such a way 
+to keep James Madison out 
+of the U.S. House of Repre-
+sentatives, although they 
+were unsuccessful.
+More recently, the GOP 
+has increasingly been criti-
+cized for using sophisticated 
+algorithms to draw districts 
+in such a way that heavily 
+favors their own party, using 
+methods such as packing 
+minority voters (who tend 
+to vote Democratic) in as 
+few districts as possible, or 
+splitting opponents’ vot-
+ers into as many districts as 
+possible so the opponents 
+are in the minority. Cur-
+rently, the Supreme Court 
+is in the midst of a case 
+related to Wisconsin’s re-
+districting practices that 
+some have criticized as 
+unconstitutional.
+In order to alleviate 
+this problem, some states 
+have hired independent 
+commissions to draw 
+districts. But Carnegie 
+Mellon researchers see an-
+other solution without in-
+volving independent com-
+missions. Ariel Proccacia, 
+associate professor of com-
+puter science, and Wesley 
+Pegden, associate professor 
+of mathematics, recently 
+submitted a paper detailing 
+an algorithm using com-
+putational social choice 
+theory to ensure fair divi-
+sion, research that was 
+supported by the National 
+Science Foundation, the 
+Sloan Foundation and the 
+Of?ce of Naval Research, 
+according to a university 
+press release.
+The algorithm can be 
+thought of as an extension of 
+the method children use to 
+divide a cake into two — 
+one child cuts the cake in 
+half while the other child 
+takes his or her preferred 
+piece, reducing envy. Ap-
+plied to gerrymandering, 
+the algorithm would entail 
+having one party divide up 
+the districts, then having 
+the other party choosing 
+one district to “freeze” — or 
+?nalize so that no one can 
+subsequently change it — 
+and re-mapping the remain-
+ing districts according to its 
+preferences, and so on until 
+all the districts are “frozen”.
+In their paper, Proccacia, 
+Pegden, and Dingli Yu, a 
+visiting student from Chi-
+na’s Tsinghua University, 
+detailed a mathematical 
+proof of why this division 
+protocol puts both parties 
+on equal footing.
+“If one party attempts to 
+pack districts, for instance, 
+the other party can sim-
+ply not choose to freeze a 
+packed district [one where 
+speci?c concentrations of 
+voters are packed into a 
+district]. And because that 
+party can then re-map the 
+districts to eliminate the 
+packing, the ?rst party 
+would not get the opportuni-
+ty to freeze a packed district 
+either,” details a university 
+press release regarding the 
+intuition behind the fairness 
+of the algorithm.
+In an interview with The 
+Tartan, Pegden detailed 
+the motivation behind the 
+project and why he and the 
+team wanted to apply cake-
+cutting techniques in par-
+ticular. “The mathematics 
+of fair division is all about 
+leveraging competition 
+between two sides to get a 
+fair outcome; cake cutting 
+is the classic example. 
+If we want to be able 
+to draw fair districts 
+and we don’t know how 
+to ?nd truly independent 
+agents, then fair division 
+algorithms were a natural 
+thing to aim for,” explained 
+Pegden, who had previously 
+done research on detecting 
+gerrymandering.
+Proccacia saw gerry-
+mandering as a natural ex-
+tension of the ideas behind 
+cake-cutting. “The view-
+point [behind cake-cutting] 
+seems natural in the context 
+of redistricting (replacing 
+‘good’ with ‘state’), as we 
+would like to see the two 
+parties interact in a way that 
+gives rise to a districting 
+both sides perceive as fair,” 
+said Proccacia.
+Pegden and Proccacia’s 
+goal is that ultimately, states 
+will adopt this protocol as 
+their method of redistrict-
+ing. They hope to promote 
+this method through 
+more press coverage and 
+start a grassroots national 
+conversation surrounding 
+fair redistricting techniques. 
+Tracy Le/Staff Designer
+
+---------------------------------------------------
+
+A2 « thetartan.org/news                                                                                                                                The Tartan » November 20, 2017
+FEATURE PHOTO
+Panel discusses this year’s Nobel Prize winners
+On Thursday, Nov. 16, a panel of Carnegie Mellon University professers gathered in Doherty Hall to discuss the winners of this year’s Nobel Prizes in Chemistry, Physics, and Physiology or Medicine.
+Lisa Qian/Staff Photographer
+SOCIAL ACTION CALENDAR 
+WEATHER
+Driving Under the 
+Influence of Alcohol
+Nov. 12, 2017
+University Police con-
+ducted a traffic stop of a 
+vehicle traveling at a high 
+speed on Forbes Avenue. 
+The non-affiliate was 
+found to be intoxicated 
+and placed under arrest 
+for DUI.
+Alcohol Amnesty
+Nov. 12, 2017
+University Police re-
+sponded to a report of an 
+intoxicated male and fe-
+male at the Greek Quad. 
+Two students were pro-
+vided with medical at-
+tention and no citations 
+were issued due to alcohol 
+amnesty.
+Theft of Laptop
+Nov. 14, 2017
+A Carnegie Mellon 
+staff member reported 
+that a laptop was stolen 
+from Warner Hall. An 
+investigation is ongoing.
+Telephone Scam
+Nov. 14, 2017
+A Carnegie Mellon 
+student reported that 
+he received a phone call 
+from an unknown male 
+who stated he owed him 
+money. An investigation is 
+ongoing.
+Defiant Trespass
+Nov. 14, 2017
+A male who was 
+reportedly harassing staff 
+members in the Cohon 
+Center was removed 
+from campus and placed 
+under arrest for Defiant 
+Trespass.
+Theft of Wrist Bag
+Nov. 15, 2017
+A student reported that 
+his wrist bag was stolen 
+from Hamburg Hall. An 
+investigation is ongoing.
+Harassment
+Nov. 16, 2017
+An Au Bon Pain 
+employee reported that 
+she was harassed by a 
+former employee. An 
+investigation is ongoing.
+Theft of Chairs
+Nov. 17, 2017
+A Carnegie Mellon 
+staff member reported 
+that several chairs were 
+removed from the Gates 
+Hillman Complex. An 
+investigation is ongoing.
+Access Device Fraud
+Nov. 17, 2017
+A Carnegie Mellon stu-
+dent reported that there 
+was a large number of 
+unauthorized charges 
+on his credit card. An 
+investigation is ongoing.
+Disorderly Conduct
+Nov. 17, 2017
+A Carnegie Mellon staff 
+member reported that sev-
+eral chairs were removed 
+from the Gates Hillman 
+Complex. An investigation 
+is ongoing.
+Campus Crime & Incident Reports
+Source: www.weather.com
+FRIDAYSATURDAYSUNDAY
+53° / 30°
+TUESDAY
+38° / 24°
+WEDNESDAY
+THURSDAY
+Compiled by
+VALENE MEZMIN
+45° / 34°
+MONDAY
+44° / 32°45° / 28°35° / 25°41° / 27°
+KATHERINE DIAZ
+Special to The Tartan
+Carnegie Mellon is a 
+global research university 
+that offers unlimited oppor-
+tunities for growth, experi-
+ence, and interdisciplinary 
+engagement for its students. 
+We have seen Carnegie Mel-
+lon graduates become the 
+country’s next leaders in 
+research, entrepreneurship, 
+the STEM field, and a mul-
+titude of other disciplines. 
+Now, it’s time for Carnegie 
+Mellon students, alumni, 
+and other affiliates to show 
+our appreciation to the 
+institution that has given us 
+so much.
+This year, Carnegie 
+Mellon University will be 
+celebrating Giving Tuesday 
+on Nov. 28. This is an 
+incredible opportunity 
+for students to give back! 
+After the great success that 
+the event had last year, 
+Carnegie Mellon is hop-
+ing to further engage its 
+students, alumni, parents, 
+faculty, staff, and friends 
+this year by utilizing the 
+power of social media. 
+From 12 a.m. to 11:59 p.m., 
+Carnegie Mellon University 
+will be hosting a variety of 
+events and challenges, both 
+online and offline, to break 
+the old record set last year 
+of most donors giving in 
+one day — 1,430! The high-
+light of these challenges is 
+the Presidential Student 
+Match of a 2:1 dollar match 
+for students only, so a $5 
+gift can become $15 or a 
+$10 gift can become $30. 
+There are also matching 
+funds for the Nooks project 
+and the UPLIFT project, and 
+much more!
+To kick off the event, 
+students are invited to a 
+midnight party — Plaid 
+Palooza! At that time, 
+Carnegie Mellon will begin 
+its social media challenges 
+and award two students 
+with $500 each to give to 
+any fund of their choice. 
+Throughout the rest of the 
+day, you can find tabling 
+events in the Cohon Center 
+and get a chance to make 
+your gift and recommend 
+any fund to receive $500!
+Where exactly does your 
+donation go? The answer 
+is simple: anywhere! You 
+can choose to donate to any 
+fund at Carnegie Mellon, in-
+cluding a student organiza-
+tion you are a part of, your 
+department, your school, or 
+anywhere else! Your dona-
+tion can go towards helping 
+anything you are passionate 
+about growing and develop 
+so that future generations 
+of Carnegie Mellon stu-
+dents can also partake in 
+these experiences.
+Make sure to check the 
+Carnegie Mellon Univer-
+sity and Carnegie Mellon 
+Alumni pages of Facebook, 
+Twitter, and LinkedIn 
+and use the hashtag 
+#givingCMUday through-
+out Giving Tuesday for chal-
+lenges and updates on the 
+fundraising progress!
+Remember, if your heart 
+is in the work, give from 
+your heart this Giving 
+Tuesday!
+STUDENT GOVERNMENT COLUMN
+Corrections & Clari?cations
+If you would like to submit a correction or clarifica-
+tion, please email The Tartan at news@thetartan.org 
+or editor@thetartan.org with your inquiry, as well as 
+the date of the issue and the name of the article. We 
+will print the correction or clarification in the next 
+print issue and publish it online.
+
+---------------------------------------------------
+
+November 20, 2017 « The Tartan                                                                                                                                thetartan.org/news » A3
+Forlizzi named head of Human-Computer Interaction Institute 
+VALENE MEZMIN
+News Editor
+Jodi Forlizzi, a 
+professor in Carnegie 
+Mellon University’s 
+Human-Computer Inter-
+action Institute (HCII), 
+was recently appointed 
+the Charles M. Geschke 
+Director of the Human-
+Computer Interaction 
+Institute.
+Forlizzi earned a 
+bachelor’s degree in 
+illustration from the 
+University of the Arts in 
+Philadelphia and a mas-
+ter’s degree in interaction 
+design at Carnegie Mellon 
+before earning her Ph.D. 
+in human-computer 
+interaction and design 
+at Carnegie Mellon. She 
+has served as a faculty 
+member at HCII, where 
+she specializes in interac-
+tion design, since 2000. 
+Her work has focused on 
+designing engaging and 
+effective educational 
+games, designing for 
+health care, and doing re-
+search and design work on 
+social and assistive robots.
+Additionally, Forlizzi 
+is a member of the 
+Association for Computing 
+Machinery’s Computer-
+Human Interaction Acade-
+my, a group of researchers 
+honored by the Special In-
+terest Group on Comput-
+er-Human Interaction for 
+significant contributions 
+to the field of human-
+computer interaction. 
+“Members are selected 
+based on cumulative 
+contributions to the HCI 
+field, impact on the field 
+through development of 
+new research directions 
+and/or innovations, in-
+fluence on the work of 
+others, and participation 
+in the Association for 
+Computing Machinery’s 
+Special Interest Group in 
+Computer-Human Inter-
+action,” explains a univer-
+sity press release from the 
+School of Computer Sci-
+ence. She was also hon-
+ored by the Walter Reed 
+Army Medical Center for 
+excellence in human-
+robot interaction design 
+research.
+The Human-Computer 
+Interaction Institute “is 
+a living laboratory” that 
+investigates relationships 
+between computer 
+technology, human 
+activity, and society, states 
+the institute’s website.
+“Founded in 1993, the 
+HCII is a place where we 
+work to understand and 
+create technology that 
+harmonizes with and 
+improves human capa-
+bilities, goals, and social 
+environments through in-
+terdisciplinary research 
+and education in design, 
+computer science, and 
+behavioral and social 
+sciences... We research 
+how people work, play, 
+and communicate within 
+groups, organizations, 
+and social structures, then 
+we design, create, and 
+evaluate technologies and 
+tools to support human 
+and social activities.”
+Carnegie Mellon fac-
+ulty members like Forlizzi 
+continue to be among the 
+most influential research-
+ers in the field of human-
+computer interaction 
+since the 1960s.
+Forlizzi was appointed 
+her new position by 
+Andrew Moore, Dean 
+of the Carnegie Mellon 
+University School of 
+Computer Science.
+Team of Carnegie Mellon students wins Ford mobility Challenge
+Courtesy of Ian Smith via Flickr Wikimedia Commons
+ Jodi Forlozzi, recently named director of Human-Computer Interaction Institute, speaking in 2010.
+Chalabi discusses her work to engage readers through data
+By providing a window to 
+her methodology, Mona al-
+lows her audience to fully 
+engage with the data and 
+art,” stated Eleanor Tutt, 
+Open Data and Knowledge 
+Manager at Carnegie Li-
+brary of Pittsburgh in a fol-
+low-up email to the talk.
+Her social media usage 
+is not the only thing that 
+distinguishes her journal-
+ism. She firmly believes that 
+all charts she makes should 
+reflect something about 
+their subject matter. She 
+displayed generic charts 
+and bar graphs and opined 
+that while they were “pow-
+erful, I guess, in terms of 
+their clarity, but if you were 
+to remove the labels these 
+could be about absolutely 
+anything, and I think charts 
+should connect to the 
+subject matter that they are 
+depicting.”
+Though Chalabi focused 
+a lot on how to analyze and 
+present data, she views her 
+job primarily as that of “a 
+journalist who really loves 
+numbers.” While she works 
+as a designer and with data, 
+she primarily views herself 
+as a journalist. “My job is to 
+find reliable, recent num-
+bers and get them in front of 
+as many people as possible. 
+Sometimes those numbers 
+are buried way down deep 
+in a database, sometimes 
+they’re in the appendix of a 
+PDF. But my job is to track 
+them down and translate 
+them from endless possible 
+iterations of digital page to 
+either words or images.”
+Courtesy of Andreas Eymannsberger via Flickr Wikimedia Commons
+ Mona Chalabi, Data Editor for The Guardian US, spoke about creating data journalism Sunday at the Carnegie Library of Pittsburgh.
+CHALABI, from A1
+Ikjong Choi/ Junior Staff Artist
+SHRUTI MURALI
+Assistant News Editor
+The winner of the Ford 
+College Community Chal-
+lenge (Ford C3) mobility-
+themed competition was 
+The Aquaponics Project, a 
+startup company which fo-
+cuses on urban agriculture 
+by raising aquatic animal 
+and plants in a single, small 
+environment. The company 
+received $10,000 and a 
+Ford Transit Connect pas-
+senger van to transport its 
+portable aquaponics facil-
+ity for winning the chal-
+lenge. The project team 
+includes Carnegie Mellon 
+University students Alexis 
+Hoane, a sophomore chem-
+istry major, and Sasha 
+Cohen Ioannides, a soph-
+omore in the College of 
+Engineering. The team also 
+consists of students from 
+the University of Pittsburgh 
+and the University of 
+Michigan.
+The goal of The 
+Aquaponics Project is to 
+provide an innovative solu-
+tion to food production and 
+waste and soil remediation. 
+The startup company was 
+established in 2016 when it 
+created its first aquaponics 
+farm, which produced 50 
+pounds of basil and 80 tila-
+pia last year.
+“The vehicle will 
+improve our aquaponics 
+startup, allowing us to 
+start integrating anaerobic 
+digestion and improve 
+food rescue mobilization in 
+Pittsburgh. This will create 
+a 21st-century food system 
+that we hope other urban 
+areas can model,” said 
+Cohen Ioannides, director 
+of design and maintenance 
+for The Aquaponics Project.
+The company previously 
+pitched an idea for an 
+anaerobic digestive system 
+at the 2017 Ford C3 and 
+won $25,000. The system 
+involved a series of biologi-
+cal processes in which mi-
+croorganisms break down 
+food waste in the absence 
+of oxygen. The end product 
+is biofertilizer and biogas, 
+which is used for energy 
+and heat.
+The Aquaponics Project 
+partners with various 
+organizations around 
+the city including Repair 
+the World, The Door 
+Campaign, and 412 Food 
+Rescue, co-founded by 
+Carnegie Mellon alumna 
+Leah Lizarondo, a 2003 
+graduate of the Heinz 
+College of Information 
+Systems and Public Policy. 
+412 Food Rescue provides 
+compost for the startup’s 
+anaerobic digestive system.
+“My biggest passion is 
+creating accessibility to 
+food,” said Ioannides. “The 
+Aquaponics Project allows 
+me to collaborate with 
+other students on and off 
+campus, get out and do the 
+things I’m passionate about 
+and get involved with 
+the community.”
+The signa-
+ture Ford Mo-
+bility Challenge 
+celebrated 
+the ten-year 
+anniversary 
+of the Ford 
+C3 with a spe-
+cial mobility-
+themed compe-
+tition, “Making 
+Lives Better by 
+Changing the 
+Way People 
+Move.” Three of 
+the ten original 
+winning teams 
+were invited to 
+Ford World Headquarters 
+in Dearborn, Michigan, 
+including The Aquaponics 
+Project, to pitch their so-
+lutions to a panel of Ford 
+executives for the chance 
+to win the passenger van 
+and additional monetary 
+prizes.
+“The future of C3 will 
+broaden our goal to help 
+students create meaning-
+ful, sustainable social en-
+terprises to drive change,” 
+said Mike Schmidt, direc-
+tor of education and global 
+community development 
+for Ford Motor Company 
+Fund, in a press release on 
+the challenge. “Our goal is 
+to create a movement, not 
+a program, that allows stu-
+dents to be a powerful force 
+for good in this world and 
+to help make people’s lives 
+better across the globe.”
+Home Inc.Ubator, led 
+by Carnegie Mellon 
+architecture major 
+Sophie Nahrmann, was 
+an additional 2017 C3 
+winning team that received 
+$25,000 for its portable 
+residential housing mod-
+ule prototype, which used 
+virtual reality technology 
+which enables residents to 
+have input on the design of 
+their affordable housing. 
+According to a press re-
+lease on the challenge, the 
+purpose of the project is to 
+“empower residents to de-
+velop affordable housing, 
+foster a more inclusive path 
+to homeownership, con-
+tribute to social mobility, 
+provide education/training 
+opportunities, and support 
+community-based 
+entrepreneurship.”
+In second place came 
+the Olin College of 
+Engineering, where stu-
+dents developed Coahoma 
+Mobile Education, a proj-
+ect which allowed rural 
+youth in Coahoma County, 
+Mississippi to explore top-
+ics in the arts, technology, 
+and entrepreneurship. The 
+students will work with the 
+youth to build electric gui-
+tars, teaching them electri-
+cally, carpentry, and 3D-
+modeling skills in a mobile 
+space.
+Michigan Tech 
+University landed third 
+place. The students 
+built a user-friendly 
+medical transportation 
+management system to 
+allow their partner orga-
+nization, Little Brothers-
+Friends of the Elderly, to 
+maximize their free door-
+to-door medical transpor-
+tation service for the el-
+derly.
+“Ford C3 has been a 
+tremendously success-
+ful program in that it has 
+completely changed our 
+mindset on how we engage 
+with college students,” 
+said Schmidt. “Through 
+C3, we recognized that stu-
+dents can be a huge force 
+for good and that if we give 
+them the right support, 
+they can change in the 
+world. And we are doing 
+that, now, on a global 
+scale.”
+
+---------------------------------------------------
+
+FROM THE EDITORIAL BOARD
+A4 « thetartan.org/forum                                                                                                                                       The Tartan » November 20, 2017
+Editorial Staff
+Editorial BoardStaff
+COPY
+Sinead Foley, Lydia Green, Stephanie Kuang, Nora Mattson, 
+Ian Tanaya, Marika Yang
+ADVERTISING
+Benjamin Stern, Andy Gao
+BUSINESS
+Lindsey Shi
+JADE CROCKEM*
+Publisher
+INDIA PRICE* 
+Editor-in-Chief
+SARAH ELIZABETH BENDER
+Forum Editor 
+VALENE MEZMIN
+News Editor
+JOSH ANDAH
+Staffwriter
+YIYUAN CHEN
+Staffwriter
+SYDNEY ROSLIN
+StaffwriterThe Tartan is a student newspaper at Carnegie Mellon University, funded in part by the student 
+activities fee. It is a weekly publication by students during the fall and spring semesters, printed 
+by The Butler Eagle. The Tartan is not an official publication of Carnegie Mellon University.
+The Editorials appearing at the beginning of the opinion section are the official opinion of 
+The Tartan Editorial Board. Columns, Editorial Cartoons, and Reviews are the opinions of 
+their individual creators. The Tartan Editorial Staff reserves the right to withhold from publica-
+tion any copy it deems unfit.
+Letters to the Editor Letters must be submitted by 5 p.m. on the Wednesday before publi-
+cation by mail or to forum@thetartan.org. Letters from within the university community take 
+precedence. Letters intended for publication must be signed and include the author’s address. 
+Letters will be edited for grammar, punctuation, spelling, and Tartan and AP style. The Tartan 
+reserves the right to edit for length and ethical reasons, including such matters as defamation, 
+plagiarism, inacuracies, profanity, and slurs. Author’s names may be withheld at the Editor-in-
+Chief’s discretion upon request. The Tartan reserves the right to reject any letter.
+* Denotes executive committee 
+member
+© 2012 The Tartan, all rights reserved.
+Library of Congress ISSN: 0890-3107
+LYDIA GREEN*
+Operations Manager
+NORA MATTSON
+Assistant News Editor
+SHRUTI MURALI
+Assistant News Editor
+MADELINE KIM
+Assistant Forum Editor
+SINEAD FOLEY
+Pillbox Editor
+APEKSHA ATAL
+Pillbox Editor
+IZZY SIO
+Assistant Pillbox Editor
+NAVIYA SINGLA
+Scitech Editor
+EMMA FLICKINGER
+Assistant Scitech Editor
+JULIANNE SANSCARTIER
+Comics Editor
+IAN TANAYA
+Sports Editor
+MARIKA YANG
+Assistant Sports Editor
+COREY EMERY
+Advertising Manager
+SOPHIA CHENG
+Business Manager
+GEAR JIANTHANAKANON
+Systems Manager
+RUTH SCHERR
+Copy Manager
+JUHYUNG PARK
+Assistant Copy Manager
+KATRINA WONG
+Assistant Copy Manager
+THEODORE TEICHMAN
+Visual Editor
+AISHA HAN*
+Visual Editor
+PAOLA MATHUS
+Art Editor
+ANISHA JAIN
+Assistant Art Editor
+ZICHEN LIU
+Photo Editor
+PAULINE TING
+Online Editor
+ABHISHEK TAYAL*
+Layout Manager
+Office: Cohon Center 314
+Web: www.thetartan.org
+E-mail: contact@thetartan.org
+Mail:
+The Tartan
+Box 119, UC Suite 103 
+5000 Forbes Avenue 
+Pittsburgh, PA 15213
+Historic local elections show the power of voters
+After the elections of 2016, 
+it would be easy to become 
+disillusioned with the idea 
+of representation, to begin 
+doubting that your vote can make 
+a difference. But after a hard 
+year of unethical policies and 
+unintelligible claims from the 
+government, this year’s elections 
+across the country have brought 
+some much-needed hope to 
+America. Those elected to of?ce 
+include many Democrats as well 
+as many ?rsts, from the ?rst 
+black mayor in a number of towns 
+and cities, to the ?rst Latina 
+and Asian American women, to 
+the ?rst transgender people, all 
+serving in various states and even 
+nationally.
+In Framingham, MA, Yvonne 
+Spicer is not only the ?rst black 
+female mayor but also the ?rst 
+mayor in Framingham’s 317-year 
+history, as the residents narrowly 
+voted to change from a town to a 
+city form of government in April. 
+At 39.1 percent, voter turnout 
+was a record high for the last 25 
+years in this historic election, 
+and Spicer won with 58 percent 
+of the vote. A native of Brooklyn, 
+NY, Spicer has a doctorate in edu-
+cational leadership and works to 
+build capacity for STEM programs 
+in schools. She will take of?ce on 
+Jan. 1, 2018.
+Vi Lyles will become Charlotte, 
+NC’s ?rst black female mayor as 
+well — with 58 percent of the 
+vote, she easily beat her Republi-
+can opponent Kenny Smith. Over 
+the past three decades, she has 
+served as a budget of?cial and as-
+sistant city manager in city hall. 
+North Carolina had a high voter 
+turnout as well — for this elec-
+tion, it was about 20 percent, 
+which was higher than the pre-
+dicted rate.
+Jonathan McCollar will 
+become the ?rst black mayor 
+of Statesboro, GA, unseating 
+the current mayor with his 
+progressive platform and 52 
+percent of the vote. Cairo, GA also 
+voted for their ?rst black mayor: 
+Booker Gainor, who is only 28 
+years old. Brendon Barber and 
+Ailment Collins became the ?rst 
+black mayors of Georgetown, SC 
+and Helena, MO, respectively. 
+And in Milledgeville, GA, Mary 
+Parham-Copelan won the election 
+for mayor by a margin of only six 
+votes, making her the ?rst woman 
+and African American to be 
+elected mayor.
+Elizabeth Guzman and Hala 
+Ayala became the ?rst two Lati-
+nas elected to the Virginia House 
+of Delegates, also turning their 
+districts from Republican to Dem-
+ocrat. Guzman immigrated from 
+Peru to create a better life for her 
+children, pursuing ?rst a com-
+munity college degree and then 
+several others. Ayala is a cyberse-
+curity specialist who was involved 
+in organizing the Women’s March 
+last January. She supports raising 
+minimum wage, equal pay and ac-
+cess to health care for everyone, 
+and increasing the percentage of 
+women in government to ensure 
+all voices are heard.
+Kathy Tran, the ?rst Asian 
+American woman elected to the 
+Virginia House of Delegates, ?ed 
+Vietnam with her parents when 
+she was a baby. She supports 
+strengthening public schools, 
+the economy, and environmental 
+protection, preventing gun 
+violence, and immigration reform. 
+Ravinder Bhalla, who was elected 
+the mayor of Hoboken, became 
+the ?rst Sikh mayor in all of New 
+Jersey. He wants to upgrade 
+Hoboken’s infrastructure, 
+balance the budget, and push 
+for environmentally sustainable 
+policies to help residents in both 
+the short and long terms.
+Jenny Durkan previously 
+made history as the ?rst gay U.S. 
+attorney in American history, 
+and has now become the ?rst 
+lesbian mayor in Seattle. Some of 
+her goals are to create affordable 
+housing, help the homeless, and 
+reform the criminal justice system. 
+Zachary DeWolf, Seattle’s ?rst 
+openly gay school board member, 
+wants to close the gap created by 
+differences in individual students’ 
+circumstances, and create a safe 
+environment for everyone to learn.
+In Provo City, Utah, Michelle 
+Kaufusi will be sworn in as 
+the ?rst female mayor on Dec. 
+5. She emphasizes strength 
+when considering issues, and 
+intends to focus on creating 
+strong neighborhoods, strong 
+budgets and other forms of ?scal 
+management, a strong economy 
+through businesses, and strong 
+engagement from all residents.
+In the Virgina state senate, 
+Democrat Danica Roem became 
+one of the country’s ?rst trans-
+gender elected of?cials — she de-
+feated Republican Rob Marshall, 
+who has been elected 13 times 
+in 26 years, wrote Virginia’s dis-
+criminatory “bathroom bill,” and 
+referred to Roem with incorrect 
+pronouns throughout the elec-
+tion cycle while at the same time 
+refusing to debate with her. She 
+plans to focus on four things: a 
+traf?c problem that arises during 
+rush hour, increasing and improv-
+ing jobs by conducting studies 
+and raising minimum wage, aid-
+ing schools by bringing in more 
+commercial taxes, alleviating 
+overcrowding, and increasing 
+teacher pay, and striving toward 
+equality for those of different re-
+ligions, races, genders, sexual ori-
+entations, and disabilities.
+In addition, Andrea Jenkins, 
+who has been elected to the 
+Minneapolis City Council, is the 
+?rst black, openly-transgender 
+woman ever elected to a public 
+of?ce. She is a poet, activist, 
+and historian, and curator of the 
+Transgender Oral History Project 
+at the University of Minnesota.
+Despite the discouraging 
+claims and actions that have been 
+put forth by our national govern-
+ment over the past few months, it 
+is uplifting to see an effort to in-
+corporate so much diversity into 
+our local elections. The people 
+elected to these of?ces can have 
+meaningful impact on our day-
+to-day lives, and Americans have 
+shown through our votes the is-
+sues that are important to us as 
+a nation to address. Voters be-
+ing aware of current events and 
+showing up to cast their ballots 
+played an important role in bring-
+ing about this change — it is im-
+portant to remember the ways we 
+can shape policy and make a dif-
+ference as we move forward into 
+the future.
+Paola Mathus/Art Editor
+SPEAK
+YOUR
+MIND.
+forum@thetartan.org
+
+---------------------------------------------------
+
+JUHYUNG PARK
+One of the greatest powers of 
+the United States lies in the ability 
+of its higher education system 
+to attract diverse and talented 
+students from all over the world. 
+According to the 2017 Open 
+Doors Report by the Institute 
+of International Education, the 
+international student population 
+in the United States increased by 
+3.4 percent to 1,078,822 students 
+this year. This large presence of 
+international students amounts to 
+around $32 billion that is brought 
+into the U.S. economy.
+Recently, however, many 
+universities around the U.S. 
+have seen a dip in the number of 
+foreign applicants. A survey of 
+250 colleges, conducted by the 
+American Association of College 
+Registrars and Admissions 
+Of?cers (AACRAO), has found 
+that “39 [percent] of responding 
+institutions reported a decline 
+in international applicants.” The 
+survey further observed that the 
+highest declines in applicants 
+were from the Middle East, 
+while the number of applications 
+from India and China was also 
+impacted.
+“[Many international stu-
+dents] said they were concerned 
+about the Trump effect,” said Wim 
+Wiewel, President of Portland 
+State University, in an interview 
+with The New York Times. “I’d say 
+the rhetoric and actual execu-
+tive orders are de?nitely having a 
+chilling effect.”
+Indeed, many call this decline 
+in applicants an outcome of the 
+“Trump effect:” the effects that 
+President Trump’s actions, words, 
+and political agenda bring to the 
+U.S. both on a domestic and an 
+international level. From what I 
+see, this decline in the number of 
+foreign applicants to U.S. colleges 
+can be divided into two main at-
+tributes. First, the visa application 
+process has become more dif?cult 
+under the Trump presidency, es-
+pecially for students in the Middle 
+East, preventing many students 
+who wish to come to the U.S. from 
+pursuing such an academic ca-
+reer. Second, the political climate 
+of the United States has put much 
+worry into many families around 
+the world, prompting many stu-
+dents to look to domestic higher 
+education systems or those of 
+other countries like China, Japan, 
+France, and the United Kingdom.
+As an international student 
+myself, I have experienced both 
+of these challenges in choosing 
+to come to the United States for 
+college. While I was fortunate to 
+reside in the United States previ-
+ously, making my visa application 
+process easier than most, I have a 
+couple of friends in South Korea 
+who were caught in the bureau-
+cratic mess of the visa application 
+process, which prevented them 
+from attending U.S. colleges in 
+the fall of 2017. As for the political 
+climate of the U.S., Trump and his 
+agenda have instigated a changed 
+reputation of the United States in 
+the eyes of countries around the 
+world. The words and actions of 
+the President — the travel bans 
+imposed by the administration, 
+for example — and the many dis-
+plays of violence and national di-
+vision — mass shootings and the 
+more public presence of white 
+supremacy, to name a couple — 
+have certainly proven to many 
+families around the world that the 
+sentiments of isolationism and na-
+tionalism are growing. In essence, 
+it has become harder and less at-
+tractive to be an international stu-
+dent in the United States.
+“Are they going to be welcomed 
+in the United States? Are the 
+Americans going to treat their 
+sons and daughters well? Are they 
+going to be safe on U.S. campuses 
+and in U.S. cities?” asked Gary 
+Bergman, founder, and president 
+of College Study US, in an 
+interview with Newsweek. “A lot 
+of the comments that are 
+coming out of the current 
+administration are leading 
+a lot of families to really 
+take a step back and wonder 
+if the U.S. is really a good 
+place to go for 
+their education.”
+As Bergman 
+comments above, 
+for many foreigners, 
+the United 
+States is no 
+longer seen 
+as the “land of 
+immigrants.” The 
+once deeply held values of 
+diversity and openness seem to 
+have changed to become more 
+exclusive rather than inclusive. 
+As such, it is expected that fewer 
+and fewer students will choose the 
+U.S. as their destination for higher 
+education; it is the reputation 
+that the U.S. displays on 
+the international stage 
+that has caused such 
+a phenomenon. In 
+order for the U.S. to 
+continue enjoying 
+the large presence 
+of international 
+students on its 
+campuses, its 
+reputation in the 
+international 
+community 
+must be revived. 
+If the Trump 
+administration 
+continues 
+its agenda on 
+immigration, 
+maintaining its 
+stance and proceeding 
+to make negative 
+remarks on foreigners 
+or immigrants, the United 
+States will no longer be at the 
+frontiers of higher education and 
+potentially risk the intellectual 
+leadership of many of its academic 
+institutions.
+Juhyung Park (@juhyungp) is  
+the Assistant Copy Manager for The 
+Tartan.
+November 20, 2017 « The Tartan                                                                                                                               thetartan.org/forum » A5
+Graduate students are under 
+attack in the latest House tax 
+bill. The GOP’s plan is to tax our 
+tuition waivers as if they were in-
+come, and to remove student loan 
+interest deductions, making grad-
+uate school substantially more ex-
+pensive. According to an analysis 
+by our very own Graduate Student 
+Assembly (GSA), some Ph.D. stu-
+dents may owe $10k annually in 
+taxes under this bill. This is unac-
+ceptable.
+The ?rst Carnegie Mellon Uni-
+versity responses to the bill came 
+from our GSA (see their appear-
+ance in several articles, includ-
+ing in Wired). Carnegie Mellon 
+administrators seem to have been 
+caught unaware and uninformed. 
+Yet this information has been pub-
+lic since Nov. 2, when the House 
+Bill was ?rst released, and at the 
+time of writing, the administra-
+tion still has no public plan.
+In fact, in Interim President 
+Jahanian’s only email to the 
+University at large, he mentions 
+only “proposals to tax graduate 
+student stipends,” which is 
+not even the correct issue. The 
+proposal is to tax our tuition, not 
+our stipends. This response fails 
+to inspire con?dence. By way of 
+contrast, Cornell and Notre Dame 
+have already released de?nitive 
+statements about whether their 
+students are affected by the 
+proposed tuition tax. Why has our 
+administration not made a similar 
+statement?
+Either the administration sim-
+ply does not know, or it is delib-
+erately keeping us in the dark to 
+prevent a panic.
+Perhaps the administration is 
+genuinely clueless, due to CMU’s 
+decentralized nature. Without 
+central oversight, there is wild 
+variation in how tuition, stipends, 
+fees, and health insurance are 
+handled across the colleges.
+What seems likely is that, as 
+a private school with extremely 
+high tuition, CMU will be hurt a lot 
+more by this tax bill than public R1 
+universities. It’s bad enough that 
+we students pay $2,000 plus tax 
+for health insurance. This addi-
+tional tax burden will make gradu-
+ate school ?scally untenable. Ei-
+ther the university will shoulder 
+the ?nancial burden or students 
+will choose to go elsewhere.
+Ph.D. students commonly do 
+not take classes after their ?rst 
+two years, but tuition is still paid 
+on their behalf. So what does our 
+tuition fund? Our previous presi-
+dent made nearly $900,000 an-
+nually, while annual stipends for 
+CMU Ph.D. students can be as low 
+as $13,500 per year (for reference, 
+according to one I-20, the cost of 
+living in Pittsburgh is $20,500).
+And what if the bill passes? 
+The Trump administration wants 
+this signed by Thanksgiving and 
+telling ourselves “it will never 
+pass” is delusional. If not passed, 
+the bill could come back in some 
+watered-down form, likely still 
+harmful (like Trump’s immigra-
+tion ban and healthcare bill). We 
+need to be prepared to ?ght a long 
+?ght against this provision when-
+ever it appears.
+If passed, the bill will take ef-
+fect April 6, likely affecting every 
+graduate student on campus, and 
+the University needs a plan for 
+when that happens.
+Signed,
+Concerned Graduate Students
+Foreign students deterred by visa complications and politics
+LETTER TO THE EDITOR: CMU MUST DEFEND GRADUATE STUDENTS
+MADELINE KIM
+“Take her swimming on the 
+?rst date” is a common saying cir-
+culating on the internet and be-
+ing shared among men who joke 
+about how women “hide” behind 
+layers of makeup, thus deceiving 
+the world with arti?cially good 
+looks. However, this statement 
+has become more than just a silly 
+meme. Ashot Gabrelyanov created 
+an app called MakeApp that essen-
+tially makes a camera ?lter that 
+predicts what women look like 
+without makeup.
+As a makeup enthusiast, I ob-
+viously had to give this app a try. 
+For an app that costs money, I was 
+not impressed with the results. 
+Despite the poor estimate of what 
+my bare face looks like, I could not 
+help but laugh. There are men out 
+in the world who may take a photo 
+of me in my usual “cake face,” toss 
+it through this app, and decide 
+whether I am attractive enough to 
+be associated with — all without 
+knowing anything about me.
+There has been heavy criticism 
+targeted at the app. Many 
+articles have claimed that such 
+a “removal” of makeup is sexist 
+because it makes men use a 
+makeup-less woman’s appearance 
+be a dealbreaker for whether he 
+wants to pursue a relationship 
+with her. Buzzfeed pointed out 
+that a man — not a woman — was 
+in charge of the creation of the app 
+in the title, heavily hinting that 
+Gabrelyanov had sexist intentions 
+behind the app.
+What some feminists and some 
+men fail to realize is that a lot of 
+people don’t wear makeup be-
+cause they feel ashamed of their 
+appearances. I don’t deny the pos-
+sibility that there may be someone 
+out there who cakes on makeup to 
+hide insecurities. If that someone 
+is reading this article, I hope there 
+soon comes a realization that 
+one’s beauty and one’s worth does 
+not lie in makeup. However, for 
+many people, makeup is a creative 
+outlet. Much like wearing a nice 
+out?t instead of pajamas, it can 
+boost one’s con?dence and make 
+one feel more prepared to face the 
+day. No amount of makeup in the 
+world changes the value or beauty 
+of a person. Kim Kardashian is the 
+same reality star with and with-
+out her famous dramatic contour. 
+Similarly, a person hasn’t shape-
+shifted by applying makeup (and 
+frankly, did not invest so much 
+money to impress someone who 
+demands all the products to be 
+washed down the drain).
+What’s notable is that 
+Gabrelyanov claims that the app 
+could be used to identify victims 
+of human traf?cking. “In most 
+of these cases, makeup is heavily 
+used to disguise the age and/
+or identity of these people,” he 
+said in an emailed statement. “If 
+human traf?ckers can hide these 
+victim’s identities, their chances 
+of rescue are low.” Of course, the 
+app has a long way to go, but this 
+is a possibility. However, if this is 
+the direction the app is heading, 
+something to consider would be 
+to change the image of the app. 
+Instead of marketing it as an app 
+where a user can play around with 
+camera ?lters for fun to see what a 
+potential girlfriend would look like 
+bare-faced, further emphasize its 
+potential usage to identify victims 
+who may be heavily disguised with 
+makeup.
+If you insist on being outraged 
+by makeup, I suggest you look into 
+the lack of racial inclusiveness in 
+the beauty industry that conve-
+niently excludes consumers with 
+darker skin colors. Just let people 
+use makeup as they feel comfort-
+able and realize that they aren’t 
+“hiding” something from you.
+Madeline Kim (@madelink) is 
+the Assistant Forum Editor for the 
+Tartan.
+MakeApp threatens women’s agency over appearance
+Isabelle Vincent/Staff Artist
+BeforeAfter
+
+---------------------------------------------------
+
+A6 « thetartan.org/forum                                                                                                                                       The Tartan » November 20, 2017
+Tech has in?ltrated every as-
+pect of our lives: Uber has dis-
+placed taxi cabs, Airbnb has trans-
+formed hotels, and Amazon has 
+started to crush brick-and-mortar 
+retailers. While disruption has up-
+rooted countless industries, it has 
+had a limited impact — so far — on 
+the hospitality industry. Restau-
+rants have experienced only mod-
+erate disruption due to technology 
+and high-end restaurant options 
+have been particularly spared. 
+These ?ne dining establishments 
+may allow guests to make reser-
+vations online or read a menu on 
+their webpages, but that is gener-
+ally the extent of technological 
+involvement. This will not last for-
+ever, though, as ?ne dining estab-
+lishments begin to integrate more 
+data-driven technology into their 
+daily operations to boost their bot-
+tom line.
+Until recently, most technolo-
+gies in restaurants were focused 
+on the front of house – employee 
+interactions with customers. These 
+technologies included reserva-
+tion systems, customer data ag-
+gregators and order management 
+systems. New technologies are 
+beginning to move to other parts 
+of the restaurant, like the kitchen 
+itself. One nascent product, Food-
+pairing, helps chefs discover new 
+combinations of foods that can 
+surprise and delight the palette. 
+Combinations include items rang-
+ing from common spices to unique 
+varieties of ?sh. While new pair-
+ings were previously discovered 
+through a basic guess-and-check 
+method, Foodpairing claims to 
+analyze “unique scienti?c and con-
+sumer data sources in combination 
+with big data… for identifying the 
+successful ?avors of tomorrow.” 
+This methodology may generate 
+some peculiar-sounding combi-
+nations on menus, but they’ll be 
+worthwhile if a desirable ?avor is 
+produced and customers return for 
+more.
+Outside of the kitchen, ?ne 
+dining establishments are also in-
+vesting in data analytics to drive 
+pro?ts. New systems, such as 
+Upserve, track every detail related 
+to a diner’s experience, including 
+their contact information, visit 
+history, past expenditures and in-
+dividual food and drink orders. 
+This data is compiled across the 
+restaurant and can unveil power-
+ful insights about the restaurant’s 
+operation. For instance, Upserve’s 
+platform automatically generates 
+a scorecard that ranks menu items 
+in comparison to each other and 
+identi?es what types of diners are 
+most likely to order each dish. A re-
+peat customer may select an entrée 
+that is rarely ordered by ?rst time 
+diners, so this dish would be clas-
+si?ed as a “hidden gem.” Upserve 
+claims that this meaningful data 
+can help servers give recommen-
+dations and help restaurants retain 
+their customers over the long term 
+by providing better service.
+Another domain affected by 
+an increased role of technology is 
+in neither the kitchen nor the res-
+taurant itself, but rather on the 
+web. Online social media giants 
+like Instagram and Facebook, as 
+well as online review aggregators 
+such as Yelp, are a dominant tech-
+nology in the hospitality industry. 
+Diners are eager to share pictures 
+of their meals “tagged” with the 
+restaurant’s name, especially at 
+exclusive and trendy restaurants. 
+“The average guest takes pictures 
+for 10 minutes before ordering 
+anything,” says Madelyn Markoe, 
+owner of Media Noche, an Insta-
+gram hot-spot restaurant in San 
+Francisco. Often, restaurants even 
+have their own Instagram pages 
+to promote seasonal menu items 
+or nightly specials. While the free 
+marketing is valuable, restaurants 
+must now dedicate additional time 
+and energy to fully engage with 
+customers online.
+To help restaurants optimize 
+their online presence, Avero, a 
+long-standing hospitality tech-
+nology company, launched Avero 
+Buzz in December of 2016. Avero 
+Buzz is a “social listening tool” of-
+fering a centralized platform for 
+communicating with customers 
+across all online platforms. This 
+service is particularly impactful for 
+restaurant groups with a portfolio 
+of different ?ne dining establish-
+ments, each with its own account 
+on Yelp, Instagram, and Facebook. 
+It integrates restaurant data with 
+social data and generates analytics 
+measuring the effectiveness of so-
+cial media marketing campaigns. 
+Though there are many ways to 
+measure campaign effectiveness, 
+the Avero Buzz platform focuses 
+on changes in customer volume 
+and customer behavior over long-
+term periods. By recognizing these 
+changes and adapting to them, res-
+taurants can derive real value from 
+their customers’ online habits.
+Across restaurant operations, 
+data is playing an increased role. 
+The data of ?avor is helping chefs 
+try new pairings and combina-
+tions. The data of customer history 
+is shaping pro?tability and the din-
+ing experience. And the constant 
+chatter of customer interactions 
+across various social platforms 
+online is a low-cost yet meaning-
+ful opportunity for publicity. Yet as 
+these technologies and others con-
+tinue to integrate into restaurants, 
+other forms of innovation seem far 
+off. Hopefully the 3D-printed ham-
+burger is not in the near future.
+By Henry Yelin.
+For more articles on policy and 
+research, see journal.heinz.cmu.edu.
+FROM THE HEINZ JOURNAL: DINNER WITH SIDE OF DATA
+Hyperpartisanship blurs moral lines in Alabama election
+JENNY YU
+Junior Staffwriter
+Many of us have most likely 
+grown up with parents or teachers 
+instructing us to not judge others 
+simply because their beliefs are 
+different from our own. While this 
+surely has its merits, it is intended 
+to be applicable in a very general 
+sense, with glaring exceptions.
+I certainly would never judge 
+someone harshly for their taste 
+in food or music — well, perhaps 
+only jokingly — but I do believe 
+that politics is a key belief that lies 
+outside the realm of that piece of 
+advice. It should be perfectly ac-
+ceptable to be judged for one’s po-
+litical views.
+I do not mean this as a hard-
+and-fast rule, however, as every-
+one should be left to his or her own 
+devices to decide to what degree, 
+personally, politics play a role 
+in his or her evaluation of some-
+one. What I do argue, instead, is 
+that people should not be deemed 
+closed-minded or otherwise for 
+choosing to let politics color their 
+opinions on someone else.
+Relationships in life are often 
+based on things shared and other 
+commonalities, as many of them 
+seemingly arise out of shared cir-
+cumstances. Therefore, I hold the 
+belief that it is de?nitely easier to 
+befriend someone who holds the 
+same set of political views.
+Of course, I de?nitely am not 
+saying that, for example, Repub-
+licans have trouble befriending 
+or cannot befriend those who are 
+Democrats or vice versa, as those 
+friendships often occur. Further-
+more, the variation within those 
+two ideologies is as varied as 
+the political spectrum itself, so 
+one may ?nd themselves sharing 
+many opinions despite identifying 
+as a part of completely different 
+parties.
+My message is that, should 
+someone choose to not enter into 
+a relationship with someone, ro-
+mantic or platonic, they should be 
+allowed to cite politics as a reason 
+why. People should be held ac-
+countable for their beliefs, even 
+if that accountability amounts to 
+judgment. For example, while I 
+am perfectly happy to and do have 
+friends who are more conserva-
+tive than I am, I cannot see myself 
+dating someone who has views 
+that deviate far from mine.
+Some people would person-
+ally not associate themselves with 
+those who are rude or those who 
+partake in activities against their 
+own morals, such as doing drugs, 
+so why should politics be any dif-
+ferent? By choosing to espouse 
+and stand behind a certain set 
+of stances, you indicate to others 
+exactly what is and isn’t impor-
+tant to you as a person. Abortion 
+rights or no abortion rights, af-
+?rmative action or no af?rma-
+tive action, gun control or no gun 
+control — what you think affects 
+how you behave and how you 
+vote, which in turn affects those 
+around you.
+Being offended has turned into 
+an ugly term in recent years, as 
+more people nowadays are being 
+mocked for being “overly sensi-
+tive” or “easily triggered.” But, 
+if what another says or believes 
+affronts, invalidates, or belittles 
+your own views, you have a right 
+to be offended, to judge another 
+for thinking that way, or to choose 
+not to associate with them.
+There can certainly be harm-
+ful political beliefs, such as being 
+against gay marriage or being for 
+neo-Nazism, to name some of the 
+ones that are more unilaterally be-
+lieved as problematic. As for the 
+most controversial ones, it will be 
+up to each person individually to 
+decide what it is and where his or 
+her boundaries lie.
+In a tumultuous time and coun-
+try like the contemporary United 
+States, we ?nd it harder and 
+harder to separate politics and our 
+everyday lives. Even in the most 
+recent presidential election, I am 
+sure that many people have or 
+have seen their friends be shocked 
+when someone they know come 
+out in support of a candidate that 
+they themselves despise.
+I’m here to say that it’s a 
+reasonable, logical reaction and 
+that their judgment is perfectly 
+warranted.
+Beliefs can cast light on character
+Anna Boyle/Staff Artist
+Paola Mathus/Art Editor
+MADELINE KIM
+Yet again, America ?nds hyper-
+partisanship interfering with eth-
+ics. On Dec. 12, voters in Alabama 
+must decide on a senator to repre-
+sent their state: Democratic can-
+didate Doug Jones or Republican 
+candidate Roy Moore. But these 
+candidates differ on more than 
+their parties. Moore has been ac-
+cused of sexually abusing minors 
+by at least four different women, 
+who were all in their teens at the 
+time of the alleged assault.
+What should be a simple choice 
+— a choice between a man who 
+prosecuted members of the Ku Klux 
+Klan and an alleged pedophile — is 
+apparently a dif?cult question be-
+ing raised and warranting heated 
+debates.
+Alabama is not known to be the 
+most liberal state. Gallup consid-
+ers Alabama to be the ?fth most 
+conservative state in the U.S., and 
+conservatives outnumber liberals 
+by approximately 30 percentage 
+points. Thus, it comes as no sur-
+prise that Moore had enjoyed being 
+in the lead up until recently despite 
+voters knowing that they are poten-
+tially supporting a pedophile.
+Additionally, Alabama is not 
+known to be the most accepting 
+of change or authority. Years back 
+during the Civil War, Alabama 
+proudly joined the secession to 
+keep allowing slave ownership. It 
+was one of the last states to racially 
+integrate schools and was reluctant 
+to allow marriage equality. Today, 
+party chairwoman Terry Lathan 
+stated that “Alabamians will be 
+the ultimate jury in this election, 
+not the media or those from afar,” 
+pushing away anyone outside the 
+state of Alabama. Loyalty is an 
+admirable quality. However, this 
+intention to defend and protect 
+Alabama by mindlessly defending 
+its every action regardless of 
+right or wrong ultimately hurts 
+Alabama. Voting for a Democrat 
+does break the Republican status 
+quo of the state, but this choosing 
+a candidate to represent Alabama 
+just because of political af?liation 
+does anything but protect Alabama. 
+It’s committing state suicide.
+Although Jones led the polls by 
+?ve percentage points as of Nov. 18, 
+it is frightening to think that just 
+four days prior, Moore maintained 
+a lead in a poll.
+Even some of those who be-
+lieve that Moore is a child molester 
+consider Moore to be the more 
+quali?ed candidate. Right-leaning 
+author David Horowitz tweeted 
+“electing a Dem strengthens a 
+party that defends [criminals such 
+as Obama and Clinton whose] 
+crimes are far far worse,” Jones is 
+automatically an inferior choice. 
+Others on Twitter have shared this 
+common sentiment. These votes 
+are not swayed by actual policies 
+or morals; they are made solely by 
+party af?liation. This is not an is-
+sue that only Republicans or right-
+wing parties are susceptible to, but 
+we are in a situation where there is 
+a great political division and exac-
+erbated by a president that further 
+perpetuates a division between the 
+two prominent political parties.
+Controversial blogger Elizabeth 
+Johnston, known as The Activist 
+Mommy, posted a meme on her 
+Twitter, placing Moore on a high-
+er moral ground than Jones. The 
+meme argues that since Moore al-
+legedly molested a child but Jones 
+de?nitely advocates for what she 
+calls “actual infanticide,” Moore 
+is the more ethical choice. Ad-
+ditionally, she has spoken to sup-
+port Moore, whom she believes 
+is “the greatest judge in America 
+who has faithfully fought for 20 
+years for the unborn, traditional 
+marriage, the 10 commandments, 
+and the constitution.” Her defend-
+ing Moore is not that surprising, 
+given her perception that Christian 
+America is under attack. However, 
+it is disheartening to know that she 
+in?uences thousands of people on 
+the Internet and can potentially 
+validate hardcore Republicans who 
+ultimately decide that party is more 
+important than policy or ethics.
+I understand that topics such 
+as abortion are sensitive and 
+topics of great gravity. However, 
+latching onto a candidate because 
+of one stance and disregarding 
+everything else about the candidate 
+is uneducated at best. Moore 
+“?ghting for the unborn” does not 
+erase the striking evidence that 
+states he preyed on young and 
+vulnerable girls.
+Hyperpartisanship is a growing 
+problem in the U.S., and it is not 
+hard to see why it has increased 
+in intensity over the years. Echo 
+chambers and social media 
+algorithms strategically lay out 
+what media we surround ourselves 
+with. Thus, we are more likely 
+to be surrounded by media that 
+aligns with our preexisting beliefs. 
+Seeing something that contradicts 
+our paradigm can be upsetting 
+and unenjoyable for someone with 
+strong opinions on a particular 
+topic. However, this kind of group 
+polarization that transforms what 
+would be moderate stances into 
+polarized stances.
+I have lived in Alabama for ten 
+years of my life. Am I surprised that 
+my home state is choosing party 
+over ethics? No. Am I ashamed and 
+wish that I could be registered to 
+vote in my home state instead of 
+Pennsylvania? Yes. With less than 
+a month remaining until the elec-
+tion, all I can hope is that we can 
+separate Moore from the party that 
+he so poorly represents.
+Madeline Kim (@madelink) is 
+the Assistant Forum Editor 
+for The Tartan.
+
+---------------------------------------------------
+
+EMMA FLICKINGER 
+Assistant SciTech Editor
+Bees and butter?ies are 
+experiencing widespread 
+population decline, creat-
+ing public concern in re-
+cent years. Data collected 
+in Germany suggest that 
+it’s not just bees and but-
+ter?ies at risk: insect popu-
+lations overall have plum-
+meted by more than 75 
+percent since 1989.
+Scientists have known 
+about the population de-
+cline for several years. 
+However, they didn’t know 
+how many species were 
+declining, and they didn’t 
+expect it to be happening 
+so fast.
+The insect population 
+data comes from a group in 
+Germany called the Krefeld 
+Entomological Society. The 
+Krefeld Society, whose 
+members are mostly ama-
+teur entomologists, has 
+been collecting data on in-
+sect populations since the 
+1980s in 63 different na-
+ture preserves. The mem-
+bers travel to a given spot 
+every few years to set up 
+an insect trap: essentially, 
+a fabric tent suspended 
+above a jar of alcohol. The 
+insects ?y into the tent and 
+can’t ?y out. While they’re 
+trapped in the tent, the ris-
+ing vapor from the alcohol 
+below gradually inebriates 
+them, and they drop into 
+the jar. The Krefeld Society 
+can then catalog the num-
+ber, type, and weight of the 
+collected insects.
+The fact that they col-
+lect any species that ?ies 
+into the trap is what makes 
+this study so important. It’s 
+rare to ?nd numbers on the 
+population trends of most 
+insects. While researchers 
+have kept fairly consistent 
+tabs on iconic insects like 
+monarch butter?ies and 
+honey bees, “we have a 
+pretty good track record of 
+ignoring most noncharis-
+matic species,” says Joe 
+Nocera, an ecologist at the 
+University of New Bruns-
+wick. Because the Krefeld 
+Society isn’t focused on any 
+one kind of insect, they can 
+look at the big picture.
+Based on this study, the 
+big picture for insects looks 
+grim. While the Krefeld 
+Society is still working on 
+cataloging the species in 
+their collection, and don’t 
+yet know all the details, 
+they do know the biomass 
+of each catch (the com-
+bined weight of all the 
+insects). They found that 
+since 1989, insect biomass 
+has gone down by over 75 
+percent. 
+This number — far larg-
+er than expected — has left 
+the scienti?c community 
+reeling. “If we lose insects 
+we’re doomed,” says Dave 
+Goulson, professor of bi-
+ology at the University of 
+Sussex in the U.K. “I know 
+this sounds overly dramat-
+ic, but we absolutely are. 
+Life on Earth would be ut-
+terly changed. We wouldn’t 
+be able to grow our crops. 
+Dung would build up in the 
+?elds. Life on Earth would 
+essentially cease. So, we 
+absolutely have to take this 
+really seriously.”
+It’s hard to ?gure out 
+what can be done to solve 
+the problem of insect dis-
+appearance without know-
+ing what’s making the in-
+sects disappear in the ?rst 
+place. 
+In the Krefeld study, 
+the Krefeld Society mem-
+bers worked with scien-
+tists at German universi-
+ties to analyze their data, 
+examining several factors 
+like the changes in weather 
+and local plant life. No sim-
+ple correlations have been 
+revealed, suggesting that 
+multiple complex factors 
+are causing the population 
+decline.
+One factor is likely the 
+way that land is being 
+used. All the data in the 
+Krefeld study was collected 
+from protected nature ar-
+eas, but the surrounding 
+land can play a factor in 
+how well the nature pre-
+serve can support insect 
+species. (Insects, which 
+travel frequently, don’t pay 
+attention to the boundary 
+between the preserve and 
+private land.) 
+When ?elds are fertil-
+ized to make better graz-
+ing land, wild?owers 
+(which insects need) are 
+replaced by grasses. When 
+towns and urban areas 
+replace ?elds, the lights 
+confuse nocturnal insects 
+and disrupt their mating. 
+“We’ve lost huge amounts 
+of habitat, which has cer-
+tainly contributed to all 
+these declines,” Goulson 
+says. “If we turn all the 
+seminatural habitats to 
+wheat and corn?elds, 
+then there will be virtually 
+no life in those ?elds.”
+In agricultural areas, 
+the use of pesticides has 
+also contributed to the de-
+cline of insects. Decades 
+ago, when pesticides like 
+DDT were exposed as 
+poisonous, they were re-
+placed by safer alterna-
+tives: safer for humans, 
+but with lethal effects 
+for insects.  Neonic-
+otinoid pesticides, intro-
+duced in the 1980s when 
+the Krefeld Society began 
+their study, are considered 
+safer for humans than 
+many alternatives because 
+they are applied to seeds 
+before planting rather 
+than to growing crops.
+see INSECT, A8
+November 20, 2017 « The Tartan                                                                                                                                     thetartan.org/scitech » A7
+Research suggests bleak future for insects worldwide
+Scientists study effectiveness of opioid treatments
+SARAH KIM
+Staffwriter
+In an era where drug 
+overdose deaths are the 
+leading cause of injury 
+and death in the United 
+States, the abuse and mis-
+use of opioids is a growing, 
+alarming public health is-
+sue — namely, the “opioid 
+crisis”. According to the 
+United States Health and 
+Human Services, 12.5 mil-
+lion people misused pre-
+scription opioids in 2015 
+alone, 2.1 million of those 
+being ?rst-time offenders. 
+Clearly, this is a dan-
+gerous social problem that 
+doesn’t seem easy to pre-
+vent. The government has 
+been trying to tackle this 
+issue since the late 1990s, 
+but there are few solutions 
+with much scienti?c proof 
+or potential.
+Suboxone, a relatively 
+mild opioid containing a 
+combination of buprenor-
+phine hydrochloride and 
+naloxone hydrochloride, 
+was approved by the Unit-
+ed States Food and Drug 
+Administration (FDA) as 
+an effective treatment of 
+opioid addiction in 2002. 
+Patients undergoing 
+treatment take daily doses 
+of Suboxone either in the 
+form of strips that dissolve 
+on the tongue or tablets 
+to minimize withdrawal 
+symptoms. 
+Although much more 
+expensive, this is preferred 
+to another addiction medi-
+cation known as metha-
+done because it can be 
+prescribed by primary doc-
+tors, and does not require 
+specially licensed clinics.
+Vivitrol is a relatively 
+new form of addiction 
+medication approved by 
+the FDA only in 2010. This 
+injection of naltrexone  
+blocks the effects of opi-
+oids is taken once a month, 
+as its effects last slightly 
+over 28 days. According to 
+Alkermes — a global bio-
+pharmacutical company, it 
+is by far the most expensive 
+opioid addiction treatment 
+substance, costing $500 
+per shot through Medicaid 
+and $1,000 through pri-
+vate insurance. Despite its 
+high cost, Vivitrol has been 
+supported and encouraged 
+by Alkermes as an alterna-
+tive for Suboxone, as many 
+people view Suboxone as 
+simply substituting a dead-
+ly opioid (heroin) with 
+another addictive but less 
+dangerous opioid (Subox-
+one itself.)
+In an article in the 
+Washington Post, Dr. Nora 
+Volkow, director of the 
+National Institute on Drug 
+Abuse, explained that Vi-
+vitrol offers “a tremen-
+dous advantage” to rural 
+patients who cannot easily 
+access trained doctors and 
+specialized daily treat-
+ment. She says, “this study 
+removes a barrier, the be-
+lief that (Vivitrol) was not 
+as good a medication.”
+A study comparing 
+these two forms of treat-
+ment medication was pub-
+lished in The Lancet on 
+Tuesday. It was led by Dr. 
+Joshua D. Lee of the New 
+York University School of 
+Medicine.
+see OPIOD, A8
+New imaging technique helps disgnose sick corals
+NAVIYA SINGLA
+SciTech Editor
+On Nov. 6, Jamie M. 
+Caldwell, a disease ecologist 
+at Stanford University, and 
+her colleagues published a 
+paper titled “Intra-colony 
+disease progression induc-
+es fragmentation of coral 
+?uorescent pigments” in 
+Scienti?c Reports. 
+The paper describes a rel-
+atively new technique called 
+live-imaging laser scanning 
+confocal microscopy and its 
+applications in better under-
+standing the health of corals.
+Coral ?uorescence — 
+the ability of corals to glow 
+in shades of red, blue or 
+green under some light 
+wavelengths, is a com-
+mon yet poorly understood 
+phenomenon. 
+Corals contain ?uores-
+cent proteins that possibly 
+allow it to perform photo-
+synthesis better by using 
+light that would otherwise 
+be unusable. This phenom-
+enon helps absorb the sun’s 
+ultraviolet rays and re?ect it 
+back to the symbiotic organ-
+isms so the they can photo-
+synthesize under insuf?cient 
+sunlight. Some scientists 
+also suggest that this ?uores-
+cent helps protect the coral 
+ecosystem from the harsh 
+rays of the sun.
+The researchers along 
+with Caldwell, say that coral 
+?uorescence is a “potentially 
+powerful non-invasive in-
+trinsic marker of coral dis-
+ease”. Previous research sug-
+gests that stressors such as 
+heat and wounding affects 
+coral ?uorescent pigments, 
+but this study is the ?rst 
+to suggest a relationship 
+between coral infectious 
+disease and ?uorescent pig-
+ments. The research studied 
+the difference between ?uo-
+rescent pigment distribu-
+tion in healthy and diseased 
+living samples of Montipora 
+capitata coral — commonly 
+known as rice coral or pore 
+coral. it is a type of reef coral 
+typically found in Hawaii. 
+The diseased sample in this 
+case was arti?cially cre-
+ated, by infecting it with the 
+Montipora white syndrome 
+— bacterial infection that 
+causes tissue loss.
+While comparing, the 
+scientists found that the two 
+coral samples looked simi-
+lar on a macroscopic level. 
+However, after observing 
+closely, they found that the 
+sick sample had lost ?uores-
+cence and the distribution 
+of the ?uorescent pigments 
+was a lot more scattered and 
+disorganized. 
+In fact, according to an 
+article on Science News, the 
+healthy coral had 1.2 times 
+more ?orescence area as 
+compared to the diseased 
+coral.
+Drew Harwell, a disease 
+ecologist at Cornell Univer-
+sity says in an article in Sci-
+ence News that research in 
+this ?eld, “is transormative 
+in our struggle to visualize 
+the dance between pathogen 
+attack and host response in 
+the initial attack.“
+This type of coral is very 
+dependent on the organ-
+isms called zooxanthellae 
+that live inside it. The tem-
+perature of the sea chases 
+out these organisms, leaving 
+the coral colorless and sus-
+ceptible to disease. Corals 
+die very quickly after that. 
+As habitat destruction and 
+global warming wipes out 
+reef corals at an alarming 
+rate, research like this is a 
+step forward in organizing 
+better conservation efforts. 
+Courtesy of NPS Photo - Larry Basch via Wikimedia Commons
+The Montipora capitata is a reef coral that is found in parts of the tropical Paci?c Ocean and displays red and cyan ?ourescence. 
+Paola Mathus/ Art Editor
+
+---------------------------------------------------
+
+A8 « thetartan.org/scitech                                                                                                                                     The Tartan » November 20, 2017
+Insect population declining
+from OPIOD, A7
+This was the largest 
+study so far to directly 
+compare the effectiveness 
+of Vivitrol with that of 
+Suboxone.
+The study was con-
+ducted with 570 adults, 
+most addicted to heroin, 
+and found that 52 percent 
+of those who were under 
+Vivitrol relapsed through-
+out the span of the 24-
+week study. 
+This is a number only 
+slightly lower than the 56 
+percent of patients that re-
+lapsed under Suboxone in 
+the same study.
+While discovering the 
+potential of Vivitrol to be-
+come a more widespread 
+form of treatment for opi-
+oid addicts in the nation, 
+the study also revealed a 
+fatal ?aw of Vivitrol. 
+This not only makes the 
+results of the study much 
+more dif?cult to interpret 
+but also speaks to the limi-
+tations of Vivitrol itself as a 
+treatment substance. 
+A large number of par-
+ticipants were not even 
+able to start treatment 
+with Vivitrol because a 
+detox period (complete 
+abstention from drug use) 
+of three days to one week 
+is required for its consump-
+tion as opposed to the oth-
+er medications, where the 
+patient can make the tran-
+sition seamlessly.  
+According to Stat News, 
+patients failed to start on 
+Vivitrol at four times the 
+rate that they did Subox-
+one because of this dif?-
+cult barrier to beginning 
+treatment.
+“It’s going to take a few 
+days or a week or more 
+to get them on naltrex-
+one in the ?rst place,” 
+said Dr. Lee. “And that 
+detox hurdle does not ex-
+ist for buprenorphine or 
+Suboxone.” 
+However, the research 
+still does encourage medi-
+cal professionals and treat-
+ment providers to offer 
+both medications, as re-
+lapse rates are signi?cant-
+ly higher if patients don’t 
+get onto and continue a 
+medication.
+The bottom line is that 
+both forms of medication 
+should be widely available 
+and readily offered to pa-
+tients suffering from opi-
+oid addiction. 
+However, medication 
+isn’t effective on its own. 
+Other research shows 
+that couseling and famil-
+ial  support signi?canlty 
+improve the effectiveness 
+of the treatment provided. 
+Now that the effective-
+ness and safety precau-
+tions of both Suboxone 
+and Vivitrol have been 
+studied in depth and pub-
+lished, we have taken a 
+step forward to treat this 
+huge public health issue. 
+Perhaps it was because of 
+the lack of such evidence 
+and research in the past 
+that led to severe under-
+treatment of the opioid 
+epidemic.
+Suboxone, Vivitrol treat opiod addiction equally well
+see INSECT, A7
+ However, they 
+have disastrous 
+effects on insects. 
+When bees are 
+exposed to these 
+insecticides, 
+they become less 
+able to navigate 
+and communi-
+cate with other 
+bees. In wasps, 
+neonicotinoid 
+exposure cuts 
+mating rates in 
+half.
+Neonicotinoids have 
+already been revealed as 
+a major culprit in the de-
+clining population of bees 
+and other pollinators. Be-
+cause neonicotinoids dis-
+solve in water so easily, 
+rainwater can carry them 
+far away from farm ?elds. 
+In meadows adjacent 
+to agricultural areas, 
+?owers produce pollen 
+and nectar that contains 
+more neonicotinoids than 
+the crops the insecticides 
+were intended for, Goul-
+son and his colleagues 
+showed in 2015. Despite 
+the fact that they are de-
+monstrably harmful, neo-
+nicotinoids are the most 
+commonly used insecti-
+cides today.
+The decline of insects is 
+a problem that needs to be 
+taken very, very seriously. 
+Almost our entire agri-
+cultural system depends 
+on insects to pollinate 
+plants so that they can 
+produce fruits, vegeta-
+bles, and seeds. If we have 
+no insects, we will not be 
+able to grow food.
+We aren’t the only ones 
+who will suffer if insects 
+go. Researchers have al-
+ready connected insects’ 
+decreasing numbers to 
+the population declines 
+of starlings in North 
+America. Birds, reptiles, 
+amphibians — any spe-
+cies that depends on in-
+sects for food will start to 
+die out, and anything that 
+eats those animals will 
+take losses. The biodiver-
+sity of the entire world is 
+at stake.
+The fact that we’ve 
+apparently lost 75 percent 
+of insect biomass in less 
+than 30 years makes that 
+future seem a lot closer 
+than anyone would have 
+guessed. 
+But how accurate is 
+the 75 percent ?gure? It’s 
+hard to say. This study 
+took place in a single 
+country, and the measure-
+ments weren’t as regular 
+as the members would 
+have liked. 
+Because comprehen-
+sive data on insect popu-
+lations is so rare, there 
+aren’t many datasets from 
+other parts of the world to 
+compare it to. 
+However, the studies 
+on bees and butter?ies,  as 
+well as smaller-scale stud-
+ies in England and 
+the U.S., seem to tell a 
+similar story.
+In light of this data, 
+the Krefeld Society has 
+immediate plans to make 
+sure their data collection 
+is as thorough and ac-
+curate as possible. They 
+plan to install a “biodiver-
+sity weather station” that 
+can consistently monitor 
+the presence of species in 
+a nature preserve, with 
+seven automated compo-
+nents. 
+It includes a pollen col-
+lector, a ‘sky scanner’ to 
+spot birds, bats, and ?y-
+ing insects, and a sound 
+recorder to listen for frog, 
+bird, and insect calls. 
+They are also planning to 
+continue their traditional 
+insect collections at more 
+frequent intervals.
+Though the exact mag-
+nitude of insect popula-
+tion decline is uncertain, 
+scientists are certain that 
+it’s happening. 
+While there are strat-
+egies that might slow it 
+—such as putting restric-
+tions on pesticide use — 
+“they all require buy-in 
+from signi?cant numbers 
+of people,” Goulson says. 
+“One or two environmen-
+talists like me banging on 
+isn’t going to do anything. 
+We need the majority of 
+people on Earth to change 
+their ways, and that’s a 
+pretty dif?cult thing to 
+achieve.”
+Paola Mathus/ Art Editor
+
+---------------------------------------------------
+
+November 20, 2017 « The Tartan                                                                                                                                      thetartan.org/sports » A9
+SPORTS BRIEFS
+Women’s Soccer
+The eighth-ranked 
+Carnegie Mellon women’s 
+soccer team dominated play 
+against third-ranked Hardin-
+Simmons University on 
+Saturday, Nov. 18 in the sec-
+tional semi?nal of the 2017 
+NCAA Division III Women’s 
+Soccer Championship but 
+were unable to ?nish any of 
+its 17 shots, as the Cowgirls 
+narrowly defeated the 
+Tartans, 1–0.
+The Tartans controlled 
+possession and stymied the 
+potent offensive attack of 
+the Cowgirls, which has 
+scored 108 goals this year, 
+but only one mattered — a 
+corner kick toward the net 
+that was just over the arms 
+of ?rst-year Carolyn Botz in 
+the 77th minute. A Cowgirl 
+was at the front post and 
+prevented Botz from getting 
+to the service that curved 
+across the line.
+The Tartans peppered 
+the Cowgirls defense and 
+the goalkeeper all game long 
+and continued to press for-
+ward even after the Cowgirls 
+went ahead. In the 87th 
+minute, senior Alex Moy 
+?red a shot off the crossbar, 
+and the goalkeeper saved a 
+shot by senior Tori Iatarola 
+25 seconds later.
+Iatarola and senior Haili 
+Adams each put two shots 
+on goal while senior Sienna 
+Stritter ?red off three shots, 
+one of which was just high of 
+the goal in the 12th minute.
+The Tartans conclude the 
+season with a 15–3–2 re-
+cord in the program’s sixth 
+straight trip to the NCAA 
+tournament and fourth 
+appearance in the ?nal 16.
+Football
+The Carnegie Mellon 
+football team competed in 
+the 2017 Eastern College 
+Athletic Conference (ECAC) 
+Asa S. Bushnell Bowl and fell 
+to the Mules of Muhlenberg 
+College, 32–6. The game 
+was held on the campus of 
+the University of Delaware 
+in Newark, DE.
+Following an intercep-
+tion by Carnegie Mellon 
+senior linebacker Sean 
+Graff, the Tartans put to-
+gether an 11-play, 59-yard 
+drive that resulted in a 29-
+yard ?eld goal by senior 
+Tyler Kohman. Kohman’s 
+kick gave the Cardinal and 
+Gray a 3-0 lead with 3:29 to 
+play in the ?rst quarter.
+Muhlenberg took a 7-3 
+lead with 2:43 left in the half 
+after a 49-yard catch and 
+run. The Mules intercepted 
+junior quarterback Cline on 
+the Tartans’ ?rst play of the 
+ensuing possession and took 
+over on the Carnegie Mellon 
+15-yard line. The Tartans 
+defense held the Mules to 
+a ?eld goal, as the 24-yard 
+boot by made the score 10–3 
+with 1:21 on the clock.
+With seven minutes to 
+play in the third quarter, 
+Muhlenberg extended its 
+lead to 17–3 with a 2-yard 
+run. A 28-yard ?eld goal by 
+Kohman with 1:44 to play 
+in the third put the score at 
+17–6.
+The Mules responded 
+and pushed their lead to 
+23–6 on the next possession. 
+A nine-play, 79-yard drive 
+was capped off with a 5-yard 
+touchdown run at the 12:35 
+mark of the fourth quarter. A 
+safety by the Mules and an-
+other touchdown run, this 
+time a 2-yard run, left the 
+score at 32–6 with 6:49 to 
+play.
+Cline became the school’s 
+single-season passing leader 
+after throwing for 178 yards. 
+The signal caller ?nished the 
+season with 2,336 yards and 
+passed Andrew Hearon’s 
+mark of 2,201 yards set in 
+2015.
+Junior wide receiver 
+Karl-Mark Kumm had a 
+career-high seven receptions 
+for career-best 80 yards 
+while senior wide receiver 
+John Prather ?nished with 
+38 yards and four catches.
+Senior running back Sam 
+Benger led the Tartans rush-
+ing attack with 70 yards and 
+ends the season with 1,053 
+yards, becoming the ?rst 
+back in program history to 
+rush for 1,000 yards in three 
+straight seasons.
+Benger and Prather both 
+?nish their careers as the 
+program’s all-time leader at 
+their respective positions. 
+Benger rushed for 5,376 
+yards and 59 touchdowns 
+while Prather recorded 
+3,077 receiving yards and 
+25 touchdowns.
+Defensively, junior cor-
+nerback Ethan Anderson led 
+the Tartans with ten tackles, 
+six solo. Graff ended with 
+nine while seniors Stanley 
+Bikulege, Kyle Brittain, and 
+Drew Fitzmorris each ?n-
+ished with seven.
+The Tartans ?nish their 
+season with a record of 7–4 
+while the Mules end the year 
+with a record of 8–3.
+Women’s Cross Country
+The Carnegie Mellon 
+women’s cross country team 
+?nished 24th in the 2017 
+NCAA Division III Women’s 
+Cross Country Champion-
+ships hosted by Principia 
+College in Elsah, IL, on Sat-
+urday, Nov. 18. The Tartans 
+were running in the cham-
+pionship race for the fourth 
+time in program history and 
+?rst time since 1998.
+The Tartans ?nished 
+ahead of University Athletic 
+Association (UAA) counter-
+part Emory University and 
+ahead of Mideast Regional 
+opponents Elizabethtown 
+College, Haverford College, 
+and Dickinson College.
+Senior Aparna Alavilli 
+led the Tartans, ?nishing 
+49th overall with a time of 
+21:46.90. This was her sec-
+ond year in a row competing 
+in the championships, and 
+she placed 60 spots better 
+than her previous record.
+Sophomore Abigail 
+Levine crossed second for 
+the team in 22:15.60, ?n-
+ishing 108th. Sophomore 
+Emmalyn Lindsey crossed 
+the ?nish line next for the 
+Tartans and 119th overall 
+with a time of 22:22.80. 
+Fourth for Carnegie Mellon 
+was sophomore Kate Reilly 
+in 23:17.80.
+Following Reilly 
+were ?rst-year Parvathi 
+Meyyappan with a time 
+of 23:35.80 and senior 
+Rhiannon Farney in 
+23:45.90. Finishing strong 
+for the Tartans was junior 
+Allison Scibisz with a time of 
+24:23.80.
+The memorable season 
+comes to a close with the 
+Tartans also earning fourth-
+place ?nishes at the UAA 
+Championship and Mideast 
+Regional, both their best 
+since the 2012 season.
+Men’s Cross Country
+The Carnegie Mellon 
+men’s cross country team 
+placed 21st at the NCAA 
+Division III Cross Country 
+Championships on Saturday, 
+Nov. 18. The meet was host-
+ed by Principia College in 
+Elsah, IL, with North Central 
+College earning the champi-
+onship title.
+Junior Aadi Mhatre was 
+the ?rst Tartan to cross the 
+?nish line when he ?nished 
+the 8k course 83rd overall 
+in 25:24.98. Junior Jared 
+Moore wasn’t far behind as 
+he ?nished 95th in 25:28.16.
+Sophomore Liam Walsh 
+ran the course in 25:46.30 
+while senior Andrew Harter 
+?nished three seconds later 
+and fourth for the Tartans.
+Senior Jordan Safer was 
+the ?fth Tartan to cross the 
+?nish line when he ?nished 
+185th overall in 25:56.30.
+Also competing in the 
+championship meet were 
+sophomores Evan Yukevich 
+and Josh Kalapos. Yukevich 
+?nished in 26:20.92 and 
+Kalapos in 26:46.14.
+Women’s Basketball
+The Carnegie Mellon 
+women’s basketball team 
+picked up its second 20-
+plus win of the season on 
+Saturday, Nov. 18 when the 
+Tartans topped Allegheny 
+College, 76–47, in the 
+Allegheny Greg Richards 
+Memorial Classic. The 
+Tartans are now 2–0 for 
+the season while the Gators 
+move to 1–1.
+The Tartans were led 
+by sophomore Katharine 
+Higgins who had 20 points 
+and seven rebounds. Join-
+ing Higgins in double-digit 
+points was sophomore 
+Makayla Filiere with 15 
+points and sophomore 
+Laurel Pereira with 14.
+The Tartans put to-
+gether a defensive effort 
+that caused 19 turnovers 
+and held the Gators to 25.0 
+percent shooting from the 
+?eld. Higgins had three of 
+the team’s ten steals and the 
+Tartans scored 21 points off 
+of 19 turnovers.
+Higgins, who shot 42.9 
+percent from the ?oor, 
+opened the game with one 
+of her two three-pointers 
+for the game. The Gators 
+then went on a 14–0 run 
+before Filiere hit a jumper 
+off an assist by junior Jenn 
+Mayberger with half the pe-
+riod still to play. The Tartans 
+then ?nished the ?nal ?ve 
+minutes with an 11–6 run 
+that they extended to 18–6 
+through the ?rst 4:48 of the 
+second period.
+While the Gators shot 
+64.3 percent in the ?rst pe-
+riod, they went cold in the 
+second, hitting just one of 13 
+from the ?oor and scoring 
+just ?ve points. The Tartans 
+hit seven ?eld goals and shot 
+41.2 percent from the ?oor 
+to lead 35–25 at the break.
+The Gators would score 
+the ?rst four points of the 
+second half to pull within 
+six points but the Tartans 
+answered with a 15–0 run 
+that began with a layup by 
+sophomore Laura Ochsner. 
+The run put the Tartans up 
+50–29 with 4:34 to go in the 
+third period.
+The Tartans continued 
+to add to their lead, which 
+topped out at 32 when ?rst-
+year Kylie Huffman drained 
+the team’s eighth three-
+pointer of the game with 
+1:46 to play in the game.
+Mayberger collected six 
+assists and seven rebounds 
+in the game while playing 37 
+minutes, as Ochsner scored 
+seven points and grabbed 
+nine rebounds to lead the 
+team.
+The Tartans will contin-
+ue their season on the road 
+Tuesday, Nov. 21 at Bethany 
+College at 4:00 p.m.
+Women’s Swimming & 
+Diving
+First-year Maddie Mianzo 
+won the 3-meter event at 
+the Carnegie Mellon Diving 
+Invitational on Friday and 
+Saturday, Nov. 17-18 against 
+Allegheny College and 
+Rowan University.
+Mianzo’s score of 391.45 
+was the best of the day on 
+the 3-meter with Allegheny’s 
+Brionna Litwin scoring next 
+highest with 386.65 points. 
+Carnegie Mellon ?rst-year 
+Lillie Widmayer was third 
+on the 3-meter with 375.35 
+points while sophomore 
+Megan Roche scored 371.40 
+points and placed fourth.
+Litwin edged out Mianzo 
+on the 1-meter with 404.90 
+points to Mianzo’s 388.55 
+points. Roche placed fourth 
+with 363.15 points and 
+Widmayer was ?fth with 
+353.90 points.
+Men’s Swimming & Diving
+Carnegie Mellon junior 
+Gabe Bamforth solidi?ed his 
+position to compete at the 
+NCAA Division III Regional 
+meet in March with his 
+performance at the CMU 
+Diving Invitational against 
+Allegheny College and 
+Rowan University on Friday 
+and Saturday, Nov. 17-18.
+Bamforth won both the 
+1-meter and 3-meter events 
+and set pool records with 
+his scores of 473.55 and 
+496.85 after 11 dives. Senior 
+DeShawn Green placed third 
+on the 1-meter board with a 
+career-best 405.75 points 
+and fourth on the 3-meter 
+board with 362.30 points.
+Junior Evan Hill placed 
+?fth on the 3-meter board 
+with a career-best 323.20 
+points and sixth on the 
+1-meter board with 293.00 
+points.
+Compiled by
+ IAN TANAYA 
+Write For Sports!Interviews,Sporting Events,Writing Experience!sports@thetartan.org
+
+---------------------------------------------------
+
+A10 « thetartan.org/sports                                                                                                                             The Tartan » November 20, 2017
+Fantasy football: playoff picture coming into focus
+Men’s basketball loses to La Roche in home opener
+MARIKA YANG
+Assistant Sports Editor
+This week, I’m back to re-
+cap week ten of The Tartan’s 
+fantasy football league. I’m 
+?lling in for staffwriter 
+Josh Andah, who scored 
+the least number of points 
+in the league for the week. 
+Save for Andah’s team, all 
+?ve of the other competitors 
+reached above 100 points. 
+Here are the highlights from 
+the week:
+Third-String Team over Yes 
+We Cam 114.5–101
+Despite winning this 
+week, my team Third-String 
+Team’s record of 5–5 trails 
+behind Editor-in-Chief 
+India Price’s team Yes We 
+Cam’s record, which now 
+sits at 7–3. Price earned a 
+whopping 35.7 points from 
+Carolina Panthers quarter-
+back Cam Newton, by far 
+his best week this season. 
+Despite Minnesota Vikings 
+wide receiver Stefon Diggs’s 
+17.8 points off of 4 catches, 
+78 yards, and a touchdown, 
+and a solid 15.2 points 
+from Miami Dolphins wide 
+receiver Jarvis Landry (5 
+catches, 42 yards, and a 
+touchdown), Price’s team 
+was derailed by earning 
+only 0.3 points from Atlanta 
+Falcons running back 
+Devonta Freeman before 
+he left his game due to a 
+concussion.
+My running back, the 
+Chicago Bears’ Tarik Cohen, 
+also let me down with only 
+2.1 points, but I managed 
+to get the win this week 
+due to great performances 
+from Cincinnati Bengals 
+wide receiver A.J. Green 
+(22.5 points) and New 
+York Giants tight end Evan 
+Engram (15.1 points). The 
+Los Angeles Rams defense 
+also showed up, adding 16 
+points.
+Drop it like it’s Crock over 
+Team Andah 161.9–56.2
+Publisher Jade Crockem 
+predicted correctly in her 
+recap last week that she 
+would get the win over 
+Andah. New Orleans Saints 
+running back Mark Ingram 
+had his best week of the 
+season with 131 yards on 
+21 carries and three touch-
+downs, totaling 31.1 points 
+for Crockem. Wide receivers 
+Adam Thielen of the Vikings 
+and Larry Fitzgerald of the 
+Arizona Cardinals also per-
+formed well for Crockem, 
+with 30.6 points and 21.3 
+points, respectively.
+Crockem didn’t need 
+so many players from her 
+lineup to perform as well as 
+they did because two play-
+ers in Andah’s lineup were 
+on their bye weeks, one is 
+on injured reserve, and an-
+other served a suspension 
+during the week. Of the re-
+maining ?ve players, three 
+contributed fewer than 
+ten points apiece. In past 
+weeks, Andah’s completely 
+hands-off approach (read: 
+auto-drafting and never 
+adjusting his lineup) has 
+worked to his advantage, 
+but this week it failed him.
+Easy Breesy over Justin 
+Tucker Must (not) Die 
+131.5–127.3
+In the closest matchup 
+of the week, Sports Editor 
+Ian Tanaya topped contrib-
+uting editor Lula Beresford 
+to stand at the top of the 
+standings next to Price’s 
+team. Tanaya’s team had 
+a great week across the 
+board, but the performanc-
+es from two of his running 
+backs helped him pull past 
+Beresford. Saints running 
+back Alvin Kamara earned 
+24.8 points from 106 yards 
+off 12 carries and a touch-
+down. Tennessee Titans 
+running back DeMarco 
+Murray returned to form, 
+scoring two touchdowns 
+and adding 29.2 points for 
+Tanaya’s team.
+Beresford’s team, for the 
+most part, also had a great 
+week, with New England 
+Patriots quarterback Tom 
+Brady scoring 22.6 points, 
+Saints wide receiver 
+Michael Thomas with 20.7 
+points, Panthers running 
+back Christian McCafferty 
+adding 20 points, and the 
+Ram’s Greg Zuerlein kick-
+ing his way to 17 points. 
+The Denver Broncos de-
+fense was the only member 
+of her lineup that had a sig-
+ni?cantly bad week, with 
+negative three points.
+Next week, we have the 
+top two teams Yes We Cam 
+and Easy Breesy facing off. 
+Despite Team Andah’s poor 
+showing this past week, 
+I predict it will rebound 
+against Justin Tucker Must 
+(not) Die; the last time the 
+teams played each other 
+they tied. The ?nal match-
+up is my team versus Drop it 
+like it’s Crock, which stands 
+in my way to getting above 
+.500 for the ?rst time.
+IAN TANAYA
+Sports Editor
+The men’s basketball 
+team opened the season 
+at home against La Roche 
+College on Friday night, 
+falling 71–64.
+Three Tartans turned in 
+11-point performances as 
+senior guard Ryan Maha, 
+junior forward and guard 
+Seth Henry, and sophomore 
+guard Colin McNeil led the 
+team, which shot 43.9 per-
+cent from the ?oor. The 
+Tartans held the Redhawks 
+to a 36.4 percent effort 
+from the ?oor but were out-
+rebounded 53–31. Maha 
+dished out ?ve assists, tying 
+his career high.
+First-year guard Zach 
+Watson made his ?rst shot 
+of the game, a three-point-
+er, to put the Tartans up 
+9–6 before a three-pointer 
+by the Redhawks tied the 
+game with 12:49 to play in 
+the ?rst half. The Tartans 
+then scored nine straight 
+points over a two-minute 
+span to take an 18–9 lead. 
+First-year forward Daniel 
+Weiss hit a three-pointer at 
+the end of the run.
+The Redhawks went on 
+an 11–1 run to take the lead 
+at 20–19 with seven min-
+utes to play in the half. The 
+lead changed hands four 
+times before the half ended 
+with the Redhawks leading 
+28–26.
+Henry hit the open-
+ing bucket of the second 
+half to tie the game for the 
+sixth time before McNeil 
+converted a layup to give 
+the Tartans back the lead, 
+30–28. The teams traded 
+buckets until the Redhawks 
+took the lead for good on a 
+three-pointer with 10:04 
+to play in the game. That 
+three-pointer broke up the 
+12th tie of the contest and 
+sparked a 9–2 run that put 
+the visitors ahead 53–46.
+The Tartans pulled to 
+within one point after a 
+layup by sophomore for-
+ward Trent Suddeth and a 
+layup by McNeil with 2:33 
+to play but the Redhawks 
+scored on a jumper in the 
+paint and the Redhawks hit 
+6-of-8 from the line to keep 
+the lead and win by seven.
+The Tartans will next 
+face Bethany College on 
+Tuesday, Nov. 21 at 6 p.m.
+Women’s basketball takes season opener in blowout
+IAN TANAYA
+Sports Editor
+The women’s basketball 
+team opened the season 
+with a 75–47 victory against 
+Fredonia State University of 
+New York at the Allegheny 
+College Greg Richards 
+Memorial Classic on Friday.
+Leading the Tartans was 
+sophomore guard Laurel 
+Pereira with a career-best 
+20 points. Sophomore 
+forward Katharine Higgins 
+and sophomore guard 
+Makayla Filiere also scored 
+in the double digits with 15 
+points apiece while ?rst-
+year forward Kylie Huffman 
+put in 11 points in her ?rst 
+outing in a Tartan uni-
+form. Higgins also pulled 
+down ten rebounds for her 
+?rst double-double of the 
+season, tying her career 
+best in the category. Filiere 
+grabbed a career-best sev-
+en boards and Pereira tied 
+her career-best with ?ve 
+rebounds.
+The Tartans led 23–10 
+after the ?rst quarter behind 
+nine points from Pereira. 
+The sophomore guard put 
+in seven straight during 
+the quarter for the Tartans, 
+who held the Blue Devils to 
+no points for the ?rst three 
+minutes of the game.
+Higgins hit the last bas-
+ket of the quarter for the 
+Tartans and opened the 
+second with another bucket 
+on her way to 10 ?rst-half 
+points. The Tartans ex-
+tended their 13-point ?rst-
+quarter lead to a 19-point 
+lead by the break, leading 
+40–21 at halftime.
+Filiere owned the third 
+quarter for the Tartans, 
+converting two buckets and 
+a free throw for ?ve of the 
+team’s 12 points.
+The Tartans then hit 
+nine shots and four free 
+throws in the fourth quar-
+ter to ?nish the game with 
+the 23-point win. Huffman 
+scored nine points in the ?-
+nal period with sophomore 
+forward Laura Oschner put-
+ting in four points.
+The Tartans assisted 
+on 12 of their 30 baskets 
+and shot 40.5 percent from 
+the ?oor while holding the 
+Blue Devils to 28.1 percent 
+shooting from the ?eld.
+After a 76–47 victory 
+over Allegheny College on 
+Saturday, the Tartans will 
+next face Bethany College 
+on Tuesday, Nov. 21.
+Ultimate Frisbee cultivates community, competition
+KATE LISTON
+Staffwriter
+“The spirit of the game, 
+I don’t know if I’ve em-
+phasized it enough,” said 
+Masters Material Science 
+student and co-captain 
+of the Women’s Ultimate 
+Frisbee team Marissa 
+Schwartz regarding what 
+draws her to Ultimate 
+Frisbee.
+Ultimate Frisbee isn’t 
+your ‘typical’ sport: as a mix-
+ture between basketball, 
+football, and soccer, it in-
+volves athleticism, yes, but 
+forces team members to 
+form close bonds with each 
+other in order to properly 
+regulate the team. This ide-
+ology makes the team will-
+ing to welcome anyone who 
+can adapt the proper spirit.
+“For people who have 
+never even run in their 
+life, we welcome them into 
+the sport. For people who 
+have been playing for many 
+years, we welcome them, as 
+well,” said Schwartz. “It’s 
+really a hard balance some-
+times between skill levels, 
+but the community and the 
+friendships that you build 
+when you’re playing Frisbee 
+is something that has been 
+a huge aspect of the team.”
+Ultimate Frisbee plays all 
+year long, but their primary 
+season is in the spring. In 
+the fall they only play three 
+tournaments, which count 
+towards their record but 
+don’t factor into whether 
+they go to regionals, and in 
+the winter they play pickup 
+games with high-school to 
+middle-aged teams. Their 
+spring tournaments decide 
+whether they will go to the 
+sectional, regional, or na-
+tional competitions.
+The men’s and women’s 
+teams are, for the most part, 
+very similar other than their 
+season goals. The men’s 
+team is a bit more competi-
+tive and strictly adhere to 
+the practice schedule more 
+than the women’s. They 
+have enough members to 
+split into an A team and a 
+B team, which allows the A 
+team to be more competi-
+tive while the B works on 
+their skills.
+The women’s team, on 
+the other hand, focuses 
+more on the spirit of the 
+game. Once Schwartz took 
+on the position of being co-
+captain during sophomore 
+year of her undergraduate 
+degree here, she decided 
+the team should be less fo-
+cused on competition to 
+make them more welcom-
+ing to new players; she 
+encourages this through 
+team dinners, outings to 
+landmarks such as Niagara 
+Falls after tournaments, 
+and events such as pump-
+kin carving. She wanted ev-
+ery player to feel as though 
+practice was a nice break in 
+their day.
+“[It was a] ‘let’s really 
+try to win games and win 
+tournaments and show that 
+Carnegie Mellon isn’t just a 
+nerd school’ kind of thing, 
+and I think that approach 
+wasn’t conducive to build-
+ing a team in general. A lot 
+of our efforts are to focus 
+less on winning and being 
+competitive and more on 
+the fun, positive aspects of 
+playing a sport.”
+The importance of bond-
+ing between team mem-
+bers stems from the fact 
+that there are no referees 
+in Ultimate Frisbee. This 
+makes communication and 
+“the spirit of the game” 
+crucial for success. When 
+there is a foul, the players 
+are expected to call it them-
+selves, and the two teams 
+on the ?eld discuss who 
+is penalized and what the 
+penalty will be.
+“Teams should honor the 
+rules. To gain an advantage 
+they shouldn’t disagree 
+even though they are 
+incorrect in disagreeing,” 
+said Schwartz.
+Schwartz says getting 
+involved with the team is 
+as easy as emailing one of 
+the four captains: Justin 
+Abel, Foster Boales, Shani 
+Rosenthal, or herself. Af-
+ter that, one only needs to 
+attend as many practices 
+as possible, buy a pair of 
+cleats, and have fun with 
+the other members.
+Ultimate Frisbee may 
+not be a sport that is partic-
+ularly prominent in popular 
+culture, but the club team 
+here at Carnegie Mellon 
+knows its value and has 
+found it to be a crucial part 
+of their college experience.
+Courtesy of CMU Athletics
+Sophomore guard Laurel Pereira earned a career-best 20 points in the home opener against Fredonia.
+Courtesy of Money Mellons via The Bridge
+Ultimate Frisbee is available for both men and women to take part.
+Courtesy of CMU Athletics
+The men’s basketball team sets up a shot during the losing effort to La Roche in their home opener.
+Courtesy of Keith Allison via Wikimedia Commons
+Carolina Panthers quarterback Cam Newton led all quarterbacks.
+
+---------------------------------------------------
+
+pillbox
+• B4 Light Up Night • B6 Compos-it Opera • B10 BIB XI
+The Tartan’s Art & Culture Magazine
+11.20.17
+
+---------------------------------------------------
+
+The Tartan. Box 119. Cohon Center Suite 103. Carnegie Mellon University. 5000 Forbes Ave. Pittsburgh, PA 15213. www.thetartan.org. © 2012 The Tartan
+Publisher Jade Crockem Editor-In-Chief India Price
+Pillbox Editors Apeksha Atal and Sinead Foley Comics Editor Julie Sanscartier 
+Visual Editors Aisha Han and Theodore Teichman Layout Manager Abhishek Tayal
+Copy Manager Ruth Scherr Cover Photo Courtesy of Tina Vaz
+table of contents
+5
+3Advice for Awkward People: On saying no
+10Bhangra in the Burgh
+11Puzzles: Your weekly mental warm up
+Comics: Clothes, autocorrect, and finals12
+Horoscopes: The signs as Overheard quotes14
+8Isabel Allende
+Bar Buddies: The Church Brew Works3
+6
+4Light Up Night
+Compos-it Opera
+No Different from Your Other
+
+---------------------------------------------------
+
+3
+g
+Ruth Scherr | Copy ManagerAdvice for Awkward People
+On saying no
+Hey Ruth!
+Last week you wrote about ways to talk to your 
+family about your major, which is great, but what 
+about, like, everything else?
+What I mean is — I find holidays with family 
+exhausting. Don’t get me wrong, I love seeing 
+everyone and celebrating, and the excuse to do 
+nothing all day is amazing, but in reality, I don’t 
+actually end up doing “nothing.” My aunts and 
+uncles are always asking me to watch my younger 
+cousins and I just cannot be responsible for six 
+different kids, even if I am related to all of them.
+I’m also finding more and more as I grow up, 
+that being at the level of holiday cheerfulness 
+and engagement that’s expected of me is getting 
+more difficult. I don’t know if I could be around 
+anyone for eight hours straight and be up for a 
+conversation about my/their life at any point. 
+I don’t think I’m a Grinch or anything, but 
+sometimes I just want to take a break.
+Quit the Useless, Intrusive, Endless Talking. People 
+Like Silence. 
+Dear QUIET PLS ,
+The good news is that you’re definitely not a 
+Grinch. Well, you might be, but not because of 
+this. Trust me when I say it’s a nearly universal 
+experience to get sick of your relatives during 
+holiday visits. Just look at every holiday comedy 
+ever made. I do recognize that knowing that 
+everyone else is suffering with you is less useful 
+as a practical solution, though I find it emotionally 
+helpful, so let’s talk about how to tell people “no.” 
+Because that is, ultimately, what you’re going to 
+have to do.
+It can be extremely difficult to say no in this 
+kind of situation. We’re more or less trained to 
+automatically love our family because they’re 
+blood, and as any such indication of disagreement 
+or declining what they’ve asked of you can 
+be read as impolite or rude. And when you’re 
+already trying to mediate between these people 
+who you do love, but can definitely get on each 
+other’s nerves, one little “no” can feel like the 
+breaking point. Maybe it’s not your responsibility 
+to make sure everything goes well when people 
+are visiting, but it’s just much easier to deal with 
+all of it than have everyone explode, right?
+Is it, though? You sound as if acquiescing to 
+everyone’s requests is already beating you and 
+your level of enjoyment down. But it’s only every 
+so often, and dealing with the fallout would be 
+so much worse, maybe. I honestly don’t know 
+— you’re the only one who can judge yourself 
+and your family situation. But part of growing up 
+is learning how to set boundaries and actually 
+enforce them, so I’m generally in support of 
+saying “no” even when you’re not sure how it will 
+go. And honestly? If your relatives are the type of 
+people to explode the moment you don’t agree 
+to everything they ask, I think you should start 
+learning how to say “no” real soon.
+If the hard, blunt “no” is still intimidating, I’d 
+recommend building in a way to give a “soft no” 
+if needed. Basically, find something that will give 
+you a way out of babysitting or conversation 
+without explicitly turning someone down. Go 
+help in the kitchen, or have work you need to do 
+(don’t we all), or even just go for a walk. I’m sure 
+it gets just as stuffy at your house as it does at 
+mine, and going out by yourself or with a family 
+member whose company you know you enjoy is 
+a good way to get a break and clear your head. 
+You can’t be full of holiday cheer if you’re full of 
+frustration, so take care of yourself.
+Have a wonderful time of the year,
+Ruth
+Need advice? 
+Send queries to https://goo.gle/xk23wd
+Sinead Foley | Pillbox EditorBar Buddies: The Church Brew Works
+A literal altar to beer
+I love churches. The history, the architecture, the 
+stained glass, the ambiance. What can I say, I’m 
+a bit obsessed. So when I found out there was a 
+microbrewery in a former Catholic Church, it was 
+only a matter of time before I ended up grabbing 
+a drink at The Church Brew Works.
+The location: Situated between Polish Hill and 
+Lawrenceville, Church Brew Works is a bit of a 
+hike from campus. The 54 from Craig St. and 
+Winthrop St. is your best bet, or a combination of 
+the 61B and 87 or 71 and 86. Once you’re finally 
+there, there’s plenty to do. The church is on Liberty 
+Ave., so the restaurants and bars of Penn Ave. are 
+a short walk away.
+The drinks: I don’t like beer, so a microbrewery 
+was a bit of a weird move for me. But it paid off 
+big time. We tried two of their seasonal draft 
+beers: Count Dankula and Oats McOats. Count 
+Dankula is a bright red color that earns its name. 
+Oats McOats is a beer for beer haters like me. 
+It has a smooth, hoppy taste that means business 
+but isn’t too bitter. They also have a couple more 
+seasonal offerings, including a spiced Christmas 
+Ale and a Jack Skellington Imp Pumpkin Stout if 
+you’re not ready to let go of the Halloween spirit 
+and jump on the Christmas bandwagon just yet.
+The bar also has food offerings and a restaurant 
+section on one side of the aisle if you’re feeling 
+a bit more upscale. However, the food prices 
+are steep, more in a parent’s budget than a 
+college student’s. 
+The vibe: The vibe very much depends on 
+how you feel about having a bar in a church 
+because it most definitely is a church. The Church 
+Brew Works team isn’t shy about the somewhat 
+sacrilegious nature of their endeavor. Core draft 
+brews include Celestial Gold and Pious Monk 
+Dunkel, and the first thing you see when you walk 
+in are massive steel and copper tanks for beer 
+brewing on the high altar.
+However, there is no denying that the space is 
+gorgeous, and it was abandoned for three years 
+and in disrepair before the Church Brew Works 
+owners restored it in 1996. Now, the beautiful 
+architecture is being maintained and the history 
+of the parish is being remembered, so something 
+good came of the conversion. 
+The Church Brew Works is hardly a rowdy 
+nightclub full of hedonistic sin (luckily there are 
+plenty of other places for that in Pittsburgh). The 
+crowd is older, and the vibe is quiet and relaxed. 
+It’s the kind of place where you grab a quality 
+beer with a friend or two.
+Lit or Nah: I am going to go with Nah. It doesn’t 
+have the energy to be a place to start or end a 
+night out, and it’s too far and too gimmicky to be 
+a comfortable, neighborhood bar for a weeknight 
+drink with a friend. It’s worth a visit at least once 
+for the good beer and the experience, but I’d say 
+once is enough unless you’re a beer fanatic.
+
+---------------------------------------------------
+
+4
+Michelle Madlansacay | StaffwriterLIGHT UPNIGHT
+It’s never too early to get into the holiday spirit. 
+The city of Pittsburgh makes that clear every year 
+when it hosts Comcast Light Up Night. During Light 
+Up Night, all of downtown is decorated with beau-
+tiful lights and Christmas trees, Market Square is 
+transformed into a little holiday-themed village, and 
+live musical performances take place down by the 
+bridges. 
+It’s a wonderful event to attend with friends and 
+family that will definitely help set the mood for the 
+holidays. If you’re planning on attending Light Up 
+Night in the coming years, I have a few tips on how 
+to make the most of your experience, since this was 
+my second time going:
+Check the schedule of events ahead of time
+Starting at 11:30 a.m., different holiday-themed 
+events take place all over downtown Pittsburgh. 
+You’ll usually find the tree-lighting ceremonies occur 
+in the morning, while all the live musical  
+performances and fireworks happen at night. 
+Downtown can get really crowded on this day, mak-
+ing it a bit difficult to navigate through the city. It’ll 
+make things a lot easier for you if you know all the 
+event locations and how much time it takes to get 
+from one place to the next.
+Dress warm for the weather
+Nobody really knows what to expect when it comes 
+to Pittsburgh weather. However, in my Light Up 
+Night experiences, it has been pretty cold both 
+years. Wearing a big jacket, scarf, hat (they usually 
+give out Santa hats, but they won’t keep you very 
+warm), and comfortable shoes is ideal.
+Book a reservation for a restaurant down-
+town way in advance, or eat before going
+Almost every restaurant my friends and I passed 
+by was packed. We made reservations to Sienna 
+Mercato about a week before Light Up Night, so 
+we were able to eat there. But even when we were 
+making the reservations, we saw that many other 
+restaurants were already booked, so be sure to 
+reserve spots about two to three weeks in advance. 
+Generally, I find most food places downtown to be 
+pricier, so eating at home or somewhere else before-
+hand isn’t a bad idea either.
+Find some time for ice skating
+Every year around this time, PPG Place opens their 
+ice skating rink to the public, where people can 
+skate around a giant Christmas tree. It doesn’t cost 
+too much, and it’s a great opportunity for you and 
+your friends to have fun and possibly try something 
+new. If you decide to go skating, I do warn you to 
+wear long socks because deep ankle blisters are 
+definitely not fun to have.
+Embrace spontaneity
+Not knowing what to expect during Light Up Night 
+can result in a very fulfilling experience. Although 
+planning your trip ahead of time can make things 
+more convenient for you as you explore the city, the 
+spontaneity can add a lot of excitement. 
+For example, my friends and I knew that singer 
+Andy Grammer was performing this year, we just 
+didn’t know where and at what time. As we were 
+walking downtown, we began to hear him singing 
+his song “Honey, I’m Good.” My friends and I fol-
+lowed the sound of his voice and ran to the area 
+where he was performing. We even got great spots 
+to take pictures of him on stage. Generally, when it 
+comes to Light Up Night in Pittsburgh, there’s really 
+no harm in not knowing what’s going on and where 
+things are all happening. The downtown area isn’t 
+too big, so it’s not too hard to locate certain events. 
+Just being in the center of all the Pittsburgh holiday 
+excitement makes a very worthwhile experience.
+photos by Cindy Deng | Staff Photographer
+
+---------------------------------------------------
+
+5
+Fleshy pomegranate carcasses and a shrine to a 
+breast-shaped void are the centerpieces of under-
+graduate artist Darya Kharabi’s solo show No 
+Different from Your Other at Carnegie Mellon’s 
+Ellis Gallery. Playing with the sacred, damned, and 
+macabre, Kharabi’s work explores the dark history 
+of women and medicine. Matter-of-fact recordings 
+of dehumanizing and horrifying past treatments for 
+breast cancer are paired with drawings and paint-
+ings that line the walls of the gallery.
+No Different from Your Other is a beautiful show 
+that marries research and various mediums to cre-
+ate a complex yet clear story about women in 
+history. Without being didactic, the show brought 
+to light these tragic and horrifying pieces of medi-
+cal history. Kharabi writes about historic practices 
+of mastectomies before the science was where it 
+is today — the insertion of hooks and the severing 
+of nerves allude to the tendency of medicine to 
+ignore women’s voices as patients. Using a color 
+palette of fleshy pinks, burgundy reds, and sickly 
+greens, these surrealist pieces combine imagery 
+and text from medical journals with heavily styl-
+ized figurative drawing that build a chronology of 
+instances in the history of treating, or not treating, 
+breast cancer.
+The show is also successful in its contradictions. 
+On the one hand, this show is a space to hold the 
+pain of women throughout history. Yet on the other, 
+despite this fact, the show leans into the dehuman-
+izing nature of medical practices. There are no 
+identifiable women subjects of this story, the draw-
+ings of women, although beautiful and intricate, 
+either allude to physiological diagrams or display 
+an abstracted and distorted woman. The absence 
+of an overt female subject emphasizes the invisibil-
+ity of women in medical literature, but these figures 
+keep the viewer grounded in the perspective of a 
+female narrator.
+The narrative Kharabi presents is clearly from a 
+clinical perspective but is also contextualized by 
+heavy religious references. The pomegranates and 
+grapefruits reference the fall of Eve but also the 
+human body; the entire show is set up like a holy 
+space. The relationship of science, medicine, and 
+religion is complex, and we see the lasting effects 
+of that even today in our system for women’s 
+healthcare. The confusion of untangling the rela-
+tionship between these institutions with body politics 
+and self-perception is central to Kharabi’s work. In 
+some of the pieces, the role of religiosity enshrines 
+misogyny and negligence in the medical fields. In 
+others, however, it turns the unnamed woman into 
+martyrs and provides the basis for the pieces that 
+allude to the reclamation of the female body.
+A black form shaped like a bullet or a breast 
+appears as a monolith in several of the pieces. 
+It works as a void that represents perhaps the 
+breast or its removal, as well as the removal of the 
+agency of women around their own bodies in these 
+cultural and medical spaces. It is the centerpiece of 
+the show. A wreath of twigs turns the absence of 
+women from medical knowledge into a holy trag-
+edy. The void of the monolith and the holy space 
+of the entire show allows for a space to grieve for 
+the women who suffered for the sake of science. 
+This show’s source of power is the pairing of sad-
+ness with rage. Most present in the final piece that 
+contains a poem sentencing an unknown other 
+“enrobed in [their] own ignorance” to hell, these 
+works are also a direct expression of anger.
+This past year, news outlets from Teen Vogue to 
+the New York Times have become hyper-aware of 
+women’s anger, claiming that we as a society have 
+never seen women become so publicly angry as 
+they are right now. In the past month alone, with 
+the slew of sexual harassment charges and attacks 
+on women’s health care, has been a trying time for 
+women. We’ve also seen the ways women have 
+learned how to channel and express anger in a cul-
+ture that teaches women that they aren’t allowed to 
+hold this emotion. In No Different from Your Other, 
+we see the exploration of a specific piece of scien-
+tific history built into our cultural understanding of 
+women and their bodies with pieces that work frus-
+tration and pain in academic and artistic language. 
+Given this broader social context, the work of art-
+ists like Kharabi are important and brave.
+It is, therefore, also important that we listen to 
+the women speaking out about injustice in their 
+lives and our world. Often, the changes we see 
+in the world come from youth culture and college 
+campuses. And so, although the Ellis Gallery may 
+feel separate from the professionalism of formal 
+galleries, it is vital that we take participate and 
+consume the expression of young artists on college 
+campuses. The most important takeaway from these 
+articles is that our student artists are preserving 
+the values and questions our students are holding 
+about our society, and will ultimately determine 
+what direction progress is pushed towards. Keep 
+an eye out for the work of Kharabi and the artists 
+working in these spaces — their voices are a force 
+to be reckoned with.
+article and photos by Gowri Sunder| Staffwriter
+No Different from Your Other
+Hidden gems in the Ellis Gallery
+Playing with the sacred, the 
+damned, and the macabre, Darya 
+Kharabi’s work explores the dark 
+history of women and medicine.
+
+---------------------------------------------------
+
+Compos-it Opera
+6
+Students Premiere Original Operas
+Compos-it Opera, a collaborative showcase of 
+original student work, premiered two new operas 
+last Friday in the Cohon Center Studio Theatre.  
+ 
+The evening of performances began with Bowl of 
+Small Hands, an expressionist exploration of a tor-
+mented young woman seeking refuge. Senior BHA 
+student in music technology and technical writing 
+Joshua Brown wrote and composed the opera as 
+part of his capstone, a cumulative project that BXA 
+students complete during their senior year. 
+Jacqueline Tardanico (CFA ’18) exhibited raw  
+emotion in the role of Cherry, a woman who real-
+izes “the boundaries between what is real and 
+what is not... are becoming porous.” Visually 
+compelling set design by sophomore drama major 
+Katherine Sharpless, paired with Brown’s mesmer-
+izing orchestrations, placed the audience directly 
+in Cherry’s mind, while stage direction by sopho-
+more drama major Rachel Pospisil effectively used  
+movement to show the control exercised by 
+Cherry’s inner demons.
+Mercedes Hesselroth | Junior Staffwriter
+photos courtesy of Susan Brown
+
+---------------------------------------------------
+
+7
+The next performance was Suburban Mompera, a contemporary take on the 
+classical Faustian narrative. This was the first composition by senior music major 
+Russel H. Holbert, who wrote the score that underlies Brown’s libretto. 
+The audience was fully engaged with Suburban Mompera from the start, when 
+housewives Pam, Shelby, and Mindy reveal their longing for a life beyond 
+mommy blogs and PTA meetings. The opera successfully blended comedy and 
+emotion, weaving hilarious one-liners with fully-realized backstories and excel-
+lent characterization. 
+Holbert created the opera as part of his requirements for Fifth Year Scholars, 
+a university-sponsored fellowship that funds an additional year of study for 
+students who wish to launch impactful projects on campus. Holbert hoped 
+Compos-it Opera would provide the Carnegie Mellon community with music “by 
+the students, for the students” and expose the audience to contemporary opera. 
+Overall, the team behind Compos-it Opera admirably took risks and forged 
+partnerships from all corners of the university. “If there’s something I know how 
+to do, it’s start something I don’t know how to do,” said Brown.  
+ 
+“Throughout the process, there was a lot of magic and luck.” Holbert and Brown 
+clearly have a strong collaborative relationship and Compos-it Opera promises 
+continued growth and achievement in any future work they may embark on.
+
+---------------------------------------------------
+
+8
+Juliana Schnerr | StaffwriterIsabel Allende
+Lisa Qian| Staff Artist
+
+---------------------------------------------------
+
+Few authors have had as global an impact as 
+Isabel Allende, a writer with over 20 works 
+published in 30 languages. Not only do 
+Allende’s works reach a global audience, but 
+they also appeal to universal human experi-
+ences and emotions. A distinguished writer 
+and speaker, she made a perfect addition to 
+Pittsburgh Arts and Lectures’ Ten Evenings, 
+a series of author lectures meant to “create 
+community through the literary arts.” As in 
+her writing, Allende shared valuable and 
+heartfelt lessons during her talk at Carnegie 
+Music Hall. These lessons covered how to be 
+a better writer, American citizen, and person 
+overall. Through dialogue, Allende honestly 
+divulged her thoughts on political controversies, 
+the refugee experience, the necessity of grief, 
+and the joy of falling in love no matter one’s 
+age. Intelligent, charming, and bitingly funny, 
+Allende is the elegant mentor we’ve all been 
+looking for.
+While Allende spoke on many subjects, this 
+particular visit to Pittsburgh was in support of 
+her new novel, In the Midst of Winter. The 
+novel follows a group of three individuals who, 
+through a chance encounter, are brought out 
+of their personal traumas and into the light. 
+After undergoing a divorce and a series of 
+tragedies herself, including the deaths of vari-
+ous friends, her agent, and her beloved dog, 
+Allende found herself feeling as though “noth-
+ing good was ever going to happen.” In the 
+midst of that sorrowful period, she discovered 
+a quote by Albert Camus that reads, “in the 
+midst of winter, I found there was, within me, 
+an invincible summer.” And thus, Allende 
+began to write in hopes that she and her char-
+acters would make it through the long, cold 
+winter to their invincible summers.
+The characters are clearly informed by 
+Allende’s own experiences, in particular, 
+the story of Evelyn Ortega, a Guatemalan 
+immigrant fleeing a violent past. Allende is 
+deeply familiar with the political turmoil of 
+Latin America and its impact on daily life. She 
+herself fled Chile following the coup in 1973 
+and has a deep understanding of life as an 
+immigrant. She is also involved in the work of 
+the Isabel Allende Foundation, an organization 
+that strives to end violence towards and exploi-
+tation of women and girls. Many women who 
+receive aid from the foundation have shared 
+their stories with Allende, and one such story 
+became the inspiration for Evelyn’s journey.
+As for the other two characters, Lucia and 
+Richard, their story depicts the experience of 
+falling in love at an older age. A romance 
+between older characters is rare in popular 
+literature, but the idea of finding love and 
+expressing one’s sexuality later in life is very 
+important to Allende. New love has recently 
+made its way into Allende’s life, in the form 
+of an email correspondence with a man who 
+reached out to the author after hearing her on 
+a radio show. On their first date, (which hap-
+pened after five months of emailing each other 
+every day) Allende didn’t hold back in asking, 
+“What are your intentions? I’m 74 years old, I 
+don’t have time to waste!”
+It was with this same frankness and intensity 
+that Allende approached audience questions 
+submitted later in the night. Questions ranged 
+from, “How do you stay so beautiful?” (to 
+which Allende laughingly replied, “money”) to 
+more serious questions such as, “How can we 
+solve the refugee crises going on all over the 
+world?” While Allende openly admitted she 
+did not have a final answer for such a complex 
+problem, she offered what insight she could. 
+She urged audience members to look at each 
+statistic related to immigration and refugees not 
+as a number but as a person with a name and 
+a story. Allende believes we need to make an 
+effort to understand the reasons people have 
+for leaving and recognize both how difficult it 
+is to leave one’s home and how perilous that 
+journey to a new place can be. “It’s not about 
+building a wall,“ said Allende. “It’s about sup-
+porting efforts to improve conditions in coun-
+tries of origin. It’s about understanding that no 
+one wants to leave their home and that we are 
+all people.”
+Allende then went on to share her writing 
+wisdom. The question, “Does everyone have 
+a story?” led to some interesting truths about 
+both fiction and real life. While the author 
+admitted that some people are in fact, boring, 
+it’s all about the way you tell that person’s 
+story. On the other end of the spectrum, 
+Allende admitted that sometimes you have to 
+water down reality instead of building it up. 
+According to Allende, “the first duty of a fic-
+tion writer is to trap the reader,” but sometimes 
+reality is too horrific to keep a reader invested 
+and the truth must be diluted into something 
+more manageable.
+Allende is no stranger to hard times and hard 
+truths. She has experienced two divorces, the 
+loss of her daughter, years of displacement 
+and many other trials. Through her work, she 
+has encountered individuals with truly heart-
+breaking stories and unimaginable losses, 
+and as a writer, she carries those stories with 
+her always. Allende speaks with the kind of 
+confidence and omniscience that can only 
+come from knowing the pain and making it 
+through to the other side. When the audience 
+addressed Allende’s life experiences, she was 
+not afraid to acknowledge them. In fact, she 
+announced that each negative and painful 
+event in our lives must be acknowledged and 
+they must be lived in order for times of joy to 
+be so powerful. Our sorrows and pains are just 
+a part of the narrative, but they’re not who the 
+characters are. That attitude is what tied the 
+entire night together.
+The final question of the night asked, “With all 
+that’s going on in the world, what gives you 
+hope?”
+Allende’s response: “Everything. Everything 
+gives me hope.”
+And there lies the power of Isabel Allende and 
+her stories, to push through the pain to find the 
+joy, to acknowledge loss to find new love, and 
+to wait out the winter until the dawn of that 
+invincible summer. s
+9
+
+---------------------------------------------------
+
+Over the past few years, I’ve worked operations for 
+Bhangra in the Burgh twice and only seen the show 
+in segments, between flapping doors and late- 
+arriving spectators. This year, however, I was deter-
+mined to grab a seat and really take in the whole 
+experience, and boy was it worth it.
+Bhangra in the Burgh is a completely student-run 
+Bhangra competition hosted by students at Carnegie 
+Mellon University. Under the guidance of juniors 
+Nandini Radhakrishnan and Isha Laad, who co-
+directed this year’s show, a team of more than 20 
+executive board members and even more operations 
+volunteers took the year to create a truly incred-
+ible program. This year’s program benefited the 
+Children’s Hospital of Pittsburgh Foundation, specifi-
+cally their inspiring Creative and Expressive Arts 
+Therapy program.
+Every year, eight teams arrive to compete for first, 
+second, and third place. This year, the eleventh 
+iteration of the event, teams hailed from Canada, 
+the West Coast, the Tri-State Area, Detroit, North 
+Carolina, and, of course, Pittsburgh. The line-up 
+this year featured many past champions, such as 
+last year’s reigning champs Anakh E Gabroo, from 
+the Tri-State Area. The full line up was as follows: 
+Anakh E Gabroo (Tri-State Area), Cal Bhangra 
+(UC Berkeley), First Class Bhangra (Pittsburgh, PA), 
+Furteelay (Detroit, MI), Nachdi Jawani Ankhiley 
+(Ontario, Canada), Nachde Shokeen Gabroo (Bay 
+Area, CA), UNC Bhangra (UNC Chapel Hill), and 
+Royal Academy – Royal Queens (Canada).
+Teams were judged on their formations, vadiya 
+(attire), mix (music and lights), synchronization, and 
+creativity. As a result, every performance was intri-
+cately crafted and packed with energy. Of the eight 
+teams that performed five were all male and two 
+were all female. Each brought an interesting twist to 
+the table. While some groups pretended to leave the 
+stage, only to come back with an even more exciting 
+finale, others climbed on each other’s shoulders and 
+brought other dance forms into their Bhangra  
+performances. The costumes were bursting with color 
+and shimmer, and no dancer graced the stage with-
+out the signature Bhangra smile that we’ve come to 
+know and love.
+Despite a few technical difficulties throughout the 
+evening, the show was held together well by the 
+emcees, seniors Piyush Puri and Rohan Shah. Both 
+Puri and Shah kept the audience chuckling with an 
+ongoing gag about the miraculous Vicks Vaporub 
+and numerous impromptu dance battles. Constant 
+allusions to the “bio-data”-hungry aspect of Indian-
+American match-making culture gave both the stu-
+dents and parents in the audience a good laugh. 
+Other entertainment of the evening included 
+Carnegie Mellon’s own all-female south Asian a cap-
+pella group, Saans, and Infra Dance Company. The 
+University of Pittsburgh’s classical dance troupe, Pitt 
+Nrityamala, also took the stage, as did the nine to 
+thirteen years olds of the Nandanik Dance Academy. 
+The show was, of course, sealed off with a power-
+packed performance by CMU Bhangra while the 
+judges decided the winner.
+While all the teams danced valiantly, there could be 
+only three winners. Here was the final decision:
+Winners:
+1. Nachde Shokeen Gabroo (Bay Area, CA)
+2. First Class Bhangra (Pittsburgh, PA)
+3. Anakh E Gabroo (Tri-State Area)
+10
+Apeksha Atal | Pillbox Editorphotos courtesy Tina Vaz
+logo courtesy Bhangra in the Burgh
+
+---------------------------------------------------
+
+11 
+puzzlesJulianne Sanscartier | Comics Editor
+sudokumaze
+sudoku courtesy of www.krazydad.commaze courtesy of www.krazydad.com
+ Solutions from Nov. 13 
+crosswordsudokumaze
+
+---------------------------------------------------
+
+12
+Autocorrect
+by xkcd
+Clothes
+by John McNamee
+comics
+              piecomic.com
+xkcd.comxkcd@gmail.com
+
+---------------------------------------------------
+
+13
+Julianne Sanscartier | Comics Editor
+Finals Season
+by Sarah Andersen
+www.gocomics.com/sarahs-scribbles
+
+---------------------------------------------------
+
+1. Ultimatum word
+ 2. Solitary
+ 3. Insult
+ 4. Deficient in pigmentation
+ 5. Protector
+ 6. Silly Putty holder
+ 7. Gymnast Korbut
+ 8. Rotating
+ 9. ___ Tafari (Haile Selassie)
+10. Aided
+11. Pack ___ (quit)
+12. Horse’s gait
+13. Up ___ good 
+19. Chow
+21. Ages and ages
+25. Satisfies
+27. Apply lightly
+28. Russian retreat
+29. Community spirit
+30. Full of substance
+31. Polite
+33. Prince Valiant’s wife
+34. Battery type
+35. Crystal-lined rock
+38. Conger catcher
+41. Native of Wales
+43. Inhabitant of Bucharest
+46. Director Jean-___ Godard
+48. Unit of loudness
+51. Not fem.
+53. Tries to bite
+55. Sailing hazards
+57. Gardner and others
+58. Dissolve
+59. He sang about Alice
+61. Vogue rival
+63. Sacramento’s ___ Arena
+64. Slender
+65. Words of understanding
+67. Mineral suffix
+68. Meadow
+ 1. “Born Free” lion
+ 5. An earth sci.
+ 9. Singer Bonnie
+14. Lounge
+15. Unattractive
+16. Minute Maid Park player
+17. Rebuff
+18. Offensive action
+20. More spine-tingling
+22. Penlight battery
+23. Division preposition
+24. Agrees tacitly
+26. Former Fords
+28. Raging
+32. Monetary unit of Thailand
+36. Polished off
+37. French composer Erik
+39. Contradict
+40. Tobacco plug
+42. Not once
+44. Art ___
+45. The Hilton, e.g.
+47. Grain stores
+49. Wee bit
+50. Institution for mentally ill
+52. Pulpy summer refreshment
+54. Sign of injury
+56. Wife of a rajah
+57. Eastern nanny
+60. Get it?
+62. Kathmandu resident
+66. Very fine pasta
+69. Ladies of Sp.
+70. ___ once
+71. Type of market
+72. Skin disorder
+73. Rock
+74. Actor Penn
+75. Gratuity
+across
+horoscopes: The signs as Overheard quotes: part two
+Crossword courtesy of FreeDailyCrosswords.com
+horoscopes
+Aries
+march 21 – april 19
+“Remember, if you don’t like it, I don’t care.”
+Taurus
+april 20 – may 20
+“My arm exercise is lifting food to my mouth.”
+Gemini
+may 21 – june 20
+“WIll you be my DineX daddy?”
+Cancer
+june 21 – july 22
+“If you can’t pass a simple Turing Test then I’m sorry, 
+you’re not the girl for me.”
+Leo
+july 23 – aug. 22
+Person One: “I can’t stand you!”
+Person Two: “So sit.”
+Virgo
+aug. 23 – sept. 22
+“Hot chocolate! Warm your cold, cold hearts!”
+Libra
+sept. 23 – oct. 22
+“You don’t need brakes to go fast.”
+Scorpio
+oct. 23 – nov. 21
+“Why are those boys wearing Schatz T-shirts?”
+Sagittarius
+nov. 22 – dec. 21
+“Am I user-friendly yet?”
+Capricorn
+dec. 22 – jan. 19
+“I watch Netflix on two-times speed to waste less time.”
+Aquarius
+jan. 20 – feb. 18
+“Why do you think these bricks are covered in mesh? 
+It’s so unpleasant.”
+Pisces
+feb. 19 – march 20
+“No one told me what the plan was, they just handed 
+me a knife and a chicken!”
+crossword
+down
+14
+Julianne Sanscartier | Comics Editor
+
+---------------------------------------------------
+
+15
+calendar
+this week
+ongoingfridayclassified
+11.24.17
+Whodunit? Week
+Nov. 17 - Nov. 23
+Row House Cinema
+Tickets: rowhousecinema.com
+Row House Cinema is asking the age 
+old question this week: “Whodunit?” 
+Catch classic ilms Who Framed 
+Roger Rabbit and Clue, along with 
+newer hits such as The Girl with 
+the Dragon Tattoo and the original 
+version of the newly released 
+Murder on the Orient Express. 
+Tickets sell fast, so be sure to pick 
+yours up soon.
+Ai WeiWei: Human Flow
+Nov. 19 - Nov. 26
+Melwood Screening Room
+More Info: cinema.pfpca.org
+Ai WeiWei brings you a message of 
+the refugee crisis through Human Flow, 
+including stories from 23 countries 
+and a handful of the 65 million people 
+currently swept up in the refugee 
+crisis. The ilm runs for 2 hours and 20 
+minutes and poses questions of respect 
+in contemporary society. Prepare to be 
+moved and inspired to do more and 
+speak up.
+Motown
+Nov. 21 - Nov. 26
+Benedum Center
+Tickets: trustarts.org
+Motown is a show on the true story of 
+Berry Gordy, the record producer who 
+gave us the likes of Michael Jackson and 
+Diana Ross. Featuring the hit songs “My 
+Girl,” “Ain’t No Mountain High Enough,” 
+and “I Want You Back,” Motown will 
+keep you dancing in your seat and singing 
+along.
+Birds and Botany:  
+Works by Ashley Cecil
+Nov. 17, 2017 - Jan. 7, 2018
+Phipps Conservatory and  
+Botanical Gardens
+More Info: phipps.conservatory.org
+Current artist-in-residence at the 
+Carnegie Museum of Natural History 
+Ashley Cecil’s work is on display at 
+Phipps Conservatory, and will be until 
+Jan. 7 2018. Her work represents 
+research regarding conservation 
+problems faced both in Pittsburgh and 
+around the world. Learn more about 
+the research at www.birdsafepgh.org.
+Holiday Lights Opening Night
+5 - 9 p.m.
+Kennywood Park
+Tickets: kennywood.com
+With Pittsburgh all lit up, the holiday spirit 
+is spreading all the way to Kennywood, 
+whose winter lights will be up and 
+ready to impress this Friday evening. 
+Kennywood’s Christmas display boasts 
+over six million lights and a variety of 
+winter-themed entertainment for everyone 
+to enjoy.
+1655 Shady Avenue, First Floor 
+Apartment: 3 BR, 2 Full Bath, LR/DR, 
+Of?ce, & Enclosed Porch.
+Lovely, bright apartment steps from the 
+Squirrel Hill shopping district, & an easy 
+bus or bike ride to CMU. Monthly rent 
+is $1750, with about $100 for utilities. 
+Laundry and parking available. Call Larry 
+Newman @ 412-421-3720 or lsnsss@
+verizon.net for a tour! 
+
+---------------------------------------------------
+
+Instead of the usual lectures, Friday night found Doherty Hall full 
+of song. One of Carnegie Mellon’s a cappella groups, C#, hosted 
+their annual Harvest Concert, featuring the C# singers as well 
+as performances by C#’s sister choral group Db and Carnegie 
+Mellon’s Christian a cappella group Joyful Noise. It also provided 
+a platform for soloist performances from group members and 
+unafiliated singers, bringing people together from across campus. 
+Editor’s Note: Julianne Sanscartier, a member of Db, is Comics Editor for The Tartan. 
+C# Harvest Concert
+Lisa Qian | Staff Photographer
