@@ -9,87 +9,64 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, Tf
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier, plot_tree, export_graphviz
 from sklearn.feature_selection import chi2
 from sklearn.decomposition import PCA
-import matplotlib
-from matplotlib import pyplot
-from mpl_toolkits.mplot3d import Axes3D
-
-wordgroups = [["online", "internet", "future", "2010"],
-              ["war", "1900", "Truman"]]
-colors = ["black"]
-sizes = [10]
-colors = ["red", "turquoise", "orange", "forestgreen", "purple", "teal",
-          "navy",  "slategrey", "olive", "maroon", "peru", "orangered", "crimson"]
+import graphviz
 
 
-def plot2D(model, default=True):
-    vocab = {}
-    # for v in model.wv.vocab.keys():
-    #     if any(v in g for g in wordgroups):
-    #         vocab[v] = model.wv.vocab[v]
-    # X = model[vocab]
-    pca = PCA(n_components=2) if default else PCA(n_components=3)
-    result = pca.fit_transform(model)
-    words = list(vocab)
-    pyplot.scatter(result[:, 0], result[:, 1]) if default else pyplot.scatter(
-        result[:, 1], result[:, 2])
-    for g, group in enumerate(wordgroups):
-        for word in group:
-            i = model.index(word)
-            pyplot.annotate(
-                word, xy=(result[i, 0], result[i, 1]), color=colors[g] if g < len(colors) else "black", fontsize=8 if g < len(sizes) else 10) if default else pyplot.annotate(
-                    word, xy=(result[i, 1], result[i, 2]), color=colors[g] if g < len(colors) else "black", fontsize=8 if g < len(sizes) else 10)
-    pyplot.show()
-
-
-def plot3D(model, default=True):
-    vocab = {}
-    pca = PCA(n_components=3) if default else PCA(n_components=4)
-    result = pca.fit_transform(model)
-    fig = pyplot.figure()
-    ax = fig.add_subplot(111, projection='3d')
-    ax.scatter(result[:, 0], result[:, 1], result[:, 2]) if default else ax.scatter(
-        result[:, 1], result[:, 2], result[:, 3])
-    for g, group in enumerate(wordgroups):
-        for word in group:
-            i = model.index(word)
-            ax.text(result[i, 0], result[i, 1], result[i, 2], word, None, color=colors[g] if g < len(
-                colors) else "black", fontsize=8 if g < len(sizes) else 10) if default else ax.text(result[i, 1], result[i, 2], result[i, 3], word, None, color=colors[g] if g < len(
-                    colors) else "black", fontsize=8 if g < len(sizes) else 10)
-    pyplot.show()
+class CustomNgramTfidfVectorizer(TfidfVectorizer):
+    def _word_ngrams(self, tokens, stop_words=None):
+        # First get tokens without stop words
+        tokens = super(TfidfVectorizer, self)._word_ngrams(tokens, None)
+        if stop_words is not None or self.stop_ngrams is not None:
+            new_tokens = []
+            for token in tokens:
+                if token in self.stop_ngrams:
+                    continue
+                good = True
+                for s in token.split(' '):
+                    if s in stop_words:
+                        good = False
+                        break
+                if good:
+                    new_tokens.append(token)
+            return new_tokens
+        return tokens
 
 
 def processPapers():
-    papers = load_files("processed/")
+    print("Loading files...")
+    papers = load_files("decades/")
     X, y, z = papers.data, papers.target, papers.target_names
-    # print(X[0], y[0], z)
-    try:
-        vecf = open("tfidf", "rb")
-        tfidfconverter = pickle.load(vecf)
-    except:
-        # vectorizer = CountVectorizer(
-        #     max_features=1000, min_df=0.01, max_df=0.7, stop_words=stopwords.words('english'))
-        # X = vectorizer.fit_transform(papers).toarray()
-        tfidfconverter = TfidfVectorizer(max_features=1000, sublinear_tf=True, min_df=0.01, max_df=0.7,
-                                        stop_words=stopwords.words('english'))  # , ngram_range=(1, 2))
-        tfidfconverter = TfidfTransformer()
-        features = tfidfconverter.fit_transform(X).toarray()
-        f = open("features", "wb+")
-        pickle.dump(features, f)
-        f.close()
-        vecf = open("tfidf", "wb+")
-        pickle.dump(tfidfconverter, vecf)
-    vecf.close()
-    try:
-        f = open("features", "rb")
-        features = pickle.load(f)
-    except:
-        features = tfidfconverter.fit_transform(X).toarray()
-        f = open("features", "wb+")
-        pickle.dump(features, f)
+    # try:
+    #     vecf = open("tfidf", "rb")
+    #     tfidf = pickle.load(vecf)
+    # except:
+    # e misread as o or c, a often misread as o
+    # remove authors' names, colleges that didn't exist early
+    # "continued on page," "www," etc. are not substantive content
+    # stopw = ["bo", "tho", "ho", "arc", "cmu", "richard", "tom", "mike", "michael", "thomas", "david", "joe", "cit", "cfa",
+    #             "ot", "rst", "th", "im", "inc", "ing", "skibo", "applied", "pillbox", "www",
+    #             "org", "staffwriter", "andrew",  "pm", "bell", "com", "thetartan", "arts",]
+    stopw = stopwords.words('english')
+    stopbg = []  # ["carnegie mellon", "institute technology", "student senate", "student council","university center"
+    # "fine arts", "continued page", "mellon university","carnegie tech", "carnegie institute"]
+    # remove proper nouns and numbers from classifier
+    pattern = r'(?u)\b[a-z][\w-]*\b'
+
+    print("Creating vectorizer...")
+    tfidf = CustomNgramTfidfVectorizer(max_features=50000, sublinear_tf=True, min_df=0.01, max_df=0.7,
+                                       ngram_range=(1, 2), stop_words=stopw, token_pattern=pattern)
+    tfidf.stop_ngrams = stopbg
+    features = tfidf.fit_transform(X).toarray()
+    f = open("features", "wb+")
+    pickle.dump(features, f)
     f.close()
-    return tfidfconverter, features, y, z
+    vecf = open("tfidf", "wb+")
+    pickle.dump(tfidf, vecf)
+    vecf.close()
+    return tfidf, features, X, y, z
 
 
 def newlinesep(text):
@@ -97,74 +74,58 @@ def newlinesep(text):
 
 
 def processSyntax():
+    print("Loading files...")
     papers = load_files("syntax/")
+    print("Creating vectorizer...")
     X, y, z = papers.data, papers.target, papers.target_names
-    try:
-        vecf = open("tfidf_syntax", "rb")
-        tfidfconverter = pickle.load(vecf)
-    except:
-        # vectorizer = CountVectorizer(
-        #     max_features=1000, min_df=0.01, max_df=0.7, stop_words=stopwords.words('english'))
-        # X = vectorizer.fit_transform(papers).toarray()
-        tfidfconverter = TfidfVectorizer(max_features=500, sublinear_tf=True, min_df=0.01, max_df=0.9, tokenizer=newlinesep,
-                                        ngram_range=(1,2), stop_words=[])
-        # tfidfconverter = TfidfTransformer()
-        print(len(X), len(y), len(z))
-        features = tfidfconverter.fit_transform(X).toarray()
-        f = open("features_syntax", "wb+")
-        pickle.dump(features, f)
-        f.close()
-        vecf = open("tfidf_syntax", "wb+")
-        pickle.dump(tfidfconverter, vecf)
+    tfidf = TfidfVectorizer(max_features=10000, sublinear_tf=True, min_df=0.01, max_df=0.8, tokenizer=newlinesep,
+                            ngram_range=(1, 2), stop_words=[])
+    features = tfidf.fit_transform(X).toarray()
+    f = open("features_syntax", "wb+")
+    pickle.dump(features, f)
+    f.close()
+    vecf = open("tfidf_syntax", "wb+")
+    pickle.dump(tfidf, vecf)
     vecf.close()
-    try:
-        f = open("features_syntax", "rb")
-        features = pickle.load(f)
-    except:
-        features = tfidfconverter.fit_transform(X).toarray()
-        f = open("features_syntax", "wb+")
-        pickle.dump(features, f)
+    features = tfidf.fit_transform(X).toarray()
+    f = open("features_syntax", "wb+")
+    pickle.dump(features, f)
     f.close()
-    return tfidfconverter, features, y, z
+    return tfidf, features, X, y, z
 
 
-def checkAccuracy(features, y, syntax = False):
-    try:
-        f = open("classifier" + ("_syntax" if syntax else ""), "rb")
-        classifier = pickle.load(f)
-    except:
-        classifier = RandomForestClassifier(n_estimators=1000, random_state=0)
-        f = open("classifier" + ("_syntax" if syntax else ""), "wb+")
-        pickle.dump(classifier, f)
-    f.close()
+def checkAccuracy(tfidf, features, y, syntax=False):
+    print("Creating classifier...")
+    # classifier = RandomForestClassifier(n_estimators=1000, random_state=0)
+    classifier = DecisionTreeClassifier()
     X_train, X_test, y_train, y_test = train_test_split(
         features, y, test_size=0.2, random_state=0)
     classifier.fit(X_train, y_train)
+    f = open("classifier" + ("_syntax" if syntax else ""), "wb+")
+    pickle.dump(classifier, f)
+    f.close()
     y_pred = classifier.predict(X_test)
     # print(confusion_matrix(y_test, y_pred))
     print(classification_report(y_test, y_pred))
     print(accuracy_score(y_test, y_pred))
+    export_graphviz(classifier, max_depth=8, out_file="tree.dot",
+                    feature_names=tfidf.get_feature_names())
 
 
-def getCorrelations(features, tfidfconverter, y, z):
+def getCorrelations(features, tfidf, X, y, z):
     N = 10
-    for category_id in set(sorted(y)):
-        features_chi2 = chi2(features, y)
-        print("# '{}':".format(category_id))
-        indices = np.argsort(features_chi2[0])
-        feature_names = np.array(tfidfconverter.get_feature_names())[indices]
-        unigrams = [v for v in feature_names if len(v.split(' ')) == 1]
-        bigrams = [v for v in feature_names if len(v.split(' ')) == 2]
-        print("Most correlated unigrams: {}".format(
-            '\n'.join(reversed(unigrams[-N:]))))
-        print("Most correlated bigrams: {}".format(
-            '\n'.join(reversed(bigrams[-N:]))))
+    features_chi2 = chi2(features, y)
+    indices = np.argsort(features_chi2[0])
+    feature_names = np.array(tfidf.get_feature_names())[indices]
+    unigrams = [v for v in feature_names if len(v.split(' ')) == 1]
+    bigrams = [v for v in feature_names if len(v.split(' ')) == 2]
+    print("Most correlated unigrams: {}".format(
+        '\n'.join(reversed(unigrams[-N:]))))
+    print("Most correlated bigrams: {}".format(
+        '\n'.join(reversed(bigrams[-N:]))))
 
 
 if __name__ == "__main__":
-    tfidfconverter, features, y, z = processSyntax()
-    checkAccuracy(features, y, True)
-    # print(features)
-    # getCorrelations(features, tfidfconverter, y, z)
-    # print(y)
-    # plot2D(features)
+    tfidf, features, X, y, z = processPapers()
+    checkAccuracy(tfidf, features, y, False)
+    getCorrelations(features, tfidf, X, y, z)
