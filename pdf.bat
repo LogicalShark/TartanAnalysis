@@ -1,0 +1,1 @@
+for /r %%v in (pdfs/*.pdf) do python C:\Users\marcu\Anaconda3\envs\TartanAnalysis\ "%%v" -n -V -O raw/ -t text

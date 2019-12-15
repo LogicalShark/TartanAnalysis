@@ -1,7 +1,0 @@
-ADJP['JJ']
-NP['NNP', 'NNP', 'NN', 'NNP']
-NP['NN', 'NN', 'NN', 'NN', 'NNP', 'NN', 'NNP', 'NNP', 'NNP']
-NP['NN', 'NNP', 'NN', 'NN', 'NN', 'NNS']
-NP['NN', 'NNP']
-NP['NN', 'NNP']
-NP['NN', 'NN', 'NN', 'NNP', 'NNP', 'NN', 'NN', 'NN']
