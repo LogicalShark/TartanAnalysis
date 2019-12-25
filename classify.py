@@ -138,11 +138,12 @@ def getCorrelations(tfidf, features):
 
 
 def freqAnalysis(words):
+    # For counting the total words in each document
     # count = [0 for d in range(30020)]
+    # t = open("total.txt", 'w+')
     out = open("out.txt", 'w+')
     for word in words:
         out.write(word+"	")
-    # t = open("total.txt", 'w+')
     freqs = [[0 for decade in range(1900, 2020, 10)]
              for i in range(len(words))]
     for decade in range(1900, 2020, 10):
@@ -179,42 +180,18 @@ def freqAnalysis(words):
         out.write("\n")
         for i in range(len(words)):
             x = freqs[i][(decade-1900)//10]
-            # if x > 0:
-            out.write(str(1000000*x)+"	")  # max(freqs[i])
-            # else:
-            #     out.write(str(0)+"	")  # max(freqs[i])
+            out.write(str(1000000*x)+"	")
     out.close()
     # t.close()
 
-    # plt.rcdefaults()
-    # objects = [str(d) for d in range(1900, 2020, 10)]
-    # y_pos = np.arange(len(objects))
-    # plt.bar(y_pos, freqs, align='center', alpha=0.5)
-    # plt.xticks(y_pos, objects)
-    # plt.ylabel('Frequency')
-    # plt.title('Frequency of \"'+word+"\"")
-    # plt.show()
-
-
 if __name__ == "__main__":
-    # papers, tfidf, features, X, y, z = processPapers()
-    # checkAccuracy(tfidf, features, y, False)
-    words = ["transgendered"]
-    # words += ["car","airplane","plane","train","bus"]
-    # words += ["blues", "anxiety", "stress", "depression","sleep",
-    #          "drugs", "bitch","fuck","shit", "damn", "thusly", "meme"]
-    # words += ["disco", "jazz", "mail", "flappers", 
-    #           "droves", "jazzed", "emcees", "turntables", "radio"]
-    # words += ["pro-life", "pro-choice", "communism", "treaty", "war", "computer",
-    #           "scuba", "videos", "google", "website", "airline", "automobile", "mimeograph"]
-    # words += ["homosexual", "gay"]
-    # words += ["demonizing","gender-neutral","walloped","befuddled","eclectic","pee-rade","erection","goings-on","radical","pigskin","plaudits"]
-    # words += ["pollution","nuclear","fascism","space","fingerprints"]
-    # words += ["smoking","cigarette","alcohol","tobacco"]
-    # words += ["thus","heretofore","whereas","thereafter","whence"]
-    # words += ["sneaked","snuck","thunk"]
-    # words += ["dope","inducement","thru","auspices"]
+    papers, tfidf, features, X, y, z = processPapers()
+    checkAccuracy(tfidf, features, y, False)
+    words = ["car","airplane","plane","train","bus"]
     freqAnalysis(words)
+
+    # Getting keywords from each decade
+       
     # vectorizers = []
     # weights = [0 for n in range(12)]
     # pattern = r'(?u)\b[a-z][a-z\-]+[a-z][a-z]\b'

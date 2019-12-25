@@ -1,0 +1,4368 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="
+NP['CD', 'CD', 'DT', 'NNP', 'NN']
+ <= 0.017\ngini = 0.91\nsamples = 2402\nvalue = [358, 253, 212, 132, 221, 173, 204, 170, 178, 199\n147, 155]"] ;
+1 [label="
+NP['NNP-PERS', 'NNP-PERS']
+ <= 0.003\ngini = 0.904\nsamples = 2275\nvalue = [358, 251, 212, 132, 221, 173, 203, 170, 178, 198\n146, 33]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="
+NP['NN', 'JJ', 'NN']
+ <= 0.02\ngini = 0.87\nsamples = 1530\nvalue = [347, 227, 186, 106, 193, 141, 133, 98, 43, 23, 26\n7]"] ;
+1 -> 2 ;
+3 [label="
+NP['NNS']
+ 
+NP['NNP', 'NNP']
+ <= 0.003\ngini = 0.86\nsamples = 1250\nvalue = [311, 195, 52, 66, 179, 124, 129, 97, 42, 23, 25\n7]"] ;
+2 -> 3 ;
+4 [label="
+NP['JJ', 'NN']
+ 
+NP['NNP', 'NNP']
+ <= 0.004\ngini = 0.728\nsamples = 475\nvalue = [218, 97, 12, 3, 42, 37, 24, 18, 6, 5, 13, 0]"] ;
+3 -> 4 ;
+5 [label="
+NP['DT', 'NNP', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.016\ngini = 0.625\nsamples = 318\nvalue = [183, 59, 5, 0, 22, 10, 7, 11, 3, 5, 13, 0]"] ;
+4 -> 5 ;
+6 [label="
+NP['CD', 'NNP', 'NNP']
+ <= 0.016\ngini = 0.572\nsamples = 264\nvalue = [167, 36, 3, 0, 17, 8, 6, 8, 2, 4, 13, 0]"] ;
+5 -> 6 ;
+7 [label="
+NP['WDT', 'PRP']
+ <= 0.01\ngini = 0.436\nsamples = 159\nvalue = [118, 12, 0, 0, 5, 3, 3, 2, 2, 3, 11, 0]"] ;
+6 -> 7 ;
+8 [label="
+VP['RB', 'VB']
+ <= 0.01\ngini = 0.648\nsamples = 61\nvalue = [34, 5, 0, 0, 1, 2, 3, 1, 2, 3, 10, 0]"] ;
+7 -> 8 ;
+9 [label="
+NP['DT', 'NN']
+ 
+NP['DT', 'NNP']
+ <= 0.012\ngini = 0.738\nsamples = 32\nvalue = [12, 2, 0, 0, 0, 1, 3, 1, 0, 3, 10, 0]"] ;
+8 -> 9 ;
+10 [label="
+NP['NN', 'NN', 'NN']
+ <= 0.008\ngini = 0.747\nsamples = 24\nvalue = [5, 1, 0, 0, 0, 1, 3, 1, 0, 3, 10, 0]"] ;
+9 -> 10 ;
+11 [label="
+NP['NN', 'NNP']
+ 
+NP['NNP']
+ <= 0.01\ngini = 0.595\nsamples = 17\nvalue = [2, 0, 0, 0, 0, 0, 2, 0, 0, 3, 10, 0]"] ;
+10 -> 11 ;
+12 [label="
+NP['NNP', 'NNP', 'NN']
+ 
+NP['NNP', 'NN']
+ <= 0.133\ngini = 0.498\nsamples = 15\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10, 0]"] ;
+11 -> 12 ;
+13 [label="
+NP['JJ', 'NN']
+ 
+VP['VBN']
+ <= 0.053\ngini = 0.439\nsamples = 14\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10, 0]"] ;
+12 -> 13 ;
+14 [label="gini = 0.355\nsamples = 13\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10, 0]"] ;
+13 -> 14 ;
+15 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+13 -> 15 ;
+16 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+12 -> 16 ;
+17 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+11 -> 17 ;
+18 [label="
+NP['NN', 'NNP', 'NNP']
+ <= 0.011\ngini = 0.735\nsamples = 7\nvalue = [3, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]"] ;
+10 -> 18 ;
+19 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+18 -> 19 ;
+20 [label="
+NP['DT', 'NNS']
+ 
+ADVP['RB']
+ <= 0.012\ngini = 0.75\nsamples = 4\nvalue = [0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]"] ;
+18 -> 20 ;
+21 [label="
+NP['DT', 'NN', 'NNP']
+ <= 0.013\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+20 -> 21 ;
+22 [label="
+PP['IN']
+ 
+ADJP['JJ', 'JJ']
+ <= 0.023\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+21 -> 22 ;
+23 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+22 -> 23 ;
+24 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+22 -> 24 ;
+25 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+21 -> 25 ;
+26 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+20 -> 26 ;
+27 [label="
+NP['PRP$', 'NN', 'NN']
+ 
+VP['MD', 'VB']
+ <= 0.014\ngini = 0.219\nsamples = 8\nvalue = [7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+9 -> 27 ;
+28 [label="gini = 0.0\nsamples = 7\nvalue = [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+27 -> 28 ;
+29 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+27 -> 29 ;
+30 [label="
+NP['DT', 'DT', 'NN']
+ <= 0.024\ngini = 0.407\nsamples = 29\nvalue = [22, 3, 0, 0, 1, 1, 0, 0, 2, 0, 0, 0]"] ;
+8 -> 30 ;
+31 [label="
+NP['CD', 'NN', 'NNS']
+ <= 0.023\ngini = 0.275\nsamples = 26\nvalue = [22, 1, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]"] ;
+30 -> 31 ;
+32 [label="
+NP['CD', 'JJ', 'NNP']
+ <= 0.012\ngini = 0.156\nsamples = 24\nvalue = [22, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+31 -> 32 ;
+33 [label="gini = 0.0\nsamples = 22\nvalue = [22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+32 -> 33 ;
+34 [label="
+NP['PRP', 'DT', 'JJS', 'NNS']
+ <= 0.045\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+32 -> 34 ;
+35 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+34 -> 35 ;
+36 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+34 -> 36 ;
+37 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+31 -> 37 ;
+38 [label="
+ADVP['RB']
+ 
+NP['NNP', 'NN']
+ <= 0.011\ngini = 0.444\nsamples = 3\nvalue = [0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+30 -> 38 ;
+39 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+38 -> 39 ;
+40 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+38 -> 40 ;
+41 [label="
+NP['CD', 'NNP']
+ <= 0.026\ngini = 0.258\nsamples = 98\nvalue = [84, 7, 0, 0, 4, 1, 0, 1, 0, 0, 1, 0]"] ;
+7 -> 41 ;
+42 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['DT', 'RB', 'JJ', 'NN']
+ <= 0.013\ngini = 0.2\nsamples = 93\nvalue = [83, 3, 0, 0, 4, 1, 0, 1, 0, 0, 1, 0]"] ;
+41 -> 42 ;
+43 [label="
+NP['DT', 'NNP', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.015\ngini = 0.147\nsamples = 90\nvalue = [83, 1, 0, 0, 4, 1, 0, 1, 0, 0, 0, 0]"] ;
+42 -> 43 ;
+44 [label="
+NP['DT', 'NN']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.013\ngini = 0.09\nsamples = 86\nvalue = [82, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0]"] ;
+43 -> 44 ;
+45 [label="
+ADJP['JJ']
+ 
+VP['VBP', 'RB', 'VB']
+ <= 0.04\ngini = 0.047\nsamples = 84\nvalue = [82, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+44 -> 45 ;
+46 [label="gini = 0.0\nsamples = 82\nvalue = [82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+45 -> 46 ;
+47 [label="
+NP['NNS']
+ 
+NP['DT', 'NNP']
+ <= 0.006\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+45 -> 47 ;
+48 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+47 -> 48 ;
+49 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+47 -> 49 ;
+50 [label="
+NP['NNS']
+ 
+VP['MD', 'VB']
+ <= 0.006\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+44 -> 50 ;
+51 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+50 -> 51 ;
+52 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+50 -> 52 ;
+53 [label="
+VP['VBZ']
+ 
+NP['NNP', 'PRP']
+ <= 0.025\ngini = 0.375\nsamples = 4\nvalue = [1, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+43 -> 53 ;
+54 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+53 -> 54 ;
+55 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+53 -> 55 ;
+56 [label="
+NP['DT', 'NN']
+ 
+NP['JJ', 'JJ', 'NN', 'NNS']
+ <= 0.017\ngini = 0.444\nsamples = 3\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+42 -> 56 ;
+57 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+56 -> 57 ;
+58 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+56 -> 58 ;
+59 [label="
+VP['VBD', 'VBG']
+ 
+PP['IN']
+ <= 0.009\ngini = 0.32\nsamples = 5\nvalue = [1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+41 -> 59 ;
+60 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+59 -> 60 ;
+61 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+59 -> 61 ;
+62 [label="
+NP['DT', 'CD', 'NN', 'NN']
+ <= 0.005\ngini = 0.709\nsamples = 105\nvalue = [49, 24, 3, 0, 12, 5, 3, 6, 0, 1, 2, 0]"] ;
+6 -> 62 ;
+63 [label="
+ADVP['RB']
+ 
+ADJP['JJ']
+ <= 0.01\ngini = 0.623\nsamples = 83\nvalue = [45, 23, 2, 0, 4, 2, 1, 4, 0, 0, 2, 0]"] ;
+62 -> 63 ;
+64 [label="
+PP['IN']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.012\ngini = 0.652\nsamples = 45\nvalue = [17, 20, 0, 0, 3, 1, 1, 2, 0, 0, 1, 0]"] ;
+63 -> 64 ;
+65 [label="
+NP['NN', 'NN', 'NNP', 'NNP']
+ <= 0.027\ngini = 0.636\nsamples = 30\nvalue = [16, 8, 0, 0, 1, 1, 1, 2, 0, 0, 1, 0]"] ;
+64 -> 65 ;
+66 [label="
+PP['IN']
+ 
+NP['CD', 'NN']
+ <= 0.012\ngini = 0.586\nsamples = 26\nvalue = [16, 4, 0, 0, 1, 1, 1, 2, 0, 0, 1, 0]"] ;
+65 -> 66 ;
+67 [label="
+NP['NN', 'NN', 'NNP']
+ 
+ADVP['RB']
+ <= 0.034\ngini = 0.395\nsamples = 21\nvalue = [16, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]"] ;
+66 -> 67 ;
+68 [label="
+VP['MD', 'VB']
+ 
+VP['VBG']
+ <= 0.006\ngini = 0.283\nsamples = 19\nvalue = [16, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]"] ;
+67 -> 68 ;
+69 [label="
+NP['CD', 'NNS', 'NNP']
+ <= 0.025\ngini = 0.111\nsamples = 17\nvalue = [16, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+68 -> 69 ;
+70 [label="gini = 0.0\nsamples = 16\nvalue = [16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+69 -> 70 ;
+71 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+69 -> 71 ;
+72 [label="
+PP['IN']
+ 
+VP['VBZ', 'VBG']
+ <= 0.008\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]"] ;
+68 -> 72 ;
+73 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+72 -> 73 ;
+74 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+72 -> 74 ;
+75 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+67 -> 75 ;
+76 [label="
+NP['NN', 'NNP', 'NNP']
+ <= 0.01\ngini = 0.72\nsamples = 5\nvalue = [0, 1, 0, 0, 1, 0, 0, 2, 0, 0, 1, 0]"] ;
+66 -> 76 ;
+77 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+76 -> 77 ;
+78 [label="
+NP['NNP', 'PRP']
+ 
+PP['IN']
+ <= 0.007\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]"] ;
+76 -> 78 ;
+79 [label="
+NP['NNP', 'NN']
+ 
+ADJP['JJ', ',', 'JJ']
+ <= 0.043\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+78 -> 79 ;
+80 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+79 -> 80 ;
+81 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+79 -> 81 ;
+82 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+78 -> 82 ;
+83 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+65 -> 83 ;
+84 [label="
+NP['DT', 'NNS']
+ 
+VP['VBN']
+ <= 0.021\ngini = 0.338\nsamples = 15\nvalue = [1, 12, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+64 -> 84 ;
+85 [label="gini = 0.0\nsamples = 12\nvalue = [0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+84 -> 85 ;
+86 [label="
+ADJP['JJ']
+ 
+ADVP['RB']
+ <= 0.007\ngini = 0.444\nsamples = 3\nvalue = [1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+84 -> 86 ;
+87 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+86 -> 87 ;
+88 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+86 -> 88 ;
+89 [label="
+NP['NNP', 'NNP', 'CC', 'DT', 'NN']
+ <= 0.013\ngini = 0.443\nsamples = 38\nvalue = [28, 3, 2, 0, 1, 1, 0, 2, 0, 0, 1, 0]"] ;
+63 -> 89 ;
+90 [label="
+ADJP['JJS']
+ 
+VP['VBZ']
+ <= 0.012\ngini = 0.351\nsamples = 35\nvalue = [28, 0, 2, 0, 1, 1, 0, 2, 0, 0, 1, 0]"] ;
+89 -> 90 ;
+91 [label="
+VP['VBG', 'TO', 'VB']
+ 
+PP['IN']
+ <= 0.021\ngini = 0.229\nsamples = 32\nvalue = [28, 0, 0, 0, 1, 0, 0, 2, 0, 0, 1, 0]"] ;
+90 -> 91 ;
+92 [label="
+NP['JJ', 'NN', 'NN', 'NN']
+ <= 0.025\ngini = 0.127\nsamples = 30\nvalue = [28, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]"] ;
+91 -> 92 ;
+93 [label="gini = 0.0\nsamples = 28\nvalue = [28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+92 -> 93 ;
+94 [label="
+VP['VBP', 'RB', 'TO', 'VBG']
+ <= 0.035\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]"] ;
+92 -> 94 ;
+95 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+94 -> 95 ;
+96 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+94 -> 96 ;
+97 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+91 -> 97 ;
+98 [label="
+NP['PRP$', 'NN']
+ 
+VP['VBZ']
+ <= 0.018\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+90 -> 98 ;
+99 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+98 -> 99 ;
+100 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+98 -> 100 ;
+101 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+89 -> 101 ;
+102 [label="
+VP['VBZ']
+ 
+VP['VBN']
+ <= 0.013\ngini = 0.793\nsamples = 22\nvalue = [4, 1, 1, 0, 8, 3, 2, 2, 0, 1, 0, 0]"] ;
+62 -> 102 ;
+103 [label="
+NP['NN', 'NN']
+ 
+NP['DT', 'NNP', 'NN']
+ <= 0.015\ngini = 0.844\nsamples = 16\nvalue = [4, 1, 1, 0, 2, 3, 2, 2, 0, 1, 0, 0]"] ;
+102 -> 103 ;
+104 [label="
+NP['NN', 'DT', 'NNS']
+ <= 0.019\ngini = 0.817\nsamples = 13\nvalue = [4, 1, 1, 0, 2, 0, 2, 2, 0, 1, 0, 0]"] ;
+103 -> 104 ;
+105 [label="
+NP['DT', 'NNP', 'NNP']
+ 
+VP['VBZ']
+ <= 0.016\ngini = 0.815\nsamples = 9\nvalue = [0, 1, 1, 0, 2, 0, 2, 2, 0, 1, 0, 0]"] ;
+104 -> 105 ;
+106 [label="
+VP['VBN']
+ 
+NP['NNS']
+ <= 0.01\ngini = 0.776\nsamples = 7\nvalue = [0, 1, 1, 0, 0, 0, 2, 2, 0, 1, 0, 0]"] ;
+105 -> 106 ;
+107 [label="
+ADJP['RB', 'JJ']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.006\ngini = 0.72\nsamples = 5\nvalue = [0, 1, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0]"] ;
+106 -> 107 ;
+108 [label="
+VP['VBP']
+ 
+VP['VBD']
+ <= 0.005\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+107 -> 108 ;
+109 [label="
+VP['VBZ', 'VBN', 'VBG']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+108 -> 109 ;
+110 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+109 -> 110 ;
+111 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+109 -> 111 ;
+112 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+108 -> 112 ;
+113 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+107 -> 113 ;
+114 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+106 -> 114 ;
+115 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+105 -> 115 ;
+116 [label="gini = 0.0\nsamples = 4\nvalue = [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+104 -> 116 ;
+117 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+103 -> 117 ;
+118 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0]"] ;
+102 -> 118 ;
+119 [label="
+VP['MD', 'VB']
+ 
+VP['VBG']
+ <= 0.016\ngini = 0.715\nsamples = 54\nvalue = [16, 23, 2, 0, 5, 2, 1, 3, 1, 1, 0, 0]"] ;
+5 -> 119 ;
+120 [label="
+VP['MD']
+ 
+PP['IN']
+ <= 0.015\ngini = 0.647\nsamples = 41\nvalue = [6, 23, 1, 0, 4, 2, 1, 2, 1, 1, 0, 0]"] ;
+119 -> 120 ;
+121 [label="
+VP['VBN']
+ 
+NP['DT', 'NNP']
+ <= 0.024\ngini = 0.411\nsamples = 29\nvalue = [2, 22, 0, 0, 2, 1, 0, 0, 1, 1, 0, 0]"] ;
+120 -> 121 ;
+122 [label="
+VP['VBP', 'VBN', 'VBG']
+ <= 0.022\ngini = 0.156\nsamples = 24\nvalue = [0, 22, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]"] ;
+121 -> 122 ;
+123 [label="gini = 0.0\nsamples = 22\nvalue = [0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+122 -> 123 ;
+124 [label="
+VP['VBP', 'VBN', 'VBG']
+ 
+NP['PRP']
+ <= 0.02\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]"] ;
+122 -> 124 ;
+125 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+124 -> 125 ;
+126 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+124 -> 126 ;
+127 [label="
+NP['DT', 'NNP-LOC', 'NNPS-LOC']
+ <= 0.007\ngini = 0.72\nsamples = 5\nvalue = [2, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]"] ;
+121 -> 127 ;
+128 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+127 -> 128 ;
+129 [label="
+ADVP['RB']
+ 
+NP['NNS']
+ <= 0.008\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]"] ;
+127 -> 129 ;
+130 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+129 -> 130 ;
+131 [label="
+NP['NNP-LOC']
+ <= 0.026\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]"] ;
+129 -> 131 ;
+132 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+131 -> 132 ;
+133 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+131 -> 133 ;
+134 [label="
+PP['IN', 'IN']
+ 
+ADVP['RB']
+ <= 0.016\ngini = 0.806\nsamples = 12\nvalue = [4, 1, 1, 0, 2, 1, 1, 2, 0, 0, 0, 0]"] ;
+120 -> 134 ;
+135 [label="
+NP['NN', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.812\nsamples = 8\nvalue = [0, 1, 1, 0, 2, 1, 1, 2, 0, 0, 0, 0]"] ;
+134 -> 135 ;
+136 [label="
+VP['TO', 'VB']
+ 
+NP['PRP$']
+ <= 0.019\ngini = 0.778\nsamples = 6\nvalue = [0, 1, 1, 0, 2, 1, 1, 0, 0, 0, 0, 0]"] ;
+135 -> 136 ;
+137 [label="
+VP['TO', 'VB', 'VB']
+ <= 0.009\ngini = 0.75\nsamples = 4\nvalue = [0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0]"] ;
+136 -> 137 ;
+138 [label="
+NP['NN', 'NNS']
+ 
+VP['VBP', 'VBN', 'TO', 'VB']
+ <= 0.03\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+137 -> 138 ;
+139 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+138 -> 139 ;
+140 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+138 -> 140 ;
+141 [label="
+NP['DT', 'NNP']
+ 
+VP['VBP', 'VBN', 'TO', 'VB']
+ <= 0.019\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+137 -> 141 ;
+142 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+141 -> 142 ;
+143 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+141 -> 143 ;
+144 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+136 -> 144 ;
+145 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+135 -> 145 ;
+146 [label="gini = 0.0\nsamples = 4\nvalue = [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+134 -> 146 ;
+147 [label="
+VP['VBZ', 'RB', 'VB']
+ <= 0.017\ngini = 0.391\nsamples = 13\nvalue = [10, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0]"] ;
+119 -> 147 ;
+148 [label="gini = 0.0\nsamples = 10\nvalue = [10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+147 -> 148 ;
+149 [label="
+ADVP['RB']
+ 
+NP['JJ', 'NNS']
+ <= 0.006\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0]"] ;
+147 -> 149 ;
+150 [label="
+NP['DT', 'NNS']
+ 
+ADJP['RB', 'JJ']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+149 -> 150 ;
+151 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+150 -> 151 ;
+152 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+150 -> 152 ;
+153 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+149 -> 153 ;
+154 [label="
+NP['CD', 'JJ', 'NNS']
+ <= 0.003\ngini = 0.829\nsamples = 157\nvalue = [35, 38, 7, 3, 20, 27, 17, 7, 3, 0, 0, 0]"] ;
+4 -> 154 ;
+155 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ 
+NP['NNP']
+ <= 0.021\ngini = 0.688\nsamples = 61\nvalue = [28, 18, 3, 1, 2, 1, 6, 1, 1, 0, 0, 0]"] ;
+154 -> 155 ;
+156 [label="
+NP['NNP']
+ 
+VP['MD', 'VB']
+ <= 0.014\ngini = 0.666\nsamples = 53\nvalue = [28, 10, 3, 1, 2, 1, 6, 1, 1, 0, 0, 0]"] ;
+155 -> 156 ;
+157 [label="
+NP['NNP', 'NN', 'NN', 'NN']
+ <= 0.011\ngini = 0.413\nsamples = 33\nvalue = [25, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0]"] ;
+156 -> 157 ;
+158 [label="
+VP['VBP', 'VBG']
+ <= 0.023\ngini = 0.199\nsamples = 28\nvalue = [25, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]"] ;
+157 -> 158 ;
+159 [label="gini = 0.0\nsamples = 25\nvalue = [25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+158 -> 159 ;
+160 [label="
+NP['DT', 'NNS']
+ 
+NP['NNS', 'PRP']
+ <= 0.031\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]"] ;
+158 -> 160 ;
+161 [label="
+VP['VBP', 'VBN']
+ 
+NP['RB', 'JJ', 'NN']
+ <= 0.03\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+160 -> 161 ;
+162 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+161 -> 162 ;
+163 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+161 -> 163 ;
+164 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+160 -> 164 ;
+165 [label="
+ADJP['JJ']
+ 
+VP['VBZ']
+ <= 0.013\ngini = 0.72\nsamples = 5\nvalue = [0, 2, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+157 -> 165 ;
+166 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+165 -> 166 ;
+167 [label="
+NP['DT', 'NN', 'NN']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.012\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+165 -> 167 ;
+168 [label="
+NP['NN']
+ 
+NP['DT', 'JJS', 'NNS']
+ <= 0.019\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+167 -> 168 ;
+169 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+168 -> 169 ;
+170 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+168 -> 170 ;
+171 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+167 -> 171 ;
+172 [label="
+PP['IN']
+ 
+NP['DT', 'JJ', 'NNS']
+ <= 0.005\ngini = 0.76\nsamples = 20\nvalue = [3, 8, 1, 1, 2, 1, 4, 0, 0, 0, 0, 0]"] ;
+156 -> 172 ;
+173 [label="
+PP['IN']
+ 
+PP['IN', 'IN']
+ <= 0.013\ngini = 0.656\nsamples = 8\nvalue = [2, 0, 1, 0, 0, 1, 4, 0, 0, 0, 0, 0]"] ;
+172 -> 173 ;
+174 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+173 -> 174 ;
+175 [label="
+ADJP['JJ']
+ 
+NP['PRP']
+ <= 0.014\ngini = 0.625\nsamples = 4\nvalue = [2, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+173 -> 175 ;
+176 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+175 -> 176 ;
+177 [label="
+VP['MD', 'VB']
+ 
+NP['DT', 'NNP', 'NNP', 'NNP']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+175 -> 177 ;
+178 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+177 -> 178 ;
+179 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+177 -> 179 ;
+180 [label="
+NP['DT', 'JJ', 'NN', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.019\ngini = 0.514\nsamples = 12\nvalue = [1, 8, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+172 -> 180 ;
+181 [label="
+VP['VBD', 'RB', 'VB']
+ 
+PP['IN']
+ <= 0.022\ngini = 0.198\nsamples = 9\nvalue = [0, 8, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+180 -> 181 ;
+182 [label="gini = 0.0\nsamples = 8\nvalue = [0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+181 -> 182 ;
+183 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+181 -> 183 ;
+184 [label="
+VP['VBZ', 'VBN', 'TO', 'VB']
+ <= 0.008\ngini = 0.444\nsamples = 3\nvalue = [1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+180 -> 184 ;
+185 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+184 -> 185 ;
+186 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+184 -> 186 ;
+187 [label="gini = 0.0\nsamples = 8\nvalue = [0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+155 -> 187 ;
+188 [label="
+NP['NNP', 'NNP', 'NN']
+ <= 0.01\ngini = 0.823\nsamples = 96\nvalue = [7, 20, 4, 2, 18, 26, 11, 6, 2, 0, 0, 0]"] ;
+154 -> 188 ;
+189 [label="
+VP['VBD', 'VBN']
+ 
+NP['DT', 'NN']
+ <= 0.017\ngini = 0.738\nsamples = 37\nvalue = [4, 17, 1, 1, 5, 1, 4, 3, 1, 0, 0, 0]"] ;
+188 -> 189 ;
+190 [label="
+NP['JJ', 'NNS']
+ 
+VP['VBG']
+ <= 0.014\ngini = 0.839\nsamples = 22\nvalue = [3, 4, 0, 1, 5, 1, 4, 3, 1, 0, 0, 0]"] ;
+189 -> 190 ;
+191 [label="
+NP['DT', 'NNP', 'NNP']
+ 
+NP['DT', 'NNS']
+ <= 0.009\ngini = 0.809\nsamples = 18\nvalue = [3, 0, 0, 1, 5, 1, 4, 3, 1, 0, 0, 0]"] ;
+190 -> 191 ;
+192 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['PRP']
+ <= 0.009\ngini = 0.781\nsamples = 13\nvalue = [3, 0, 0, 1, 0, 1, 4, 3, 1, 0, 0, 0]"] ;
+191 -> 192 ;
+193 [label="
+NP['NNS']
+ 
+VP['VBP', 'RB', 'VBN']
+ <= 0.012\ngini = 0.32\nsamples = 5\nvalue = [0, 0, 0, 1, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+192 -> 193 ;
+194 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+193 -> 194 ;
+195 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+193 -> 195 ;
+196 [label="
+ADJP['JJR']
+ 
+NP['NNP']
+ <= 0.009\ngini = 0.688\nsamples = 8\nvalue = [3, 0, 0, 0, 0, 1, 0, 3, 1, 0, 0, 0]"] ;
+192 -> 196 ;
+197 [label="
+NP['JJ', 'NN']
+ 
+VP['VBP']
+ <= 0.007\ngini = 0.56\nsamples = 5\nvalue = [3, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+196 -> 197 ;
+198 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+197 -> 198 ;
+199 [label="
+VP['VBD']
+ 
+NP['CD', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.027\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+197 -> 199 ;
+200 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+199 -> 200 ;
+201 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+199 -> 201 ;
+202 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]"] ;
+196 -> 202 ;
+203 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+191 -> 203 ;
+204 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+190 -> 204 ;
+205 [label="
+VP['TO', 'VB']
+ 
+VP['VBZ', 'VBN']
+ <= 0.013\ngini = 0.24\nsamples = 15\nvalue = [1, 13, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+189 -> 205 ;
+206 [label="gini = 0.0\nsamples = 13\nvalue = [0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+205 -> 206 ;
+207 [label="
+NP['NNP', 'NNP', 'NNP']
+ 
+VP['VBZ']
+ <= 0.017\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+205 -> 207 ;
+208 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+207 -> 208 ;
+209 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+207 -> 209 ;
+210 [label="
+NP['WDT', 'PRP']
+ <= 0.019\ngini = 0.747\nsamples = 59\nvalue = [3, 3, 3, 1, 13, 25, 7, 3, 1, 0, 0, 0]"] ;
+188 -> 210 ;
+211 [label="
+NP['PRP']
+ 
+NP['CD', 'NNS']
+ <= 0.014\ngini = 0.604\nsamples = 42\nvalue = [1, 0, 0, 1, 6, 25, 5, 3, 1, 0, 0, 0]"] ;
+210 -> 211 ;
+212 [label="
+NP['JJ', 'NNS']
+ 
+ADJP['JJ']
+ <= 0.015\ngini = 0.433\nsamples = 34\nvalue = [1, 0, 0, 1, 2, 25, 5, 0, 0, 0, 0, 0]"] ;
+211 -> 212 ;
+213 [label="
+NP['NN', 'DT', 'NNP']
+ <= 0.021\ngini = 0.203\nsamples = 27\nvalue = [0, 0, 0, 0, 2, 24, 1, 0, 0, 0, 0, 0]"] ;
+212 -> 213 ;
+214 [label="
+NP['DT', 'NNS']
+ 
+NP['NNPS']
+ <= 0.015\ngini = 0.077\nsamples = 25\nvalue = [0, 0, 0, 0, 0, 24, 1, 0, 0, 0, 0, 0]"] ;
+213 -> 214 ;
+215 [label="gini = 0.0\nsamples = 24\nvalue = [0, 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 0]"] ;
+214 -> 215 ;
+216 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+214 -> 216 ;
+217 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+213 -> 217 ;
+218 [label="
+VP['VBZ', 'VBN', 'TO', 'VB']
+ <= 0.006\ngini = 0.612\nsamples = 7\nvalue = [1, 0, 0, 1, 0, 1, 4, 0, 0, 0, 0, 0]"] ;
+212 -> 218 ;
+219 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+218 -> 219 ;
+220 [label="
+NP['DT', 'NN', 'NNS']
+ 
+NP['DT', 'NNS']
+ <= 0.01\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+218 -> 220 ;
+221 [label="
+NP['DT', 'NN', 'NN', 'NNP', 'NN']
+ <= 0.016\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+220 -> 221 ;
+222 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+221 -> 222 ;
+223 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+221 -> 223 ;
+224 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+220 -> 224 ;
+225 [label="
+VP['VB']
+ 
+VP['MD', 'VB']
+ <= 0.006\ngini = 0.594\nsamples = 8\nvalue = [0, 0, 0, 0, 4, 0, 0, 3, 1, 0, 0, 0]"] ;
+211 -> 225 ;
+226 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]"] ;
+225 -> 226 ;
+227 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['NNP']
+ <= 0.017\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0]"] ;
+225 -> 227 ;
+228 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]"] ;
+227 -> 228 ;
+229 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+227 -> 229 ;
+230 [label="
+NP['RB', 'JJ', 'NN']
+ <= 0.013\ngini = 0.74\nsamples = 17\nvalue = [2, 3, 3, 0, 7, 0, 2, 0, 0, 0, 0, 0]"] ;
+210 -> 230 ;
+231 [label="
+VP['VBZ', 'VBN']
+ 
+NP['DT', 'NN']
+ <= 0.019\ngini = 0.37\nsamples = 9\nvalue = [1, 0, 0, 0, 7, 0, 1, 0, 0, 0, 0, 0]"] ;
+230 -> 231 ;
+232 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]"] ;
+231 -> 232 ;
+233 [label="
+NP['DT', 'NN', 'NNP', 'NN']
+ 
+NP['NNP', 'NNP']
+ <= 0.022\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+231 -> 233 ;
+234 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+233 -> 234 ;
+235 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+233 -> 235 ;
+236 [label="
+NP['DT', 'NNPS']
+ <= 0.013\ngini = 0.688\nsamples = 8\nvalue = [1, 3, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+230 -> 236 ;
+237 [label="
+VP['VBP', 'RB', 'VB']
+ <= 0.005\ngini = 0.56\nsamples = 5\nvalue = [1, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+236 -> 237 ;
+238 [label="
+NP['NN', 'DT', 'JJ', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.022\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+237 -> 238 ;
+239 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+238 -> 239 ;
+240 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+238 -> 240 ;
+241 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+237 -> 241 ;
+242 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+236 -> 242 ;
+243 [label="
+NP['NNP']
+ 
+NP['CD', 'NN']
+ <= 0.007\ngini = 0.885\nsamples = 775\nvalue = [93, 98, 40, 63, 137, 87, 105, 79, 36, 18, 12, 7]"] ;
+3 -> 243 ;
+244 [label="
+NP['NNP', 'NNP']
+ 
+VP['VBZ']
+ <= 0.003\ngini = 0.845\nsamples = 412\nvalue = [75, 73, 27, 34, 103, 40, 25, 23, 6, 0, 2, 4]"] ;
+243 -> 244 ;
+245 [label="
+NP['NNS']
+ 
+NP['NNS']
+ <= 0.015\ngini = 0.761\nsamples = 120\nvalue = [49, 22, 4, 6, 19, 9, 3, 7, 1, 0, 0, 0]"] ;
+244 -> 245 ;
+246 [label="
+NP['NN', 'NN']
+ 
+NP['NNP', 'NNP']
+ <= 0.007\ngini = 0.576\nsamples = 65\nvalue = [40, 12, 1, 1, 6, 1, 2, 2, 0, 0, 0, 0]"] ;
+245 -> 246 ;
+247 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.49\nsamples = 56\nvalue = [39, 6, 0, 1, 6, 1, 1, 2, 0, 0, 0, 0]"] ;
+246 -> 247 ;
+248 [label="
+NP['PRP$', 'JJ', 'NNS']
+ <= 0.027\ngini = 0.24\nsamples = 38\nvalue = [33, 2, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0]"] ;
+247 -> 248 ;
+249 [label="
+NP['DT', 'NNP', 'NNP', 'NNP', 'NNS']
+ <= 0.013\ngini = 0.109\nsamples = 35\nvalue = [33, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+248 -> 249 ;
+250 [label="gini = 0.0\nsamples = 33\nvalue = [33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+249 -> 250 ;
+251 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['PRP$', 'NNS']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+249 -> 251 ;
+252 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+251 -> 252 ;
+253 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+251 -> 253 ;
+254 [label="
+VP['MD', 'VB', 'VBN']
+ 
+NP['JJ', 'NNS']
+ <= 0.011\ngini = 0.444\nsamples = 3\nvalue = [0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+248 -> 254 ;
+255 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+254 -> 255 ;
+256 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+254 -> 256 ;
+257 [label="
+VP['VBN']
+ 
+NP['DT', 'NN']
+ <= 0.019\ngini = 0.772\nsamples = 18\nvalue = [6, 4, 0, 1, 4, 1, 0, 2, 0, 0, 0, 0]"] ;
+247 -> 257 ;
+258 [label="
+NP['NNP', 'NNP', 'NN']
+ <= 0.016\ngini = 0.769\nsamples = 13\nvalue = [1, 4, 0, 1, 4, 1, 0, 2, 0, 0, 0, 0]"] ;
+257 -> 258 ;
+259 [label="
+NP['JJ', 'NN']
+ 
+NP['NNP']
+ <= 0.01\ngini = 0.656\nsamples = 8\nvalue = [0, 4, 0, 1, 0, 1, 0, 2, 0, 0, 0, 0]"] ;
+258 -> 259 ;
+260 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+259 -> 260 ;
+261 [label="
+VP['VBP']
+ 
+NP['NNP']
+ <= 0.007\ngini = 0.625\nsamples = 4\nvalue = [0, 0, 0, 1, 0, 1, 0, 2, 0, 0, 0, 0]"] ;
+259 -> 261 ;
+262 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+261 -> 262 ;
+263 [label="
+PP['IN']
+ 
+VP['MD', 'VB', 'MD', 'VB']
+ <= 0.017\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+261 -> 263 ;
+264 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+263 -> 264 ;
+265 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+263 -> 265 ;
+266 [label="
+NP['DT', 'NN']
+ 
+ADVP['RB', 'RB']
+ <= 0.01\ngini = 0.32\nsamples = 5\nvalue = [1, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]"] ;
+258 -> 266 ;
+267 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]"] ;
+266 -> 267 ;
+268 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+266 -> 268 ;
+269 [label="gini = 0.0\nsamples = 5\nvalue = [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+257 -> 269 ;
+270 [label="
+NP['NNP']
+ 
+NP['NNP', 'NN']
+ <= 0.016\ngini = 0.519\nsamples = 9\nvalue = [1, 6, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+246 -> 270 ;
+271 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+270 -> 271 ;
+272 [label="
+NP['NN']
+ 
+ADJP['RBR', 'JJ']
+ <= 0.011\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+270 -> 272 ;
+273 [label="
+NP['CD', 'NN', 'NN']
+ 
+NP['CD', 'NN', 'NN']
+ <= 0.027\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+272 -> 273 ;
+274 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+273 -> 274 ;
+275 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+273 -> 275 ;
+276 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+272 -> 276 ;
+277 [label="
+NP['DT', 'JJ', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.009\ngini = 0.843\nsamples = 55\nvalue = [9, 10, 3, 5, 13, 8, 1, 5, 1, 0, 0, 0]"] ;
+245 -> 277 ;
+278 [label="
+NP['NNP']
+ 
+NP['DT', 'NNP', 'NNP']
+ <= 0.02\ngini = 0.854\nsamples = 47\nvalue = [9, 9, 3, 5, 6, 8, 1, 5, 1, 0, 0, 0]"] ;
+277 -> 278 ;
+279 [label="
+VP['MD', 'VB', 'TO', 'VB']
+ <= 0.023\ngini = 0.851\nsamples = 41\nvalue = [9, 3, 3, 5, 6, 8, 1, 5, 1, 0, 0, 0]"] ;
+278 -> 279 ;
+280 [label="
+NP['DT', 'NN', 'NN']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.016\ngini = 0.849\nsamples = 36\nvalue = [9, 3, 3, 5, 6, 3, 1, 5, 1, 0, 0, 0]"] ;
+279 -> 280 ;
+281 [label="
+NP['JJ', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.022\ngini = 0.827\nsamples = 30\nvalue = [9, 2, 3, 5, 1, 3, 1, 5, 1, 0, 0, 0]"] ;
+280 -> 281 ;
+282 [label="
+PP['IN']
+ 
+NP['PRP$', 'NN']
+ <= 0.016\ngini = 0.843\nsamples = 22\nvalue = [2, 1, 3, 5, 1, 3, 1, 5, 1, 0, 0, 0]"] ;
+281 -> 282 ;
+283 [label="
+PP['IN']
+ 
+NP['CD', 'NN']
+ <= 0.02\ngini = 0.82\nsamples = 16\nvalue = [2, 1, 2, 0, 1, 3, 1, 5, 1, 0, 0, 0]"] ;
+282 -> 283 ;
+284 [label="
+VP['VBZ', 'RB', 'VBN']
+ <= 0.01\ngini = 0.781\nsamples = 13\nvalue = [2, 1, 2, 0, 1, 0, 1, 5, 1, 0, 0, 0]"] ;
+283 -> 284 ;
+285 [label="
+PP['IN']
+ 
+NP['NN', 'NNP']
+ <= 0.015\ngini = 0.449\nsamples = 7\nvalue = [0, 1, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0]"] ;
+284 -> 285 ;
+286 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]"] ;
+285 -> 286 ;
+287 [label="
+VP['VBZ', 'VBN', 'VBN', 'TO', 'VB']
+ 
+PP['IN']
+ <= 0.015\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+285 -> 287 ;
+288 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+287 -> 288 ;
+289 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+287 -> 289 ;
+290 [label="
+NP['JJ', 'CC', 'JJ', 'NN']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.022\ngini = 0.722\nsamples = 6\nvalue = [2, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0]"] ;
+284 -> 290 ;
+291 [label="
+ADVP['RB']
+ 
+NP['NN', 'NNS']
+ <= 0.01\ngini = 0.625\nsamples = 4\nvalue = [0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0]"] ;
+290 -> 291 ;
+292 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+291 -> 292 ;
+293 [label="
+NP['DT', 'NNP-LOC', 'NNP']
+ <= 0.013\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]"] ;
+291 -> 293 ;
+294 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+293 -> 294 ;
+295 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+293 -> 295 ;
+296 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+290 -> 296 ;
+297 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+283 -> 297 ;
+298 [label="
+VP['VBD', 'VBN']
+ 
+NP['DT', 'NNS', 'NN']
+ <= 0.022\ngini = 0.278\nsamples = 6\nvalue = [0, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+282 -> 298 ;
+299 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+298 -> 299 ;
+300 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+298 -> 300 ;
+301 [label="
+PP['IN']
+ 
+NP['PRP', 'NN']
+ <= 0.011\ngini = 0.219\nsamples = 8\nvalue = [7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+281 -> 301 ;
+302 [label="gini = 0.0\nsamples = 7\nvalue = [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+301 -> 302 ;
+303 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+301 -> 303 ;
+304 [label="
+NP['PRP$', 'NN']
+ 
+NP['DT', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.028\ngini = 0.278\nsamples = 6\nvalue = [0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+280 -> 304 ;
+305 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+304 -> 305 ;
+306 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+304 -> 306 ;
+307 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]"] ;
+279 -> 307 ;
+308 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+278 -> 308 ;
+309 [label="
+NP['NN', 'NNS']
+ 
+NP['NNP', 'CC', 'NNP']
+ <= 0.02\ngini = 0.219\nsamples = 8\nvalue = [0, 1, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]"] ;
+277 -> 309 ;
+310 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]"] ;
+309 -> 310 ;
+311 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+309 -> 311 ;
+312 [label="
+NP['DT', 'RBS', 'JJ', 'NN']
+ <= 0.013\ngini = 0.843\nsamples = 292\nvalue = [26, 51, 23, 28, 84, 31, 22, 16, 5, 0, 2, 4]"] ;
+244 -> 312 ;
+313 [label="
+NP['DT', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.019\ngini = 0.815\nsamples = 206\nvalue = [11, 20, 15, 23, 73, 27, 17, 14, 4, 0, 0, 2]"] ;
+312 -> 313 ;
+314 [label="
+NP['NNP']
+ 
+NP['CD', 'NNP']
+ <= 0.021\ngini = 0.858\nsamples = 140\nvalue = [6, 14, 13, 13, 34, 24, 17, 13, 4, 0, 0, 2]"] ;
+313 -> 314 ;
+315 [label="
+NP['DT', 'NNP']
+ 
+NP['DT', 'NNS']
+ <= 0.016\ngini = 0.844\nsamples = 123\nvalue = [6, 14, 13, 13, 34, 19, 16, 3, 3, 0, 0, 2]"] ;
+314 -> 315 ;
+316 [label="
+NP['NN']
+ 
+NP['JJ', 'NN']
+ <= 0.019\ngini = 0.859\nsamples = 105\nvalue = [5, 13, 13, 12, 21, 19, 15, 2, 3, 0, 0, 2]"] ;
+315 -> 316 ;
+317 [label="
+NP['DT', 'JJ', 'NNS']
+ 
+PP['IN']
+ <= 0.022\ngini = 0.858\nsamples = 85\nvalue = [5, 11, 13, 12, 20, 7, 10, 2, 3, 0, 0, 2]"] ;
+316 -> 317 ;
+318 [label="
+NP['NNP']
+ 
+NP['DT', 'NNP', 'NNP']
+ <= 0.021\ngini = 0.849\nsamples = 78\nvalue = [4, 5, 13, 12, 20, 7, 10, 2, 3, 0, 0, 2]"] ;
+317 -> 318 ;
+319 [label="
+NP['NNP-LOC']
+ 
+PP['IN']
+ <= 0.011\ngini = 0.841\nsamples = 73\nvalue = [4, 5, 13, 12, 20, 7, 5, 2, 3, 0, 0, 2]"] ;
+318 -> 319 ;
+320 [label="
+NP['NNP']
+ 
+NP['NNP', 'NN']
+ <= 0.012\ngini = 0.704\nsamples = 34\nvalue = [3, 2, 5, 1, 17, 3, 1, 0, 2, 0, 0, 0]"] ;
+319 -> 320 ;
+321 [label="
+NP['DT', 'NN']
+ 
+NP['DT', 'CD', 'NNS']
+ <= 0.02\ngini = 0.479\nsamples = 24\nvalue = [2, 1, 1, 0, 17, 2, 0, 0, 1, 0, 0, 0]"] ;
+320 -> 321 ;
+322 [label="
+VP['VBD']
+ 
+NP['JJ', 'NNP', 'NN']
+ <= 0.011\ngini = 0.27\nsamples = 20\nvalue = [1, 0, 1, 0, 17, 0, 0, 0, 1, 0, 0, 0]"] ;
+321 -> 322 ;
+323 [label="
+NP['PRP$', 'NNS']
+ 
+ADJP['JJ']
+ <= 0.019\ngini = 0.105\nsamples = 18\nvalue = [1, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0]"] ;
+322 -> 323 ;
+324 [label="gini = 0.0\nsamples = 17\nvalue = [0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0]"] ;
+323 -> 324 ;
+325 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+323 -> 325 ;
+326 [label="
+NP['JJ', 'NN']
+ 
+NP['NNS']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+322 -> 326 ;
+327 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+326 -> 327 ;
+328 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+326 -> 328 ;
+329 [label="
+PP['IN']
+ 
+PP['IN', 'IN']
+ <= 0.016\ngini = 0.625\nsamples = 4\nvalue = [1, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+321 -> 329 ;
+330 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+329 -> 330 ;
+331 [label="
+VP['VBP', 'VBN', 'VBN']
+ <= 0.011\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+329 -> 331 ;
+332 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+331 -> 332 ;
+333 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+331 -> 333 ;
+334 [label="
+NP['DT', 'JJ', 'NN']
+ 
+ADVP['RB']
+ <= 0.01\ngini = 0.78\nsamples = 10\nvalue = [1, 1, 4, 1, 0, 1, 1, 0, 1, 0, 0, 0]"] ;
+320 -> 334 ;
+335 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+334 -> 335 ;
+336 [label="
+NP['DT', 'NNP', 'NNP', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.01\ngini = 0.833\nsamples = 6\nvalue = [1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0]"] ;
+334 -> 336 ;
+337 [label="
+NP['NN', 'NN', 'NNS']
+ 
+ADJP['JJ']
+ <= 0.015\ngini = 0.8\nsamples = 5\nvalue = [1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+336 -> 337 ;
+338 [label="
+VP['RB', 'RB', 'VBZ', 'TO', 'VB']
+ <= 0.02\ngini = 0.75\nsamples = 4\nvalue = [1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+337 -> 338 ;
+339 [label="
+NP['NNS']
+ 
+NP['DT', 'NNP', 'NNP', 'NN']
+ <= 0.013\ngini = 0.667\nsamples = 3\nvalue = [1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+338 -> 339 ;
+340 [label="
+NP['NN', 'DT', 'RBS', 'JJ', 'NN']
+ 
+PP['IN']
+ <= 0.028\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+339 -> 340 ;
+341 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+340 -> 341 ;
+342 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+340 -> 342 ;
+343 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+339 -> 343 ;
+344 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+338 -> 344 ;
+345 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+337 -> 345 ;
+346 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+336 -> 346 ;
+347 [label="
+NP['NNP', 'NNP', 'CC', 'NNP']
+ 
+PP['IN']
+ <= 0.007\ngini = 0.839\nsamples = 39\nvalue = [1, 3, 8, 11, 3, 4, 4, 2, 1, 0, 0, 2]"] ;
+319 -> 347 ;
+348 [label="
+PP['IN']
+ 
+VP['VBZ', 'VBN', 'VBN']
+ <= 0.018\ngini = 0.842\nsamples = 30\nvalue = [1, 3, 1, 9, 3, 4, 4, 2, 1, 0, 0, 2]"] ;
+347 -> 348 ;
+349 [label="
+PP['IN']
+ 
+NP['CD', 'NN', 'NN']
+ <= 0.017\ngini = 0.876\nsamples = 22\nvalue = [1, 3, 1, 2, 2, 4, 4, 2, 1, 0, 0, 2]"] ;
+348 -> 349 ;
+350 [label="
+VP['VBD', 'VBG']
+ <= 0.01\ngini = 0.864\nsamples = 18\nvalue = [1, 3, 1, 2, 2, 0, 4, 2, 1, 0, 0, 2]"] ;
+349 -> 350 ;
+351 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+350 -> 351 ;
+352 [label="
+ADJP['RB', 'JJ']
+ 
+VP['VBG']
+ <= 0.014\ngini = 0.857\nsamples = 14\nvalue = [1, 3, 1, 2, 2, 0, 0, 2, 1, 0, 0, 2]"] ;
+350 -> 352 ;
+353 [label="
+NP['JJ', 'NNS']
+ 
+NP['JJ', 'NN']
+ <= 0.012\ngini = 0.843\nsamples = 11\nvalue = [1, 0, 1, 2, 2, 0, 0, 2, 1, 0, 0, 2]"] ;
+352 -> 353 ;
+354 [label="
+NP['WDT', 'NN', 'PRP']
+ <= 0.01\ngini = 0.815\nsamples = 9\nvalue = [1, 0, 1, 0, 2, 0, 0, 2, 1, 0, 0, 2]"] ;
+353 -> 354 ;
+355 [label="
+NP['DT', 'NNS']
+ 
+PP['IN', 'IN']
+ <= 0.007\ngini = 0.776\nsamples = 7\nvalue = [1, 0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 2]"] ;
+354 -> 355 ;
+356 [label="
+NP['DT', 'NNPS']
+ 
+PP['IN']
+ <= 0.014\ngini = 0.72\nsamples = 5\nvalue = [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 2]"] ;
+355 -> 356 ;
+357 [label="
+VP['VBD']
+ 
+NP['DT', 'JJ', 'NN', 'NN']
+ <= 0.006\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+356 -> 357 ;
+358 [label="
+NP['DT', 'JJ', 'NN', 'NN']
+ 
+VP['MD', 'VB']
+ <= 0.014\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+357 -> 358 ;
+359 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+358 -> 359 ;
+360 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+358 -> 360 ;
+361 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+357 -> 361 ;
+362 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]"] ;
+356 -> 362 ;
+363 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+355 -> 363 ;
+364 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+354 -> 364 ;
+365 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+353 -> 365 ;
+366 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+352 -> 366 ;
+367 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]"] ;
+349 -> 367 ;
+368 [label="
+VP['RB', 'VBN']
+ 
+VP['TO', 'VB']
+ <= 0.02\ngini = 0.219\nsamples = 8\nvalue = [0, 0, 0, 7, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+348 -> 368 ;
+369 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+368 -> 369 ;
+370 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+368 -> 370 ;
+371 [label="
+PP['IN']
+ 
+NP['WDT', 'NNS']
+ <= 0.014\ngini = 0.346\nsamples = 9\nvalue = [0, 0, 7, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+347 -> 371 ;
+372 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+371 -> 372 ;
+373 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+371 -> 373 ;
+374 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]"] ;
+318 -> 374 ;
+375 [label="
+VP['VBZ', 'VBN', 'VBN']
+ 
+NP['JJ', 'NN']
+ <= 0.019\ngini = 0.245\nsamples = 7\nvalue = [1, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+317 -> 375 ;
+376 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+375 -> 376 ;
+377 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+375 -> 377 ;
+378 [label="
+NP['NNP']
+ 
+NP['NNP', 'CC', 'NNP']
+ <= 0.014\ngini = 0.565\nsamples = 20\nvalue = [0, 2, 0, 0, 1, 12, 5, 0, 0, 0, 0, 0]"] ;
+316 -> 378 ;
+379 [label="
+PP['IN']
+ 
+NP['JJS', 'NN']
+ <= 0.012\ngini = 0.255\nsamples = 14\nvalue = [0, 1, 0, 0, 0, 12, 1, 0, 0, 0, 0, 0]"] ;
+378 -> 379 ;
+380 [label="gini = 0.0\nsamples = 12\nvalue = [0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0]"] ;
+379 -> 380 ;
+381 [label="
+NP['DT', 'NN', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.014\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+379 -> 381 ;
+382 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+381 -> 382 ;
+383 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+381 -> 383 ;
+384 [label="
+VP['VBZ', 'VBN']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.008\ngini = 0.5\nsamples = 6\nvalue = [0, 1, 0, 0, 1, 0, 4, 0, 0, 0, 0, 0]"] ;
+378 -> 384 ;
+385 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]"] ;
+384 -> 385 ;
+386 [label="
+VP['VBP', 'VBN', 'TO', 'VB']
+ <= 0.013\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+384 -> 386 ;
+387 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+386 -> 387 ;
+388 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+386 -> 388 ;
+389 [label="
+NP['DT', 'NN']
+ 
+NP['NN', 'NNS']
+ <= 0.019\ngini = 0.463\nsamples = 18\nvalue = [1, 1, 0, 1, 13, 0, 1, 1, 0, 0, 0, 0]"] ;
+315 -> 389 ;
+390 [label="
+VP['TO', 'VB']
+ 
+NP['DT', 'NNP', 'NNP']
+ <= 0.01\ngini = 0.133\nsamples = 14\nvalue = [0, 0, 0, 1, 13, 0, 0, 0, 0, 0, 0, 0]"] ;
+389 -> 390 ;
+391 [label="gini = 0.0\nsamples = 13\nvalue = [0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0]"] ;
+390 -> 391 ;
+392 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+390 -> 392 ;
+393 [label="
+NP['DT', 'NNP', 'NNP', 'NNP']
+ 
+NP['DT', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.75\nsamples = 4\nvalue = [1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+389 -> 393 ;
+394 [label="
+NP['JJ', 'JJ', 'JJ', 'NNS']
+ <= 0.008\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"] ;
+393 -> 394 ;
+395 [label="
+VP['MD', 'VB', 'VBN']
+ 
+NP['NNS']
+ <= 0.008\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+394 -> 395 ;
+396 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+395 -> 396 ;
+397 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+395 -> 397 ;
+398 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+394 -> 398 ;
+399 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+393 -> 399 ;
+400 [label="
+NP['NN']
+ 
+NP['NN', 'NN']
+ <= 0.016\ngini = 0.561\nsamples = 17\nvalue = [0, 0, 0, 0, 0, 5, 1, 10, 1, 0, 0, 0]"] ;
+314 -> 400 ;
+401 [label="
+NP['NN', 'NN', 'NNS']
+ 
+VP['MD', 'RB', 'VB']
+ <= 0.018\ngini = 0.165\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 0, 0, 10, 1, 0, 0, 0]"] ;
+400 -> 401 ;
+402 [label="gini = 0.0\nsamples = 10\nvalue = [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0]"] ;
+401 -> 402 ;
+403 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+401 -> 403 ;
+404 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ 
+NP['NN', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.026\ngini = 0.278\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0]"] ;
+400 -> 404 ;
+405 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]"] ;
+404 -> 405 ;
+406 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+404 -> 406 ;
+407 [label="
+NP['NN', 'NNP', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.018\ngini = 0.611\nsamples = 66\nvalue = [5, 6, 2, 10, 39, 3, 0, 1, 0, 0, 0, 0]"] ;
+313 -> 407 ;
+408 [label="
+NP['DT', 'NNP', 'NNP', 'NNP']
+ 
+ADJP['JJ']
+ <= 0.009\ngini = 0.54\nsamples = 59\nvalue = [5, 5, 2, 4, 39, 3, 0, 1, 0, 0, 0, 0]"] ;
+407 -> 408 ;
+409 [label="
+NP['DT', 'NNS']
+ 
+NP['PRP']
+ <= 0.025\ngini = 0.422\nsamples = 52\nvalue = [5, 2, 1, 2, 39, 3, 0, 0, 0, 0, 0, 0]"] ;
+408 -> 409 ;
+410 [label="
+VP['VBD', 'RB', 'VBN']
+ <= 0.021\ngini = 0.332\nsamples = 48\nvalue = [2, 1, 1, 2, 39, 3, 0, 0, 0, 0, 0, 0]"] ;
+409 -> 410 ;
+411 [label="
+NP['NN', 'JJ', 'JJ', 'NN']
+ <= 0.011\ngini = 0.211\nsamples = 44\nvalue = [0, 1, 1, 2, 39, 1, 0, 0, 0, 0, 0, 0]"] ;
+410 -> 411 ;
+412 [label="
+NP['NN', 'NN', 'CC', 'JJ', 'NN']
+ <= 0.013\ngini = 0.094\nsamples = 41\nvalue = [0, 1, 0, 0, 39, 1, 0, 0, 0, 0, 0, 0]"] ;
+411 -> 412 ;
+413 [label="gini = 0.0\nsamples = 39\nvalue = [0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 0]"] ;
+412 -> 413 ;
+414 [label="
+VP['VBP', 'VBG', 'VBN']
+ 
+NP['DT', 'NN', 'NNS']
+ <= 0.028\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+412 -> 414 ;
+415 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+414 -> 415 ;
+416 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+414 -> 416 ;
+417 [label="
+NP['DT', 'DT', 'JJ', 'NN', 'NN']
+ <= 0.015\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+411 -> 417 ;
+418 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+417 -> 418 ;
+419 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+417 -> 419 ;
+420 [label="
+PP['IN']
+ 
+VP['VBD', 'RB', 'VBN']
+ <= 0.019\ngini = 0.5\nsamples = 4\nvalue = [2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+410 -> 420 ;
+421 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+420 -> 421 ;
+422 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+420 -> 422 ;
+423 [label="
+VP['MD', 'VB', 'VBN']
+ 
+ADJP['RB', 'JJ']
+ <= 0.02\ngini = 0.375\nsamples = 4\nvalue = [3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+409 -> 423 ;
+424 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+423 -> 424 ;
+425 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+423 -> 425 ;
+426 [label="
+VP['TO', 'VB']
+ 
+NP['NNS']
+ <= 0.01\ngini = 0.694\nsamples = 7\nvalue = [0, 3, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+408 -> 426 ;
+427 [label="
+VP['MD', 'VB', 'VBN']
+ 
+NP['DT', 'NNP']
+ <= 0.007\ngini = 0.625\nsamples = 4\nvalue = [0, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+426 -> 427 ;
+428 [label="
+VP['VBN']
+ 
+NP['PRP$', 'NN']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+427 -> 428 ;
+429 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+428 -> 429 ;
+430 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+428 -> 430 ;
+431 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+427 -> 431 ;
+432 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+426 -> 432 ;
+433 [label="
+NP['NN']
+ 
+ADJP['JJS']
+ <= 0.01\ngini = 0.245\nsamples = 7\nvalue = [0, 1, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+407 -> 433 ;
+434 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+433 -> 434 ;
+435 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+433 -> 435 ;
+436 [label="
+NP['DT', 'CD', 'NNS']
+ <= 0.019\ngini = 0.804\nsamples = 86\nvalue = [15, 31, 8, 5, 11, 4, 5, 2, 1, 0, 2, 2]"] ;
+312 -> 436 ;
+437 [label="
+NP['DT', 'DT', 'NN']
+ <= 0.016\ngini = 0.846\nsamples = 63\nvalue = [15, 13, 8, 4, 10, 1, 5, 2, 1, 0, 2, 2]"] ;
+436 -> 437 ;
+438 [label="
+NP['DT', 'NNS', 'NN']
+ <= 0.014\ngini = 0.856\nsamples = 56\nvalue = [8, 13, 8, 4, 10, 1, 5, 2, 1, 0, 2, 2]"] ;
+437 -> 438 ;
+439 [label="
+NP['NNP']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.018\ngini = 0.795\nsamples = 38\nvalue = [8, 13, 0, 1, 6, 1, 4, 2, 0, 0, 2, 1]"] ;
+438 -> 439 ;
+440 [label="
+VP['VBZ']
+ 
+ADVP['RB']
+ <= 0.015\ngini = 0.766\nsamples = 31\nvalue = [2, 13, 0, 1, 5, 1, 4, 2, 0, 0, 2, 1]"] ;
+439 -> 440 ;
+441 [label="
+PP['IN']
+ 
+NP['NN', 'NNS']
+ <= 0.016\ngini = 0.504\nsamples = 19\nvalue = [2, 13, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0]"] ;
+440 -> 441 ;
+442 [label="
+NP['NNS', 'CC', 'NNS']
+ 
+NP['NNP', 'NN']
+ <= 0.024\ngini = 0.133\nsamples = 14\nvalue = [0, 13, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+441 -> 442 ;
+443 [label="gini = 0.0\nsamples = 13\nvalue = [0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+442 -> 443 ;
+444 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+442 -> 444 ;
+445 [label="
+VP['MD', 'VB', 'VBN', 'TO', 'VB']
+ <= 0.018\ngini = 0.64\nsamples = 5\nvalue = [2, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0]"] ;
+441 -> 445 ;
+446 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+445 -> 446 ;
+447 [label="
+NP['NNP', 'NNP']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.018\ngini = 0.444\nsamples = 3\nvalue = [2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+445 -> 447 ;
+448 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+447 -> 448 ;
+449 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+447 -> 449 ;
+450 [label="
+NP['JJ', 'NN']
+ 
+NP['NN', 'NN']
+ <= 0.011\ngini = 0.806\nsamples = 12\nvalue = [0, 0, 0, 1, 3, 0, 3, 2, 0, 0, 2, 1]"] ;
+440 -> 450 ;
+451 [label="
+VP['VBZ', 'VBN']
+ 
+NP['NNP']
+ <= 0.017\ngini = 0.765\nsamples = 9\nvalue = [0, 0, 0, 1, 3, 0, 0, 2, 0, 0, 2, 1]"] ;
+450 -> 451 ;
+452 [label="
+ADVP['RB', 'RB']
+ 
+NP['NNP']
+ <= 0.011\ngini = 0.722\nsamples = 6\nvalue = [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 2, 1]"] ;
+451 -> 452 ;
+453 [label="
+PP['IN']
+ 
+NP['DT', 'NN', 'NNS']
+ <= 0.013\ngini = 0.625\nsamples = 4\nvalue = [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 1]"] ;
+452 -> 453 ;
+454 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+453 -> 454 ;
+455 [label="
+VP['VBD', 'VBN']
+ 
+NP['DT', 'NNS']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+453 -> 455 ;
+456 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+455 -> 456 ;
+457 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+455 -> 457 ;
+458 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]"] ;
+452 -> 458 ;
+459 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+451 -> 459 ;
+460 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]"] ;
+450 -> 460 ;
+461 [label="
+NP['NNP', 'CC', 'PRP$', 'NN']
+ 
+NP['PRP']
+ <= 0.026\ngini = 0.245\nsamples = 7\nvalue = [6, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+439 -> 461 ;
+462 [label="gini = 0.0\nsamples = 6\nvalue = [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+461 -> 462 ;
+463 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+461 -> 463 ;
+464 [label="
+NP['DT', 'JJ', 'NN']
+ 
+VP['VBD']
+ <= 0.015\ngini = 0.716\nsamples = 18\nvalue = [0, 0, 8, 3, 4, 0, 1, 0, 1, 0, 0, 1]"] ;
+438 -> 464 ;
+465 [label="
+NP['CD', 'JJ', 'NNS']
+ 
+PP['IN']
+ <= 0.017\ngini = 0.198\nsamples = 9\nvalue = [0, 0, 8, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+464 -> 465 ;
+466 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+465 -> 466 ;
+467 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+465 -> 467 ;
+468 [label="
+NP['NN']
+ 
+NP['PRP$']
+ <= 0.013\ngini = 0.741\nsamples = 9\nvalue = [0, 0, 0, 3, 3, 0, 1, 0, 1, 0, 0, 1]"] ;
+464 -> 468 ;
+469 [label="
+VP['VBP', 'VBN', 'VBN']
+ <= 0.014\ngini = 0.667\nsamples = 6\nvalue = [0, 0, 0, 3, 0, 0, 1, 0, 1, 0, 0, 1]"] ;
+468 -> 469 ;
+470 [label="
+ADVP['RB']
+ 
+NP['PRP$', 'JJS', 'NN']
+ <= 0.013\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]"] ;
+469 -> 470 ;
+471 [label="
+ADVP['RBR']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]"] ;
+470 -> 471 ;
+472 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+471 -> 472 ;
+473 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+471 -> 473 ;
+474 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+470 -> 474 ;
+475 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+469 -> 475 ;
+476 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+468 -> 476 ;
+477 [label="gini = 0.0\nsamples = 7\nvalue = [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+437 -> 477 ;
+478 [label="
+NP['NNS']
+ 
+NP['NN', 'NN']
+ <= 0.015\ngini = 0.367\nsamples = 23\nvalue = [0, 18, 0, 1, 1, 3, 0, 0, 0, 0, 0, 0]"] ;
+436 -> 478 ;
+479 [label="
+NP['NNP', 'NNP', 'CC', 'NNP', 'NNP']
+ 
+VP['VBD']
+ <= 0.011\ngini = 0.185\nsamples = 20\nvalue = [0, 18, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+478 -> 479 ;
+480 [label="gini = 0.0\nsamples = 18\nvalue = [0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+479 -> 480 ;
+481 [label="
+VP['VBG']
+ 
+NP['NN', 'NNP']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+479 -> 481 ;
+482 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+481 -> 482 ;
+483 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+481 -> 483 ;
+484 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+478 -> 484 ;
+485 [label="
+NP['NNP', 'NNP']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.016\ngini = 0.877\nsamples = 363\nvalue = [18, 25, 13, 29, 34, 47, 80, 56, 30, 18, 10, 3]"] ;
+243 -> 485 ;
+486 [label="
+VP['VBD', 'VBG']
+ <= 0.012\ngini = 0.867\nsamples = 227\nvalue = [14, 18, 3, 3, 17, 22, 40, 53, 27, 17, 10, 3]"] ;
+485 -> 486 ;
+487 [label="
+NP['DT', 'NNP']
+ 
+NP['NNP', 'NNP']
+ <= 0.018\ngini = 0.832\nsamples = 84\nvalue = [10, 15, 2, 0, 7, 15, 23, 6, 3, 0, 0, 3]"] ;
+486 -> 487 ;
+488 [label="
+NP['DT', 'NNP', 'NN']
+ 
+NP['NNS']
+ <= 0.011\ngini = 0.832\nsamples = 60\nvalue = [8, 14, 1, 0, 5, 15, 8, 4, 3, 0, 0, 2]"] ;
+487 -> 488 ;
+489 [label="
+VP['VBZ', 'TO', 'VB', 'VBN']
+ <= 0.023\ngini = 0.842\nsamples = 54\nvalue = [8, 14, 1, 0, 5, 9, 8, 4, 3, 0, 0, 2]"] ;
+488 -> 489 ;
+490 [label="
+PP['IN']
+ 
+VP['VBZ', 'VBN', 'VBN']
+ <= 0.02\ngini = 0.858\nsamples = 48\nvalue = [8, 8, 1, 0, 5, 9, 8, 4, 3, 0, 0, 2]"] ;
+489 -> 490 ;
+491 [label="
+PP['IN']
+ 
+NP['NN', 'NN']
+ <= 0.012\ngini = 0.848\nsamples = 40\nvalue = [8, 2, 1, 0, 5, 8, 8, 3, 3, 0, 0, 2]"] ;
+490 -> 491 ;
+492 [label="
+NP['NNP']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.015\ngini = 0.46\nsamples = 10\nvalue = [7, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+491 -> 492 ;
+493 [label="
+NP['NNP']
+ 
+NP['NN', 'NN', 'NNP', 'NNP']
+ <= 0.017\ngini = 0.219\nsamples = 8\nvalue = [7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+492 -> 493 ;
+494 [label="gini = 0.0\nsamples = 7\nvalue = [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+493 -> 494 ;
+495 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+493 -> 495 ;
+496 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+492 -> 496 ;
+497 [label="
+NP['DT', 'NN']
+ 
+NP['NNP', 'NN']
+ <= 0.01\ngini = 0.833\nsamples = 30\nvalue = [1, 1, 1, 0, 5, 8, 6, 3, 3, 0, 0, 2]"] ;
+491 -> 497 ;
+498 [label="
+NP['PRP$', 'NN']
+ 
+NP['PRP']
+ <= 0.004\ngini = 0.771\nsamples = 21\nvalue = [1, 1, 1, 0, 0, 7, 6, 0, 3, 0, 0, 2]"] ;
+497 -> 498 ;
+499 [label="
+ADVP['RB']
+ 
+NP['NNP', 'NNP']
+ <= 0.005\ngini = 0.519\nsamples = 9\nvalue = [0, 1, 1, 0, 0, 1, 6, 0, 0, 0, 0, 0]"] ;
+498 -> 499 ;
+500 [label="
+NP['PRP']
+ 
+NP['JJ', 'CC', 'JJ', 'NN']
+ <= 0.021\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+499 -> 500 ;
+501 [label="
+NP['NNP', 'NNP']
+ 
+NP['DT', 'NN', 'NN']
+ <= 0.007\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+500 -> 501 ;
+502 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+501 -> 502 ;
+503 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+501 -> 503 ;
+504 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+500 -> 504 ;
+505 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0]"] ;
+499 -> 505 ;
+506 [label="
+NP['NN', 'NN']
+ 
+PP['IN']
+ <= 0.017\ngini = 0.653\nsamples = 12\nvalue = [1, 0, 0, 0, 0, 6, 0, 0, 3, 0, 0, 2]"] ;
+498 -> 506 ;
+507 [label="
+NP['PRP']
+ 
+ADVP['RB', 'RB']
+ <= 0.015\ngini = 0.48\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 2]"] ;
+506 -> 507 ;
+508 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]"] ;
+507 -> 508 ;
+509 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]"] ;
+507 -> 509 ;
+510 [label="
+VP['VBG']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.025\ngini = 0.245\nsamples = 7\nvalue = [1, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0]"] ;
+506 -> 510 ;
+511 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0]"] ;
+510 -> 511 ;
+512 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+510 -> 512 ;
+513 [label="
+VP['VB']
+ 
+VP['VBD']
+ <= 0.011\ngini = 0.568\nsamples = 9\nvalue = [0, 0, 0, 0, 5, 1, 0, 3, 0, 0, 0, 0]"] ;
+497 -> 513 ;
+514 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+513 -> 514 ;
+515 [label="
+NP['NNP-PERS', 'NNP']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.023\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 0]"] ;
+513 -> 515 ;
+516 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]"] ;
+515 -> 516 ;
+517 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+515 -> 517 ;
+518 [label="
+NP['RB', 'JJ', 'JJ', 'NN']
+ <= 0.011\ngini = 0.406\nsamples = 8\nvalue = [0, 6, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+490 -> 518 ;
+519 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+518 -> 519 ;
+520 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['RB', 'JJ', 'NNS']
+ <= 0.016\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+518 -> 520 ;
+521 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+520 -> 521 ;
+522 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+520 -> 522 ;
+523 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+489 -> 523 ;
+524 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0]"] ;
+488 -> 524 ;
+525 [label="
+VP['VB']
+ 
+NP['DT', 'NN']
+ <= 0.011\ngini = 0.583\nsamples = 24\nvalue = [2, 1, 1, 0, 2, 0, 15, 2, 0, 0, 0, 1]"] ;
+487 -> 525 ;
+526 [label="gini = 0.0\nsamples = 13\nvalue = [0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0]"] ;
+525 -> 526 ;
+527 [label="
+VP['VBZ']
+ 
+ADJP['RB', 'JJ']
+ <= 0.019\ngini = 0.843\nsamples = 11\nvalue = [2, 1, 1, 0, 2, 0, 2, 2, 0, 0, 0, 1]"] ;
+525 -> 527 ;
+528 [label="
+NP['DT', 'NNP', 'NNP']
+ 
+NP['PRP']
+ <= 0.016\ngini = 0.815\nsamples = 9\nvalue = [2, 1, 1, 0, 2, 0, 2, 0, 0, 0, 0, 1]"] ;
+527 -> 528 ;
+529 [label="
+NP['PRP', 'PRP$', 'NN']
+ <= 0.026\ngini = 0.776\nsamples = 7\nvalue = [2, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 1]"] ;
+528 -> 529 ;
+530 [label="
+VP['VBD']
+ 
+VP['VB']
+ <= 0.011\ngini = 0.72\nsamples = 5\nvalue = [0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 1]"] ;
+529 -> 530 ;
+531 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+530 -> 531 ;
+532 [label="
+NP['NNS', 'DT', 'NN']
+ <= 0.006\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+530 -> 532 ;
+533 [label="
+NP['CD', 'CD', 'NNS']
+ 
+NP['DT', 'NN']
+ <= 0.015\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+532 -> 533 ;
+534 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+533 -> 534 ;
+535 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+533 -> 535 ;
+536 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+532 -> 536 ;
+537 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+529 -> 537 ;
+538 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+528 -> 538 ;
+539 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+527 -> 539 ;
+540 [label="
+NP['NNS']
+ 
+NP['NNS']
+ <= 0.018\ngini = 0.822\nsamples = 143\nvalue = [4, 3, 1, 3, 10, 7, 17, 47, 24, 17, 10, 0]"] ;
+486 -> 540 ;
+541 [label="
+VP['VBD']
+ 
+NP['NNP']
+ <= 0.019\ngini = 0.832\nsamples = 86\nvalue = [1, 2, 0, 2, 7, 5, 10, 16, 23, 16, 4, 0]"] ;
+540 -> 541 ;
+542 [label="
+ADJP['RB', 'JJ']
+ 
+ADVP['RB']
+ <= 0.012\ngini = 0.756\nsamples = 60\nvalue = [0, 0, 0, 2, 1, 4, 1, 10, 22, 16, 4, 0]"] ;
+541 -> 542 ;
+543 [label="
+ADJP['JJ']
+ 
+NP['NN', 'NNS']
+ <= 0.019\ngini = 0.716\nsamples = 45\nvalue = [0, 0, 0, 1, 1, 4, 1, 9, 21, 5, 3, 0]"] ;
+542 -> 543 ;
+544 [label="
+NP['DT', 'CD', 'NN', 'NN']
+ <= 0.008\ngini = 0.652\nsamples = 38\nvalue = [0, 0, 0, 0, 1, 4, 1, 3, 21, 5, 3, 0]"] ;
+543 -> 544 ;
+545 [label="
+VP['VBP', 'VBN', 'TO', 'VB']
+ 
+PP['IN']
+ <= 0.004\ngini = 0.68\nsamples = 10\nvalue = [0, 0, 0, 0, 1, 0, 0, 1, 1, 5, 2, 0]"] ;
+544 -> 545 ;
+546 [label="
+NP['PRP$', 'NN', 'NN', 'NN']
+ <= 0.004\ngini = 0.72\nsamples = 5\nvalue = [0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 2, 0]"] ;
+545 -> 546 ;
+547 [label="
+ADJP['JJ']
+ 
+NP['NN', 'NN']
+ <= 0.007\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]"] ;
+546 -> 547 ;
+548 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+547 -> 548 ;
+549 [label="
+VP['VBD']
+ 
+NP['DT', 'NN', 'NN']
+ <= 0.004\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]"] ;
+547 -> 549 ;
+550 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+549 -> 550 ;
+551 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+549 -> 551 ;
+552 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]"] ;
+546 -> 552 ;
+553 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]"] ;
+545 -> 553 ;
+554 [label="
+NP['NN']
+ 
+NP['DT', 'NN', 'NN']
+ <= 0.015\ngini = 0.462\nsamples = 28\nvalue = [0, 0, 0, 0, 0, 4, 1, 2, 20, 0, 1, 0]"] ;
+544 -> 554 ;
+555 [label="
+NP['NN', 'NNS']
+ 
+VP['VBZ', 'RB', 'VBN']
+ <= 0.014\ngini = 0.238\nsamples = 23\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 20, 0, 1, 0]"] ;
+554 -> 555 ;
+556 [label="
+VP['VBP', 'VB']
+ 
+VP['VBG']
+ <= 0.016\ngini = 0.091\nsamples = 21\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 20, 0, 0, 0]"] ;
+555 -> 556 ;
+557 [label="gini = 0.0\nsamples = 20\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0]"] ;
+556 -> 557 ;
+558 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+556 -> 558 ;
+559 [label="
+NP['DT', 'NN']
+ 
+NP['DT', 'JJ', 'NNS']
+ <= 0.014\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]"] ;
+555 -> 559 ;
+560 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+559 -> 560 ;
+561 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+559 -> 561 ;
+562 [label="
+NP['DT', 'NN']
+ 
+NP['NNP', 'NNP', 'PRP']
+ <= 0.013\ngini = 0.32\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0]"] ;
+554 -> 562 ;
+563 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]"] ;
+562 -> 563 ;
+564 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+562 -> 564 ;
+565 [label="
+NP['CD', 'NNS']
+ 
+NP['NN', 'CC', 'NN', 'NN']
+ <= 0.019\ngini = 0.245\nsamples = 7\nvalue = [0, 0, 0, 1, 0, 0, 0, 6, 0, 0, 0, 0]"] ;
+543 -> 565 ;
+566 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]"] ;
+565 -> 566 ;
+567 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+565 -> 567 ;
+568 [label="
+PP['IN']
+ 
+ADVP['RB', 'RB']
+ <= 0.015\ngini = 0.444\nsamples = 15\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 1, 11, 1, 0]"] ;
+542 -> 568 ;
+569 [label="gini = 0.0\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0]"] ;
+568 -> 569 ;
+570 [label="
+PP['IN']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.01\ngini = 0.75\nsamples = 4\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0]"] ;
+568 -> 570 ;
+571 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+570 -> 571 ;
+572 [label="
+NP['DT', 'NNP', 'NNP', 'NNP-PERS', 'NNP-PERS']
+ <= 0.015\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0]"] ;
+570 -> 572 ;
+573 [label="
+NP['PRP$', 'NN']
+ 
+NP['NNS']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]"] ;
+572 -> 573 ;
+574 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+573 -> 574 ;
+575 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+573 -> 575 ;
+576 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+572 -> 576 ;
+577 [label="
+NP['NNS', 'CC', 'NN']
+ <= 0.011\ngini = 0.763\nsamples = 26\nvalue = [1, 2, 0, 0, 6, 1, 9, 6, 1, 0, 0, 0]"] ;
+541 -> 577 ;
+578 [label="
+NP['NNP']
+ 
+PP['IN', 'IN']
+ <= 0.009\ngini = 0.77\nsamples = 19\nvalue = [1, 2, 0, 0, 6, 1, 2, 6, 1, 0, 0, 0]"] ;
+577 -> 578 ;
+579 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+578 -> 579 ;
+580 [label="
+PP['IN']
+ 
+VP['VBZ', 'RB', 'VBN']
+ <= 0.004\ngini = 0.755\nsamples = 14\nvalue = [1, 2, 0, 0, 1, 1, 2, 6, 1, 0, 0, 0]"] ;
+578 -> 580 ;
+581 [label="
+VP['VBD', 'VBN']
+ 
+NP['DT', 'NN']
+ <= 0.012\ngini = 0.816\nsamples = 7\nvalue = [1, 1, 0, 0, 1, 1, 2, 0, 1, 0, 0, 0]"] ;
+580 -> 581 ;
+582 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+581 -> 582 ;
+583 [label="
+NP['DT', 'JJ', 'NN']
+ 
+ADVP['RB']
+ <= 0.006\ngini = 0.8\nsamples = 5\nvalue = [1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"] ;
+581 -> 583 ;
+584 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+583 -> 584 ;
+585 [label="
+ADVP['RB']
+ 
+VP['VBZ', 'RB', 'VBG']
+ <= 0.017\ngini = 0.75\nsamples = 4\nvalue = [1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]"] ;
+583 -> 585 ;
+586 [label="
+VP['VBP', 'RB', 'VBG']
+ 
+VP['MD', 'VB']
+ <= 0.014\ngini = 0.667\nsamples = 3\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+585 -> 586 ;
+587 [label="
+VP['VBD']
+ 
+NP['NNP', 'NNS']
+ <= 0.02\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+586 -> 587 ;
+588 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+587 -> 588 ;
+589 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+587 -> 589 ;
+590 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+586 -> 590 ;
+591 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+585 -> 591 ;
+592 [label="
+NP['NNP', 'JJ', 'NN']
+ <= 0.012\ngini = 0.245\nsamples = 7\nvalue = [0, 1, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]"] ;
+580 -> 592 ;
+593 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]"] ;
+592 -> 593 ;
+594 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+592 -> 594 ;
+595 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0]"] ;
+577 -> 595 ;
+596 [label="
+VP['VBZ']
+ 
+NP['NNP']
+ <= 0.011\ngini = 0.67\nsamples = 57\nvalue = [3, 1, 1, 1, 3, 2, 7, 31, 1, 1, 6, 0]"] ;
+540 -> 596 ;
+597 [label="
+NP['NNP']
+ 
+NP['NNS']
+ <= 0.018\ngini = 0.809\nsamples = 15\nvalue = [3, 1, 1, 0, 2, 1, 5, 1, 1, 0, 0, 0]"] ;
+596 -> 597 ;
+598 [label="
+NP['CD', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.82\nsamples = 10\nvalue = [3, 1, 1, 0, 2, 1, 0, 1, 1, 0, 0, 0]"] ;
+597 -> 598 ;
+599 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+598 -> 599 ;
+600 [label="
+NP['JJ', 'NNP', 'NNP']
+ 
+ADJP['JJ']
+ <= 0.008\ngini = 0.816\nsamples = 7\nvalue = [0, 1, 1, 0, 2, 1, 0, 1, 1, 0, 0, 0]"] ;
+598 -> 600 ;
+601 [label="
+ADJP['JJ', 'CC', 'JJ']
+ 
+NP['NN']
+ <= 0.013\ngini = 0.8\nsamples = 5\nvalue = [0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0]"] ;
+600 -> 601 ;
+602 [label="
+VP['VBP', 'VBN']
+ 
+VP['VBD']
+ <= 0.007\ngini = 0.75\nsamples = 4\nvalue = [0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0]"] ;
+601 -> 602 ;
+603 [label="
+PP['IN']
+ 
+VP['MD', 'VB', 'VBD']
+ <= 0.012\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+602 -> 603 ;
+604 [label="
+NP['DT', 'NN']
+ 
+NP['PRP$']
+ <= 0.008\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+603 -> 604 ;
+605 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+604 -> 605 ;
+606 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+604 -> 606 ;
+607 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+603 -> 607 ;
+608 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+602 -> 608 ;
+609 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+601 -> 609 ;
+610 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+600 -> 610 ;
+611 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]"] ;
+597 -> 611 ;
+612 [label="
+VP['VBP', 'VBN', 'VBG']
+ <= 0.011\ngini = 0.465\nsamples = 42\nvalue = [0, 0, 0, 1, 1, 1, 2, 30, 0, 1, 6, 0]"] ;
+596 -> 612 ;
+613 [label="
+NP['NNS']
+ 
+NP['DT', 'JJ', 'NN', 'NN']
+ <= 0.016\ngini = 0.266\nsamples = 34\nvalue = [0, 0, 0, 0, 1, 0, 2, 29, 0, 1, 1, 0]"] ;
+612 -> 613 ;
+614 [label="
+VP['VBG', 'RP']
+ 
+PP['IN']
+ <= 0.017\ngini = 0.123\nsamples = 31\nvalue = [0, 0, 0, 0, 1, 0, 0, 29, 0, 0, 1, 0]"] ;
+613 -> 614 ;
+615 [label="gini = 0.0\nsamples = 29\nvalue = [0, 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0]"] ;
+614 -> 615 ;
+616 [label="
+NP['NN']
+ 
+NP['CD', 'NNP']
+ <= 0.005\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]"] ;
+614 -> 616 ;
+617 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+616 -> 617 ;
+618 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+616 -> 618 ;
+619 [label="
+NP['CD', 'NNS']
+ 
+NP['CD', 'NNP']
+ <= 0.015\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0]"] ;
+613 -> 619 ;
+620 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+619 -> 620 ;
+621 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+619 -> 621 ;
+622 [label="
+VP['VBD', 'VBN']
+ 
+NP['NNS']
+ <= 0.01\ngini = 0.562\nsamples = 8\nvalue = [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 5, 0]"] ;
+612 -> 622 ;
+623 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]"] ;
+622 -> 623 ;
+624 [label="
+NP['NNP', 'NNP']
+ 
+NP['DT', 'NNP']
+ <= 0.005\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+622 -> 624 ;
+625 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+624 -> 625 ;
+626 [label="
+VP['TO', 'VB']
+ 
+VP['VBD', 'VBN']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+624 -> 626 ;
+627 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+626 -> 627 ;
+628 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+626 -> 628 ;
+629 [label="
+NP['NNP']
+ 
+NP['CD', 'NN']
+ <= 0.011\ngini = 0.818\nsamples = 136\nvalue = [4, 7, 10, 26, 17, 25, 40, 3, 3, 1, 0, 0]"] ;
+485 -> 629 ;
+630 [label="
+ADJP['JJS']
+ 
+PP['IN']
+ <= 0.018\ngini = 0.491\nsamples = 23\nvalue = [0, 0, 3, 16, 1, 1, 0, 1, 1, 0, 0, 0]"] ;
+629 -> 630 ;
+631 [label="
+NP['NNP', 'CC', 'NN', 'NN']
+ <= 0.008\ngini = 0.204\nsamples = 18\nvalue = [0, 0, 0, 16, 1, 0, 0, 1, 0, 0, 0, 0]"] ;
+630 -> 631 ;
+632 [label="gini = 0.0\nsamples = 16\nvalue = [0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+631 -> 632 ;
+633 [label="
+NP['PRP$', 'RBS', 'JJ', 'NN']
+ <= 0.011\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]"] ;
+631 -> 633 ;
+634 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+633 -> 634 ;
+635 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+633 -> 635 ;
+636 [label="
+VP['VBZ']
+ 
+PP['IN', 'IN']
+ <= 0.01\ngini = 0.56\nsamples = 5\nvalue = [0, 0, 3, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+630 -> 636 ;
+637 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+636 -> 637 ;
+638 [label="
+NP['JJ', 'NN']
+ 
+ADJP['RB', 'JJ']
+ <= 0.008\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+636 -> 638 ;
+639 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+638 -> 639 ;
+640 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+638 -> 640 ;
+641 [label="
+NP['NN']
+ 
+NP['DT', 'NN', 'NNS']
+ <= 0.006\ngini = 0.792\nsamples = 113\nvalue = [4, 7, 7, 10, 16, 24, 40, 2, 2, 1, 0, 0]"] ;
+629 -> 641 ;
+642 [label="
+ADVP['RBR']
+ <= 0.016\ngini = 0.679\nsamples = 70\nvalue = [2, 5, 2, 3, 6, 11, 37, 1, 2, 1, 0, 0]"] ;
+641 -> 642 ;
+643 [label="
+NP['DT', 'NNP', 'NNS']
+ <= 0.016\ngini = 0.802\nsamples = 43\nvalue = [2, 4, 1, 3, 6, 10, 14, 1, 2, 0, 0, 0]"] ;
+642 -> 643 ;
+644 [label="
+NP['DT', 'NN', 'NN']
+ 
+ADVP['RB']
+ <= 0.012\ngini = 0.766\nsamples = 29\nvalue = [2, 4, 1, 1, 5, 1, 12, 1, 2, 0, 0, 0]"] ;
+643 -> 644 ;
+645 [label="
+NP['NNP', 'NNP', 'CC', 'NNP', 'NNP']
+ <= 0.009\ngini = 0.635\nsamples = 21\nvalue = [2, 3, 1, 1, 0, 0, 12, 1, 1, 0, 0, 0]"] ;
+644 -> 645 ;
+646 [label="
+NP['CD', 'NNP']
+ <= 0.023\ngini = 0.611\nsamples = 6\nvalue = [2, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+645 -> 646 ;
+647 [label="
+VP['VBZ', 'VBN', 'VBN']
+ 
+NP['DT', 'NNP']
+ <= 0.015\ngini = 0.444\nsamples = 3\nvalue = [2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+646 -> 647 ;
+648 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+647 -> 648 ;
+649 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+647 -> 649 ;
+650 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+646 -> 650 ;
+651 [label="
+PP['IN']
+ 
+NP['NNP', 'NN']
+ <= 0.012\ngini = 0.347\nsamples = 15\nvalue = [0, 0, 0, 1, 0, 0, 12, 1, 1, 0, 0, 0]"] ;
+645 -> 651 ;
+652 [label="gini = 0.0\nsamples = 12\nvalue = [0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0]"] ;
+651 -> 652 ;
+653 [label="
+VP['VBD']
+ 
+VP['VBD', 'VBG']
+ <= 0.007\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0]"] ;
+651 -> 653 ;
+654 [label="
+NP['PRP']
+ 
+NP['DT', 'JJ', 'NN', 'PRP']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+653 -> 654 ;
+655 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+654 -> 655 ;
+656 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+654 -> 656 ;
+657 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+653 -> 657 ;
+658 [label="
+NP['DT', 'JJS', 'NNS']
+ <= 0.009\ngini = 0.562\nsamples = 8\nvalue = [0, 1, 0, 0, 5, 1, 0, 0, 1, 0, 0, 0]"] ;
+644 -> 658 ;
+659 [label="
+NP['NN']
+ 
+NP['NNP', 'NNP', 'NNS', 'NNP', 'NNP']
+ <= 0.015\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+658 -> 659 ;
+660 [label="
+NP['CD', 'NNP']
+ <= 0.02\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+659 -> 660 ;
+661 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+660 -> 661 ;
+662 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+660 -> 662 ;
+663 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+659 -> 663 ;
+664 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]"] ;
+658 -> 664 ;
+665 [label="
+ADVP['RB']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.009\ngini = 0.541\nsamples = 14\nvalue = [0, 0, 0, 2, 1, 9, 2, 0, 0, 0, 0, 0]"] ;
+643 -> 665 ;
+666 [label="
+NP['RB', 'JJ', 'NN']
+ 
+NP['NN']
+ <= 0.01\ngini = 0.64\nsamples = 5\nvalue = [0, 0, 0, 2, 1, 0, 2, 0, 0, 0, 0, 0]"] ;
+665 -> 666 ;
+667 [label="
+NP['JJ', 'NN']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.026\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0]"] ;
+666 -> 667 ;
+668 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+667 -> 668 ;
+669 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+667 -> 669 ;
+670 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+666 -> 670 ;
+671 [label="gini = 0.0\nsamples = 9\nvalue = [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0]"] ;
+665 -> 671 ;
+672 [label="
+ADVP['RB', 'RB']
+ 
+VP['VBG']
+ <= 0.017\ngini = 0.269\nsamples = 27\nvalue = [0, 1, 1, 0, 0, 1, 23, 0, 0, 1, 0, 0]"] ;
+642 -> 672 ;
+673 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['PRP$']
+ <= 0.012\ngini = 0.08\nsamples = 24\nvalue = [0, 0, 0, 0, 0, 1, 23, 0, 0, 0, 0, 0]"] ;
+672 -> 673 ;
+674 [label="gini = 0.0\nsamples = 23\nvalue = [0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0]"] ;
+673 -> 674 ;
+675 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+673 -> 675 ;
+676 [label="
+VP['VBP']
+ 
+NP['WDT', 'NN']
+ <= 0.01\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+672 -> 676 ;
+677 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['NNP', 'CC', 'NNP', 'NNP']
+ <= 0.019\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+676 -> 677 ;
+678 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+677 -> 678 ;
+679 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+677 -> 679 ;
+680 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+676 -> 680 ;
+681 [label="
+NP['WDT', 'PRP']
+ <= 0.011\ngini = 0.805\nsamples = 43\nvalue = [2, 2, 5, 7, 10, 13, 3, 1, 0, 0, 0, 0]"] ;
+641 -> 681 ;
+682 [label="
+NP['NN']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.508\nsamples = 16\nvalue = [1, 0, 0, 5, 0, 10, 0, 0, 0, 0, 0, 0]"] ;
+681 -> 682 ;
+683 [label="gini = 0.0\nsamples = 10\nvalue = [0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]"] ;
+682 -> 683 ;
+684 [label="
+VP['MD', 'VB']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.034\ngini = 0.278\nsamples = 6\nvalue = [1, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+682 -> 684 ;
+685 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+684 -> 685 ;
+686 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+684 -> 686 ;
+687 [label="
+NP['DT', 'NNP', 'NNP', 'NN']
+ <= 0.02\ngini = 0.79\nsamples = 27\nvalue = [1, 2, 5, 2, 10, 3, 3, 1, 0, 0, 0, 0]"] ;
+681 -> 687 ;
+688 [label="
+NP['DT', 'RBS', 'JJ', 'NNS']
+ <= 0.005\ngini = 0.833\nsamples = 18\nvalue = [1, 2, 5, 1, 2, 3, 3, 1, 0, 0, 0, 0]"] ;
+687 -> 688 ;
+689 [label="
+NP['NNS']
+ 
+NP['NN', 'NNS']
+ <= 0.011\ngini = 0.819\nsamples = 12\nvalue = [1, 1, 0, 1, 2, 3, 3, 1, 0, 0, 0, 0]"] ;
+688 -> 689 ;
+690 [label="
+VP['VBG']
+ 
+NP['PRP']
+ <= 0.004\ngini = 0.79\nsamples = 9\nvalue = [1, 1, 0, 1, 2, 3, 0, 1, 0, 0, 0, 0]"] ;
+689 -> 690 ;
+691 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+690 -> 691 ;
+692 [label="
+NP['DT', 'NNS']
+ 
+NP['NNP']
+ <= 0.011\ngini = 0.778\nsamples = 6\nvalue = [1, 1, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0]"] ;
+690 -> 692 ;
+693 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+692 -> 693 ;
+694 [label="
+NP['DT', 'NNP']
+ 
+NP['NNS', 'CC', 'NNP']
+ <= 0.019\ngini = 0.75\nsamples = 4\nvalue = [1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+692 -> 694 ;
+695 [label="
+VP['VBP', 'VBD']
+ 
+PP['IN']
+ <= 0.017\ngini = 0.667\nsamples = 3\nvalue = [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+694 -> 695 ;
+696 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+695 -> 696 ;
+697 [label="
+NP['JJ', 'NNP', 'NN']
+ <= 0.006\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+695 -> 697 ;
+698 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+697 -> 698 ;
+699 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+697 -> 699 ;
+700 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+694 -> 700 ;
+701 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]"] ;
+689 -> 701 ;
+702 [label="
+ADVP['RB']
+ 
+NP['NN', 'NNS']
+ <= 0.01\ngini = 0.278\nsamples = 6\nvalue = [0, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+688 -> 702 ;
+703 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+702 -> 703 ;
+704 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+702 -> 704 ;
+705 [label="
+NP['NN', 'CC', 'NNS']
+ <= 0.016\ngini = 0.198\nsamples = 9\nvalue = [0, 0, 0, 1, 8, 0, 0, 0, 0, 0, 0, 0]"] ;
+687 -> 705 ;
+706 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0]"] ;
+705 -> 706 ;
+707 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+705 -> 707 ;
+708 [label="
+NP['NN', 'NN']
+ 
+NP['NN', 'NN']
+ <= 0.005\ngini = 0.715\nsamples = 280\nvalue = [36, 32, 134, 40, 14, 17, 4, 1, 1, 0, 1, 0]"] ;
+2 -> 708 ;
+709 [label="
+ADVP['RB']
+ 
+NP['NNP', 'NNP']
+ <= 0.003\ngini = 0.808\nsamples = 136\nvalue = [31, 29, 34, 19, 11, 10, 1, 0, 1, 0, 0, 0]"] ;
+708 -> 709 ;
+710 [label="
+NP['NN']
+ 
+VP['VBZ']
+ <= 0.004\ngini = 0.697\nsamples = 57\nvalue = [27, 14, 5, 4, 3, 3, 1, 0, 0, 0, 0, 0]"] ;
+709 -> 710 ;
+711 [label="
+NP['NN', 'NN', 'NN']
+ <= 0.033\ngini = 0.27\nsamples = 20\nvalue = [17, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]"] ;
+710 -> 711 ;
+712 [label="gini = 0.0\nsamples = 17\nvalue = [17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+711 -> 712 ;
+713 [label="
+NP['CD', 'NNS', 'NNS']
+ 
+NP['NN']
+ <= 0.058\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]"] ;
+711 -> 713 ;
+714 [label="
+NP['NNP', 'NNP', 'PRP']
+ <= 0.014\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+713 -> 714 ;
+715 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+714 -> 715 ;
+716 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+714 -> 716 ;
+717 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+713 -> 717 ;
+718 [label="
+NP['NNS', 'CC', 'NNS']
+ <= 0.005\ngini = 0.764\nsamples = 37\nvalue = [10, 13, 5, 4, 2, 3, 0, 0, 0, 0, 0, 0]"] ;
+710 -> 718 ;
+719 [label="
+VP['MD', 'VB']
+ 
+NP['JJ', 'NN']
+ <= 0.006\ngini = 0.43\nsamples = 11\nvalue = [8, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+718 -> 719 ;
+720 [label="gini = 0.0\nsamples = 8\nvalue = [8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+719 -> 720 ;
+721 [label="
+NP['NN']
+ 
+NP['PRP$', 'NN', 'NN']
+ <= 0.012\ngini = 0.444\nsamples = 3\nvalue = [0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+719 -> 721 ;
+722 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+721 -> 722 ;
+723 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+721 -> 723 ;
+724 [label="
+VP['VB']
+ 
+NP['NN']
+ <= 0.011\ngini = 0.719\nsamples = 26\nvalue = [2, 12, 5, 2, 2, 3, 0, 0, 0, 0, 0, 0]"] ;
+718 -> 724 ;
+725 [label="
+VP['VBZ']
+ 
+NP['JJ', 'NN']
+ <= 0.014\ngini = 0.357\nsamples = 14\nvalue = [0, 11, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+724 -> 725 ;
+726 [label="gini = 0.0\nsamples = 11\nvalue = [0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+725 -> 726 ;
+727 [label="
+NP['JJ', 'NNP', 'NN']
+ <= 0.008\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+725 -> 727 ;
+728 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+727 -> 728 ;
+729 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+727 -> 729 ;
+730 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['NNP', 'NNP']
+ <= 0.01\ngini = 0.75\nsamples = 12\nvalue = [2, 1, 5, 1, 2, 1, 0, 0, 0, 0, 0, 0]"] ;
+724 -> 730 ;
+731 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+730 -> 731 ;
+732 [label="
+NP['NNP', 'DT', 'NNP']
+ <= 0.018\ngini = 0.776\nsamples = 7\nvalue = [2, 1, 0, 1, 2, 1, 0, 0, 0, 0, 0, 0]"] ;
+730 -> 732 ;
+733 [label="
+NP['DT', 'CD', 'NN', 'NN']
+ <= 0.007\ngini = 0.72\nsamples = 5\nvalue = [2, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+732 -> 733 ;
+734 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+733 -> 734 ;
+735 [label="
+NP['JJ', 'NNS']
+ 
+ADJP['RBR', 'JJ']
+ <= 0.017\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+733 -> 735 ;
+736 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['DT', 'NN', 'NN']
+ <= 0.007\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+735 -> 736 ;
+737 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+736 -> 737 ;
+738 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+736 -> 738 ;
+739 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+735 -> 739 ;
+740 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+732 -> 740 ;
+741 [label="
+NP['PRP$', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.02\ngini = 0.772\nsamples = 79\nvalue = [4, 15, 29, 15, 8, 7, 0, 0, 1, 0, 0, 0]"] ;
+709 -> 741 ;
+742 [label="
+NP['DT', 'JJ', 'NN']
+ 
+VP['VBD', 'VBN']
+ <= 0.016\ngini = 0.753\nsamples = 71\nvalue = [4, 7, 29, 15, 8, 7, 0, 0, 1, 0, 0, 0]"] ;
+741 -> 742 ;
+743 [label="
+NP['DT', 'NNP-LOC', 'NNPS-LOC']
+ 
+PP['IN']
+ <= 0.013\ngini = 0.692\nsamples = 61\nvalue = [4, 1, 29, 15, 6, 5, 0, 0, 1, 0, 0, 0]"] ;
+742 -> 743 ;
+744 [label="
+PP['IN']
+ 
+NP['DT', 'NNP', 'NN']
+ <= 0.012\ngini = 0.651\nsamples = 49\nvalue = [3, 1, 27, 6, 6, 5, 0, 0, 1, 0, 0, 0]"] ;
+743 -> 744 ;
+745 [label="
+PP['IN']
+ 
+VP['RB', 'VBN']
+ <= 0.018\ngini = 0.401\nsamples = 34\nvalue = [1, 1, 26, 3, 2, 1, 0, 0, 0, 0, 0, 0]"] ;
+744 -> 745 ;
+746 [label="
+NP['PRP']
+ 
+NP['JJ', 'NNS']
+ <= 0.017\ngini = 0.19\nsamples = 29\nvalue = [0, 0, 26, 0, 2, 1, 0, 0, 0, 0, 0, 0]"] ;
+745 -> 746 ;
+747 [label="gini = 0.0\nsamples = 26\nvalue = [0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+746 -> 747 ;
+748 [label="
+VP['VBZ']
+ 
+VP['TO', 'VB']
+ <= 0.019\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0]"] ;
+746 -> 748 ;
+749 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+748 -> 749 ;
+750 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+748 -> 750 ;
+751 [label="
+NP['NNP', 'NN']
+ 
+NP['NNP']
+ <= 0.025\ngini = 0.56\nsamples = 5\nvalue = [1, 1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+745 -> 751 ;
+752 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+751 -> 752 ;
+753 [label="
+NP['NN']
+ 
+NP['DT', 'JJ', 'NNP', 'NN']
+ <= 0.016\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+751 -> 753 ;
+754 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+753 -> 754 ;
+755 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+753 -> 755 ;
+756 [label="
+VP['VBN']
+ 
+VP['VBG']
+ <= 0.012\ngini = 0.791\nsamples = 15\nvalue = [2, 0, 1, 3, 4, 4, 0, 0, 1, 0, 0, 0]"] ;
+744 -> 756 ;
+757 [label="
+NP['NN', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.011\ngini = 0.744\nsamples = 11\nvalue = [2, 0, 1, 3, 4, 0, 0, 0, 1, 0, 0, 0]"] ;
+756 -> 757 ;
+758 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]"] ;
+757 -> 758 ;
+759 [label="
+NP['NNP']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.005\ngini = 0.694\nsamples = 7\nvalue = [2, 0, 1, 3, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+757 -> 759 ;
+760 [label="
+ADJP['JJ', 'CC', 'JJ']
+ 
+NP['NNS']
+ <= 0.01\ngini = 0.625\nsamples = 4\nvalue = [2, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+759 -> 760 ;
+761 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+760 -> 761 ;
+762 [label="
+NP['NNP', 'NNP', 'NNPS', 'NNS']
+ <= 0.015\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+760 -> 762 ;
+763 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+762 -> 763 ;
+764 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+762 -> 764 ;
+765 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+759 -> 765 ;
+766 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]"] ;
+756 -> 766 ;
+767 [label="
+NP['JJ', 'NN']
+ 
+NP['DT', 'JJ', 'JJ', 'NN']
+ <= 0.011\ngini = 0.403\nsamples = 12\nvalue = [1, 0, 2, 9, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+743 -> 767 ;
+768 [label="gini = 0.0\nsamples = 9\nvalue = [0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+767 -> 768 ;
+769 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ 
+NP['CD', 'NNS']
+ <= 0.024\ngini = 0.444\nsamples = 3\nvalue = [1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+767 -> 769 ;
+770 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+769 -> 770 ;
+771 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+769 -> 771 ;
+772 [label="
+NP['NNP']
+ 
+NP['DT', 'NNP']
+ <= 0.018\ngini = 0.56\nsamples = 10\nvalue = [0, 6, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0]"] ;
+742 -> 772 ;
+773 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+772 -> 773 ;
+774 [label="
+NP['PRP']
+ 
+VP['VBN']
+ <= 0.008\ngini = 0.5\nsamples = 4\nvalue = [0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0]"] ;
+772 -> 774 ;
+775 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+774 -> 775 ;
+776 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+774 -> 776 ;
+777 [label="gini = 0.0\nsamples = 8\nvalue = [0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+741 -> 777 ;
+778 [label="
+VP['VBD', 'TO', 'VB']
+ 
+NP['DT', 'NN']
+ <= 0.014\ngini = 0.492\nsamples = 144\nvalue = [5, 3, 100, 21, 3, 7, 3, 1, 0, 0, 1, 0]"] ;
+708 -> 778 ;
+779 [label="
+NP['NN']
+ 
+VP['VBZ']
+ <= 0.004\ngini = 0.418\nsamples = 130\nvalue = [5, 3, 98, 13, 2, 4, 3, 1, 0, 0, 1, 0]"] ;
+778 -> 779 ;
+780 [label="
+VP['VBD']
+ 
+VP['VBP']
+ <= 0.022\ngini = 0.449\nsamples = 7\nvalue = [5, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+779 -> 780 ;
+781 [label="gini = 0.0\nsamples = 5\nvalue = [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+780 -> 781 ;
+782 [label="
+NP['PRP', 'JJ', 'NNP']
+ 
+PP['IN']
+ <= 0.027\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+780 -> 782 ;
+783 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+782 -> 783 ;
+784 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+782 -> 784 ;
+785 [label="
+VP['MD', 'VB', 'VBN']
+ 
+NP['NNP', 'NNP']
+ <= 0.014\ngini = 0.352\nsamples = 123\nvalue = [0, 2, 98, 13, 1, 4, 3, 1, 0, 0, 1, 0]"] ;
+779 -> 785 ;
+786 [label="
+NP['JJ', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.006\ngini = 0.22\nsamples = 101\nvalue = [0, 1, 89, 4, 0, 3, 2, 1, 0, 0, 1, 0]"] ;
+785 -> 786 ;
+787 [label="
+NP['CD', 'NNP', 'NNP', 'NNP']
+ <= 0.004\ngini = 0.625\nsamples = 4\nvalue = [0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]"] ;
+786 -> 787 ;
+788 [label="
+NP['NNP', 'NNP']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.02\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+787 -> 788 ;
+789 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+788 -> 789 ;
+790 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+788 -> 790 ;
+791 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+787 -> 791 ;
+792 [label="
+VP['VBP', 'VBN']
+ 
+ADJP['JJR']
+ <= 0.024\ngini = 0.156\nsamples = 97\nvalue = [0, 0, 89, 4, 0, 2, 0, 1, 0, 0, 1, 0]"] ;
+786 -> 792 ;
+793 [label="
+VP['RB', 'VBN']
+ 
+NP['DT', 'CD', 'NN']
+ <= 0.018\ngini = 0.103\nsamples = 94\nvalue = [0, 0, 89, 2, 0, 1, 0, 1, 0, 0, 1, 0]"] ;
+792 -> 793 ;
+794 [label="
+NP['DT', 'JJ', 'NNS', 'NN', 'NN']
+ <= 0.033\ngini = 0.064\nsamples = 92\nvalue = [0, 0, 89, 0, 0, 1, 0, 1, 0, 0, 1, 0]"] ;
+793 -> 794 ;
+795 [label="
+VP['VB', 'VB']
+ 
+VP['VBD']
+ <= 0.013\ngini = 0.022\nsamples = 90\nvalue = [0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+794 -> 795 ;
+796 [label="gini = 0.0\nsamples = 89\nvalue = [0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+795 -> 796 ;
+797 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+795 -> 797 ;
+798 [label="
+NP['JJ', 'NNS']
+ 
+ADVP['RB']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+794 -> 798 ;
+799 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+798 -> 799 ;
+800 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+798 -> 800 ;
+801 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+793 -> 801 ;
+802 [label="
+VP['TO', 'VB']
+ 
+NP['DT', 'JJ', 'NNS']
+ <= 0.009\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+792 -> 802 ;
+803 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+802 -> 803 ;
+804 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+802 -> 804 ;
+805 [label="
+NP['JJ', 'NN']
+ 
+ADVP['RB']
+ <= 0.014\ngini = 0.657\nsamples = 22\nvalue = [0, 1, 9, 9, 1, 1, 1, 0, 0, 0, 0, 0]"] ;
+785 -> 805 ;
+806 [label="
+VP['VBP']
+ 
+VP['TO', 'VB']
+ <= 0.008\ngini = 0.604\nsamples = 15\nvalue = [0, 1, 9, 2, 1, 1, 1, 0, 0, 0, 0, 0]"] ;
+805 -> 806 ;
+807 [label="
+NP['DT', 'NN']
+ 
+NP['NN', 'NN']
+ <= 0.012\ngini = 0.72\nsamples = 5\nvalue = [0, 0, 0, 2, 1, 1, 1, 0, 0, 0, 0, 0]"] ;
+806 -> 807 ;
+808 [label="
+VP['VBZ']
+ 
+NP['CD', 'NNS']
+ <= 0.008\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]"] ;
+807 -> 808 ;
+809 [label="
+ADVP['RB', 'RB']
+ 
+NP['NN', 'NN']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+808 -> 809 ;
+810 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+809 -> 810 ;
+811 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+809 -> 811 ;
+812 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+808 -> 812 ;
+813 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+807 -> 813 ;
+814 [label="
+ADJP['RB', 'RB', 'RB', 'JJ']
+ 
+NP['DT', 'NN']
+ <= 0.022\ngini = 0.18\nsamples = 10\nvalue = [0, 1, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+806 -> 814 ;
+815 [label="gini = 0.0\nsamples = 9\nvalue = [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+814 -> 815 ;
+816 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+814 -> 816 ;
+817 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+805 -> 817 ;
+818 [label="
+ADVP['RB']
+ 
+VP['VB']
+ <= 0.012\ngini = 0.602\nsamples = 14\nvalue = [0, 0, 2, 8, 1, 3, 0, 0, 0, 0, 0, 0]"] ;
+778 -> 818 ;
+819 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+818 -> 819 ;
+820 [label="
+NP['NN', 'NNS']
+ 
+VP['VBP']
+ <= 0.007\ngini = 0.611\nsamples = 6\nvalue = [0, 0, 2, 0, 1, 3, 0, 0, 0, 0, 0, 0]"] ;
+818 -> 820 ;
+821 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+820 -> 821 ;
+822 [label="
+NP['CD', 'JJ', 'NNP', 'NNPS']
+ <= 0.028\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+820 -> 822 ;
+823 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+822 -> 823 ;
+824 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+822 -> 824 ;
+825 [label="
+NP['NN', 'CD', 'NNP']
+ 
+NP['NNP']
+ <= 0.006\ngini = 0.86\nsamples = 745\nvalue = [11, 24, 26, 26, 28, 32, 70, 72, 135, 175, 120\n26]"] ;
+1 -> 825 ;
+826 [label="
+NP['NNP-ORG']
+ <= 0.004\ngini = 0.876\nsamples = 638\nvalue = [11, 24, 26, 26, 28, 32, 70, 64, 122, 94, 115, 26]"] ;
+825 -> 826 ;
+827 [label="
+NP['NNP', 'NNP']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.016\ngini = 0.892\nsamples = 388\nvalue = [11, 24, 26, 26, 25, 31, 60, 57, 59, 41, 25, 3]"] ;
+826 -> 827 ;
+828 [label="
+VP['MD', 'VB', 'VBG']
+ <= 0.003\ngini = 0.865\nsamples = 259\nvalue = [9, 13, 8, 15, 12, 8, 21, 50, 56, 41, 23, 3]"] ;
+827 -> 828 ;
+829 [label="
+NP['NN', 'DT', 'NN']
+ <= 0.01\ngini = 0.856\nsamples = 61\nvalue = [6, 10, 4, 13, 6, 5, 12, 3, 1, 0, 1, 0]"] ;
+828 -> 829 ;
+830 [label="
+VP['VB']
+ 
+VP['VBG']
+ <= 0.005\ngini = 0.698\nsamples = 22\nvalue = [1, 0, 1, 1, 2, 3, 11, 3, 0, 0, 0, 0]"] ;
+829 -> 830 ;
+831 [label="
+NP['NNP', 'NNP']
+ 
+NP['NNS']
+ <= 0.011\ngini = 0.26\nsamples = 13\nvalue = [0, 0, 0, 0, 0, 0, 11, 2, 0, 0, 0, 0]"] ;
+830 -> 831 ;
+832 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+831 -> 832 ;
+833 [label="gini = 0.0\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0]"] ;
+831 -> 833 ;
+834 [label="
+NP['NNP', 'NNP', 'NN']
+ <= 0.017\ngini = 0.79\nsamples = 9\nvalue = [1, 0, 1, 1, 2, 3, 0, 1, 0, 0, 0, 0]"] ;
+830 -> 834 ;
+835 [label="
+VP['RB', 'VBP']
+ <= 0.01\ngini = 0.778\nsamples = 6\nvalue = [1, 0, 1, 1, 2, 0, 0, 1, 0, 0, 0, 0]"] ;
+834 -> 835 ;
+836 [label="
+VP['VBN']
+ 
+NP['DT', 'NNP']
+ <= 0.005\ngini = 0.75\nsamples = 4\nvalue = [1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+835 -> 836 ;
+837 [label="
+VP['VBG', 'VB']
+ 
+NP['NNS']
+ <= 0.019\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+836 -> 837 ;
+838 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+837 -> 838 ;
+839 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+837 -> 839 ;
+840 [label="
+NP['NN']
+ 
+NP['DT', 'JJ', 'NN', 'NNP', 'NNP']
+ <= 0.017\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+836 -> 840 ;
+841 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+840 -> 841 ;
+842 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+840 -> 842 ;
+843 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+835 -> 843 ;
+844 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]"] ;
+834 -> 844 ;
+845 [label="
+NP['NNP-PERS', 'NNP-PERS']
+ <= 0.016\ngini = 0.802\nsamples = 39\nvalue = [5, 10, 3, 12, 4, 2, 1, 0, 1, 0, 1, 0]"] ;
+829 -> 845 ;
+846 [label="
+NP['NNP']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.011\ngini = 0.58\nsamples = 18\nvalue = [0, 0, 3, 11, 1, 2, 0, 0, 1, 0, 0, 0]"] ;
+845 -> 846 ;
+847 [label="
+PP['IN']
+ 
+PP['IN', 'IN']
+ <= 0.018\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+846 -> 847 ;
+848 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+847 -> 848 ;
+849 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+847 -> 849 ;
+850 [label="
+NP['NNP-LOC', 'NNP']
+ <= 0.013\ngini = 0.357\nsamples = 14\nvalue = [0, 0, 0, 11, 0, 2, 0, 0, 1, 0, 0, 0]"] ;
+846 -> 850 ;
+851 [label="gini = 0.0\nsamples = 11\nvalue = [0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+850 -> 851 ;
+852 [label="
+NP['NNP-PERS', 'NNP-PERS', 'NNP', 'NNP', 'NNP']
+ <= 0.029\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0]"] ;
+850 -> 852 ;
+853 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]"] ;
+852 -> 853 ;
+854 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+852 -> 854 ;
+855 [label="
+NP['NNP', 'NNP']
+ 
+VP['VBZ']
+ <= 0.012\ngini = 0.689\nsamples = 21\nvalue = [5, 10, 0, 1, 3, 0, 1, 0, 0, 0, 1, 0]"] ;
+845 -> 855 ;
+856 [label="
+NP['PRP$', 'JJ', 'NN']
+ 
+NP['JJ', 'NN']
+ <= 0.009\ngini = 0.292\nsamples = 12\nvalue = [1, 10, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+855 -> 856 ;
+857 [label="gini = 0.0\nsamples = 10\nvalue = [0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+856 -> 857 ;
+858 [label="
+NP['DT', 'RB', 'JJ', 'NN']
+ 
+NP['DT', 'NNP']
+ <= 0.013\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+856 -> 858 ;
+859 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+858 -> 859 ;
+860 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+858 -> 860 ;
+861 [label="
+NP['CD', 'NN', 'NN']
+ <= 0.004\ngini = 0.667\nsamples = 9\nvalue = [4, 0, 0, 0, 3, 0, 1, 0, 0, 0, 1, 0]"] ;
+855 -> 861 ;
+862 [label="gini = 0.0\nsamples = 4\nvalue = [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+861 -> 862 ;
+863 [label="
+PP['IN']
+ 
+NP['NNP', 'NNS']
+ <= 0.01\ngini = 0.56\nsamples = 5\nvalue = [0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 1, 0]"] ;
+861 -> 863 ;
+864 [label="
+NP['NNP']
+ 
+NP['CD', 'NNS', 'NNP']
+ <= 0.022\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]"] ;
+863 -> 864 ;
+865 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+864 -> 865 ;
+866 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+864 -> 866 ;
+867 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+863 -> 867 ;
+868 [label="
+NP['JJ', 'NN', 'NNP', 'NNP']
+ <= 0.013\ngini = 0.807\nsamples = 198\nvalue = [3, 3, 4, 2, 6, 3, 9, 47, 55, 41, 22, 3]"] ;
+828 -> 868 ;
+869 [label="
+NP['NN', 'NN', 'CC', 'NN']
+ 
+NP['DT', 'NN']
+ <= 0.008\ngini = 0.764\nsamples = 98\nvalue = [2, 3, 3, 2, 4, 1, 8, 41, 19, 10, 3, 2]"] ;
+868 -> 869 ;
+870 [label="
+NP['NN', 'CC', 'NNS']
+ <= 0.015\ngini = 0.753\nsamples = 91\nvalue = [2, 3, 3, 2, 4, 1, 8, 41, 12, 10, 3, 2]"] ;
+869 -> 870 ;
+871 [label="
+NP['NN', 'NN', 'NN', 'NN']
+ <= 0.011\ngini = 0.832\nsamples = 67\nvalue = [1, 3, 3, 2, 4, 1, 8, 21, 10, 10, 2, 2]"] ;
+870 -> 871 ;
+872 [label="
+NP['JJ', 'NNPS']
+ <= 0.014\ngini = 0.761\nsamples = 48\nvalue = [0, 3, 1, 1, 4, 1, 6, 20, 9, 1, 0, 2]"] ;
+871 -> 872 ;
+873 [label="
+NP['DT', 'NNS']
+ 
+NP['PRP']
+ <= 0.016\ngini = 0.72\nsamples = 41\nvalue = [0, 3, 1, 1, 3, 1, 6, 20, 3, 1, 0, 2]"] ;
+872 -> 873 ;
+874 [label="
+VP['VBZ']
+ 
+VP['VBG']
+ <= 0.004\ngini = 0.476\nsamples = 24\nvalue = [0, 1, 1, 1, 3, 0, 0, 17, 1, 0, 0, 0]"] ;
+873 -> 874 ;
+875 [label="
+ADJP['JJ', 'CC', 'JJ']
+ <= 0.005\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 1, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+874 -> 875 ;
+876 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+875 -> 876 ;
+877 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+875 -> 877 ;
+878 [label="
+NP['PRP']
+ 
+ADJP['RB', 'JJ']
+ <= 0.011\ngini = 0.27\nsamples = 20\nvalue = [0, 1, 0, 1, 0, 0, 0, 17, 1, 0, 0, 0]"] ;
+874 -> 878 ;
+879 [label="
+VP['RB', 'VBZ']
+ 
+NP['DT', 'NN']
+ <= 0.005\ngini = 0.667\nsamples = 3\nvalue = [0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+878 -> 879 ;
+880 [label="
+VP['VBP']
+ 
+ADVP['RB']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+879 -> 880 ;
+881 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+880 -> 881 ;
+882 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+880 -> 882 ;
+883 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+879 -> 883 ;
+884 [label="gini = 0.0\nsamples = 17\nvalue = [0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0]"] ;
+878 -> 884 ;
+885 [label="
+NP['DT', 'NN', 'NN']
+ 
+NP['PRP']
+ <= 0.01\ngini = 0.796\nsamples = 17\nvalue = [0, 2, 0, 0, 0, 1, 6, 3, 2, 1, 0, 2]"] ;
+873 -> 885 ;
+886 [label="
+NP['CD', 'NNS']
+ 
+NP['NNP-LOC', 'NNP-LOC']
+ <= 0.015\ngini = 0.245\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 6, 0, 1, 0, 0, 0]"] ;
+885 -> 886 ;
+887 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0]"] ;
+886 -> 887 ;
+888 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+886 -> 888 ;
+889 [label="
+NP['NNP', 'NNP']
+ 
+VP['VBZ']
+ <= 0.014\ngini = 0.8\nsamples = 10\nvalue = [0, 2, 0, 0, 0, 1, 0, 3, 1, 1, 0, 2]"] ;
+885 -> 889 ;
+890 [label="
+ADJP['JJ']
+ 
+VP['RB', 'VBP']
+ <= 0.01\ngini = 0.776\nsamples = 7\nvalue = [0, 2, 0, 0, 0, 1, 0, 0, 1, 1, 0, 2]"] ;
+889 -> 890 ;
+891 [label="
+NP['DT', 'JJ', 'NN']
+ 
+VP['MD', 'VB']
+ <= 0.012\ngini = 0.72\nsamples = 5\nvalue = [0, 2, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]"] ;
+890 -> 891 ;
+892 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+891 -> 892 ;
+893 [label="
+NP['NNP', 'NNP', 'NN', 'NNS']
+ 
+VP['VBN']
+ <= 0.014\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]"] ;
+891 -> 893 ;
+894 [label="
+NP['PRP$', 'NN']
+ 
+NP['DT', 'JJR', 'NN']
+ <= 0.013\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]"] ;
+893 -> 894 ;
+895 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+894 -> 895 ;
+896 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+894 -> 896 ;
+897 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+893 -> 897 ;
+898 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]"] ;
+890 -> 898 ;
+899 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]"] ;
+889 -> 899 ;
+900 [label="
+NP['NN', 'CC', 'DT', 'JJ', 'NN']
+ 
+NP['NN']
+ <= 0.02\ngini = 0.245\nsamples = 7\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 6, 0, 0, 0]"] ;
+872 -> 900 ;
+901 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0]"] ;
+900 -> 901 ;
+902 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+900 -> 902 ;
+903 [label="
+NP['PRP$', 'NNS']
+ 
+VP['VBP']
+ <= 0.004\ngini = 0.731\nsamples = 19\nvalue = [1, 0, 2, 1, 0, 0, 2, 1, 1, 9, 2, 0]"] ;
+871 -> 903 ;
+904 [label="
+NP['NN']
+ 
+NP['NN', 'NNS']
+ <= 0.021\ngini = 0.815\nsamples = 9\nvalue = [1, 0, 2, 0, 0, 0, 2, 1, 1, 0, 2, 0]"] ;
+903 -> 904 ;
+905 [label="
+NP['CD', 'NNS']
+ 
+VP['VBG']
+ <= 0.01\ngini = 0.776\nsamples = 7\nvalue = [1, 0, 0, 0, 0, 0, 2, 1, 1, 0, 2, 0]"] ;
+904 -> 905 ;
+906 [label="
+NP['NNP', 'NNS']
+ 
+NP['NNS']
+ <= 0.006\ngini = 0.72\nsamples = 5\nvalue = [1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 2, 0]"] ;
+905 -> 906 ;
+907 [label="
+ADJP['RB', 'JJ']
+ 
+NP['DT', 'NNP', 'NNS']
+ <= 0.016\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]"] ;
+906 -> 907 ;
+908 [label="
+VP['RB', 'VBZ']
+ 
+VP['VB']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+907 -> 908 ;
+909 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+908 -> 909 ;
+910 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+908 -> 910 ;
+911 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+907 -> 911 ;
+912 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]"] ;
+906 -> 912 ;
+913 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+905 -> 913 ;
+914 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+904 -> 914 ;
+915 [label="
+NP['NN']
+ 
+NP['DT', 'JJ', 'PRP']
+ <= 0.016\ngini = 0.18\nsamples = 10\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 9, 0, 0]"] ;
+903 -> 915 ;
+916 [label="gini = 0.0\nsamples = 9\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]"] ;
+915 -> 916 ;
+917 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+915 -> 917 ;
+918 [label="
+VP['RB', 'VBN']
+ 
+NP['NNP', 'NNP', 'NNP']
+ <= 0.01\ngini = 0.295\nsamples = 24\nvalue = [1, 0, 0, 0, 0, 0, 0, 20, 2, 0, 1, 0]"] ;
+870 -> 918 ;
+919 [label="
+VP['VBG']
+ 
+VP['VBD', 'VBN']
+ <= 0.018\ngini = 0.091\nsamples = 21\nvalue = [1, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0]"] ;
+918 -> 919 ;
+920 [label="gini = 0.0\nsamples = 20\nvalue = [0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0]"] ;
+919 -> 920 ;
+921 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+919 -> 921 ;
+922 [label="
+NP['CD', 'CD', 'NN', 'NN', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0]"] ;
+918 -> 922 ;
+923 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+922 -> 923 ;
+924 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+922 -> 924 ;
+925 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0]"] ;
+869 -> 925 ;
+926 [label="
+NP['CD', 'NNP']
+ <= 0.018\ngini = 0.733\nsamples = 100\nvalue = [1, 0, 1, 0, 2, 2, 1, 6, 36, 31, 19, 1]"] ;
+868 -> 926 ;
+927 [label="
+NP['JJ', 'NN', 'NNS']
+ <= 0.016\ngini = 0.662\nsamples = 54\nvalue = [0, 0, 1, 0, 1, 1, 1, 0, 7, 26, 16, 1]"] ;
+926 -> 927 ;
+928 [label="
+VP['TO', 'VB']
+ 
+VP['VBZ']
+ <= 0.009\ngini = 0.244\nsamples = 22\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 19, 0, 1]"] ;
+927 -> 928 ;
+929 [label="
+NP['NN']
+ 
+NP['PRP$', 'NN']
+ <= 0.018\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1]"] ;
+928 -> 929 ;
+930 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+929 -> 930 ;
+931 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+929 -> 931 ;
+932 [label="gini = 0.0\nsamples = 19\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0]"] ;
+928 -> 932 ;
+933 [label="
+NP['NN']
+ 
+NP['NNP-LOC']
+ <= 0.008\ngini = 0.674\nsamples = 32\nvalue = [0, 0, 1, 0, 1, 1, 1, 0, 5, 7, 16, 0]"] ;
+927 -> 933 ;
+934 [label="
+VP['VBP', 'TO', 'VB', 'VBN']
+ <= 0.004\ngini = 0.714\nsamples = 14\nvalue = [0, 0, 1, 0, 0, 1, 1, 0, 4, 6, 1, 0]"] ;
+933 -> 934 ;
+935 [label="
+NP['RB', 'JJ', 'NN']
+ <= 0.012\ngini = 0.688\nsamples = 8\nvalue = [0, 0, 1, 0, 0, 1, 1, 0, 4, 0, 1, 0]"] ;
+934 -> 935 ;
+936 [label="
+NP['DT', 'JJ', 'NN']
+ 
+ADJP['JJS']
+ <= 0.01\ngini = 0.75\nsamples = 4\nvalue = [0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0]"] ;
+935 -> 936 ;
+937 [label="
+NP['DT', 'NN']
+ 
+NP['DT', 'JJ', 'NNS']
+ <= 0.005\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]"] ;
+936 -> 937 ;
+938 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+937 -> 938 ;
+939 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+937 -> 939 ;
+940 [label="
+NP['DT', 'PRP']
+ <= 0.005\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+936 -> 940 ;
+941 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+940 -> 941 ;
+942 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+940 -> 942 ;
+943 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0]"] ;
+935 -> 943 ;
+944 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0]"] ;
+934 -> 944 ;
+945 [label="
+ADVP['RB']
+ 
+NP['DT', 'JJ', 'NNS']
+ <= 0.015\ngini = 0.296\nsamples = 18\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 15, 0]"] ;
+933 -> 945 ;
+946 [label="gini = 0.0\nsamples = 15\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0]"] ;
+945 -> 946 ;
+947 [label="
+NP['DT', 'CD', 'NNS']
+ 
+NP['NNS']
+ <= 0.011\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0]"] ;
+945 -> 947 ;
+948 [label="
+ADJP['RB', 'JJ', 'JJ']
+ 
+ADVP['RB']
+ <= 0.011\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]"] ;
+947 -> 948 ;
+949 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+948 -> 949 ;
+950 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+948 -> 950 ;
+951 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+947 -> 951 ;
+952 [label="
+NP['NNP', 'JJ', 'NN']
+ <= 0.009\ngini = 0.568\nsamples = 46\nvalue = [1, 0, 0, 0, 1, 1, 0, 6, 29, 5, 3, 0]"] ;
+926 -> 952 ;
+953 [label="
+ADVP['RB']
+ 
+NP['DT', 'NNPS']
+ <= 0.014\ngini = 0.796\nsamples = 17\nvalue = [1, 0, 0, 0, 0, 1, 0, 4, 4, 4, 3, 0]"] ;
+952 -> 953 ;
+954 [label="
+NP['JJ', 'NN']
+ 
+PP['IN', 'IN']
+ <= 0.013\ngini = 0.746\nsamples = 13\nvalue = [1, 0, 0, 0, 0, 1, 0, 4, 0, 4, 3, 0]"] ;
+953 -> 954 ;
+955 [label="
+VP['VBD']
+ 
+VP['VBD', 'VBN']
+ <= 0.015\ngini = 0.667\nsamples = 9\nvalue = [1, 0, 0, 0, 0, 1, 0, 0, 0, 4, 3, 0]"] ;
+954 -> 955 ;
+956 [label="
+ADVP['RB']
+ 
+ADJP['JJ']
+ <= 0.016\ngini = 0.56\nsamples = 5\nvalue = [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 0]"] ;
+955 -> 956 ;
+957 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]"] ;
+956 -> 957 ;
+958 [label="
+NP['DT', 'NN']
+ 
+NP['NNP', 'CC', 'NNP', 'NNP', 'NNP']
+ <= 0.022\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+956 -> 958 ;
+959 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+958 -> 959 ;
+960 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+958 -> 960 ;
+961 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]"] ;
+955 -> 961 ;
+962 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0]"] ;
+954 -> 962 ;
+963 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0]"] ;
+953 -> 963 ;
+964 [label="
+VP['MD', 'VB', 'VBN']
+ 
+NP['DT', 'NN']
+ <= 0.016\ngini = 0.25\nsamples = 29\nvalue = [0, 0, 0, 0, 1, 0, 0, 2, 25, 1, 0, 0]"] ;
+952 -> 964 ;
+965 [label="
+NP['JJ', 'NNP', 'NN']
+ 
+VP['VBD', 'VBN']
+ <= 0.01\ngini = 0.074\nsamples = 26\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 25, 1, 0, 0]"] ;
+964 -> 965 ;
+966 [label="gini = 0.0\nsamples = 25\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 0, 0]"] ;
+965 -> 966 ;
+967 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+965 -> 967 ;
+968 [label="
+VP['VBP', 'TO', 'VB']
+ <= 0.017\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0]"] ;
+964 -> 968 ;
+969 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]"] ;
+968 -> 969 ;
+970 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+968 -> 970 ;
+971 [label="
+NP['NN', 'JJ', 'NN']
+ <= 0.025\ngini = 0.829\nsamples = 129\nvalue = [2, 11, 18, 11, 13, 23, 39, 7, 3, 0, 2, 0]"] ;
+827 -> 971 ;
+972 [label="
+NP['NNP']
+ 
+NP['CD', 'NN']
+ <= 0.01\ngini = 0.817\nsamples = 119\nvalue = [2, 11, 8, 11, 13, 23, 39, 7, 3, 0, 2, 0]"] ;
+971 -> 972 ;
+973 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ 
+NP['NNP', 'NNP', 'NNP', 'NNP']
+ <= 0.008\ngini = 0.852\nsamples = 63\nvalue = [2, 8, 8, 10, 11, 13, 8, 1, 1, 0, 1, 0]"] ;
+972 -> 973 ;
+974 [label="
+NP['CD', 'NN', 'NN']
+ <= 0.021\ngini = 0.841\nsamples = 53\nvalue = [2, 8, 8, 2, 10, 12, 8, 1, 1, 0, 1, 0]"] ;
+973 -> 974 ;
+975 [label="
+NP['WDT', 'PRP']
+ <= 0.02\ngini = 0.826\nsamples = 45\nvalue = [1, 8, 8, 2, 3, 12, 8, 1, 1, 0, 1, 0]"] ;
+974 -> 975 ;
+976 [label="
+NP['CD', 'NN', 'NNS']
+ <= 0.009\ngini = 0.787\nsamples = 34\nvalue = [1, 0, 7, 2, 2, 11, 8, 1, 1, 0, 1, 0]"] ;
+975 -> 976 ;
+977 [label="
+VP['MD', 'VB']
+ 
+NP['DT', 'NNS']
+ <= 0.008\ngini = 0.758\nsamples = 16\nvalue = [1, 0, 7, 2, 1, 0, 2, 1, 1, 0, 1, 0]"] ;
+976 -> 977 ;
+978 [label="
+PP['IN']
+ 
+NP['NN', 'NNS']
+ <= 0.019\ngini = 0.84\nsamples = 9\nvalue = [1, 0, 0, 2, 1, 0, 2, 1, 1, 0, 1, 0]"] ;
+977 -> 978 ;
+979 [label="
+PP['IN']
+ 
+NP['NN', 'NNP']
+ <= 0.014\ngini = 0.816\nsamples = 7\nvalue = [1, 0, 0, 2, 1, 0, 0, 1, 1, 0, 1, 0]"] ;
+978 -> 979 ;
+980 [label="
+NP['NNP', 'NNP', 'NN', 'NNP']
+ <= 0.005\ngini = 0.8\nsamples = 5\nvalue = [1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0]"] ;
+979 -> 980 ;
+981 [label="
+NP['PRP', 'NNS']
+ 
+NP['DT', 'NNS']
+ <= 0.016\ngini = 0.75\nsamples = 4\nvalue = [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0]"] ;
+980 -> 981 ;
+982 [label="
+VP['VBZ', 'VBG']
+ 
+PP['IN']
+ <= 0.008\ngini = 0.667\nsamples = 3\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]"] ;
+981 -> 982 ;
+983 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+982 -> 983 ;
+984 [label="
+NP['NNP', 'CD', 'CD', 'NN', 'NNP', 'NNP']
+ <= 0.013\ngini = 0.5\nsamples = 2\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+982 -> 984 ;
+985 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+984 -> 985 ;
+986 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+984 -> 986 ;
+987 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+981 -> 987 ;
+988 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+980 -> 988 ;
+989 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+979 -> 989 ;
+990 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+978 -> 990 ;
+991 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+977 -> 991 ;
+992 [label="
+PP['IN']
+ 
+NP['DT', 'NNP', 'NNP', 'NNP']
+ <= 0.016\ngini = 0.512\nsamples = 18\nvalue = [0, 0, 0, 0, 1, 11, 6, 0, 0, 0, 0, 0]"] ;
+976 -> 992 ;
+993 [label="
+NP['WDT', 'NN']
+ 
+ADJP['RB', 'JJ']
+ <= 0.016\ngini = 0.165\nsamples = 11\nvalue = [0, 0, 0, 0, 1, 10, 0, 0, 0, 0, 0, 0]"] ;
+992 -> 993 ;
+994 [label="gini = 0.0\nsamples = 10\nvalue = [0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]"] ;
+993 -> 994 ;
+995 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+993 -> 995 ;
+996 [label="
+NP['JJ', 'JJ', 'NN']
+ 
+NP['JJ', 'NN']
+ <= 0.012\ngini = 0.245\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 1, 6, 0, 0, 0, 0, 0]"] ;
+992 -> 996 ;
+997 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0]"] ;
+996 -> 997 ;
+998 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+996 -> 998 ;
+999 [label="
+PP['IN']
+ 
+NP['NN', 'NN', 'NNP', 'NNP']
+ <= 0.012\ngini = 0.446\nsamples = 11\nvalue = [0, 8, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+975 -> 999 ;
+1000 [label="gini = 0.0\nsamples = 8\nvalue = [0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+999 -> 1000 ;
+1001 [label="
+NP['PRP', 'NNP']
+ <= 0.008\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+999 -> 1001 ;
+1002 [label="
+NP['JJ', 'NNP', 'NN']
+ 
+PP['IN']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1001 -> 1002 ;
+1003 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1002 -> 1003 ;
+1004 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1002 -> 1004 ;
+1005 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+1001 -> 1005 ;
+1006 [label="
+VP['RB', 'MD', 'VB']
+ 
+VP['VBD']
+ <= 0.026\ngini = 0.219\nsamples = 8\nvalue = [1, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]"] ;
+974 -> 1006 ;
+1007 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]"] ;
+1006 -> 1007 ;
+1008 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1006 -> 1008 ;
+1009 [label="
+NP['NNP', 'NNP', 'CC', 'NNP', 'NNP']
+ 
+PP['IN']
+ <= 0.02\ngini = 0.34\nsamples = 10\nvalue = [0, 0, 0, 8, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+973 -> 1009 ;
+1010 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1009 -> 1010 ;
+1011 [label="
+NP['PRP', 'NNP']
+ <= 0.006\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"] ;
+1009 -> 1011 ;
+1012 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1011 -> 1012 ;
+1013 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"] ;
+1011 -> 1013 ;
+1014 [label="
+NP['DT', 'JJR', 'NNS']
+ <= 0.011\ngini = 0.644\nsamples = 56\nvalue = [0, 3, 0, 1, 2, 10, 31, 6, 2, 0, 1, 0]"] ;
+972 -> 1014 ;
+1015 [label="
+NP['DT', 'NN']
+ 
+VP['RB', 'VBD']
+ <= 0.014\ngini = 0.515\nsamples = 47\nvalue = [0, 0, 0, 1, 0, 10, 31, 2, 2, 0, 1, 0]"] ;
+1014 -> 1015 ;
+1016 [label="
+VP['VBZ']
+ 
+NP['PRP$', 'JJ', 'NN']
+ <= 0.006\ngini = 0.384\nsamples = 36\nvalue = [0, 0, 0, 1, 0, 2, 28, 2, 2, 0, 1, 0]"] ;
+1015 -> 1016 ;
+1017 [label="
+NP['DT', 'JJ', 'NNS']
+ 
+NP['DT', 'NN']
+ <= 0.021\ngini = 0.181\nsamples = 31\nvalue = [0, 0, 0, 0, 0, 1, 28, 1, 1, 0, 0, 0]"] ;
+1016 -> 1017 ;
+1018 [label="
+NP['NN', 'NN', 'NN', 'NN', 'NN']
+ 
+NP['NNS']
+ <= 0.02\ngini = 0.067\nsamples = 29\nvalue = [0, 0, 0, 0, 0, 0, 28, 0, 1, 0, 0, 0]"] ;
+1017 -> 1018 ;
+1019 [label="gini = 0.0\nsamples = 28\nvalue = [0, 0, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0]"] ;
+1018 -> 1019 ;
+1020 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1018 -> 1020 ;
+1021 [label="
+NP['PRP']
+ 
+NP['DT', 'NNS']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+1017 -> 1021 ;
+1022 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1021 -> 1022 ;
+1023 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1021 -> 1023 ;
+1024 [label="
+ADVP['RB']
+ 
+NP['JJ', 'NNP', 'NNP']
+ <= 0.009\ngini = 0.8\nsamples = 5\nvalue = [0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0]"] ;
+1016 -> 1024 ;
+1025 [label="
+NP['JJ', 'NN']
+ 
+NP['DT', 'NNP', 'NNP', 'NNP', 'NNS']
+ <= 0.014\ngini = 0.75\nsamples = 4\nvalue = [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0]"] ;
+1024 -> 1025 ;
+1026 [label="
+NP['CD', 'NNP', 'NNP', 'NNP']
+ <= 0.009\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+1025 -> 1026 ;
+1027 [label="
+NP['DT', 'NNS']
+ 
+ADJP['JJ']
+ <= 0.012\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1026 -> 1027 ;
+1028 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1027 -> 1028 ;
+1029 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1027 -> 1029 ;
+1030 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1026 -> 1030 ;
+1031 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+1025 -> 1031 ;
+1032 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1024 -> 1032 ;
+1033 [label="
+NP['NNP']
+ 
+NP['CD', 'JJ', 'NNS']
+ <= 0.011\ngini = 0.397\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 8, 3, 0, 0, 0, 0, 0]"] ;
+1015 -> 1033 ;
+1034 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0]"] ;
+1033 -> 1034 ;
+1035 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]"] ;
+1033 -> 1035 ;
+1036 [label="
+NP['NNP', 'NNP', 'NNP', 'NNP', 'NN']
+ <= 0.006\ngini = 0.642\nsamples = 9\nvalue = [0, 3, 0, 0, 2, 0, 0, 4, 0, 0, 0, 0]"] ;
+1014 -> 1036 ;
+1037 [label="
+VP['VBZ', 'RB', 'VBN']
+ 
+PP['IN']
+ <= 0.007\ngini = 0.48\nsamples = 5\nvalue = [0, 3, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+1036 -> 1037 ;
+1038 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1037 -> 1038 ;
+1039 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]"] ;
+1037 -> 1039 ;
+1040 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0]"] ;
+1036 -> 1040 ;
+1041 [label="gini = 0.0\nsamples = 10\nvalue = [0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+971 -> 1041 ;
+1042 [label="
+NP['NNP', 'NNP', 'CC', 'NNP', 'NNP']
+ <= 0.014\ngini = 0.751\nsamples = 250\nvalue = [0, 0, 0, 0, 3, 1, 10, 7, 63, 53, 90, 23]"] ;
+826 -> 1042 ;
+1043 [label="
+NP['NNP']
+ 
+NP['CD', 'NN']
+ <= 0.017\ngini = 0.693\nsamples = 187\nvalue = [0, 0, 0, 0, 0, 1, 2, 2, 29, 47, 85, 21]"] ;
+1042 -> 1043 ;
+1044 [label="
+NP['NNS', 'DT', 'NNP']
+ <= 0.017\ngini = 0.61\nsamples = 130\nvalue = [0, 0, 0, 0, 0, 1, 0, 2, 21, 11, 75, 20]"] ;
+1043 -> 1044 ;
+1045 [label="
+NP['DT', 'CD', 'NN', 'NN']
+ <= 0.011\ngini = 0.559\nsamples = 119\nvalue = [0, 0, 0, 0, 0, 1, 0, 2, 20, 11, 75, 10]"] ;
+1044 -> 1045 ;
+1046 [label="
+VP['VBG']
+ 
+VP['TO', 'VB']
+ <= 0.009\ngini = 0.423\nsamples = 87\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 5, 6, 65, 9]"] ;
+1045 -> 1046 ;
+1047 [label="
+NP['DT', 'JJ', 'NN']
+ 
+VP['VBP', 'RB', 'VB']
+ <= 0.007\ngini = 0.792\nsamples = 12\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 2, 4, 2, 2]"] ;
+1046 -> 1047 ;
+1048 [label="
+VP['VBP']
+ 
+VP['VBZ', 'VBG']
+ <= 0.007\ngini = 0.781\nsamples = 8\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 2, 2]"] ;
+1047 -> 1048 ;
+1049 [label="
+NP['JJ', 'CC', 'JJ', 'NN']
+ <= 0.005\ngini = 0.722\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 0, 2]"] ;
+1048 -> 1049 ;
+1050 [label="
+NP['DT', 'NN']
+ 
+NP['NN', 'NNS']
+ <= 0.005\ngini = 0.625\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 0, 0]"] ;
+1049 -> 1050 ;
+1051 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['NNP', 'NNP']
+ <= 0.009\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]"] ;
+1050 -> 1051 ;
+1052 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1051 -> 1052 ;
+1053 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"] ;
+1051 -> 1053 ;
+1054 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+1050 -> 1054 ;
+1055 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]"] ;
+1049 -> 1055 ;
+1056 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]"] ;
+1048 -> 1056 ;
+1057 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]"] ;
+1047 -> 1057 ;
+1058 [label="
+VP['VBP', 'VBN']
+ 
+ADVP['RB']
+ <= 0.017\ngini = 0.283\nsamples = 75\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 3, 2, 63, 7]"] ;
+1046 -> 1058 ;
+1059 [label="
+NP['DT', 'NNS']
+ 
+NP['DT', 'CD', 'NNS']
+ <= 0.015\ngini = 0.186\nsamples = 70\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 63, 3]"] ;
+1058 -> 1059 ;
+1060 [label="
+VP['VBD', 'RP']
+ 
+VP['VB']
+ <= 0.032\ngini = 0.088\nsamples = 66\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 63, 0]"] ;
+1059 -> 1060 ;
+1061 [label="
+NP['NNS', 'CC', 'NN']
+ 
+NP['JJ', 'NNS']
+ <= 0.009\ngini = 0.031\nsamples = 64\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 63, 0]"] ;
+1060 -> 1061 ;
+1062 [label="gini = 0.0\nsamples = 63\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63, 0]"] ;
+1061 -> 1062 ;
+1063 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+1061 -> 1063 ;
+1064 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+1060 -> 1064 ;
+1065 [label="
+VP['TO', 'VB']
+ 
+VP['TO', 'VB']
+ <= 0.009\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3]"] ;
+1059 -> 1065 ;
+1066 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1065 -> 1066 ;
+1067 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]"] ;
+1065 -> 1067 ;
+1068 [label="
+NP['CD', 'NNS']
+ 
+VP['VBP']
+ <= 0.005\ngini = 0.32\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4]"] ;
+1058 -> 1068 ;
+1069 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]"] ;
+1068 -> 1069 ;
+1070 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+1068 -> 1070 ;
+1071 [label="
+NP['DT', 'NN', 'NNS', 'NN']
+ <= 0.01\ngini = 0.656\nsamples = 32\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 15, 5, 10, 1]"] ;
+1045 -> 1071 ;
+1072 [label="
+NP['DT', 'NNS']
+ 
+VP['VBD']
+ <= 0.014\ngini = 0.571\nsamples = 23\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 14, 5, 2, 1]"] ;
+1071 -> 1072 ;
+1073 [label="
+NP['JJ', 'NNS']
+ 
+VP['VBG']
+ <= 0.003\ngini = 0.227\nsamples = 16\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 14, 1, 0, 0]"] ;
+1072 -> 1073 ;
+1074 [label="
+NP['DT', 'DT', 'NNS']
+ 
+NP['PRP']
+ <= 0.01\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]"] ;
+1073 -> 1074 ;
+1075 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1074 -> 1075 ;
+1076 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+1074 -> 1076 ;
+1077 [label="gini = 0.0\nsamples = 14\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0]"] ;
+1073 -> 1077 ;
+1078 [label="
+NP['NNP']
+ 
+NP['JJ', 'NN']
+ <= 0.013\ngini = 0.571\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 1]"] ;
+1072 -> 1078 ;
+1079 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]"] ;
+1078 -> 1079 ;
+1080 [label="
+ADJP['RB', 'JJS']
+ <= 0.008\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1]"] ;
+1078 -> 1080 ;
+1081 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]"] ;
+1080 -> 1081 ;
+1082 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+1080 -> 1082 ;
+1083 [label="
+NP['NN', 'NNS']
+ 
+VP['VBZ']
+ <= 0.008\ngini = 0.198\nsamples = 9\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 8, 0]"] ;
+1071 -> 1083 ;
+1084 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1083 -> 1084 ;
+1085 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0]"] ;
+1083 -> 1085 ;
+1086 [label="
+NP['DT', 'NN']
+ 
+NP['NN', 'CC', 'JJ', 'NNS']
+ <= 0.007\ngini = 0.165\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 10]"] ;
+1044 -> 1086 ;
+1087 [label="gini = 0.0\nsamples = 10\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]"] ;
+1086 -> 1087 ;
+1088 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1086 -> 1088 ;
+1089 [label="
+NP['PRP']
+ 
+VP['VB']
+ <= 0.012\ngini = 0.549\nsamples = 57\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 8, 36, 10, 1]"] ;
+1043 -> 1089 ;
+1090 [label="
+PP['IN']
+ 
+VP['VB', 'VBN']
+ <= 0.008\ngini = 0.739\nsamples = 21\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 6, 5, 7, 1]"] ;
+1089 -> 1090 ;
+1091 [label="
+VP['VBN']
+ 
+NP['NN', 'NNS']
+ <= 0.011\ngini = 0.649\nsamples = 15\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 5, 7, 1]"] ;
+1090 -> 1091 ;
+1092 [label="
+VP['VBZ', 'VBD']
+ <= 0.003\ngini = 0.46\nsamples = 10\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 7, 1]"] ;
+1091 -> 1092 ;
+1093 [label="
+NP['DT', 'JJ', 'NN']
+ 
+NP['JJR', 'NN']
+ <= 0.011\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1]"] ;
+1092 -> 1093 ;
+1094 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]"] ;
+1093 -> 1094 ;
+1095 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+1093 -> 1095 ;
+1096 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]"] ;
+1092 -> 1096 ;
+1097 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]"] ;
+1091 -> 1097 ;
+1098 [label="gini = 0.0\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0]"] ;
+1090 -> 1098 ;
+1099 [label="
+PP['IN']
+ 
+NP['JJS', 'NNS']
+ <= 0.013\ngini = 0.248\nsamples = 36\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 31, 3, 0]"] ;
+1089 -> 1099 ;
+1100 [label="
+PP['IN']
+ 
+VP['VBD', 'RB', 'VBD', 'TO', 'VB']
+ <= 0.012\ngini = 0.061\nsamples = 32\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 31, 0, 0]"] ;
+1099 -> 1100 ;
+1101 [label="gini = 0.0\nsamples = 31\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0]"] ;
+1100 -> 1101 ;
+1102 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1100 -> 1102 ;
+1103 [label="
+NP['NN']
+ 
+NP['NN', 'NNS']
+ <= 0.009\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0]"] ;
+1099 -> 1103 ;
+1104 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"] ;
+1103 -> 1104 ;
+1105 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]"] ;
+1103 -> 1105 ;
+1106 [label="
+VP['VB']
+ 
+NP['NNP']
+ <= 0.003\ngini = 0.668\nsamples = 63\nvalue = [0, 0, 0, 0, 3, 0, 8, 5, 34, 6, 5, 2]"] ;
+1042 -> 1106 ;
+1107 [label="
+NP['NN']
+ 
+NP['PRP$', 'NN', 'NN']
+ <= 0.005\ngini = 0.583\nsamples = 12\nvalue = [0, 0, 0, 0, 3, 0, 7, 0, 0, 1, 0, 1]"] ;
+1106 -> 1107 ;
+1108 [label="gini = 0.0\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0]"] ;
+1107 -> 1108 ;
+1109 [label="
+NP['DT', 'NN']
+ 
+NP['NNS', 'PRP']
+ <= 0.006\ngini = 0.56\nsamples = 5\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 0, 1]"] ;
+1107 -> 1109 ;
+1110 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]"] ;
+1109 -> 1110 ;
+1111 [label="
+VP['RB', 'VBD']
+ 
+ADJP['JJS']
+ <= 0.011\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]"] ;
+1109 -> 1111 ;
+1112 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+1111 -> 1112 ;
+1113 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+1111 -> 1113 ;
+1114 [label="
+NP['NNP', 'CC', 'NNP', 'NNP']
+ <= 0.007\ngini = 0.526\nsamples = 51\nvalue = [0, 0, 0, 0, 0, 0, 1, 5, 34, 5, 5, 1]"] ;
+1106 -> 1114 ;
+1115 [label="
+NP['DT', 'NN']
+ 
+NP['JJR', 'NN']
+ <= 0.006\ngini = 0.571\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 1]"] ;
+1114 -> 1115 ;
+1116 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]"] ;
+1115 -> 1116 ;
+1117 [label="
+VP['VBZ']
+ 
+NP['JJ', ',', 'JJ', 'NN', 'NN']
+ <= 0.017\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1]"] ;
+1115 -> 1117 ;
+1118 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0]"] ;
+1117 -> 1118 ;
+1119 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"] ;
+1117 -> 1119 ;
+1120 [label="
+NP['RB', 'JJ', 'NN']
+ <= 0.008\ngini = 0.384\nsamples = 44\nvalue = [0, 0, 0, 0, 0, 0, 1, 5, 34, 3, 1, 0]"] ;
+1114 -> 1120 ;
+1121 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0]"] ;
+1120 -> 1121 ;
+1122 [label="
+VP['VBD', 'TO', 'VB']
+ 
+VP['MD', 'VB']
+ <= 0.016\ngini = 0.27\nsamples = 40\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 34, 3, 1, 0]"] ;
+1120 -> 1122 ;
+1123 [label="
+VP['VBD']
+ 
+NP['JJ', 'NNP']
+ <= 0.017\ngini = 0.153\nsamples = 37\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 34, 0, 1, 0]"] ;
+1122 -> 1123 ;
+1124 [label="gini = 0.0\nsamples = 34\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 0, 0]"] ;
+1123 -> 1124 ;
+1125 [label="
+NP['NN', 'CC', 'NN', 'NN']
+ 
+NP['PRP']
+ <= 0.011\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0]"] ;
+1123 -> 1125 ;
+1126 [label="
+NP['DT', 'NN', 'NN']
+ 
+ADJP['JJ', 'CC', 'JJ']
+ <= 0.02\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]"] ;
+1125 -> 1126 ;
+1127 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+1126 -> 1127 ;
+1128 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+1126 -> 1128 ;
+1129 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1125 -> 1129 ;
+1130 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]"] ;
+1122 -> 1130 ;
+1131 [label="
+PP['IN']
+ 
+NP['DT', 'NNP', 'NNP']
+ <= 0.016\ngini = 0.404\nsamples = 107\nvalue = [0, 0, 0, 0, 0, 0, 0, 8, 13, 81, 5, 0]"] ;
+825 -> 1131 ;
+1132 [label="
+NP['DT', 'NNP', 'NNPS']
+ <= 0.02\ngini = 0.35\nsamples = 102\nvalue = [0, 0, 0, 0, 0, 0, 0, 3, 13, 81, 5, 0]"] ;
+1131 -> 1132 ;
+1133 [label="
+NP['DT', 'NN']
+ 
+NP['DT', 'NNP']
+ <= 0.015\ngini = 0.278\nsamples = 96\nvalue = [0, 0, 0, 0, 0, 0, 0, 2, 8, 81, 5, 0]"] ;
+1132 -> 1133 ;
+1134 [label="
+VP['VBG']
+ 
+NP['CD', 'NNP', 'NNP']
+ <= 0.018\ngini = 0.155\nsamples = 85\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 4, 78, 2, 0]"] ;
+1133 -> 1134 ;
+1135 [label="
+NP['NN', 'NNS']
+ 
+NP['DT', 'JJ', 'NN']
+ <= 0.018\ngini = 0.094\nsamples = 82\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 2, 78, 1, 0]"] ;
+1134 -> 1135 ;
+1136 [label="
+NP['PRP$', 'JJ', 'NNP']
+ 
+NP['DT', 'NN']
+ <= 0.02\ngini = 0.049\nsamples = 80\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 78, 1, 0]"] ;
+1135 -> 1136 ;
+1137 [label="gini = 0.0\nsamples = 78\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 78, 0, 0]"] ;
+1136 -> 1137 ;
+1138 [label="
+NP['JJ', 'NN', 'NN']
+ 
+NP['DT', 'NNS']
+ <= 0.015\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]"] ;
+1136 -> 1138 ;
+1139 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+1138 -> 1139 ;
+1140 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1138 -> 1140 ;
+1141 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+1135 -> 1141 ;
+1142 [label="
+NP['PRP$', 'NN']
+ 
+NP['PRP$', 'NN']
+ <= 0.008\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0]"] ;
+1134 -> 1142 ;
+1143 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]"] ;
+1142 -> 1143 ;
+1144 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+1142 -> 1144 ;
+1145 [label="
+NP['NNS']
+ 
+VP['VBZ', 'VBN']
+ <= 0.01\ngini = 0.711\nsamples = 11\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 4, 3, 3, 0]"] ;
+1133 -> 1145 ;
+1146 [label="
+VP['VBP', 'VB']
+ <= 0.008\ngini = 0.612\nsamples = 7\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 3, 0]"] ;
+1145 -> 1146 ;
+1147 [label="
+NP['PRP$', 'NN']
+ 
+NP['JJ', 'NN', 'NNS']
+ <= 0.011\ngini = 0.375\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 0]"] ;
+1146 -> 1147 ;
+1148 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]"] ;
+1147 -> 1148 ;
+1149 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1147 -> 1149 ;
+1150 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]"] ;
+1146 -> 1150 ;
+1151 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0]"] ;
+1145 -> 1151 ;
+1152 [label="
+VP['TO', 'VB']
+ 
+NP['JJ', 'PRP']
+ <= 0.013\ngini = 0.278\nsamples = 6\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0]"] ;
+1132 -> 1152 ;
+1153 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]"] ;
+1152 -> 1153 ;
+1154 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"] ;
+1152 -> 1154 ;
+1155 [label="gini = 0.0\nsamples = 5\nvalue = [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]"] ;
+1131 -> 1155 ;
+1156 [label="
+NP['CD', 'NNP']
+ <= 0.02\ngini = 0.077\nsamples = 127\nvalue = [0, 2, 0, 0, 0, 0, 1, 0, 0, 1, 1, 122]"] ;
+0 -> 1156 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+1157 [label="
+NP['JJ', 'NNS']
+ 
+VP['VBZ', 'RB', 'VBD']
+ <= 0.026\ngini = 0.016\nsamples = 123\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 122]"] ;
+1156 -> 1157 ;
+1158 [label="gini = 0.0\nsamples = 122\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 122]"] ;
+1157 -> 1158 ;
+1159 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"] ;
+1157 -> 1159 ;
+1160 [label="
+ADJP['JJ']
+ 
+NP['NNP']
+ <= 0.014\ngini = 0.625\nsamples = 4\nvalue = [0, 2, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]"] ;
+1156 -> 1160 ;
+1161 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"] ;
+1160 -> 1161 ;
+1162 [label="
+NP['CD', 'CD', 'CD', 'NN', 'NN']
+ <= 0.029\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]"] ;
+1160 -> 1162 ;
+1163 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"] ;
+1162 -> 1163 ;
+1164 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"] ;
+1162 -> 1164 ;
+}

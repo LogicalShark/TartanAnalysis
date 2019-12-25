@@ -4,9 +4,3 @@ decades_raw/
 decades_modified/
 years/
 syntax/
-classifier
-features
-tfidf
-tree.dot
-out.txt
-total.txt
